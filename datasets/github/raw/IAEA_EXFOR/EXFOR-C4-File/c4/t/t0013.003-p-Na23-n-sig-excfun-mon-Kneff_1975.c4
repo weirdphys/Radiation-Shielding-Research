@@ -1,0 +1,32 @@
+#ENTRY      T0013
+#AUTHOR1    D.W.Kneff+
+#YEAR       1975
+#INSTITUTE  (1USACAL)
+#TITLE      The 100Mo(p,n)100Tc reaction cross section and its
+#+          use as a normalization for shuttle-system measurements
+#AUTHOR(S)  D.W.Kneff, F.M.Mann, Z.E.Switkowski
+#REF-CODE   (J,NP/A,250,285,1975)
+#REFERENCE  Nucl.Phys.A 250 (1975) 285 (doi:10.1016/0375-9474(75)90259-6)
+#DATASETS   0
+#
+#DATASET    T0013003 
+#DATE       20220418
+#REACTION   11-NA-23(P,N)12-MG-23,,SIG
+#PROJ       1001
+#TARG       11023
+#MF         3
+#MT         4
+#PRODUCT    12-MG-23
+#C4BEGIN    [ 1001 11023   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 11023   3   4    5455734.          0.034870 5.0780-3                                       D.W.Kneff+           (75)T0013  3 
+ 1001 11023   3   4    5964208.          0.084460 8.7130-3                                       D.W.Kneff+           (75)T0013  3 
+ 1001 11023   3   4    6487310.          0.134000 0.013820                                       D.W.Kneff+           (75)T0013  3 
+ 1001 11023   3   4    7026087.          0.124800 0.014220                                       D.W.Kneff+           (75)T0013  3 
+ 1001 11023   3   4    7564875.          0.125000 0.015570                                       D.W.Kneff+           (75)T0013  3 
+ 1001 11023   3   4    8075483.          0.116400 0.014510                                       D.W.Kneff+           (75)T0013  3 
+ 1001 11023   3   4    8599677.          0.131600 0.020490                                       D.W.Kneff+           (75)T0013  3 
+#/DATA      7
+#/DATASET

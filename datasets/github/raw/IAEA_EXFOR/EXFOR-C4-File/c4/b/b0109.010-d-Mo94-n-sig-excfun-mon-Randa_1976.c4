@@ -1,0 +1,27 @@
+#ENTRY      B0109
+#AUTHOR1    Z.Randa+
+#YEAR       1976
+#INSTITUTE  (3CZRCZR)
+#TITLE      Excitation functions and yields of (d,n) and (d,2n)
+#+          reactions on natural molybdenum
+#AUTHOR(S)  Z.Randa, K.Svoboda
+#REF-CODE   (J,JIN,38,2289,1976)
+#REFERENCE  J.Inorg.Nucl.Chem. 38 (1976) 2289 (doi:10.1016/0022-1902(76)80213-8)
+#DATASETS   0
+#
+#DATASET    B0109010 
+#DATE       20180516
+#REACTION   42-MO-94(D,N)43-TC-95-M,,SIG
+#PROJ       1002
+#TARG       42094
+#MF         3
+#MT         4
+#PRODUCT    43-TC-95-M
+#C4BEGIN    [ 1002 42094   3   4MD]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 42094   3   4MD  4900000.          0.018800                                                Z.Randa+             (76)B0109 10 
+ 1002 42094   3   4MD  3400000.          9.6000-4                                                Z.Randa+             (76)B0109 10 
+#/DATA      2
+#/DATASET

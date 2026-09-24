@@ -1,0 +1,15 @@
+{
+  "execution_complete": true,
+  "completion_semantics": "execution_complete means every expected dataset\u00d7cell received a ledger outcome and saved result files passed QA; it does not mean every applicable method produced a valid scientific result",
+  "expected_dataset_cell_outcomes": 189,
+  "ledger_rows": 189,
+  "missing_before_final_QA": [],
+  "execution_status_counts": {
+    "conditional_fail": 112,
+    "valid": 64,
+    "skipped_dependency": 11,
+    "not_applicable": 2
+  },
+  "feature_rows": 390,
+  "result_file_QA_problems": 0
+}

@@ -1,0 +1,43 @@
+#ENTRY      M0844
+#AUTHOR1    P.Axel+
+#YEAR       1966
+#INSTITUTE  (2FR SAC)
+#TITLE      Etude de la deformation du noyau d'Holmium.
+#AUTHOR(S)  P.Axel, J.Miller, C.Schuhl.G.Tamas, C.Tzara
+#REF-CODE   (J,JPR,27,262,1966)
+#REFERENCE  J.Phys.(Paris) 27 (1966) 262 (doi:10.1051/jphys:01966002705-6026200)
+#DATASETS   0
+#
+#DATASET    M0844006 
+#DATE       20120423
+#REACTION   67-HO-165(G,EL)67-HO-165,,DA
+#PROJ       0
+#TARG       67165
+#MF         4
+#MT         2
+#PRODUCT    67-HO-165
+#C4BEGIN    [    0 67165   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 67165   4   2    1.2440+7          2.2900-4 1.9000-5 6.123-17                              P.Axel+              (66)M0844  6 
+    0 67165   4   2    1.2440+7          3.1900-4 2.8000-5-0.707107                              P.Axel+              (66)M0844  6 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0844006 
+#DATE       20120423
+#REACTION   67-HO-165(G,EL)67-HO-165,,DA
+#PROJ       0
+#TARG       67165
+#MF         4
+#MT         2
+#PRODUCT    67-HO-165
+#C4BEGIN    [    0 67165   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 67165   4   2    1.6280+7          3.5200-4 2.6000-5 6.123-17                              P.Axel+              (66)M0844  6 
+    0 67165   4   2    1.6280+7          4.3500-4 3.9000-5-0.707107                              P.Axel+              (66)M0844  6 
+#/DATA      2
+#/DATASET

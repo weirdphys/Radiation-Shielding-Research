@@ -1,0 +1,266 @@
+#ENTRY      T0110
+#AUTHOR1    W.Scobel+
+#YEAR       1984
+#INSTITUTE  (1USALRL)
+#TITLE      Single particle effects in precompound reactions
+#AUTHOR(S)  W.Scobel, M.Blann, T.T.Komoto, M.Trabandt, S.M.Grimes, L.F.Hansen, 
+#+          C.Wong, B.A.Pohl
+#REF-CODE   (J,PR/C,30,1480,198411)
+#REFERENCE  Phys.Rev.C 30 (1984) 1480 (doi:10.1103/PhysRevC.30.1480)
+#DATASETS   0
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 3.0100-6 3.7300-7 0.998135          4690000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 2.7200-6 3.9400-7 0.987136          4690000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 3.3400-6 2.7300-7 0.957822          4890000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 3.0700-6 2.5200-7 0.914960          4890000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 1.3000-6 5.9600-7 0.845262          4690000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 9.7300-7 5.8900-7 0.780430          4690000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 2.4600-6 2.4200-7 0.690882          4890000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 1.8000-6 2.9900-7 0.592013          4890000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 4.9500-7 7.4600-7 0.478692          4980000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 2.8800-6 6.2900-7 0.363251          4900000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 1.8600-6 4.6000-7 0.114937          5000000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 1.1600-6 5.7300-7-0.116671          5100000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 2.7300-6 8.4200-7-0.393942          5290000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 1.1100-6 2.0200-7-0.625243          5480000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 1.5300-6 3.0500-7-0.807990          5580000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0110002 
+#DATE       20071109
+#REACTION   24-CR-50(P,N)25-MN-50,,DA/DE
+#PROJ       1001
+#TARG       24050
+#MF         6
+#MT         4
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   6   4 A  2.5000+7 80000.00 1.5000-6 6.0100-7-0.939094          5490000.          E2W.Scobel+            (84)T0110  2 
+#/DATA      1
+#/DATASET

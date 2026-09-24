@@ -1,0 +1,41 @@
+#ENTRY      T0121
+#AUTHOR1    L.F.Hansen+
+#YEAR       1962
+#INSTITUTE  (1USALRL)
+#TITLE      Ta181(p,n)W181 and Au197(p,n)Hg197 Excitation
+#+          Functions Between 4 and 13 MeV
+#AUTHOR(S)  L.F.Hansen, R.C.Jopson, H.Mark, C.D.Swift
+#REF-CODE   (J,NP,30,389,1962)
+#REFERENCE  Nucl.Phys. 30 (1962) 389 (doi:10.1016/0029-5582(62)90062-7)
+#DATASETS   0
+#
+#DATASET    T0121002 
+#DATE       20241025
+#REACTION   73-TA-181(P,N)74-W-181,,SIG
+#PROJ       1001
+#TARG       73181
+#MF         3
+#MT         4
+#PRODUCT    74-W-181
+#C4BEGIN    [ 1001 73181   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73181   3   4 A  4500000.          1.1000-4                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  5000000.          3.3000-4                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  5500000.          1.0000-3                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  6000000.          3.0000-3                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  7000000.          0.016000                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  7500000.          0.030000                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  8000000.          0.049000                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  8500000.          0.076000                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  9000000.          0.097000                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  9500000.          0.105000                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  1.0000+7          0.104000                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  1.0500+7          0.100000                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  1.0600+7          0.096000 0.010000                                       L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  1.1000+7          0.093000                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  1.1500+7          0.086000                                                L.F.Hansen+          (62)T0121  2 
+ 1001 73181   3   4 A  1.2000+7          0.077000                                                L.F.Hansen+          (62)T0121  2 
+#/DATA      16
+#/DATASET

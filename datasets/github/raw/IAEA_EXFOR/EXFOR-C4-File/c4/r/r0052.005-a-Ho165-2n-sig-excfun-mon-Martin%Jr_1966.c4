@@ -1,0 +1,40 @@
+#ENTRY      R0052
+#AUTHOR1    G.C.Martin Jr+
+#YEAR       1966
+#INSTITUTE  (1USANOT)
+#TITLE      Absolute cross sections and excitation functions for
+#+          alpha-particle-induced reactions of 165Ho, 164Er,
+#+          166Er and 167Er
+#AUTHOR(S)  G.C.Martin Jr, R.C.Pilger Jr
+#REF-CODE   (J,NP,89,481,1966)
+#REFERENCE  Nucl.Phys. 89 (1966) 481 (doi:10.1016/0029-5582(66)90925-4)
+#DATASETS   0
+#
+#DATASET    R0052005 
+#DATE       20241120
+#REACTION   67-HO-165(A,2N)69-TM-167,,SIG
+#PROJ       2004
+#TARG       67165
+#MF         3
+#MT         16
+#PRODUCT    69-TM-167
+#C4BEGIN    [ 2004 67165   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 67165   3  16    1.5900+7 200000.0 0.053000 9.0000-3                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    1.9150+7 200000.0 0.175000 0.030000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    2.0450+7 200000.0 0.435000 0.070000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    2.1400+7 200000.0 0.570000 0.090000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    2.2100+7 200000.0 0.485000 0.085000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    2.3100+7 200000.0 0.825000 0.155000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    2.4350+7 200000.0 0.545000 0.100000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    2.6000+7 200000.0 0.430000 0.075000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    2.7350+7 200000.0 0.705000 0.155000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    2.9700+7 200000.0 0.510000 0.100000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    3.0000+7 200000.0 0.350000 0.060000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    3.2850+7 200000.0 0.315000 0.055000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    3.7800+7 200000.0 0.145000 0.025000                                       G.C.Martin Jr        (66)R0052  5 
+ 2004 67165   3  16    4.0100+7 200000.0 0.115000 0.020000                                       G.C.Martin Jr        (66)R0052  5 
+#/DATA      14
+#/DATASET

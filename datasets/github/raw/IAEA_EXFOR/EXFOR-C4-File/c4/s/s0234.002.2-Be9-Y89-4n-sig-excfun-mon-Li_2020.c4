@@ -1,0 +1,32 @@
+#ENTRY      S0234
+#AUTHOR1    G.S.Li+
+#YEAR       2020
+#INSTITUTE  (3CPRIMP)
+#TITLE      Measurement and analysis of the isomeric cross
+#+          section ratios for the 94Tc nucleus
+#AUTHOR(S)  G.S.Li, Y.D.Fang, X.H.Zhou, A.Diaz-Torres, A.Rohilla, M.L.Liu, 
+#+          N.T.Zhang, Y.H.Zhang, J.G.Wang, B.S.Gao, Y.H.Qiang, S.Guo, 
+#+          S.C.Wang, Y.Zheng, J.Lubian, H.O.Soler
+#REF-CODE   (J,PR/C,102,054607,2020)
+#REFERENCE  Phys.Rev.C 102 (2020) 054607 (doi:10.1103/PhysRevC.102.054607)
+#DATASETS   0
+#
+#DATASET    S02340022
+#DATE       20211229
+#REACTION   39-Y-89(4-BE-9,4N)43-TC-94-M,,SIG
+#PROJ       4009
+#TARG       39089
+#MF         3
+#MT         37
+#PRODUCT    43-TC-94-M
+#C4BEGIN    [ 4009 39089   3  37M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 39089   3  37M   5.0100+7          0.018000 3.0000-3                                       G.S.Li+              (20)S0234  22
+ 4009 39089   3  37M   4.9100+7          0.016000 3.0000-3                                       G.S.Li+              (20)S0234  22
+ 4009 39089   3  37M   4.8100+7          0.022000 2.0000-3                                       G.S.Li+              (20)S0234  22
+ 4009 39089   3  37M   4.7000+7          0.024000 2.0000-3                                       G.S.Li+              (20)S0234  22
+ 4009 39089   3  37M   4.5900+7          0.023000 3.0000-3                                       G.S.Li+              (20)S0234  22
+#/DATA      5
+#/DATASET

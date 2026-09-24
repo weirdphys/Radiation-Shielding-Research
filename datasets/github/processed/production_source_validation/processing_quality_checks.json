@@ -1,0 +1,131 @@
+{
+  "all_pass": true,
+  "checks": [
+    {
+      "dataset_id": "PVAL_6MV_TRUEBEAM_40x40_LANDAUER",
+      "check": "row_count>=50",
+      "pass": true,
+      "detail": 70
+    },
+    {
+      "dataset_id": "PVAL_6MV_TRUEBEAM_40x40_LANDAUER",
+      "check": "PDD normalization contains ~100 at dmax",
+      "pass": true,
+      "detail": 1.5
+    },
+    {
+      "dataset_id": "PVAL_6MV_TRUEBEAM_40x40_LANDAUER",
+      "check": "crossplane_rows>=400",
+      "pass": true,
+      "detail": 445
+    },
+    {
+      "dataset_id": "PVAL_10MV_TRUEBEAM_40x40_LANDAUER",
+      "check": "row_count>=50",
+      "pass": true,
+      "detail": 71
+    },
+    {
+      "dataset_id": "PVAL_10MV_TRUEBEAM_40x40_LANDAUER",
+      "check": "PDD normalization contains ~100 at dmax",
+      "pass": true,
+      "detail": 2.4
+    },
+    {
+      "dataset_id": "PVAL_10MV_TRUEBEAM_40x40_LANDAUER",
+      "check": "crossplane_rows>=400",
+      "pass": true,
+      "detail": 445
+    },
+    {
+      "dataset_id": "PVAL_15MV_TRUEBEAM_40x40_LANDAUER",
+      "check": "row_count>=50",
+      "pass": true,
+      "detail": 70
+    },
+    {
+      "dataset_id": "PVAL_15MV_TRUEBEAM_40x40_LANDAUER",
+      "check": "PDD normalization contains ~100 at dmax",
+      "pass": true,
+      "detail": 3.0
+    },
+    {
+      "dataset_id": "PVAL_15MV_TRUEBEAM_40x40_LANDAUER",
+      "check": "crossplane_rows>=400",
+      "pass": true,
+      "detail": 445
+    },
+    {
+      "dataset_id": "PVAL_16MV_CLINAC21IX_40x40_PACYNIAK",
+      "check": "31 integer-depth points 0..30",
+      "pass": true,
+      "detail": 31
+    },
+    {
+      "dataset_id": "PVAL_16MV_CLINAC21IX_40x40_PACYNIAK",
+      "check": "peak near 100%",
+      "pass": true,
+      "detail": 100.849206
+    },
+    {
+      "dataset_id": "PVAL_18MV_ONCOR_40x40_SAWKEY",
+      "check": "PDD10 reproduces reported 78.8% within 0.2 percentage point",
+      "pass": true,
+      "detail": 78.79065846031904
+    },
+    {
+      "dataset_id": "PVAL_18MV_ONCOR_40x40_SAWKEY",
+      "check": "0..40 cm half-cm grid",
+      "pass": true,
+      "detail": 81
+    },
+    {
+      "dataset_id": "NVAL_15MV_TRUEBEAM_STX_MATHEW",
+      "check": "digitized spectrum reconstructs Active NNS (He-3 current-mode) published total within 1%",
+      "pass": true,
+      "detail": 0.9994282257631335
+    },
+    {
+      "dataset_id": "NVAL_15MV_TRUEBEAM_STX_MATHEW",
+      "check": "digitized spectrum reconstructs Passive NNS (gold-foil) published total within 1%",
+      "pass": true,
+      "detail": 0.9943563470816374
+    },
+    {
+      "dataset_id": "NVAL_15MV_TRUEBEAM_STX_MATHEW",
+      "check": "8 moderator configurations captured",
+      "pass": true,
+      "detail": 8
+    },
+    {
+      "dataset_id": "NVAL_15MV_ZAMORANO_THERMAL",
+      "check": "10 experimental thermal-fluence points",
+      "pass": true,
+      "detail": 10
+    },
+    {
+      "dataset_id": "NVAL_15MV_ZAMORANO_THERMAL",
+      "check": "replication PDD includes measured and simulated series",
+      "pass": true,
+      "detail": 381
+    },
+    {
+      "dataset_id": "NVAL_15MV_ZAMORANO_PHITS_SOURCE",
+      "check": "200 spectrum points",
+      "pass": true,
+      "detail": 200
+    },
+    {
+      "dataset_id": "NVAL_15MV_ZAMORANO_PHITS_SOURCE",
+      "check": "raw probability sum close to 1",
+      "pass": true,
+      "detail": 1.00001754538
+    },
+    {
+      "dataset_id": "NVAL_15MV_ZAMORANO_PHITS_SOURCE",
+      "check": "renormalized probability sums to 1",
+      "pass": true,
+      "detail": 1.0
+    }
+  ]
+}

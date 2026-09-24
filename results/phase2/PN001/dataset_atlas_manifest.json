@@ -1,0 +1,27 @@
+{
+  "dataset_id": "PN001",
+  "object_id": "PN001.TRAJ_YIELD",
+  "coordinate_native": "incident_electron_energy_MeV",
+  "coordinate_analysis": "log(incident_electron_energy_MeV/E_ref)",
+  "coordinate_transform": "ln(x / dataset_min_positive_energy)",
+  "coordinate_reference": 20.0,
+  "coordinate_unit": "dimensionless_log_energy",
+  "source_path": "results/phase1/canonical_data/public_benchmarks/PN001_tungsten_photoneutron_yield.csv",
+  "n_curves_loaded": 1,
+  "max_curve_points": 3,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "yield_curve": 1
+  },
+  "registry": {
+    "name": "Published natural-W photoneutron benchmark",
+    "particle": "photonuclear/neutron",
+    "evidence": "PUBLISHED SIMULATION/REFERENCE",
+    "role": "Independent natural-tungsten photoneutron benchmark.",
+    "path": "results/phase1/canonical_data/public_benchmarks/PN001_tungsten_photoneutron_yield.csv",
+    "richness": "RICH_1D",
+    "guardrail": "Published simulation/reference evidence; do not relabel as experiment."
+  },
+  "state_group_shapes": {}
+}

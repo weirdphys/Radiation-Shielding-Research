@@ -1,0 +1,9 @@
+source_model_id,particle,nominal_beam,model_origin_class,declared_validation_level,effective_validation_level,phase1_required_production_source,production_spectrum_loaded_and_hashed,independent_non_tvl_passed_evidence_count,passed_evidence_types,production_approved_for_phase1,step2c_v2_operational_validated,step2c_v2_qualifying_modality,step2c_v2_original_strict_validation_preserved
+JAERI_43MEV_MEASURED,neutron,43-MeV p-7Li,MEASURED_BENCHMARK_SOURCE,SPECTRAL_VALIDATED,SPECTRAL_VALIDATED,False,True,0,,True,False,,True
+JAERI_68MEV_MEASURED,neutron,68-MeV p-7Li,MEASURED_BENCHMARK_SOURCE,SPECTRAL_VALIDATED,SPECTRAL_VALIDATED,False,True,0,,True,False,,True
+PROJECT_3MV_40x40,photon,3 MV,PROJECT_EXTRAPOLATED,UNVALIDATED,UNVALIDATED,False,True,0,,True,False,,True
+PROJECT_6MV_40x40,photon,6 MV,PUBLISHED_SPECTRUM_DERIVED,UNVALIDATED,UNVALIDATED,True,True,0,,False,True,MEASURED_PDD,True
+PROJECT_10MV_40x40,photon,10 MV,PROJECT_SCALED,UNVALIDATED,UNVALIDATED,True,True,0,,False,True,MEASURED_PDD,True
+PROJECT_15MV_40x40,photon,15 MV,PROJECT_INTERPOLATED,UNVALIDATED,UNVALIDATED,True,True,0,,False,True,MEASURED_PDD,True
+PROJECT_16MV_40x40,photon,16 MV,PROJECT_INTERPOLATED,UNVALIDATED,UNVALIDATED,True,True,0,,False,True,MEASURED_SOURCE_SPECTRUM_SHAPE,True
+PROJECT_18MV_40x40,photon,18 MV,PUBLISHED_SPECTRUM_DERIVED,UNVALIDATED,UNVALIDATED,True,True,0,,False,True,MEASURED_PDD,True

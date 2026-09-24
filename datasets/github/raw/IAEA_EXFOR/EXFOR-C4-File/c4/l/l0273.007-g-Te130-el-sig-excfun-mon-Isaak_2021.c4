@@ -1,0 +1,39 @@
+#ENTRY      L0273
+#AUTHOR1    J.Isaak+
+#YEAR       2021
+#INSTITUTE  (2GERTHD)
+#TITLE      Dipole response in 128,130Te below the neutron
+#+          threshold
+#AUTHOR(S)  J.Isaak, D.Savran, B.Loher, T.Beck, U.Friman-Gayer, Krishichayan, 
+#+          N.Pietralla, V.Yu.Ponomarev, M.Scheck, W.Tornow, V.Werner, 
+#+          A.Zilges, M.Zweidinger
+#REF-CODE   (J,PR/C,103,044317,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 044317 (doi:10.1103/PhysRevC.103.044317)
+#DATASETS   0
+#
+#DATASET    L0273007 
+#DATE       20210918
+#REACTION   52-TE-130(G,EL)52-TE-130,,SIG
+#PROJ       0
+#TARG       52130
+#MF         3
+#MT         2
+#PRODUCT    52-TE-130
+#C4BEGIN    [    0 52130   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 52130   3   2    5500000.          9.2000-4 1.3000-4                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    5720000.          3.8000-3 4.0000-4                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    5950000.          3.7000-3 2.7000-4                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    6200000.          5.8000-3 4.0000-4                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    6450000.          8.9000-3 5.0000-4                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    6680000.          0.010800 1.1000-3                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    6930000.          0.010100 6.0000-4                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    7230000.          7.7000-3 6.0000-4                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    7550000.          7.4000-3 1.1000-3                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    7850000.          9.9000-3 1.7000-3                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    8150000.          4.8000-3 1.0000-3                                       J.Isaak+             (21)L0273  7 
+    0 52130   3   2    8500000.          4.7000-4 1.4000-4                                       J.Isaak+             (21)L0273  7 
+#/DATA      12
+#/DATASET

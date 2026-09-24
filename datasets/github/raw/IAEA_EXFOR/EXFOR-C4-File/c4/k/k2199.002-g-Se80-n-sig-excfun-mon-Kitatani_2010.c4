@@ -1,0 +1,36 @@
+#ENTRY      K2199
+#AUTHOR1    F.Kitatani+
+#YEAR       2010
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurement of the 80Se(g,n) cross section using
+#+          laser-Compton scattering gamma-rays
+#AUTHOR(S)  F.Kitatani, H.Harada, S.Goko, H.Utsunomiya, H.Akimune, T.Kaihori, 
+#+          H.Toyokawa, K.Yamada
+#REF-CODE   (J,NST,47,367,2010)
+#REFERENCE  J.Nucl.Sci.Technol. 47 (2010) 367 (doi:10.1080/18811248.2010.9711967)
+#DATASETS   0
+#
+#DATASET    K2199002 
+#DATE       20260228
+#REACTION   34-SE-80(G,N)34-SE-79,,SIG
+#PROJ       0
+#TARG       34080
+#MF         3
+#MT         4
+#PRODUCT    34-SE-79
+#C4BEGIN    [    0 34080   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 34080   3   4    1.0200+7 61200.00 8.5000-3 9.0950-4                                       F.Kitatani+          (10)K2199  2 
+    0 34080   3   4    1.0500+7 126000.0 0.011600 1.1136-3                                       F.Kitatani+          (10)K2199  2 
+    0 34080   3   4    1.1200+7 56000.00 0.018900 1.3230-3                                       F.Kitatani+          (10)K2199  2 
+    0 34080   3   4    1.1500+7 57500.00 0.020700 1.3869-3                                       F.Kitatani+          (10)K2199  2 
+    0 34080   3   4    1.1900+7 59500.00 0.025200 1.5876-3                                       F.Kitatani+          (10)K2199  2 
+    0 34080   3   4    1.2300+7 61500.00 0.029300 1.9045-3                                       F.Kitatani+          (10)K2199  2 
+    0 34080   3   4    1.2900+7 77400.00 0.039600 2.4552-3                                       F.Kitatani+          (10)K2199  2 
+    0 34080   3   4    1.3100+7 78600.00 0.041300 2.5606-3                                       F.Kitatani+          (10)K2199  2 
+    0 34080   3   4    1.3600+7 81600.00 0.056300 3.6032-3                                       F.Kitatani+          (10)K2199  2 
+    0 34080   3   4    1.4600+7 116800.0 0.089200 5.7088-3                                       F.Kitatani+          (10)K2199  2 
+#/DATA      10
+#/DATASET

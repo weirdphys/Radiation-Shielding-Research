@@ -1,0 +1,40 @@
+#ENTRY      S0004
+#AUTHOR1    Yuan Rongfang+
+#YEAR       1981
+#INSTITUTE  (3CPRAEP)
+#TITLE      The reactions induced by deuteron bombardment
+#+          on the Li-6 at energy 9.05 MeV.
+#AUTHOR(S)  Yuan Rongfang, Wang Zhifu, Ye Binqi, Sun Zuxun, Yuan Jian
+#REF-CODE   (J,CNP,3,(2),155,198105)
+#REFERENCE  Chin.J.Nucl.Phys. 3 No.2 (1981) 155
+#DATASETS   0
+#
+#DATASET    S0004005 
+#DATE       20080311
+#REACTION   3-LI-6(D,INL)3-LI-6,PAR,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         651
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1002  3006   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 651  C 9050000. 100000.0 0.051800 5.6000-3 0.882948          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.016600 1.3000-3 0.820152          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.010900 8.0000-4 0.746638          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.011900 8.0000-4 0.663926          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.011600 6.0000-4 0.572146          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.011700 5.0000-4 0.474088          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.010600 4.0000-4 0.372988          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.012300 4.0000-4 0.268920          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.012700 3.0000-4 0.165048          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.015500 5.0000-4-0.041876          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.020700 9.0000-4-0.233445          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.024500 1.6000-3-0.405142          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.036200 1.7000-3-0.551937          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.035700 2.1000-3-0.674302          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+ 1002  3006   4 651  C 9050000. 100000.0 0.035500 2.9000-3-0.771625          2180000.         LVLYuan Rongfang+       (81)S0004  5 
+#/DATA      15
+#/DATASET

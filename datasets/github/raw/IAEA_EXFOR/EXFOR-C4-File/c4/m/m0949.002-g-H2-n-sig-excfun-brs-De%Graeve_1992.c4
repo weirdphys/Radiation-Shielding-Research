@@ -1,0 +1,40 @@
+#ENTRY      M0949
+#AUTHOR1    A.De Graeve+
+#YEAR       1992
+#INSTITUTE  (2BLGGHT)
+#TITLE      Absolute total cross sections for deuteron
+#+          photodisintegration between 7 and 19 MeV.
+#AUTHOR(S)  A.De Graeve, R.Van de Vyver, A.Zieger, C.Van den Abeele, 
+#+          L.Van Hoorebeke, D.Ryckbosch, H.Ferdinande, F.De Smet, B.Ziegler, 
+#+          P.Wilhelm, H.Arenhovel
+#REF-CODE   (J,PR/C,45,860,1992)
+#REFERENCE  Phys.Rev.C 45 (1992) 860 (doi:10.1103/PhysRevC.45.860)
+#DATASETS   0
+#
+#DATASET    M0949002 
+#DATE       20171120
+#REACTION   1-H-2(G,N)1-H-1,,SIG,,BRS
+#PROJ       0
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   3   4    7000000.          2.0200-3 6.1000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    8000000.          1.7760-3 5.3000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    9000000.          1.5710-3 4.7000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    1.0000+7          1.4090-3 4.2000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    1.1000+7          1.2780-3 3.8000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    1.2000+7          1.1610-3 3.5000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    1.3000+7          1.0580-3 3.2000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    1.4000+7          9.6300-4 2.9000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    1.5000+7          8.8400-4 2.7000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    1.6000+7          8.2200-4 2.5000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    1.7000+7          7.4800-4 2.2000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    1.8000+7          7.1600-4 2.2000-5                                       A.De Graeve+         (92)M0949  2 
+    0  1002   3   4    1.9000+7          6.8700-4 2.1000-5                                       A.De Graeve+         (92)M0949  2 
+#/DATA      13
+#/DATASET

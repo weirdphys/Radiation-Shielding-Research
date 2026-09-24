@@ -1,0 +1,35 @@
+#ENTRY      S0103
+#AUTHOR1    Li Zhihuan+
+#YEAR       2003
+#INSTITUTE  (3CPRBJG)
+#TITLE      Alpha fragment emission in 25MeV/u 6He+9Be break-up
+#+          reaction
+#AUTHOR(S)  Li Zhihuan, Ye Yanlin, Chen Tao, Jiang Dongxing, Hua Hui, 
+#+          Li Xiangqing, Wang Quanjin, Ge Yucheng, Pang Danyang, Di Zhenyu, 
+#+          Jin Genming, Xiao Guoqing, Guo Zhongyan, Xiao Zhigang, Wang Hongwei, 
+#+          Zhang Baoguo, Wu Heyu, Li Jiaxing, Sun Zhiyu, Zhan Wenlong
+#REF-CODE   (J,PHE,27,206,2003)
+#REFERENCE  High En.Nucl.Phy.Ch. 27 (2003) 206
+#DATASETS   0
+#
+#DATASET    S0103003 
+#DATE       20141028
+#REACTION   4-BE-9(2-HE-6,X)2-HE-4,,DA
+#PROJ       2006
+#TARG       4009
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2006  4009   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006  4009   4 207    1.5000+8          3.467060 0.972010 0.996195 1.5212-3                     Li Zhihuan+          (03)S0103  3 
+ 2006  4009   4 207    1.5000+8          2.919420 0.348680 0.992546 2.1270-3                     Li Zhihuan+          (03)S0103  3 
+ 2006  4009   4 207    1.5000+8          2.593970 0.248070 0.987688 1.3651-3                     Li Zhihuan+          (03)S0103  3 
+ 2006  4009   4 207    1.5000+8          1.590880 0.190010 0.981627 1.6651-3                     Li Zhihuan+          (03)S0103  3 
+ 2006  4009   4 207    1.5000+8          0.975680 0.183020 0.974370 1.9631-3                     Li Zhihuan+          (03)S0103  3 
+ 2006  4009   4 207    1.5000+8          0.459890 0.135290 0.965926 4.5172-3                     Li Zhihuan+          (03)S0103  3 
+ 2006  4009   4 207    1.5000+8          0.537420 0.220540 0.956305 5.1028-3                     Li Zhihuan+          (03)S0103  3 
+#/DATA      7
+#/DATASET

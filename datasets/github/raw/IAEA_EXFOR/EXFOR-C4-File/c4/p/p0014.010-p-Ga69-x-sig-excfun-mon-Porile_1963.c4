@@ -1,0 +1,34 @@
+#ENTRY      P0014
+#AUTHOR1    N.T.Porile+
+#YEAR       1963
+#INSTITUTE  (2JPNTOK)
+#TITLE      Nuclear reactions of Ga69 and Ga71 with 13-56 MeV
+#+          protons
+#AUTHOR(S)  N.T.Porile, S.Tanaka, H.Amano, M.Furukawa, S.Iwata, M.Yagi
+#REF-CODE   (J,NP,43,500,1963)
+#REFERENCE  Nucl.Phys. 43 (1963) 500 (doi:10.1016/0029-5582(63)90370-5)
+#DATASETS   0
+#
+#DATASET    P0014010 
+#DATE       20160809
+#REACTION   31-GA-69(P,X)30-ZN-63,IND,SIG
+#PROJ       1001
+#TARG       31069
+#MF         3
+#MT         454
+#PRODUCT    30-ZN-63
+#C4BEGIN    [ 1001 31069   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 31069   3 454    3.6400+7          4.4600-4                    30063.9                     N.T.Porile+          (63)P0014 10 
+ 1001 31069   3 454    4.0600+7          4.6500-3                    30063.9                     N.T.Porile+          (63)P0014 10 
+ 1001 31069   3 454    4.0900+7          4.9600-3                    30063.9                     N.T.Porile+          (63)P0014 10 
+ 1001 31069   3 454    4.4800+7          0.016500                    30063.9                     N.T.Porile+          (63)P0014 10 
+ 1001 31069   3 454    4.6100+7          0.016900                    30063.9                     N.T.Porile+          (63)P0014 10 
+ 1001 31069   3 454    4.8800+7          0.025800                    30063.9                     N.T.Porile+          (63)P0014 10 
+ 1001 31069   3 454    5.0400+7          0.028200                    30063.9                     N.T.Porile+          (63)P0014 10 
+ 1001 31069   3 454    5.5100+7          0.032500                    30063.9                     N.T.Porile+          (63)P0014 10 
+ 1001 31069   3 454    5.6200+7          0.032900                    30063.9                     N.T.Porile+          (63)P0014 10 
+#/DATA      9
+#/DATASET

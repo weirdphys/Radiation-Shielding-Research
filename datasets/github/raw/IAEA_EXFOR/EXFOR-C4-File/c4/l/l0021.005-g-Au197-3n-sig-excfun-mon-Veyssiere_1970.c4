@@ -1,0 +1,32 @@
+#ENTRY      L0021
+#AUTHOR1    A.Veyssiere+
+#YEAR       1970
+#INSTITUTE  (2FR SAC)
+#TITLE      Photoneutron cross sections of 208Pb and 197Au.
+#AUTHOR(S)  A.Veyssiere, H.Beil, R.Bergere, P.Carlos, A.Lepretre
+#REF-CODE   (J,NP/A,159,561,1970)
+#REFERENCE  Nucl.Phys.A 159 (1970) 561 (doi:10.1016/0375-9474(70)90727-X)
+#DATASETS   0
+#
+#DATASET    L0021005 
+#DATE       20030312
+#REACTION   79-AU-197(G,3N)79-AU-194,,SIG
+#PROJ       0
+#TARG       79197
+#MF         3
+#MT         17
+#PRODUCT    79-AU-194
+#C4BEGIN    [    0 79197   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 79197   3  17    2.2760+7          2.1000-3 3.0000-3                                       A.Veyssiere+         (70)L0021  5 
+    0 79197   3  17    2.3310+7          8.0000-4 3.0000-3                                       A.Veyssiere+         (70)L0021  5 
+    0 79197   3  17    2.4400+7          3.2000-3 3.0000-3                                       A.Veyssiere+         (70)L0021  5 
+    0 79197   3  17    2.4940+7          3.6000-3 3.0000-3                                       A.Veyssiere+         (70)L0021  5 
+    0 79197   3  17    2.5480+7          4.1000-3 3.0000-3                                       A.Veyssiere+         (70)L0021  5 
+    0 79197   3  17    2.6030+7          0.010800 3.0000-3                                       A.Veyssiere+         (70)L0021  5 
+    0 79197   3  17    2.6570+7          0.012500 3.0000-3                                       A.Veyssiere+         (70)L0021  5 
+    0 79197   3  17    2.7120+7          0.013600 3.0000-3                                       A.Veyssiere+         (70)L0021  5 
+#/DATA      8
+#/DATASET

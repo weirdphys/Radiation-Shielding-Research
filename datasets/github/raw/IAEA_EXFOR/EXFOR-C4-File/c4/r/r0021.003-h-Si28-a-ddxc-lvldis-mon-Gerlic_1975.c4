@@ -1,0 +1,42 @@
+#ENTRY      R0021
+#AUTHOR1    E.Gerlic+
+#YEAR       1975
+#INSTITUTE  (2FR PAR)
+#TITLE      Excitation of deep lying hole states in 11C,15O, 27Si,
+#+          and 57Ni with the (3He,a) reaction at 216 MeV
+#AUTHOR(S)  E.Gerlic, H.Langevin-Joliot, P.Roos, J.Van de Wiele, J.P.Didelez, 
+#+          G.Duhamel
+#REF-CODE   (J,PR/C,12,(6),2106,197512)
+#REFERENCE  Phys.Rev.C 12 No.6 (1975) 2106 (doi:10.1103/PhysRevC.12.2106)
+#DATASETS   0
+#
+#DATASET    R0021003 
+#DATE       20070909
+#REACTION   14-SI-28(HE3,A)14-SI-27,,DA/DE
+#PROJ       2003
+#TARG       14028
+#MF         6
+#MT         107
+#PRODUCT    14-SI-27
+#C4BEGIN    [ 2003 14028   6 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 14028   6 107  C 2.1600+8          3.400-10          0.987688          1.0700+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          2.800-10          0.987688          1.1400+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          2.500-10          0.987688          1.5900+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          3.200-10          0.987688          1.8100+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          3.300-10          0.987688          2.0500+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          3.000-10          0.987688          2.3000+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          2.500-10          0.987688          2.5700+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          2.500-10          0.987688          3.0500+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          2.200-10          0.987688          3.5700+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          2.000-10          0.987688          4.0500+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          2.000-10          0.987688          5.0900+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          1.900-10          0.987688          6.0900+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          2.000-10          0.987688          7.1100+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          1.900-10          0.987688          8.0800+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          2.000-10          0.987688          9.0600+7         LVLE.Gerlic+            (75)R0021  3 
+ 2003 14028   6 107  C 2.1600+8          2.000-10          0.987688          1.0050+8         LVLE.Gerlic+            (75)R0021  3 
+#/DATA      16
+#/DATASET

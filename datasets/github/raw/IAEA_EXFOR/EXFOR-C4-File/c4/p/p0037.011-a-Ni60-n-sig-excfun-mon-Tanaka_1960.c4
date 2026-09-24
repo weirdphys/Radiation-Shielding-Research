@@ -1,0 +1,40 @@
+#ENTRY      P0037
+#AUTHOR1    S.Tanaka+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Reactions of Nickel with Alpha-Particles
+#AUTHOR(S)  S.Tanaka
+#REF-CODE   (J,JPJ,15,2159,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 2159 (doi:10.1143/JPSJ.15.2159)
+#DATASETS   0
+#
+#DATASET    P0037011 
+#DATE       20000811
+#REACTION   28-NI-60(A,N)30-ZN-63,,SIG
+#PROJ       2004
+#TARG       28060
+#MF         3
+#MT         4
+#PRODUCT    30-ZN-63
+#C4BEGIN    [ 2004 28060   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28060   3   4    7660000.          1.9900-3 2.4100-3                                       S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    1.0400+7          0.099500                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    1.1000+7          0.134000                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    1.3000+7          0.273000                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    1.6400+7          0.504000                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    1.7300+7          0.356000                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    1.8100+7          0.429000 0.080000                                       S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    1.9000+7          0.393000                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    2.0600+7          0.279000                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    2.2600+7          0.149000                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    2.3400+7          0.137000                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    2.5000+7          0.137000                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    2.7300+7          0.093800                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    2.8300+7          0.066100                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    2.9300+7          0.070800                                                S.Tanaka             (60)P0037 11 
+ 2004 28060   3   4    3.1200+7          0.047400                                                S.Tanaka             (60)P0037 11 
+#/DATA      16
+#/DATASET

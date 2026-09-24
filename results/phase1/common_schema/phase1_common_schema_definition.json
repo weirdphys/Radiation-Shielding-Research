@@ -1,0 +1,64 @@
+{
+  "columns": [
+    "record_id",
+    "benchmark_id",
+    "data_origin",
+    "particle",
+    "material",
+    "material_density_g_cm3",
+    "source_definition",
+    "source_proton_MeV",
+    "beam_nominal_MV",
+    "geometry_id",
+    "source_normalization_id",
+    "additional_iron_collimator_cm",
+    "energy_MeV",
+    "energy_lower_MeV",
+    "energy_upper_MeV",
+    "penetration_mfp",
+    "shield_thickness_cm",
+    "depth_cm",
+    "off_axis_cm",
+    "observable",
+    "value",
+    "unit",
+    "uncertainty_abs",
+    "uncertainty_percent",
+    "detector_or_score",
+    "quality_flag",
+    "quality_note",
+    "provenance",
+    "source_file"
+  ],
+  "required_identity": [
+    "benchmark_id",
+    "geometry_id",
+    "source_normalization_id"
+  ],
+  "input_coordinates": [
+    "energy_MeV",
+    "energy_lower_MeV",
+    "energy_upper_MeV",
+    "beam_nominal_MV",
+    "penetration_mfp",
+    "shield_thickness_cm",
+    "depth_cm",
+    "off_axis_cm",
+    "material_density_g_cm3",
+    "source_definition"
+  ],
+  "outputs": [
+    "value",
+    "uncertainty_abs",
+    "uncertainty_percent"
+  ],
+  "quality_fields": [
+    "quality_flag",
+    "quality_note"
+  ],
+  "linked_metadata": {
+    "geometry_metadata": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/canonical_data/jaeri_tiara_geometry_metadata.csv",
+    "source_normalization": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/canonical_data/jaeri_tiara_source_normalization.csv",
+    "public_benchmark_registry": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/canonical_data/public_benchmarks/public_benchmark_registry.csv"
+  }
+}

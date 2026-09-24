@@ -1,0 +1,30 @@
+#ENTRY      P0134
+#AUTHOR1    J.B.J.Read+
+#YEAR       1962
+#INSTITUTE  (1USAYAL)
+#TITLE      Compound Nucleus Formation Mechanisms in Reaction of
+#+          Heavy Ions with Medium-Mass Elements
+#AUTHOR(S)  J.B.J.Read, I.M.Ladenbauer-Bellis, R.Wolfgang
+#REF-CODE   (J,PR,127,1722,1962)
+#REFERENCE  Phys.Rev. 127 (1962) 1722 (doi:10.1103/PhysRev.127.1722)
+#DATASETS   0
+#
+#DATASET    P0134014 
+#DATE       20000815
+#REACTION   27-CO-59(8-O-16,X)29-CU-61,CUM,SIG
+#PROJ       8016
+#TARG       27059
+#MF         3
+#MT         459
+#PRODUCT    29-CU-61
+#C4BEGIN    [ 8016 27059   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 27059   3 459    7.0000+7          3.0000-3                    29061.9                     J.B.J.Read+          (62)P0134 14 
+ 8016 27059   3 459    9.7000+7          0.026000                    29061.9                     J.B.J.Read+          (62)P0134 14 
+ 8016 27059   3 459    1.2900+8          0.052000                    29061.9                     J.B.J.Read+          (62)P0134 14 
+ 8016 27059   3 459    1.3500+8          0.050000                    29061.9                     J.B.J.Read+          (62)P0134 14 
+ 8016 27059   3 459    1.5800+8          0.067000                    29061.9                     J.B.J.Read+          (62)P0134 14 
+#/DATA      5
+#/DATASET

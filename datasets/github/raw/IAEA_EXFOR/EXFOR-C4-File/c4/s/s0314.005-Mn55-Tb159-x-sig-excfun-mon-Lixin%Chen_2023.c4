@@ -1,0 +1,29 @@
+#ENTRY      S0314
+#AUTHOR1    Lixin Chen+
+#YEAR       2023
+#INSTITUTE  (3CPRIMP)
+#TITLE      Reaction 55Mn + 159Tb preparation for the synthesis
+#+          of new elements
+#AUTHOR(S)  Lixin Chen, Suyang Xu, Zhiyuan Zhang, Jianguo Wang, Minghui Huang, 
+#+          Mingming Zhang, Long Ma, Huabin Yang, Chunli Yang, Xiaolei Wu, 
+#+          Houbing Zhou, Zhen Zhao, Xinyuan Huang, Hao Zhou, Xu Zhang, 
+#+          Luchong Sun, Zongchi Li, Zaiguo Gan
+#REF-CODE   (J,CPH/C,47,054001,2023)
+#REFERENCE  Chin.Phys.C 47 (2023) 054001 (doi:10.1088/1674-1137/acb9e2)
+#DATASETS   0
+#
+#DATASET    S0314005 
+#DATE       20251019
+#REACTION   65-TB-159(25-MN-55,X)90-TH-210,,SIG
+#PROJ       25055
+#TARG       65159
+#MF         3
+#MT         454
+#PRODUCT    90-TH-210
+#C4BEGIN    [25055 65159   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+25055 65159   3 454 A  2.5700+8          5.900-10                    90210.9                     Lixin Chen+          (23)S0314  5 
+#/DATA      1
+#/DATASET

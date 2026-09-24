@@ -1,0 +1,32 @@
+#ENTRY      B0128
+#AUTHOR1    H.Muramatsu+
+#YEAR       1978
+#INSTITUTE  (2JPNTMU)
+#TITLE      Alpha particle bombardments of natural nickel target
+#+          for the production of 61Cu
+#AUTHOR(S)  H.Muramatsu, E.Shirai, H.Nakahara, Y.Murakami
+#REF-CODE   (J,ARI,29,611,1978)
+#REFERENCE  Appl.Radiat.Isot. 29 (1978) 611 (doi:10.1016/0020-708X(78)90094-7)
+#DATASETS   0
+#
+#DATASET    B01280051
+#DATE       20160824
+#REACTION   28-NI-0(A,X)29-CU-60,(CUM),SIG
+#PROJ       2004
+#TARG       28000
+#MF         3
+#MT         459
+#PRODUCT    29-CU-60
+#C4BEGIN    [ 2004 28000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28000   3 459    1.5800+7          5.1000-3                    29060.9                     H.Muramatsu+         (78)B0128  51
+ 2004 28000   3 459    1.8600+7          0.039000                    29060.9                     H.Muramatsu+         (78)B0128  51
+ 2004 28000   3 459    2.2400+7          0.130000                    29060.9                     H.Muramatsu+         (78)B0128  51
+ 2004 28000   3 459    2.5900+7          0.265000                    29060.9                     H.Muramatsu+         (78)B0128  51
+ 2004 28000   3 459    2.9100+7          0.313000                    29060.9                     H.Muramatsu+         (78)B0128  51
+ 2004 28000   3 459    3.2400+7          0.313000                    29060.9                     H.Muramatsu+         (78)B0128  51
+ 2004 28000   3 459    3.5300+7          0.235000                    29060.9                     H.Muramatsu+         (78)B0128  51
+#/DATA      7
+#/DATASET

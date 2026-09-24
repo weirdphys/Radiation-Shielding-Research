@@ -1,0 +1,34 @@
+#ENTRY      M0557
+#AUTHOR1    D.G.Ireland+
+#YEAR       1993
+#INSTITUTE  (2SWDLND)
+#TITLE      The (g,p) reaction at E-gamma about 60 MeV.
+#AUTHOR(S)  D.G.Ireland, D.Branford, T.Davinson, N.J.Davis, E.W.Macdonald, 
+#+          P.J.Sellin, A.C.Shotter, P.Terzoudi, P.J.Woods, J.-O.Adler, 
+#+          B.-E.Anderson, L.Isaksson, D.Nilsson, H.Ruijter, A.Sandell, 
+#+          B.Schroder
+#REF-CODE   (J,NP/A,554,173,1993)
+#REFERENCE  Nucl.Phys.A 554 (1993) 173 (doi:10.1016/0375-9474(93)90337-W)
+#DATASETS   0
+#
+#DATASET    M0557011 
+#DATE       20111117
+#REACTION   23-V-51(G,P)22-TI-50,PAR,DA
+#PROJ       0
+#TARG       23051
+#MF         4
+#MT         600
+#PRODUCT    22-TI-50
+#C4BEGIN    [    0 23051   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 23051   4 600    5.9200+7          1.5900-5 4.0200-6 0.564967          1600000. 1600000.LVLD.G.Ireland+         (93)M0557 11 
+    0 23051   4 600    5.9200+7          8.9600-6 7.4000-7 0.478692          1600000. 1600000.LVLD.G.Ireland+         (93)M0557 11 
+    0 23051   4 600    5.9200+7          3.9300-6 3.0000-7 0.345298          1600000. 1600000.LVLD.G.Ireland+         (93)M0557 11 
+    0 23051   4 600    5.9200+7          2.0200-6 1.9000-7 0.180519          1600000. 1600000.LVLD.G.Ireland+         (93)M0557 11 
+    0 23051   4 600    5.9200+7          1.4200-6 1.4000-7 6.123-17          1600000. 1600000.LVLD.G.Ireland+         (93)M0557 11 
+    0 23051   4 600    5.9200+7          1.0300-6 1.1000-7-0.180519          1600000. 1600000.LVLD.G.Ireland+         (93)M0557 11 
+    0 23051   4 600    5.9200+7          8.2000-7 1.3000-7-0.345298          1600000. 1600000.LVLD.G.Ireland+         (93)M0557 11 
+#/DATA      7
+#/DATASET

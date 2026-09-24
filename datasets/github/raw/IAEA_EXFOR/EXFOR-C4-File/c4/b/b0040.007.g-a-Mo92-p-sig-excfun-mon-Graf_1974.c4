@@ -1,0 +1,32 @@
+#ENTRY      B0040
+#AUTHOR1    H.P.Graf+
+#YEAR       1974
+#INSTITUTE  (2GERKFK)
+#TITLE      Excitation functions for alpha-particle reactions with
+#+          molybdenum isotopes
+#AUTHOR(S)  H.P.Graf, H.Muenzel
+#REF-CODE   (J,JIN,36,3647,1974)
+#REFERENCE  J.Inorg.Nucl.Chem. 36 (1974) 3647 (doi:10.1016/0022-1902(74)80143-0)
+#DATASETS   0
+#
+#DATASET    B0040007G
+#DATE       20221004
+#REACTION   42-MO-92(A,P)43-TC-95-G,,SIG
+#PROJ       2004
+#TARG       42092
+#MF         3
+#MT         103
+#PRODUCT    43-TC-95-G
+#C4BEGIN    [ 2004 42092   3 103G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 42092   3 103G   1.2000+7 500000.0 9.0000-4 1.3500-4                                       H.P.Graf+            (74)B0040  7G
+ 2004 42092   3 103G   1.4000+7 500000.0 8.0000-3 1.2000-3                                       H.P.Graf+            (74)B0040  7G
+ 2004 42092   3 103G   1.7000+7 500000.0 0.090000 0.013500                                       H.P.Graf+            (74)B0040  7G
+ 2004 42092   3 103G   2.0000+7 500000.0 0.212000 0.031800                                       H.P.Graf+            (74)B0040  7G
+ 2004 42092   3 103G   2.3000+7 500000.0 0.195000 0.029250                                       H.P.Graf+            (74)B0040  7G
+ 2004 42092   3 103G   2.6000+7 500000.0 0.111000 0.016650                                       H.P.Graf+            (74)B0040  7G
+ 2004 42092   3 103G   2.7000+7 500000.0 0.081000 0.012150                                       H.P.Graf+            (74)B0040  7G
+#/DATA      7
+#/DATASET

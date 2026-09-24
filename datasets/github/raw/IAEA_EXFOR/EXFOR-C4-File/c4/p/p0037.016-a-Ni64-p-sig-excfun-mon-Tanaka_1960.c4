@@ -1,0 +1,28 @@
+#ENTRY      P0037
+#AUTHOR1    S.Tanaka+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Reactions of Nickel with Alpha-Particles
+#AUTHOR(S)  S.Tanaka
+#REF-CODE   (J,JPJ,15,2159,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 2159 (doi:10.1143/JPSJ.15.2159)
+#DATASETS   0
+#
+#DATASET    P0037016 
+#DATE       20000811
+#REACTION   28-NI-64(A,P)29-CU-67,,SIG
+#PROJ       2004
+#TARG       28064
+#MF         3
+#MT         103
+#PRODUCT    29-CU-67
+#C4BEGIN    [ 2004 28064   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28064   3 103    1.2400+7          6.5800-3                                                S.Tanaka             (60)P0037 16 
+ 2004 28064   3 103    1.5500+7          0.015900 4.7200-3                                       S.Tanaka             (60)P0037 16 
+ 2004 28064   3 103    1.8200+7          0.014500                                                S.Tanaka             (60)P0037 16 
+ 2004 28064   3 103    2.0800+7          7.3800-3 2.1200-3                                       S.Tanaka             (60)P0037 16 
+#/DATA      4
+#/DATASET

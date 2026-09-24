@@ -1,0 +1,28 @@
+#ENTRY      P0060
+#AUTHOR1    J.H.Carver+
+#YEAR       1961
+#INSTITUTE  (3AULCBR)
+#TITLE      (N-Z) dependence of radiative deuteron capture cross-
+#+          sections
+#AUTHOR(S)  J.H.Carver, G.A.Jones
+#REF-CODE   (J,NP,24,607,1961)
+#REFERENCE  Nucl.Phys. 24 (1961) 607 (doi:10.1016/0029-5582(61)90432-1)
+#DATASETS   0
+#
+#DATASET    P0060005 
+#DATE       20160809
+#REACTION   24-CR-54(D,G)25-MN-56,,SIG
+#PROJ       1002
+#TARG       24054
+#MF         3
+#MT         102
+#PRODUCT    25-MN-56
+#C4BEGIN    [ 1002 24054   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 24054   3 102    3500000.          8.2000-5 1.4000-5                                       J.H.Carver+          (61)P0060  5 
+ 1002 24054   3 102    4030000.          1.9000-4 3.4000-5                                       J.H.Carver+          (61)P0060  5 
+ 1002 24054   3 102    4540000.          2.9400-4 4.5000-5                                       J.H.Carver+          (61)P0060  5 
+#/DATA      3
+#/DATASET

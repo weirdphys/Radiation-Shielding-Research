@@ -1,0 +1,46 @@
+#ENTRY      K2478
+#AUTHOR1    H.-T.Nyhus+
+#YEAR       2015
+#INSTITUTE  (2NOROSL)
+#TITLE      Photoneutron cross sections for neodymium isotopes:
+#+          Toward a unified understanding of (gamma,n) and
+#+          (n,gamma) reactions in the rare earth region
+#AUTHOR(S)  H.-T.Nyhus, T.Renstrom, H.Utsunomiya, S.Goriely, D.M.Filipescu, 
+#+          I.Gheorghe, O.Tesileanu, T.Glodariu, T.Shima, K.Takahisa, 
+#+          S.Miyamoto, Y.-W.Lui, S.Hilaire, S.Peru, M.Martini, L.Siess, 
+#+          A.J.Koning
+#REF-CODE   (J,PR/C,91,015808,2015)
+#REFERENCE  Phys.Rev.C 91 (2015) 015808 (doi:10.1103/PhysRevC.91.015808)
+#DATASETS   0
+#
+#DATASET    K2478004 
+#DATE       20150624
+#REACTION   60-ND-145(G,N)60-ND-144,,SIG
+#PROJ       0
+#TARG       60145
+#MF         3
+#MT         4
+#PRODUCT    60-ND-144
+#C4BEGIN    [    0 60145   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 60145   3   4 A  5940000.          3.9000-4 2.8000-4                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  6140000.          2.6800-3 5.7000-4                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  6370000.          2.5000-3 6.6000-4                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  6590000.          4.8300-3 5.0000-4                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  6870000.          8.9100-3 7.5000-4                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  7330000.          0.013130 8.2000-4                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  7800000.          0.014680 8.7000-4                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  8080000.          0.016270 9.2000-4                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  8770000.          0.022240 1.4000-3                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  9260000.          0.029340 1.7400-3                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  9730000.          0.031510 1.8900-3                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  1.0210+7          0.041240 2.3800-3                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  1.0680+7          0.051850 2.9900-3                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  1.1180+7          0.071410 4.1000-3                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  1.1670+7          0.087560 4.8000-3                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  1.2140+7          0.114220 6.1600-3                                       H.-T.Nyhus+          (15)K2478  4 
+    0 60145   3   4 A  1.2650+7          0.143430 7.4700-3                                       H.-T.Nyhus+          (15)K2478  4 
+#/DATA      17
+#/DATASET

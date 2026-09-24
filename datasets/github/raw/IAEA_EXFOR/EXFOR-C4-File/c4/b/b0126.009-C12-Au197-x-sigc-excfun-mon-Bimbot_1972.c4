@@ -1,0 +1,34 @@
+#ENTRY      B0126
+#AUTHOR1    R.Bimbot+
+#YEAR       1972
+#INSTITUTE  (2FR PAR)
+#TITLE      Recoil Study of Transfer Reactions. Evidence For Alpha
+#+          And be-8 Transfers in C-12 Reactions with Heavy
+#+          Nuclei (AU, BI)
+#AUTHOR(S)  R.Bimbot, P.Gardes, M.F.Rivet
+#REF-CODE   (J,NP/A,189,193,1972)
+#REFERENCE  Nucl.Phys.A 189 (1972) 193 (doi:10.1016/0375-9474(72)90654-9)
+#DATASETS   0
+#
+#DATASET    B0126009 
+#DATE       20011220
+#REACTION   79-AU-197(6-C-12,X)83-BI-202,CUM,SIG,,,EXP
+#PROJ       6012
+#TARG       79197
+#MF         3
+#MT         459
+#PRODUCT    83-BI-202
+#C4BEGIN    [ 6012 79197   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 79197   3 459    6.6000+7          0.015900 2.9000-3           83202.9                     R.Bimbot+            (72)B0126  9 
+ 6012 79197   3 459    6.8800+7          0.033300 6.3000-3           83202.9                     R.Bimbot+            (72)B0126  9 
+ 6012 79197   3 459    7.1600+7          0.053500 9.7000-3           83202.9                     R.Bimbot+            (72)B0126  9 
+ 6012 79197   3 459    7.7000+7          0.093000 0.015000           83202.9                     R.Bimbot+            (72)B0126  9 
+ 6012 79197   3 459    8.0000+7          0.114000 0.025000           83202.9                     R.Bimbot+            (72)B0126  9 
+ 6012 79197   3 459    8.2700+7          0.109000 0.019000           83202.9                     R.Bimbot+            (72)B0126  9 
+ 6012 79197   3 459    8.5300+7          0.132000 0.025000           83202.9                     R.Bimbot+            (72)B0126  9 
+ 6012 79197   3 459    8.7800+7          0.086500 0.013500           83202.9                     R.Bimbot+            (72)B0126  9 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      T0100
+#AUTHOR1    R.H.McCamis+
+#YEAR       1986
+#INSTITUTE  (1CANMNA)
+#TITLE      A Study of Proton Total Reaction Cross Sections For
+#+          Several Medium-Mass Nuclei Between 20 and 48 MeV.
+#AUTHOR(S)  R.H.McCamis, N.E.Davison, W.T.H.Van Oers, R.F.Carlson, A.J.Cox
+#REF-CODE   (J,CJP,64,685,1986)
+#REFERENCE  Can.J.Phys. 64 (1986) 685 (doi:10.1139/p86-126)
+#DATASETS   0
+#
+#DATASET    T0100006 
+#DATE       19990709
+#REACTION   27-CO-59(P,NON),,SIG
+#PROJ       1001
+#TARG       27059
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 27059   3   3 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 27059   3   3 A  2.0800+7 100000.0 1.080000 0.037000                                       R.H.McCamis+         (86)T0100  6 
+ 1001 27059   3   3 A  2.4800+7 100000.0 1.112000 0.028000                                       R.H.McCamis+         (86)T0100  6 
+ 1001 27059   3   3 A  2.9700+7 100000.0 1.078000 0.028000                                       R.H.McCamis+         (86)T0100  6 
+ 1001 27059   3   3 A  3.4800+7 100000.0 1.035000 0.023000                                       R.H.McCamis+         (86)T0100  6 
+ 1001 27059   3   3 A  3.9700+7 100000.0 1.021000 0.024000                                       R.H.McCamis+         (86)T0100  6 
+ 1001 27059   3   3 A  4.4800+7 100000.0 0.970000 0.021000                                       R.H.McCamis+         (86)T0100  6 
+ 1001 27059   3   3 A  4.7800+7 100000.0 0.951000 0.022000                                       R.H.McCamis+         (86)T0100  6 
+#/DATA      7
+#/DATASET

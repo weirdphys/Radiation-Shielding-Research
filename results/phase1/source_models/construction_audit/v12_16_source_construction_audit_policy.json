@@ -1,0 +1,19 @@
+{
+  "policy_id": "V12_16_SOURCE_CONSTRUCTION_AUDIT_V1",
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "audit_only": true,
+  "source_mutation_allowed": false,
+  "new_pdd_transport_allowed": false,
+  "structural_flags_are_acceptance_gates": false,
+  "structural_flag_heuristics": {
+    "long_exact_plateau": "five or more exactly equal consecutive positive bins",
+    "positive_endpoint_mass": "last positive bin is >=5% of peak and is followed by zero bins",
+    "internal_gap": "zero-probability bin between first and last positive bins"
+  },
+  "public_simulated_sanity_references_can_satisfy_step2c": false,
+  "sr02_bin_interpretation": "listed energy is upper edge of 0.25-MeV bin; center=upper-0.125 MeV",
+  "sr02_comparison_quantity": "photon-number probability mass; reference density multiplied by bin width then normalized",
+  "sr02_metrics_are_acceptance_gates": false,
+  "measured_step2c_holdouts_reserved_from_construction": true,
+  "derived_builder_rule": "only an historically claimed transform that reproduces the frozen current array to machine precision is called reproducible; no post-hoc best-looking builder is selected"
+}

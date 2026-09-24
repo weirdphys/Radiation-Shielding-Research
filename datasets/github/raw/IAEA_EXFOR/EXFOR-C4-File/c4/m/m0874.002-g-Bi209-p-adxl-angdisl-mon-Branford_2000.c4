@@ -1,0 +1,38 @@
+#ENTRY      M0874
+#AUTHOR1    D.Branford+
+#YEAR       2000
+#INSTITUTE  (2UK EDG)
+#TITLE      Electron- and  photon-induced  proton  knockout  from
+#+          209Bi.
+#AUTHOR(S)  D.Branford, A.W.Rauf, J.Lac, J.O.Adler, T.Davinson, D.G.Ireland, 
+#+          C.W.de Jager, M.Liang, W.J.Kasdorp, L.Lapikas, B.Nilsson, 
+#+          H.Ruijter, D.Ryckbosch, A.Sandell, B.Schroder, A.C.Shotter, 
+#+          G.van der Steenhoven, R.Van de Vyver, P.J.Woods
+#REF-CODE   (J,PR/C,63,014310,2000)
+#REFERENCE  Phys.Rev.C 63 (2000) 014310 (doi:10.1103/PhysRevC.63.014310)
+#DATASETS   0
+#
+#DATASET    M0874002 
+#DATE       20140331
+#REACTION   83-BI-209(G,P)82-PB-208,PAR,DA
+#PROJ       0
+#TARG       83209
+#MF         4
+#MT         600
+#PRODUCT    82-PB-208
+#C4BEGIN    [    0 83209   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 83209   4 600    4.3700+7          4.0200-6          0.693150          4100000.         LVLD.Branford+          (00)M0874  2 
+    0 83209   4 600    4.3700+7          4.4700-6          0.615937          4100000.         LVLD.Branford+          (00)M0874  2 
+    0 83209   4 600    4.3700+7          4.2100-6          0.494700          4100000.         LVLD.Branford+          (00)M0874  2 
+    0 83209   4 600    4.3700+7          5.5400-6          0.342676          4100000.         LVLD.Branford+          (00)M0874  2 
+    0 83209   4 600    4.3700+7          9.5000-6          0.184809          4100000.         LVLD.Branford+          (00)M0874  2 
+    0 83209   4 600    4.3700+7          6.1100-6          0.053905          4100000.         LVLD.Branford+          (00)M0874  2 
+    0 83209   4 600    4.3700+7          8.1200-6         -0.048152          4100000.         LVLD.Branford+          (00)M0874  2 
+    0 83209   4 600    4.3700+7          4.7400-6         -0.182750          4100000.         LVLD.Branford+          (00)M0874  2 
+    0 83209   4 600    4.3700+7          3.1900-6         -0.331173          4100000.         LVLD.Branford+          (00)M0874  2 
+    0 83209   4 600    4.3700+7          1.1000-7         -0.474396          4100000.         LVLD.Branford+          (00)M0874  2 
+#/DATA      10
+#/DATASET

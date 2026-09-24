@@ -1,0 +1,44 @@
+{
+  "dataset": "ISIS RB2000209",
+  "processing_stage": "STANDARD_MONITOR_PROXY_TRANSMISSION_READY",
+  "loader": "Mantid Load on each RAW run individually",
+  "loadvesuvio_used": false,
+  "reason_loadvesuvio_not_used": "RB2000209 primary runs are single-period Workspace2D data. Mantid 6.16.1 LoadVesuvio assumes the separately loaded monitor object is a WorkspaceGroup and calls getItem(), which fails for these runs.",
+  "monitor_role_detection": "determined from Mantid instrument geometry, not hard-coded",
+  "incident_monitor_spectrum": 1,
+  "transmitted_monitor_spectrum": 2,
+  "transmission_formula": "T(E) = R_sample(E) / R_control(E), where R(E) = downstream_monitor(E) / upstream_monitor(E)",
+  "control_strategy": "Interpolate the exposure-independent empty-control monitor ratio between early and late empty-tank blocks using acquisition time.",
+  "early_control": "44712-44716",
+  "late_control": "44792-44798",
+  "processed_samples": [
+    "1",
+    "2",
+    "3M",
+    "4M",
+    "5I",
+    "6I"
+  ],
+  "conservative_energy_range_eV": [
+    0.001,
+    1000.0
+  ],
+  "official_RB2000209_target_range_eV": [
+    0.001,
+    1000000.0
+  ],
+  "gem_event_stream_used": false,
+  "gem_event_stream_present_in_downloaded_archive": false,
+  "scientific_classification": "experimental standard-monitor proxy transmission; NOT the GEM-derived full-range transmission product",
+  "sigma_calculated": false,
+  "reason_sigma_not_calculated": "Sample neutron path lengths have not yet been grounded.",
+  "physics_ready_rows": 54445,
+  "excluded_rows": 1,
+  "dimension_metadata_hits": 218,
+  "secondary_configuration_not_mixed": {
+    "1_RT_Cd": "45130-45133",
+    "3M_RT_Cd": "45134-45135"
+  },
+  "primary_output": "rb2000209_standard_monitor_proxy_physics_ready_1meV_1keV.parquet",
+  "matrix_output": "rb2000209_matrix_standard_monitor_proxy_transmission.parquet"
+}

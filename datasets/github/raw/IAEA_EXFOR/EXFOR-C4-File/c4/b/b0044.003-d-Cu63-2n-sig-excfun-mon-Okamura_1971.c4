@@ -1,0 +1,30 @@
+#ENTRY      B0044
+#AUTHOR1    H.Okamura+
+#YEAR       1971
+#INSTITUTE  (2JPNOSA)
+#TITLE      Excitation Functions For the Deuteron-Induced Reactions
+#+          On Cu-63 and Cu-65
+#AUTHOR(S)  H.Okamura, S.Tamagawa
+#REF-CODE   (J,NP/A,169,401,1971)
+#REFERENCE  Nucl.Phys.A 169 (1971) 401 (doi:10.1016/0375-9474(71)90892-X)
+#DATASETS   0
+#
+#DATASET    B0044003 
+#DATE       20011220
+#REACTION   29-CU-63(D,2N)30-ZN-63,,SIG,,,EXP
+#PROJ       1002
+#TARG       29063
+#MF         3
+#MT         16
+#PRODUCT    30-ZN-63
+#C4BEGIN    [ 1002 29063   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 29063   3  16    6800000.          1.1000-3 3.0000-4                                       H.Okamura+           (71)B0044  3 
+ 1002 29063   3  16    7900000.          0.026000 2.0000-3                                       H.Okamura+           (71)B0044  3 
+ 1002 29063   3  16    8800000.          0.077000 5.0000-3                                       H.Okamura+           (71)B0044  3 
+ 1002 29063   3  16    9900000.          0.152000 0.010000                                       H.Okamura+           (71)B0044  3 
+ 1002 29063   3  16    1.0900+7          0.206000 0.013000                                       H.Okamura+           (71)B0044  3 
+#/DATA      5
+#/DATASET

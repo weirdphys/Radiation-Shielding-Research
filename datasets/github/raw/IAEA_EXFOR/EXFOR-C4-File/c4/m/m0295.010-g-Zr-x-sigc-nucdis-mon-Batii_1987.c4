@@ -1,0 +1,30 @@
+#ENTRY      M0295
+#AUTHOR1    V.G.Batii+
+#YEAR       1987
+#INSTITUTE  (4UKRKFT)
+#TITLE      Radionuclide accumulation for photo- and  electron
+#+          disintegration of nuclei in the A near 90 region.
+#AUTHOR(S)  V.G.Batii, Yu.V.Vladimirov, Yu.N.Rakivnenko, Yu.N.Ranyuk, 
+#+          O.A.Rastrepin, E.A.Skakun
+#REF-CODE   (J,AE,63,386,1987)
+#REFERENCE  At.En. 63 (1987) 386
+#DATASETS   0
+#
+#DATASET    M0295010 
+#DATE       20191007
+#REACTION   40-ZR-0(G,F)ELEM/MASS,CUM,SIG
+#PROJ       0
+#TARG       40000
+#MF         3
+#MT         459
+#C4BEGIN    [    0 40000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 40000   3 459    2.7500+8          1.6000-3 3.0000-4           39086.9                     V.G.Batii+           (87)M0295 10 
+    0 40000   3 459    2.7500+8          2.5000-3 3.0000-4           39087.0                     V.G.Batii+           (87)M0295 10 
+    0 40000   3 459    2.7500+8          2.5000-4 6.0000-6           39087.1                     V.G.Batii+           (87)M0295 10 
+    0 40000   3 459    2.7500+8          1.2300-3 5.1000-4           40086.9                     V.G.Batii+           (87)M0295 10 
+    0 40000   3 459    2.7500+8          1.3300-3 1.0000-4           40089.9                     V.G.Batii+           (87)M0295 10 
+#/DATA      5
+#/DATASET

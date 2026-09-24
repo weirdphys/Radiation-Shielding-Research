@@ -1,0 +1,26 @@
+#ENTRY      M0427
+#AUTHOR1    H.E.Jackson+
+#YEAR       1975
+#INSTITUTE  (1USAANL)
+#TITLE      Nuclear Raman scattering of  11.387  MeV  photons  by
+#+          deformed heavy nuclei.
+#AUTHOR(S)  H.E.Jackson, G.E.Thomas, K.J.Wetzel
+#REF-CODE   (J,PR/C,11,1664,1975)
+#REFERENCE  Phys.Rev.C 11 (1975) 1664 (doi:10.1103/PhysRevC.11.1664)
+#DATASETS   0
+#
+#DATASET    M0427003 
+#DATE       20161223
+#REACTION   90-TH-232(G,EL)90-TH-232,,DA
+#PROJ       0
+#TARG       90232
+#MF         4
+#MT         2
+#PRODUCT    90-TH-232
+#C4BEGIN    [    0 90232   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   4   2 D  1.1387+7          3.3100-4 3.5000-5-0.866025                              H.E.Jackson+         (75)M0427  3 
+#/DATA      1
+#/DATASET

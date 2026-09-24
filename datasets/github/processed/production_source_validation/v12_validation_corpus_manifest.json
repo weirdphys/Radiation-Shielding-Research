@@ -1,0 +1,240 @@
+{
+  "manifest_name": "Phase-I v12 production-source validation corpus",
+  "dataset_count": 8,
+  "datasets": [
+    {
+      "dataset_id": "NVAL_15MV_TRUEBEAM_STX_MATHEW",
+      "evidence_type": "EXPERIMENTAL",
+      "domain": "linac_photoneutron_validation",
+      "nominal_energy_MV": 15.0,
+      "canonical_file_relative": "datasets/NVAL_15MV_TRUEBEAM_STX_MATHEW/canonical_measured_neutron_spectra.csv",
+      "rows": 95,
+      "sha256": "291306fc91d6bb53829989bc0a6e7a17df14167e48306fed9f8ce792c6ee7dda"
+    },
+    {
+      "dataset_id": "NVAL_15MV_ZAMORANO_PHITS_SOURCE",
+      "evidence_type": "SIMULATED",
+      "domain": "linac_photoneutron_code_to_code",
+      "nominal_energy_MV": 15.0,
+      "canonical_file_relative": "datasets/NVAL_15MV_ZAMORANO_PHITS_SOURCE/canonical_PHITS_head_neutron_source_spectrum.csv",
+      "rows": 200,
+      "sha256": "9eb0c170da78040cff943a4af4a858ddf47e3ae91302a9facc190c9ecdfe1926"
+    },
+    {
+      "dataset_id": "NVAL_15MV_ZAMORANO_THERMAL",
+      "evidence_type": "EXPERIMENTAL",
+      "domain": "linac_photoneutron_validation",
+      "nominal_energy_MV": 15.0,
+      "canonical_file_relative": "datasets/NVAL_15MV_ZAMORANO_THERMAL/canonical_measured_thermal_neutron_fluence.csv",
+      "rows": 10,
+      "sha256": "e0782d252534bcb41260613aa3fbcf1a727632758ae7a89126665b578757f0e0"
+    },
+    {
+      "dataset_id": "PVAL_10MV_TRUEBEAM_40x40_LANDAUER",
+      "evidence_type": "EXPERIMENTAL",
+      "domain": "photon_beam_validation",
+      "nominal_energy_MV": 10.0,
+      "canonical_file_relative": "datasets/PVAL_10MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+      "rows": 71,
+      "sha256": "49ac8b5e48eba547713e66ec5eaece842f601524d503e10a4838ca8b698ee64b"
+    },
+    {
+      "dataset_id": "PVAL_15MV_TRUEBEAM_40x40_LANDAUER",
+      "evidence_type": "EXPERIMENTAL",
+      "domain": "photon_beam_validation",
+      "nominal_energy_MV": 15.0,
+      "canonical_file_relative": "datasets/PVAL_15MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+      "rows": 70,
+      "sha256": "e7dc988b0f22b255110b251336eedafb9b6140e86c4f0502624e50834ce2425b"
+    },
+    {
+      "dataset_id": "PVAL_16MV_CLINAC21IX_40x40_PACYNIAK",
+      "evidence_type": "EXPERIMENTAL",
+      "domain": "photon_beam_validation",
+      "nominal_energy_MV": 16.0,
+      "canonical_file_relative": "datasets/PVAL_16MV_CLINAC21IX_40x40_PACYNIAK/canonical_pdd_40x40.csv",
+      "rows": 31,
+      "sha256": "92fa00b36c6c4b86ab3b0c4a612c50a30873447c426931fe230b16df132d95e1"
+    },
+    {
+      "dataset_id": "PVAL_18MV_ONCOR_40x40_SAWKEY",
+      "evidence_type": "EXPERIMENTAL",
+      "domain": "photon_beam_validation",
+      "nominal_energy_MV": 18.0,
+      "canonical_file_relative": "datasets/PVAL_18MV_ONCOR_40x40_SAWKEY/canonical_pdd_40x40_clinical.csv",
+      "rows": 81,
+      "sha256": "00f3a33c7666e48d50874b36f6688cf296dbbfa24ac7a2df1b5516c8724cf349"
+    },
+    {
+      "dataset_id": "PVAL_6MV_TRUEBEAM_40x40_LANDAUER",
+      "evidence_type": "EXPERIMENTAL",
+      "domain": "photon_beam_validation",
+      "nominal_energy_MV": 6.0,
+      "canonical_file_relative": "datasets/PVAL_6MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+      "rows": 70,
+      "sha256": "a89ed290287c5668c13a03e458313774d9118701e61f222ddcaba4fec4118e46"
+    }
+  ],
+  "evidence_semantics": {
+    "EXPERIMENTAL": "May qualify as independent measured validation when geometry/observable contract is appropriate.",
+    "SIMULATED": "Code-to-code/reference only; cannot count as experimental validation."
+  },
+  "scope": {
+    "required_photon_MV": [
+      6,
+      10,
+      15,
+      16,
+      18
+    ],
+    "3MV_phase1_required": false
+  },
+  "files": [
+    {
+      "path": "all_photon_pdd_validation_6_10_15_16_18MV.csv",
+      "bytes": 62728,
+      "sha256": "b0a1b942f7f0b7db9902e914bc112a294319fd9e22c9af05539c98a669a17ed7"
+    },
+    {
+      "path": "datasets/NVAL_15MV_TRUEBEAM_STX_MATHEW/auxiliary_eight_moderator_measurements.csv",
+      "bytes": 487,
+      "sha256": "b12c92492195a407f964acc1a1f7b5011d3ff82c75931d7623349b99f2b2ef3b"
+    },
+    {
+      "path": "datasets/NVAL_15MV_TRUEBEAM_STX_MATHEW/canonical_measured_neutron_spectra.csv",
+      "bytes": 30443,
+      "sha256": "291306fc91d6bb53829989bc0a6e7a17df14167e48306fed9f8ce792c6ee7dda"
+    },
+    {
+      "path": "datasets/NVAL_15MV_TRUEBEAM_STX_MATHEW/metadata.json",
+      "bytes": 2599,
+      "sha256": "f4f9ca5e9d219142955d6ab388c0f9fd90aa8cb3368f86efe35f8ea113bc7743"
+    },
+    {
+      "path": "datasets/NVAL_15MV_TRUEBEAM_STX_MATHEW/published_totals_and_reconstruction.csv",
+      "bytes": 413,
+      "sha256": "3e9337fbf077cdffb738bd6e8b82b93124b120f0155f69ec215cc501d6d453e9"
+    },
+    {
+      "path": "datasets/NVAL_15MV_ZAMORANO_PHITS_SOURCE/canonical_PHITS_head_neutron_source_spectrum.csv",
+      "bytes": 33653,
+      "sha256": "9eb0c170da78040cff943a4af4a858ddf47e3ae91302a9facc190c9ecdfe1926"
+    },
+    {
+      "path": "datasets/NVAL_15MV_ZAMORANO_PHITS_SOURCE/metadata.json",
+      "bytes": 1812,
+      "sha256": "e9b6040118f7ef4d1116b9b765397129e768af69f91ee3071c0fedcf8ba71180"
+    },
+    {
+      "path": "datasets/NVAL_15MV_ZAMORANO_THERMAL/auxiliary_truebeam_15MV_PDD_measured_and_PHITS.csv",
+      "bytes": 15513,
+      "sha256": "a3359e385a774e9f0e490b4388a52943685eb10a34a518855dbfdff9996dc63c"
+    },
+    {
+      "path": "datasets/NVAL_15MV_ZAMORANO_THERMAL/auxiliary_truebeam_PHITS_thermal_fluence.csv",
+      "bytes": 319,
+      "sha256": "3428bab2753d41560330669a313900c33a75c286751433844af5256905fb84eb"
+    },
+    {
+      "path": "datasets/NVAL_15MV_ZAMORANO_THERMAL/canonical_measured_thermal_neutron_fluence.csv",
+      "bytes": 1732,
+      "sha256": "e0782d252534bcb41260613aa3fbcf1a727632758ae7a89126665b578757f0e0"
+    },
+    {
+      "path": "datasets/NVAL_15MV_ZAMORANO_THERMAL/metadata.json",
+      "bytes": 2111,
+      "sha256": "bb026cdeb23112443afa3499b4ca8ca8fa3a70cfe262c1c780a5545924b6cb97"
+    },
+    {
+      "path": "datasets/PVAL_10MV_TRUEBEAM_40x40_LANDAUER/auxiliary_crossplane_40x40.csv",
+      "bytes": 81831,
+      "sha256": "fbebf7dd260c9ea7b3d79742e18970e2e047bd5e491d85f77ef376017ecb2e51"
+    },
+    {
+      "path": "datasets/PVAL_10MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+      "bytes": 13817,
+      "sha256": "49ac8b5e48eba547713e66ec5eaece842f601524d503e10a4838ca8b698ee64b"
+    },
+    {
+      "path": "datasets/PVAL_10MV_TRUEBEAM_40x40_LANDAUER/metadata.json",
+      "bytes": 1901,
+      "sha256": "c35f8c7427ff2d768e6c7daae301194ea29f47c6a2c502c1c67abd638c96dc6d"
+    },
+    {
+      "path": "datasets/PVAL_15MV_TRUEBEAM_40x40_LANDAUER/auxiliary_crossplane_40x40.csv",
+      "bytes": 81857,
+      "sha256": "9e0399bbab0996c88a356618d30d21b5aa8562186b31a07a8ec6b0f7d481ca47"
+    },
+    {
+      "path": "datasets/PVAL_15MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+      "bytes": 13627,
+      "sha256": "e7dc988b0f22b255110b251336eedafb9b6140e86c4f0502624e50834ce2425b"
+    },
+    {
+      "path": "datasets/PVAL_15MV_TRUEBEAM_40x40_LANDAUER/metadata.json",
+      "bytes": 1901,
+      "sha256": "154f1e76fcd50d3189256b7eb01ca69be33ccad7050655fde4026456be2545f0"
+    },
+    {
+      "path": "datasets/PVAL_16MV_CLINAC21IX_40x40_PACYNIAK/canonical_pdd_40x40.csv",
+      "bytes": 4768,
+      "sha256": "92fa00b36c6c4b86ab3b0c4a612c50a30873447c426931fe230b16df132d95e1"
+    },
+    {
+      "path": "datasets/PVAL_16MV_CLINAC21IX_40x40_PACYNIAK/metadata.json",
+      "bytes": 1554,
+      "sha256": "342e27f6e336931b0f062ff8c80b02da7925cf7092c4eea74617d927bf5dcb53"
+    },
+    {
+      "path": "datasets/PVAL_18MV_ONCOR_40x40_SAWKEY/auxiliary_vector_curve_raw_points.csv",
+      "bytes": 7579,
+      "sha256": "ea9d7c578ed604eee93a44db5d35e062063625bef2f558994b71d65aa6f2e7bf"
+    },
+    {
+      "path": "datasets/PVAL_18MV_ONCOR_40x40_SAWKEY/canonical_pdd_40x40_clinical.csv",
+      "bytes": 17853,
+      "sha256": "00f3a33c7666e48d50874b36f6688cf296dbbfa24ac7a2df1b5516c8724cf349"
+    },
+    {
+      "path": "datasets/PVAL_18MV_ONCOR_40x40_SAWKEY/metadata.json",
+      "bytes": 1651,
+      "sha256": "6dd2c269baca4ea089964558c22400abf61d2f0bcd74de8ca6b9bfe5e4b70954"
+    },
+    {
+      "path": "datasets/PVAL_6MV_TRUEBEAM_40x40_LANDAUER/auxiliary_crossplane_40x40.csv",
+      "bytes": 80938,
+      "sha256": "993afbf8a21bfd405e24e9d84776ba4c024665019b6e108b814c74a31745e53d"
+    },
+    {
+      "path": "datasets/PVAL_6MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+      "bytes": 13485,
+      "sha256": "a89ed290287c5668c13a03e458313774d9118701e61f222ddcaba4fec4118e46"
+    },
+    {
+      "path": "datasets/PVAL_6MV_TRUEBEAM_40x40_LANDAUER/metadata.json",
+      "bytes": 1894,
+      "sha256": "f104a2ffe585e78b93895dd3e00e4a4568c145d7e087281e984701d08a3915a6"
+    },
+    {
+      "path": "processing_quality_checks.csv",
+      "bytes": 1683,
+      "sha256": "f36c947c03533734f668f4899794bd5b2bcc5f9cfe7426bee7933b5eb6ae965d"
+    },
+    {
+      "path": "processing_quality_checks.json",
+      "bytes": 3479,
+      "sha256": "5f349c100635a7d29c7579e22107c6b5e4c3abe26a9422ea6eaf97d228440136"
+    },
+    {
+      "path": "shielding_validation_dataset_registry.csv",
+      "bytes": 5164,
+      "sha256": "8e9383c6b6f6a15471c5c87ec12b1f05b8756fa42c5f792f5c82b7a9e042601b"
+    },
+    {
+      "path": "source_file_checksums.json",
+      "bytes": 1265,
+      "sha256": "e92770a04100c2ec8faef60998a065665080f6f7eeae52fc8081c5d442206a4d"
+    }
+  ],
+  "correction_note": "The canonical Pacyniak 16 MV CSV was unchanged; its previously recorded registry SHA-256 was corrected to the actual file SHA-256."
+}

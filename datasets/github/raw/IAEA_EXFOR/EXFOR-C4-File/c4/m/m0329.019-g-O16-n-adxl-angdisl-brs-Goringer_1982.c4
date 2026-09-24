@@ -1,0 +1,82 @@
+#ENTRY      M0329
+#AUTHOR1    H.Goringer+
+#YEAR       1982
+#INSTITUTE  (2GERMNZ)
+#TITLE      The (g,n) reaction on O-16 between giant resonance and
+#+          pion threshold.
+#AUTHOR(S)  H.Goringer, B.Schoch, G.Luhrs
+#REF-CODE   (J,NP/A,384,414,1982)
+#REFERENCE  Nucl.Phys.A 384 (1982) 414 (doi:10.1016/0375-9474(82)90344-X)
+#DATASETS   0
+#
+#DATASET    M0329019 
+#DATE       20130620
+#REACTION   8-O-16(G,N)8-O-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    8-O-15
+#C4BEGIN    [    0  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4  50    6.0000+7          9.4700-6 3.6933-7 0.766044          0.000000         LVLH.Goringer+          (82)M0329 19 
+    0  8016   4  50    6.0000+7          9.1100-6 3.0063-7 0.642788          0.000000         LVLH.Goringer+          (82)M0329 19 
+    0  8016   4  50    6.0000+7          8.2100-6 2.1346-7 0.500000          0.000000         LVLH.Goringer+          (82)M0329 19 
+    0  8016   4  50    6.0000+7          6.6200-6 1.7874-7 0.258819          0.000000         LVLH.Goringer+          (82)M0329 19 
+    0  8016   4  50    6.0000+7          4.6800-6 7.0200-8 6.123-17          0.000000         LVLH.Goringer+          (82)M0329 19 
+    0  8016   4  50    6.0000+7          2.3000-6 6.2100-8-0.258819          0.000000         LVLH.Goringer+          (82)M0329 19 
+    0  8016   4  50    6.0000+7          1.0800-6 3.3480-8-0.500000          0.000000         LVLH.Goringer+          (82)M0329 19 
+    0  8016   4  50    6.0000+7          4.5000-7 1.8900-8-0.707107          0.000000         LVLH.Goringer+          (82)M0329 19 
+    0  8016   4  50    6.0000+7          1.9400-7 8.3420-9-0.857167          0.000000         LVLH.Goringer+          (82)M0329 19 
+#/DATA      9
+#/DATASET
+#
+#DATASET    M0329019 
+#DATE       20130620
+#REACTION   8-O-16(G,N)8-O-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    8-O-15
+#C4BEGIN    [    0  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4  50    8.0000+7          6.5000-7 2.0800-8 6.123-17          0.000000         LVLH.Goringer+          (82)M0329 19 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0329019 
+#DATE       20130620
+#REACTION   8-O-16(G,N)8-O-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    8-O-15
+#C4BEGIN    [    0  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4  50    1.2000+8          4.9000-8 5.8800-9 6.123-17          0.000000         LVLH.Goringer+          (82)M0329 19 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0329019 
+#DATE       20130620
+#REACTION   8-O-16(G,N)8-O-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    8-O-15
+#C4BEGIN    [    0  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4  50    1.6000+8          4.6000-8 1.1500-8 6.123-17          0.000000         LVLH.Goringer+          (82)M0329 19 
+#/DATA      1
+#/DATASET

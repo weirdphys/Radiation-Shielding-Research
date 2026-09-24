@@ -1,0 +1,775 @@
+#ENTRY      T0049
+#AUTHOR1    M.C.Radhakrishna+
+#YEAR       1989
+#INSTITUTE  (1USAINU)
+#TITLE      Neutron pickup strength in 87Sr from the (p(pol),d)
+#+          reaction
+#AUTHOR(S)  M.C.Radhakrishna, N.G.Puttaswamy, H.Nann, D.W.Miller, P.P.Singh, 
+#+          W.W.Jacobs, W.P.Jones, E.J.Stephenson
+#REF-CODE   (J,PR/C,40,1603,1989)
+#REFERENCE  Phys.Rev.C 40 (1989) 1603 (doi:10.1103/PhysRevC.40.1603)
+#DATASETS   0
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.3440-4          0.988526          0.000000         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.4290-4          0.982694          0.000000         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.5940-4          0.975196          0.000000         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.5660-4          0.965835          0.000000         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.4920-4          0.956920          0.000000         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1050-4          0.946356          0.000000         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.7990-5          0.933905          0.000000         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.2100-5          0.914247          0.000000         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          5.3570-4          0.994192          1077000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.3330-4          0.987944          1077000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.5190-4          0.981817          1077000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.3110-4          0.974409          1077000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.9360-4          0.966774          1077000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.5530-4          0.958123          1077000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.3890-4          0.945938          1077000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.9970-4          0.929281          1077000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.5400-4          0.993900          1847000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.5860-4          0.988746          1847000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.0850-4          0.982067          1847000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7440-4          0.975565          1847000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7370-4          0.968104          1847000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.2610-4          0.955025          1847000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.5640-5          0.947618          1847000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.8600-5          0.925316          1847000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          6.2730-6          0.992696          2097000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.6930-6          0.988391          2097000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          9.7130-6          0.981621          2097000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          9.4340-6          0.973275          2097000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.2630-5          0.966578          2097000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.9200-6          0.955546          2097000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.1150-6          0.942991          2097000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.4010-6          0.924460          2097000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.1850-3          0.993713          2223000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3340-3          0.987900          2223000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.4310-3          0.981747          2223000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3930-3          0.973427          2223000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3570-3          0.964626          2223000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.0880-3          0.954543          2223000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.3170-4          0.943211          2223000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.6250-4          0.924699          2223000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.0170-3          0.994513          2476000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.6000-4          0.989774          2476000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.4470-4          0.984186          2476000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.8450-4          0.976736          2476000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.6360-4          0.970232          2476000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7200-4          0.959309          2476000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.0340-5 5.3250-6 0.951100          2476000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.0170-5 4.3190-6 0.938613          2476000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.4770-5 3.7170-6 0.918529          2476000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      9
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          6.4580-5          0.992536          2639000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.0930-5          0.986912          2639000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1910-4          0.981393          2639000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          9.4340-5          0.972043          2639000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.0600-4          0.964123          2639000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.9200-5          0.953969          2639000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.4210-5          0.941170          2639000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.8560-5          0.922370          2639000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          3.2410-4          0.990090          2674000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.8930-4          0.983385          2674000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1860-4          0.977068          2674000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.9480-5          0.968964          2674000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.4120-5          0.960551          2674000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.7210-5          0.948146          2674000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.6300-5          0.937483          2674000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.4050-5          0.917157          2674000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.5020-5          0.991155          2780000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.2560-5          0.986504          2780000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.0480-5          0.980012          2780000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.2750-5          0.972305          2780000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.8220-5          0.962218          2780000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.1810-5          0.953138          2780000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3570-5          0.940247          2780000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.2460-6          0.922807          2780000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.9350-3          0.991985          2856000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.9440-3          0.986844          2856000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.2220-3          0.979677          2856000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.2910-3          0.971895          2856000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.2420-3          0.963933          2856000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7900-3          0.953754          2856000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3930-3          0.941011          2856000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          9.3180-4          0.920634          2856000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.7730-3          0.990198          2956000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7730-3          0.985938          2956000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.9600-3          0.979364          2956000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.0820-3          0.970595          2956000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.0410-3          0.963532          2956000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7370-3          0.953312          2956000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3920-3          0.940502          2956000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.0300-3          0.920061          2956000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          4.5490-4          0.992219          2995000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.4580-4          0.986518          2995000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.0300-4          0.980388          2995000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.4980-4          0.971805          2995000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.7170-4          0.964017          2995000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.1620-4          0.954418          2995000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.2430-4          0.941800          2995000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.2240-4          0.921172          2995000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.3930-4          0.991074          3068000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.4540-4          0.985512          3068000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3990-4          0.978613          3068000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.4890-4          0.971751          3068000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3230-4          0.962408          3068000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.0830-4          0.951744          3068000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.3510-5          0.938806          3068000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.9560-5          0.918853          3068000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          9.4310-4          0.990195          3186000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.3480-4          0.985262          3186000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.5450-4 5.3340-5 0.978674          3186000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.4640-4          0.970880          3186000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.8680-4          0.960992          3186000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.0540-4          0.951718          3186000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.5650-4          0.939286          3186000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1430-4          0.921816          3186000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          4.4350-4          0.989508          3320000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.1450-4          0.983954          3320000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.2300-4          0.976304          3320000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.6580-4          0.968813          3320000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.2710-4          0.958472          3320000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.0230-5          0.948837          3320000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.3840-5          0.935875          3320000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.1270-5          0.916384          3320000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.0940-3          0.988199          3491000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.0940-3          0.981717          3491000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.0000-3          0.974562          3491000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.1610-4          0.967073          3491000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.8130-4          0.955901          3491000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.1460-4          0.945297          3491000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.7620-4          0.934689          3491000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.6430-4          0.913240          3491000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          6.9270-5          0.989003          3664000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.4580-5          0.983303          3664000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.4410-5          0.975737          3664000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.1260-5          0.966828          3664000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.4080-5          0.957360          3664000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.5550-5          0.946941          3664000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.1090-5          0.934285          3664000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1960-5          0.915347          3664000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.7460-4          0.988497          3697000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.5610-4          0.983835          3697000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.4620-4          0.975707          3697000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1940-4          0.967586          3697000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.7000-5          0.958343          3697000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.7860-5          0.947991          3697000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.5140-5          0.936483          3697000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.5620-5          0.917831          3697000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          3.3230-5          0.988785          3772000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.4600-5          0.983118          3772000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.9560-5          0.976979          3772000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7530-5          0.968409          3772000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7920-5          0.959398          3772000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3270-5          0.947434          3772000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3030-5          0.936035          3772000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.5560-6          0.915705          3772000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.1930-3          0.990969          3825000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          9.0140-4          0.988694          3825000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.0280-4          0.983385          3825000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.9370-4          0.975684          3825000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.1650-4          0.967361          3825000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.9230-4          0.958750          3825000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.4850-4          0.948146          3825000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1200-4          0.934099          3825000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.2390-5          0.915873          3825000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      9
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          8.8810-4          0.989170          3941000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.0100-4          0.982800          3941000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1760-4          0.975684          3941000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3980-4          0.968169          3941000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.2780-4          0.958750          3941000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.2170-4          0.936366          3941000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.7130-5          0.917157          3941000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      7
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          2.6280-4          0.989453          3963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.2050-4          0.983816          3963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.7790-4          0.976953          3963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.5940-4          0.967476          3963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.2430-4          0.959952          3963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.4350-4          0.948683          3963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1560-4          0.936409          3963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          9.9960-5          0.916370          3963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          2.1010-4          0.990533          4096000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.5100-4          0.988694          4096000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.9800-5          0.981597          4096000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.2200-5          0.975684          4096000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.5740-5          0.966546          4096000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.4830-5          0.957838          4096000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.2220-5          0.945046          4096000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.8360-5          0.931793          4096000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          9.9260-6          0.910655          4096000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      9
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.0400-4          0.988298          4173000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.3640-5          0.983057          4173000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.4250-5          0.975646          4173000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.9960-5          0.967634          4173000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.9960-5          0.958522          4173000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.2980-5          0.948257          4173000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.1750-5          0.935906          4173000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.4920-5          0.916663          4173000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          2.4380-4          0.989724          4251000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.8190-4          0.983603          4251000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.4890-4          0.977468          4251000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.1080-4          0.969616          4251000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7130-4          0.959742          4251000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1310-4          0.949562          4251000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.9420-5          0.938342          4251000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.5370-5          0.918612          4251000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          4.0890-4          0.984977          4285000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.2730-4          0.976413          4285000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.4290-4          0.969184          4285000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.0720-4          0.960108          4285000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.8520-4          0.950965          4285000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.4220-4          0.936507          4285000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.8500-5          0.920348          4285000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      7
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          3.4820-4          0.990619          4407000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.9720-4          0.984783          4407000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.6920-4          0.976874          4407000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.3430-4          0.970460          4407000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.8850-4          0.960721          4407000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.2680-4          0.950657          4407000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.8800-5          0.939466          4407000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.3060-5          0.918757          4407000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.8090-4          0.990517          4478000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.5420-4          0.984650          4478000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3450-4          0.978696          4478000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.0710-4          0.971051          4478000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          9.1280-5          0.960508          4478000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.0560-5          0.951380          4478000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.1100-5          0.939184          4478000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.4330-5          0.920880          4478000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          2.2010-4          0.992589          4845000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.0910-4          0.979984          4845000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7380-4          0.971063          4845000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.3800-4          0.963120          4845000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          9.7790-5          0.952364          4845000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.9450-5          0.941294          4845000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.9030-5          0.920900          4845000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      7
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          4.3400-5          0.992392          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.1750-5          0.990382          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.3100-5          0.984777          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.4940-5          0.977112          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.1310-5          0.971764          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.2860-5          0.960580          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.5970-5          0.949934          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.1620-5          0.939442          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.9390-5          0.918819          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      9
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.4800-4          0.989878          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.9090-4          0.983512          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.8760-4          0.977980          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.5290-4          0.973587          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.2840-4          0.949699          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          9.6510-5          0.936397          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.5550-5          0.914734          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.6400-5          0.892814          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.4210-5          0.869883          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.5260-5          0.840321          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.7140-5          0.812948          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.5240-5          0.780299          4963000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      12
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          1.3660-4          0.989528          5035000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1370-4          0.984003          5035000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.0710-4          0.977951          5035000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.0940-4          0.970279          5035000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.1180-4          0.960702          5035000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.2330-5          0.950586          5035000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.9410-5          0.939340          5035000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.4950-5          0.919252          5035000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          5.5390-5          0.991076          5454000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.2980-5          0.985876          5454000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.5930-5          0.978917          5454000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.5250-5          0.970469          5454000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.4420-5          0.961603          5454000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.4450-5          0.952497          5454000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          2.0370-5          0.941529          5454000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          5.6590-6          0.918881          5454000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      B0064
+#AUTHOR1    G.F.Dell+
+#YEAR       1965
+#INSTITUTE  (1USAOSU)
+#TITLE      Total reaction cross sections in the mass range 45 to
+#+          65
+#AUTHOR(S)  G.F.Dell, W.D.Ploughe, H.J.Hausman
+#REF-CODE   (J,NP,64,513,1965)
+#REFERENCE  Nucl.Phys. 64 (1965) 513 (doi:10.1016/0029-5582(65)90576-6)
+#DATASETS   0
+#
+#DATASET    B0064006 
+#DATE       20220316
+#REACTION   29-CU-65(P,N)30-ZN-65,,SIG
+#PROJ       1001
+#TARG       29065
+#MF         3
+#MT         4
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 1001 29065   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29065   3   4    6750000.          0.499000 0.025000                                       G.F.Dell+            (65)B0064  6 
+#/DATA      1
+#/DATASET

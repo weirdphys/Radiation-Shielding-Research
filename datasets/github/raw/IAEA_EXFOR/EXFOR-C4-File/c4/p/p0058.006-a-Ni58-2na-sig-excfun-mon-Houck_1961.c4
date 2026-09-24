@@ -1,0 +1,29 @@
+#ENTRY      P0058
+#AUTHOR1    F.S.Houck+
+#YEAR       1961
+#INSTITUTE  (1USACOL)
+#TITLE      Reactions of Alpha Particles with Iron-54 and Nickel-58
+#AUTHOR(S)  F.S.Houck, J.M.Miller
+#REF-CODE   (J,PR,123,231,196107)
+#REFERENCE  Phys.Rev. 123 (1961) 231 (doi:10.1103/PhysRev.123.231)
+#DATASETS   0
+#
+#DATASET    P0058006 
+#DATE       20000817
+#REACTION   28-NI-58(A,2N+A)28-NI-56,,SIG
+#PROJ       2004
+#TARG       28058
+#MF         3
+#MT         24
+#PRODUCT    28-NI-56
+#C4BEGIN    [ 2004 28058   3  24  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28058   3  24    3.1100+7          1.9000-5 5.0000-6                                       F.S.Houck+           (61)P0058  6 
+ 2004 28058   3  24    3.3400+7          7.8000-5 5.0000-6                                       F.S.Houck+           (61)P0058  6 
+ 2004 28058   3  24    3.5600+7          2.2200-4                                                F.S.Houck+           (61)P0058  6 
+ 2004 28058   3  24    3.7700+7          4.3500-4                                                F.S.Houck+           (61)P0058  6 
+ 2004 28058   3  24    3.9700+7          6.8100-4                                                F.S.Houck+           (61)P0058  6 
+#/DATA      5
+#/DATASET

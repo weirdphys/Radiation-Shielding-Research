@@ -1,0 +1,629 @@
+dataset_id,evidence_type,domain,nominal_energy_MV,observable,coordinate_name,coordinate_value,value,value_unit,machine
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.6762547638595083e-09,52.879852164910126,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.163974472726264e-09,106.79452790231348,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,5.016519980724491e-09,160.70920363971686,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,7.953753399067081e-09,322.453230851927,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.2607825563262825e-08,644.1441294184337,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.998518906209842e-08,1395.3557375393857,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.168676015334179e-08,3005.607845742965,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,5.0228002382515254e-08,6226.111602636991,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,7.961849716187818e-08,11755.96155597606,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.262360949150341e-07,14546.945522341905,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,2.0014886273220885e-07,6817.376339403646,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.172642739345334e-07,3275.1812244299813,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,5.029087757040172e-07,3542.957447259085,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.0040228048983235e-06,3650.786798733892,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.989991673895776e-06,3542.957447259085,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.1323779175720925e-06,3650.786798733892,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,4.966423258510299e-06,3596.872122996488,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,9.982556151855794e-06,3489.042771521681,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.992482974685319e-05,3435.1280957842782,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.136299389044336e-05,3275.1812244299813,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,4.9714787003425e-05,3221.266548692578,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,7.882339901600095e-05,3435.1280957842782,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0001258548363627,3489.042771521681,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0002512017963476,3812.5308259461017,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0004978865528618,4132.424568654696,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0007894051807609,4509.827298816519,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0012601238088192,4991.465528250454,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.001997474698118,5261.038906937471,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0031448916469437,5368.868258412277,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0049850986459649,6441.770305586605,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0079020873530421,6871.29101514105,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0125288555383979,7460.75813653666,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0198600103888019,8749.319346173732,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0314809290788385,10307.45393449782,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0499133956664596,12455.05564421752,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0791382954650867,14386.998650987603,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.1254454060286549,19325.583867560017,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.1988487343733166,27968.108685831437,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.3152770662692926,36718.46239606453,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.499758770310717,40046.7959639465,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.7921884277336628,38007.0236057016,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.2560243802474098,21203.6121985927,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.9909765232628525,5368.868258412277,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.1559797552679734,1557.0997647515958,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,5.003844259028406,214.62387937712023,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,9.987496531374385,0.7623690464707337,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.3315477442962436e-09,590.2294536810303,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.9960200583942197e-09,698.058805155837,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.163974472726264e-09,965.835487498072,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,5.016519980724491e-09,1395.3557375393857,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,7.953753399067081e-09,2092.6522104098026,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.2607825563262825e-08,2951.6931700055616,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.998518906209842e-08,4348.083271604309,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.168676015334179e-08,5958.335379807888,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,5.0228002382515254e-08,7622.50216374887,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,7.961849716187818e-08,9662.274521993762,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.262360949150341e-07,9072.807400598153,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,2.0014886273220885e-07,3221.266548692578,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.172642739345334e-07,1395.3557375393857,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,5.029087757040172e-07,1557.0997647515958,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,7.973679761161468e-07,1611.0144404889993,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.5803980006838064e-06,1717.0466361058925,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.1323779175720925e-06,1770.9613118432958,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,4.966423258510299e-06,1235.408866185089,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,7.872484219082469e-06,1770.9613118432958,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.2566809847203266e-05,2254.396237622013,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.992482974685319e-05,2470.054940571626,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.136299389044336e-05,2737.8316229138613,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,4.9714787003425e-05,2951.6931700055616,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,7.882339901600095e-05,3059.522521480368,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0001258548363627,3435.1280957842782,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0001994977394372,3704.701474471295,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0003140225582202,4132.424568654696,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0004978865528618,4509.827298816519,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0007894051807609,4885.433332633561,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0012601238088192,5314.953582674874,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.001997474698118,5958.335379807888,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0031448916469437,6709.546987928839,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0049850986459649,7408.64061665717,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0079020873530421,8481.543123344629,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0125288555383979,9608.35984625636,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0198600103888019,10843.006380156028,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0314809290788385,13312.298988442231,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0499133956664596,15459.900698161931,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.0791382954650867,18680.40491456909,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.1254454060286549,24585.860442212062,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.1988487343733166,32477.173652362537,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.3152770662692926,42623.91838322064,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.499758770310717,52177.60122145418,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,0.7921884277336628,42676.03590310013,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.2560243802474098,20130.71015141837,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,1.9909765232628525,4831.518656896157,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,3.1559797552679734,751.9734808932405,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,5.003844259028406,106.79452790231348,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_TRUEBEAM_STX_MATHEW,EXPERIMENTAL,linac_photoneutron_validation,15.0,neutron_fluence_rate_spectrum,energy_center_MeV,9.987496531374385,0.7623690464707337,n cm-2 s-1 per nominal 0.2-decade bin,Varian TrueBeam STx
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.06865e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.2154e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.3823e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.5721e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.78795e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.03345e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.3127e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.6303e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.99145e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.4022e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.8694e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,4.4007e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.00495e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.69225e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,6.4739e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,7.36285e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,8.37385e-10,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,9.5239e-10,2.104243080255545e-06,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.08315e-09,6.709882272565773e-06,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.23185e-09,5.560402440626226e-06,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.401e-09,7.656005672471195e-06,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.5934e-09,1.9555656888568745e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.8122e-09,1.2934673056246052e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.06105e-09,3.5590375553336574e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.3441e-09,2.355188677319685e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.66595e-09,3.9108913819245655e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.032e-09,4.697967572373716e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.44835e-09,5.089380704881568e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.92185e-09,6.731481893592214e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,4.46035e-09,9.730939266972805e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.07285e-09,0.0001648091083615,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.76945e-09,0.0001529043172356,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,6.56165e-09,0.0002629213869443,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,7.46265e-09,0.0003073076081712,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,8.4874e-09,0.0004294094658477,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,9.65285e-09,0.0004460051746697,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.09785e-08,0.0005752099077235,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.2486e-08,0.0007901641362699,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.42005e-08,0.0009893256419056,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.61505e-08,0.0011999789459134,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.8368e-08,0.0014999736823917,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.089e-08,0.0018399677170672,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.37585e-08,0.0018899668398136,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.7021e-08,0.0023899580672775,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.0731e-08,0.0027899510492486,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.49505e-08,0.0032299433294169,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.975e-08,0.0035099384167967,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,4.52085e-08,0.0039799301706127,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.14165e-08,0.0043399238543868,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.84765e-08,0.0044799213980767,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,6.6506e-08,0.0044599217489781,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,7.56385e-08,0.0047699163100057,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,8.60245e-08,0.0046999175381608,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,9.78355e-08,0.0045599199944709,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.1127e-07,0.0044099226262317,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.2655e-07,0.0043599235034853,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.43925e-07,0.0038599322760214,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.6369e-07,0.0034899387676981,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.8617e-07,0.0039999298197113,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.1173e-07,0.0033499412240082,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.40805e-07,0.0031399449084734,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.73875e-07,0.003089945785727,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.1148e-07,0.0031599445575719,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.5425e-07,0.0031899440312197,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,4.02895e-07,0.0032799424521632,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,4.58215e-07,0.0031699443821212,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.2113e-07,0.0030099471893327,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.9269e-07,0.0032599428030647,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,6.74075e-07,0.0032899422767125,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,7.66635e-07,0.0030599463120791,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,8.71905e-07,0.0032399431539661,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,9.9161e-07,0.0031699443821212,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.1278e-06,0.0032899422767125,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.2827e-06,0.0033899405222053,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.4588e-06,0.0034199399958531,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.6591e-06,0.0035199382413459,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.8869e-06,0.0035499377149938,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.146e-06,0.0034599392940503,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.4407e-06,0.0034699391185995,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.77585e-06,0.0035799371886416,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.157e-06,0.0037199347323315,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.5905e-06,0.0037999333287257,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,4.08355e-06,0.0034799389431488,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,4.64425e-06,0.0035699373640923,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.28195e-06,0.0040799284161055,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,6.00725e-06,0.0036699356095851,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,6.83215e-06,0.0037599340305286,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,7.7703e-06,0.0037499342059793,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,8.83725e-06,0.0037199347323315,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.00505e-05,0.0036699356095851,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.14305e-05,0.0039799301706127,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.30005e-05,0.0039399308724156,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.4786e-05,0.0039699303460635,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.6816e-05,0.0039099313987678,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.9125e-05,0.0039499306969649,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.17515e-05,0.0040999280652041,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.4738e-05,0.0041899264861476,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.81345e-05,0.0041199277143026,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.1998e-05,0.0041599270124997,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.6392e-05,0.0042599252579925,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,4.1389e-05,0.0040499289424577,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,4.7072e-05,0.0041099278897534,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.35355e-05,0.0046099191172173,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,6.0887e-05,0.0043199242052882,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,6.9248e-05,0.0043099243807389,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,7.87565e-05,0.004239925608894,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,8.95705e-05,0.0044799213980767,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.000101868,0.0042999245561896,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.000115855,0.0044999210471752,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.000131765,0.0045099208717245,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00014986,0.0046499184154144,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00017044,0.0045599199944709,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.000193845,0.0049099138536956,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00022046,0.0052499078883711,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00025073,0.0049199136782449,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00028516,0.0047999157836536,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.000324315,0.0050799108710334,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00036885,0.0054199049057088,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.0004195,0.0050599112219348,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.000477105,0.0049799126255406,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00054262,0.004959912976442,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.000617125,0.0051699092919769,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.000701865,0.0054399045548074,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.000798245,0.005319906660216,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.000907855,0.0054199049057088,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00103,0.0054299047302581,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00117,0.0056699005194408,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00134,0.0058798968349756,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00152,0.0057198996421872,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00173,0.0059398957822713,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00196,0.0059498956068206,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00223,0.0058998964840742,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00254,0.0060798933259612,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00289,0.0053699057829624,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00329,0.0059598954313698,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00374,0.0066698829743686,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00425,0.0072698724473253,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00484,0.0067598813953121,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.0055,0.0075298678856065,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00625,0.0068798792899035,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00711,0.0073098717455224,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.00809,0.0074098699910152,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.0092,0.0075698671838037,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.01046,0.0078898615693806,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.0119,0.0080598585867183,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.01354,0.0087198470069707,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.0154,0.0093498359535752,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.01751,0.0093398361290259,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.01991,0.0096698303391521,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.02265,0.0101598217420668,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.02576,0.0110098068287554,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.0293,0.0114897984071208,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.03332,0.0117097945472049,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.03789,0.0120497885818804,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.0431,0.0132697671768923,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.04901,0.0149797371748189,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.05574,0.0135297626151736,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.0634,0.014729741561087,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.0721,0.0163997122608164,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.082,0.0163397133135208,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.09326,0.0165897089272527,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.10607,0.0188696689244882,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.12064,0.0215896212018919,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.1372,0.0203896422559785,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.15604,0.0237695829536346,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.17747,0.0191796634855158,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.20184,0.0179196855923068,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.22955,0.0187696706789954,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.26107,0.0184196768197707,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.29692,0.0198296520812189,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.33769,0.0188896685735868,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.38406,0.0146797424383406,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.4368,0.0135697619133707,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.49678,0.0169897019092239,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.56499,0.0153997298058886,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.64257,0.0145397448946507,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.7308,0.0133597655978358,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.83115,0.0113997999861773,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,0.94528,0.0083398536740981,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.07505,0.0060398940277641,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.2227,0.0049999122746391,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.3906,0.0038199329778243,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.58155,0.0029699478911356,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,1.79875,0.0019999649098556,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.0457,0.0012799775423076,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.3266,0.0008944663062487,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,2.6461,0.0004473321513874,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.00945,0.0002603474321053,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.4227,8.750866462722582e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,3.89265,4.843435020092068e-05,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,4.42715,0.0001114800440402,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.0351,2.679452987979134e-06,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,5.7265,1.8584273931851845e-06,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,6.5128,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,7.4071,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,8.4242,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,9.5807,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,10.8965,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,12.393,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,SIMULATED,linac_photoneutron_code_to_code,15.0,PHITS_head_neutron_source_probability,energy_MeV,14.0945,0.0,probability,Varian TrueBeam
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,linac_photoneutron_validation,15.0,thermal_neutron_fluence_per_delivered_Gy,position_id,P1,159300.0,n cm-2 Gy-1,Varian TrueBeam
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,linac_photoneutron_validation,15.0,thermal_neutron_fluence_per_delivered_Gy,position_id,P2,160300.0,n cm-2 Gy-1,Varian TrueBeam
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,linac_photoneutron_validation,15.0,thermal_neutron_fluence_per_delivered_Gy,position_id,P3,193600.0,n cm-2 Gy-1,Varian TrueBeam
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,linac_photoneutron_validation,15.0,thermal_neutron_fluence_per_delivered_Gy,position_id,P4,141600.0,n cm-2 Gy-1,Varian TrueBeam
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,linac_photoneutron_validation,15.0,thermal_neutron_fluence_per_delivered_Gy,position_id,P5,114900.0,n cm-2 Gy-1,Varian TrueBeam
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,linac_photoneutron_validation,15.0,thermal_neutron_fluence_per_delivered_Gy,position_id,P1,43600.0,n cm-2 Gy-1,Elekta Synergy
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,linac_photoneutron_validation,15.0,thermal_neutron_fluence_per_delivered_Gy,position_id,P2,39500.0,n cm-2 Gy-1,Elekta Synergy
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,linac_photoneutron_validation,15.0,thermal_neutron_fluence_per_delivered_Gy,position_id,P3,39600.0,n cm-2 Gy-1,Elekta Synergy
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,linac_photoneutron_validation,15.0,thermal_neutron_fluence_per_delivered_Gy,position_id,P4,41200.0,n cm-2 Gy-1,Elekta Synergy
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,linac_photoneutron_validation,15.0,thermal_neutron_fluence_per_delivered_Gy,position_id,P5,27300.0,n cm-2 Gy-1,Elekta Synergy
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,0.0,62.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,0.5,86.2,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,1.0,96.7,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,1.5,100.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,2.0,100.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,2.4,100.0,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,2.5,99.9,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,3.0,98.6,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,3.5,97.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,4.0,95.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,4.5,93.8,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,5.0,92.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,5.5,90.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,6.0,89.0,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,6.5,87.4,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,7.0,85.8,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,7.5,84.3,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,8.0,82.7,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,8.5,81.2,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,9.0,79.7,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,9.5,78.2,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,10.0,76.9,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,10.5,75.4,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,11.0,73.9,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,11.5,72.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,12.0,71.2,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,12.5,69.7,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,13.0,68.4,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,13.5,67.2,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,14.0,65.9,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,14.5,64.7,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,15.0,63.4,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,15.5,62.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,16.0,61.0,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,16.5,59.7,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,17.0,58.6,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,17.5,57.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,18.0,56.3,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,18.5,55.3,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,19.0,54.2,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,19.5,53.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,20.0,52.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,20.5,51.0,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,21.0,50.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,21.5,49.0,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,22.0,48.0,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,22.5,47.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,23.0,46.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,23.5,45.2,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,24.0,44.3,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,24.5,43.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,25.0,42.6,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,25.5,41.7,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,26.0,40.9,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,26.5,40.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,27.0,39.3,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,27.5,38.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,28.0,37.7,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,28.5,37.0,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,29.0,36.3,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,29.5,35.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,30.0,34.9,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,30.5,34.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,31.0,33.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,31.5,32.8,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,32.0,32.1,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,32.5,31.5,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,33.0,30.9,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,33.5,30.3,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,34.0,29.7,percent,Varian TrueBeam #9999
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,10.0,percent_depth_dose,depth_cm,34.5,29.1,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,0.0,63.4,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,0.5,86.6,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,1.0,97.7,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,1.5,101.4,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,2.0,101.9,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,2.5,101.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,3.0,100.0,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,3.5,98.5,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,4.0,96.8,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,4.5,95.2,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,5.0,93.5,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,5.5,92.0,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,6.0,90.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,6.5,88.7,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,7.0,87.2,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,7.5,85.8,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,8.0,84.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,8.5,82.8,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,9.0,81.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,9.5,79.8,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,10.0,78.4,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,10.5,77.0,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,11.0,75.6,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,11.5,74.2,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,12.0,72.9,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,12.5,71.5,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,13.0,70.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,13.5,69.0,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,14.0,67.7,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,14.5,66.4,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,15.0,65.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,15.5,64.0,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,16.0,62.9,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,16.5,61.7,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,17.0,60.5,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,17.5,59.4,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,18.0,58.4,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,18.5,57.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,19.0,56.2,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,19.5,55.1,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,20.0,54.0,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,20.5,53.1,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,21.0,52.1,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,21.5,51.1,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,22.0,50.2,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,22.5,49.2,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,23.0,48.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,23.5,47.4,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,24.0,46.5,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,24.5,45.7,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,25.0,44.7,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,25.5,44.0,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,26.0,43.2,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,26.5,42.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,27.0,41.5,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,27.5,40.8,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,28.0,40.0,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,28.5,39.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,29.0,38.5,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,29.5,37.7,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,30.0,37.1,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,30.5,36.3,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,31.0,35.7,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,31.5,35.0,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,32.0,34.4,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,32.5,33.7,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,33.0,33.1,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,33.5,32.5,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,34.0,31.9,percent,Varian TrueBeam #9999
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,15.0,percent_depth_dose,depth_cm,34.5,31.3,percent,Varian TrueBeam #9999
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,0.0,58.952009,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,1.0,93.964901,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,2.0,100.849206,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,3.0,99.651501,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,4.0,96.956666,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,5.0,93.964901,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,6.0,90.673709,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,7.0,87.681943,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,8.0,84.388256,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,9.0,81.39649,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,10.0,78.70415,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,11.0,75.709889,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,12.0,73.01755,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,13.0,70.32521,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,14.0,67.929801,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,15.0,65.237461,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,16.0,63.141479,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,17.0,86.783665,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,18.0,58.355652,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,19.0,55.960243,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,20.0,54.166181,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,21.0,52.070199,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,22.0,49.974216,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,23.0,48.180155,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,24.0,46.383598,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,25.0,44.589536,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,26.0,43.092406,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,27.0,41.298345,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,28.0,39.801214,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,29.0,38.304084,percent,Varian 21iX Clinac
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,photon_beam_validation,16.0,percent_depth_dose,depth_cm,30.0,36.809449,percent,Varian 21iX Clinac
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,0.0,56.511116,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,0.5,74.823955,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,1.0,90.117591,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,1.5,96.477802,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,2.0,99.324611,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,2.5,99.998156,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,3.0,99.472416,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,3.5,98.537349,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,4.0,97.108847,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,4.5,95.636828,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,5.0,93.961803,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,5.5,92.366171,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,6.0,90.795591,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,6.5,89.243281,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,7.0,87.613993,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,7.5,86.109153,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,8.0,84.544976,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,8.5,83.214051,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,9.0,81.617707,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,9.5,80.169447,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,10.0,78.790658,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,10.5,77.311819,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,11.0,75.969065,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,11.5,74.623074,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,12.0,73.229347,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,12.5,71.860438,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,13.0,70.66626,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,13.5,69.298136,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,14.0,68.110749,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,14.5,66.835481,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,15.0,65.595402,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,15.5,64.293104,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,16.0,63.133575,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,16.5,62.00494,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,17.0,60.861386,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,17.5,59.812696,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,18.0,58.698584,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,18.5,57.554867,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,19.0,56.48655,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,19.5,55.456053,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,20.0,54.441225,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,20.5,53.384729,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,21.0,52.423608,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,21.5,51.436241,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,22.0,50.469592,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,22.5,49.536671,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,23.0,48.67433,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,23.5,47.717982,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,24.0,46.90914,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,24.5,45.971539,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,25.0,45.098885,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,25.5,44.252161,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,26.0,43.434981,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,26.5,42.595361,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,27.0,41.90494,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,27.5,41.04499,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,28.0,40.289357,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,28.5,39.533727,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,29.0,38.810865,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,29.5,38.105816,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,30.0,37.385204,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,30.5,36.675689,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,31.0,35.952244,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,31.5,35.269084,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,32.0,34.651349,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,32.5,34.038368,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,33.0,33.371824,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,33.5,32.704467,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,34.0,32.124577,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,34.5,31.529759,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,35.0,30.925534,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,35.5,30.397494,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,36.0,29.796136,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,36.5,29.252748,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,37.0,28.700504,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,37.5,28.181705,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,38.0,27.662698,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,38.5,27.154406,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,39.0,26.637721,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,39.5,26.127085,percent,Siemens Oncor
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,photon_beam_validation,18.0,percent_depth_dose,depth_cm,40.0,25.659329,percent,Siemens Oncor
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,0.0,72.4,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,0.5,94.8,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,1.0,100.1,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,1.5,100.0,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,2.0,98.5,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,2.5,96.8,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,3.0,95.2,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,3.5,93.6,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,4.0,91.9,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,4.5,90.1,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,5.0,88.5,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,5.5,86.7,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,6.0,84.9,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,6.5,83.3,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,7.0,81.6,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,7.5,80.0,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,8.0,78.4,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,8.5,76.8,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,9.0,75.2,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,9.5,73.5,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,10.0,72.0,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,10.5,70.5,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,11.0,69.0,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,11.5,67.5,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,12.0,65.9,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,12.5,64.6,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,13.0,63.2,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,13.5,61.8,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,14.0,60.4,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,14.5,59.1,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,15.0,57.8,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,15.5,56.5,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,16.0,55.2,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,16.5,54.0,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,17.0,52.7,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,17.5,51.5,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,18.0,50.5,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,18.5,49.3,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,19.0,48.1,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,19.5,47.0,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,20.0,45.9,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,20.5,44.9,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,21.0,43.8,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,21.5,42.9,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,22.0,41.9,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,22.5,41.0,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,23.0,40.0,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,23.5,39.1,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,24.0,38.2,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,24.5,37.3,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,25.0,36.4,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,25.5,35.5,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,26.0,34.7,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,26.5,33.9,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,27.0,33.1,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,27.5,32.3,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,28.0,31.6,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,28.5,30.8,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,29.0,30.2,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,29.5,29.4,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,30.0,28.8,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,30.5,28.1,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,31.0,27.5,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,31.5,26.8,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,32.0,26.2,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,32.5,25.6,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,33.0,25.0,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,33.5,24.4,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,34.0,23.8,percent,Varian TrueBeam #9999
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,photon_beam_validation,6.0,percent_depth_dose,depth_cm,34.5,23.3,percent,Varian TrueBeam #9999

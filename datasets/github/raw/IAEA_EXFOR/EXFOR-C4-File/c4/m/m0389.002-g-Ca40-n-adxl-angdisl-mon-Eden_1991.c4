@@ -1,0 +1,32 @@
+#ENTRY      M0389
+#AUTHOR1    J.A.Eden+
+#YEAR       1991
+#INSTITUTE  (2JPNTOH)
+#TITLE      Ca-40 photoneutron  cross  section  above  the  giant
+#+          dipole resonance.
+#AUTHOR(S)  J.A.Eden, G.J.O'keefe, R.P.Rassool, D.J.Mc.upper()ean, 
+#+          M.N.Thompson, T.Suda, I.Nomura, J.Yokokawa, O.Konno, T.Terasawa, 
+#+          Y.Torizuka
+#REF-CODE   (J,PR/C,44,753,1991)
+#REFERENCE  Phys.Rev.C 44 (1991) 753 (doi:10.1103/PhysRevC.44.753)
+#DATASETS   0
+#
+#DATASET    M0389002 
+#DATE       20161018
+#REACTION   20-CA-40(G,N)20-CA-39,,DA
+#PROJ       0
+#TARG       20040
+#MF         4
+#MT         4
+#PRODUCT    20-CA-39
+#C4BEGIN    [    0 20040   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 20040   4   4    4.0650+7 6950000. 5.9200-5          0.707107                              J.A.Eden+            (91)M0389  2 
+    0 20040   4   4    4.0650+7 6950000. 4.4800-5          0.500000                              J.A.Eden+            (91)M0389  2 
+    0 20040   4   4    4.0650+7 6950000. 7.1200-5          0.258819                              J.A.Eden+            (91)M0389  2 
+    0 20040   4   4    4.0650+7 6950000. 4.4400-5          6.123-17                              J.A.Eden+            (91)M0389  2 
+    0 20040   4   4    4.0650+7 6950000. 4.6000-6         -0.707107                              J.A.Eden+            (91)M0389  2 
+#/DATA      5
+#/DATASET

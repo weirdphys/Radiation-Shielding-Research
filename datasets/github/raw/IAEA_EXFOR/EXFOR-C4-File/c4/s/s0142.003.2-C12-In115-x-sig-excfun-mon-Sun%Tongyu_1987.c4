@@ -1,0 +1,33 @@
+#ENTRY      S0142
+#AUTHOR1    Sun Tongyu+
+#YEAR       1987
+#INSTITUTE  (3CPRIMP)
+#TITLE      Recoil study of residual nuclei I and Sb in the
+#+          reaction induced by 12C on 115In
+#AUTHOR(S)  Sun Tongyu, Li Wenxin, Dong Tianrong, Jin Genming, Fu Ming, 
+#+          Sun Xiuhua, Sun Xijun
+#REF-CODE   (J,PHE,11,660,1987)
+#REFERENCE  High En.Nucl.Phy.Ch. 11 (1987) 660
+#DATASETS   0
+#
+#DATASET    S01420032
+#DATE       20151021
+#REACTION   49-IN-115(6-C-12,X)51-SB-116-M,,SIG
+#PROJ       6012
+#TARG       49115
+#MF         3
+#MT         454
+#PRODUCT    51-SB-116-M
+#C4BEGIN    [ 6012 49115   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 49115   3 454    4.7201+7          4.3011-5 1.3470-5           51116.7                     Sun Tongyu+          (87)S0142  32
+ 6012 49115   3 454    5.3783+7          1.4721-4 5.3018-5           51116.7                     Sun Tongyu+          (87)S0142  32
+ 6012 49115   3 454    6.0747+7          3.1071-4 6.9605-5           51116.7                     Sun Tongyu+          (87)S0142  32
+ 6012 49115   3 454    6.2750+7          4.3391-4 8.7949-5           51116.7                     Sun Tongyu+          (87)S0142  32
+ 6012 49115   3 454    6.6327+7          6.7335-4 1.5811-4           51116.7                     Sun Tongyu+          (87)S0142  32
+ 6012 49115   3 454    6.9713+7          8.0983-4 1.5562-4           51116.7                     Sun Tongyu+          (87)S0142  32
+ 6012 49115   3 454    7.2194+7          8.2419-4 1.8463-4           51116.7                     Sun Tongyu+          (87)S0142  32
+#/DATA      7
+#/DATASET

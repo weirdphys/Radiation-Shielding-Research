@@ -1,0 +1,31 @@
+{
+  "dataset_id": "NVAL_15MV_ZAMORANO_PHITS_SOURCE",
+  "case_id": "NVAL_15MV_ZAMORANO_PHITS_SOURCE",
+  "title": "Zamorano Digital.CSIC PHITS 15 MV TrueBeam head photoneutron source spectrum",
+  "evidence_type": "SIMULATED",
+  "source_replication_archive": {
+    "filename": "Replication data for Out-of-field thermal neutron characterization with thin 3D-silicon detectors in Varian TrueBeam and Elekta Synergy LINACs(1).zip",
+    "sha256": "e805c3fc2f200c07c0017cf093a8fa181b73ca61fffb6f07f6bbdd1fea072053",
+    "size_bytes": 14969
+  },
+  "source_paper": {
+    "filename": "Out-of-field_thermal_neutron_characterization_with.pdf",
+    "sha256": "f9acf18733585bfc296843f35e4967a162f78eecf22169ac42362666a3905ec8",
+    "size_bytes": 2638101
+  },
+  "doi": "10.1088/1361-6560/adedf6",
+  "repository_handle": "10261/395538",
+  "nominal_photon_energy_MV": 15,
+  "simulation_contract": {
+    "code": "PHITS",
+    "flattening_filter": true,
+    "source_scoring": "represented and tallied on a 66 cm radius sphere according to replication README",
+    "raw_file": "Fig8-NP_TB15MV.txt",
+    "probability_semantics": "N crossing sphere surface / total"
+  },
+  "canonical_file": "/mnt/data/phase1_remaining_data/processed/datasets/NVAL_15MV_ZAMORANO_PHITS_SOURCE/canonical_PHITS_head_neutron_source_spectrum.csv",
+  "canonical_csv": "/mnt/data/phase1_remaining_data/processed/datasets/NVAL_15MV_ZAMORANO_PHITS_SOURCE/canonical_PHITS_head_neutron_source_spectrum.csv",
+  "row_count": 200,
+  "raw_probability_sum": 1.00001754538,
+  "extraction_notes": "All 200 numeric rows parsed directly from the replication text file. Raw probabilities are preserved verbatim; a separate renormalized_probability column is provided as a derived convenience. This dataset is SIMULATED and must not be used as experimental truth."
+}

@@ -1,0 +1,32 @@
+#ENTRY      M0119
+#AUTHOR1    A.S.Alimov+
+#YEAR       1984
+#INSTITUTE  (4RUSMOS)
+#TITLE      Reactions Be-9(gamma,gamma'), B-11(gamma,gamma'), and
+#+          B-11(gamma,x gamma').
+#AUTHOR(S)  A.S.Alimov, V.I.Mokeev, E.S.Omarov, I.M.Piskarev
+#REF-CODE   (J,YF,40,301,1984)
+#REFERENCE  Yad.Fiz. 40 (1984) 301
+#DATASETS   0
+#
+#DATASET    M0119006 
+#DATE       20121101
+#REACTION   5-B-11(G,N)5-B-10,PAR,DA,G,BRS
+#PROJ       0
+#TARG       5011
+#MF         14
+#MT         50
+#PRODUCT    5-B-10
+#C4BEGIN    [    0  5011  14  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  5011  14  50 A  1.9000+7          2.0000-7 1.1000-6-0.707107          1740000.            A.S.Alimov+          (84)M0119  6 
+    0  5011  14  50 A  2.0100+7          3.5000-6 6.0000-7-0.707107          1740000.            A.S.Alimov+          (84)M0119  6 
+    0  5011  14  50 A  2.1200+7          1.9000-6 6.0000-7-0.707107          1740000.            A.S.Alimov+          (84)M0119  6 
+    0  5011  14  50 A  2.2100+7          1.7000-6 5.0000-7-0.707107          1740000.            A.S.Alimov+          (84)M0119  6 
+    0  5011  14  50 A  2.3200+7          9.0000-7 4.0000-7-0.707107          1740000.            A.S.Alimov+          (84)M0119  6 
+    0  5011  14  50 A  2.4300+7          5.0000-7 7.0000-7-0.707107          1740000.            A.S.Alimov+          (84)M0119  6 
+    0  5011  14  50 A  2.5900+7          3.0000-7 7.0000-7-0.707107          1740000.            A.S.Alimov+          (84)M0119  6 
+#/DATA      7
+#/DATASET

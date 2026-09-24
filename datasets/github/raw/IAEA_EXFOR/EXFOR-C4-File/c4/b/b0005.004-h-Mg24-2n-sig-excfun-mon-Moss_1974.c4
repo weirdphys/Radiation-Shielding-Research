@@ -1,0 +1,31 @@
+#ENTRY      B0005
+#AUTHOR1    C.E.Moss+
+#YEAR       1974
+#INSTITUTE  (1USACLU)
+#TITLE      (HE-3,2N) Excitation Functions For Some Light Nuclei.
+#AUTHOR(S)  C.E.Moss, C.S.Zaidins
+#REF-CODE   (J,NP/A,235,11,1974)
+#REFERENCE  Nucl.Phys.A 235 (1974) 11 (doi:10.1016/0375-9474(74)90175-4)
+#DATASETS   0
+#
+#DATASET    B0005004 
+#DATE       20011220
+#REACTION   12-MG-24(HE3,2N)14-SI-25,,SIG,,,EXP
+#PROJ       2003
+#TARG       12024
+#MF         3
+#MT         16
+#PRODUCT    14-SI-25
+#C4BEGIN    [ 2003 12024   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 12024   3  16    2.5000+7          4.0600-5 6.4000-6                                       C.E.Moss+            (74)B0005  4 
+ 2003 12024   3  16    2.6700+7          9.6100-5 9.1000-6                                       C.E.Moss+            (74)B0005  4 
+ 2003 12024   3  16    2.9500+7          2.6600-4 2.4600-5                                       C.E.Moss+            (74)B0005  4 
+ 2003 12024   3  16    3.2900+7          3.1700-4 1.9800-5                                       C.E.Moss+            (74)B0005  4 
+ 2003 12024   3  16    3.7400+7          4.9100-4 2.7200-5                                       C.E.Moss+            (74)B0005  4 
+ 2003 12024   3  16    4.0800+7          5.4400-4 5.8200-5                                       C.E.Moss+            (74)B0005  4 
+ 2003 12024   3  16    4.3000+7          5.0400-4 3.9000-5                                       C.E.Moss+            (74)B0005  4 
+#/DATA      7
+#/DATASET

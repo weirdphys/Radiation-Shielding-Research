@@ -1,0 +1,6 @@
+beam,source_model_id,reference,machine,field_cm,ssd_cm,pdd,profile,status
+6MV,PROJECT_6MV_40x40,"Ben Hdech 2011, HAL tel-00683748, Figure 62",Varian 2100CD,40x40,100.0,"Figure 62 experimental black curve, 40x40 cm2","Figure 62 experimental black curve, 40x40 cm2, depth 10 cm",FROZEN_BEFORE_DIGITIZATION
+10MV,PROJECT_10MV_40x40,"Araki 2005, Varian Clinac 2100C measured 10 MV beam data",Varian Clinac 2100C,40x40,100.0,"Figure 3(d) measured 10 MV depth-dose, 40x40 cm2","Figure 5(d) measured 10 MV dose profile, 40x40 cm2, depth 10 cm",FROZEN_BEFORE_DIGITIZATION
+15MV,PROJECT_15MV_40x40,"Tian et al. 2017, PMCID PMC5689963, DOI 10.1002/acm2.12049, Varian TrueBeam 15 MV FF",Varian TrueBeam,40x40,100.0,"Figure 4 measured 15 MV FF depth-dose, 40x40 cm2","Figure 5 measured 15 MV FF cross-line profile, 40x40 cm2, depth 10 cm; shallow profile excluded",FROZEN_BEFORE_DIGITIZATION
+16MV,PROJECT_16MV_40x40,"Ben Hdech 2011, HAL tel-00683748, Figure 62",Varian 2100CD,40x40,100.0,"Figure 62 experimental black curve, 40x40 cm2","Figure 62 experimental black curve, 40x40 cm2, depth 10 cm",FROZEN_BEFORE_DIGITIZATION
+18MV,PROJECT_18MV_40x40,"Ben Hdech 2011, HAL tel-00683748, Figure 62",Varian 2100CD,40x40,100.0,"Figure 62 experimental black curve, 40x40 cm2","Figure 62 experimental black curve, 40x40 cm2, depth 10 cm",FROZEN_BEFORE_DIGITIZATION

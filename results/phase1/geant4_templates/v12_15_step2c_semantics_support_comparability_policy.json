@@ -1,0 +1,17 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "purpose": "Correct Step 2C quantity semantics, two-sided support accounting and reference comparability without changing production source arrays or transport physics.",
+  "geant4_transport_change_relative_to_v12_12": "NONE",
+  "p001_change_relative_to_v12_12": "NONE",
+  "neutron_change_relative_to_v12_12": "NONE",
+  "photon_pdd_change_relative_to_v12_12": "NONE",
+  "agreement_threshold_changes": "NONE",
+  "history_floor_changes": "NONE",
+  "source_probability_array_changes": "NONE",
+  "spectral_shape_threshold_changes": "NONE",
+  "support_threshold_numeric_change": "NONE; existing 0.95 threshold is applied symmetrically to energy-fluence support",
+  "strict_comparability_policy": "cross-machine or unresolved-machine references are diagnostic/corroborative and cannot alone promote SPECTRAL_VALIDATED",
+  "step2c_change": "Convert production photon-number probability mass to energy-fluence mass before comparison; require symmetric 95% energy-fluence support; report comparability separately and keep cross-machine references corroborative.",
+  "bibliographic_evidence_can_pass_gate": false,
+  "figure_only_evidence_can_pass_gate": false
+}

@@ -1,0 +1,31 @@
+#ENTRY      B0112
+#AUTHOR1    K.C.Chan+
+#YEAR       1977
+#INSTITUTE  (1CANMCG)
+#TITLE      Independent Yields of Indium and Gallium in the Proton
+#+          Induced Fission of Natural Uranium
+#AUTHOR(S)  K.C.Chan, B.P.Pathak, L.Nikkinen, L.Lessard, I.S.Grant
+#REF-CODE   (J,JIN,39,1915,1977)
+#REFERENCE  J.Inorg.Nucl.Chem. 39 (1977) 1915 (doi:10.1016/0022-1902(77)80516-2)
+#DATASETS   0
+#
+#DATASET    B0112003 
+#DATE       20011220
+#REACTION   92-U-0(P,F)ELEM/MASS,IND,SIG,,,EXP
+#PROJ       1001
+#TARG       92000
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 92000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92000   3 454    9.7600+7          1.7000-3 4.0000-4           31074.9                     K.C.Chan+            (77)B0112  3 
+ 1001 92000   3 454    9.7600+7          2.1000-3 3.0000-4           31075.9                     K.C.Chan+            (77)B0112  3 
+ 1001 92000   3 454    9.7600+7          2.3000-3 3.0000-4           31076.9                     K.C.Chan+            (77)B0112  3 
+ 1001 92000   3 454    9.7600+7          2.1000-3 3.0000-4           31077.9                     K.C.Chan+            (77)B0112  3 
+ 1001 92000   3 454    9.7600+7          1.2000-3 2.0000-4           31078.9                     K.C.Chan+            (77)B0112  3 
+ 1001 92000   3 454    9.7600+7          3.0000-4 4.0000-4           31079.9                     K.C.Chan+            (77)B0112  3 
+ 1001 92000   3 454    9.7600+7          2.0000-4 5.0000-4           31080.9                     K.C.Chan+            (77)B0112  3 
+#/DATA      7
+#/DATASET

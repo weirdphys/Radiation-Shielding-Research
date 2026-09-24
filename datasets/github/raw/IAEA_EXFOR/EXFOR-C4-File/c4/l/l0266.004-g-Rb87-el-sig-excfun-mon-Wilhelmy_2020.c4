@@ -1,0 +1,48 @@
+#ENTRY      L0266
+#AUTHOR1    J.Wilhelmy+
+#YEAR       2020
+#INSTITUTE  (2GERKLN)
+#TITLE      Dipole response of 87Rb and its impact on the
+#+          86Rb(n,g)87Rb cross section
+#AUTHOR(S)  J.Wilhelmy, M.Muscher, G.Rusev, R.Schwengner, R.Beyer, M.Bhike, 
+#+          P.Erbacher, F.Fiedler, U.Friman-Gayer, J.Glorius, R.Greifenhagen, 
+#+          S.Hammer, T.Hensel, J.Isaak, A.R.Junghans, Krishichayan, 
+#+          B.Loher, S.E.Muller, N.Pietralla, S.Reinicke, D.Savran, 
+#+          P.Scholz, K.Sonnabend, T.Szucs, M.Tamkas, W.Tornow, S.Turkat, 
+#+          A.Wagner, A.Zilges
+#REF-CODE   (J,PR/C,102,044327,2020)
+#REFERENCE  Phys.Rev.C 102 (2020) 044327 (doi:10.1103/PhysRevC.102.044327)
+#DATASETS   0
+#
+#DATASET    L0266004 
+#DATE       20210813
+#REACTION   37-RB-87(G,EL)37-RB-87,,SIG
+#PROJ       0
+#TARG       37087
+#MF         3
+#MT         2
+#PRODUCT    37-RB-87
+#C4BEGIN    [    0 37087   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 37087   3   2    5109000.          2.9000-4 5.0000-5                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    5303000.          7.0000-5 1.0000-5                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    5500000.          1.8000-4 3.0000-5                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    5751000.          2.0000-4 3.0000-5                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    5995000.          1.4800-3 2.1000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    6245000.          2.9300-3 2.7000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    6493000.          2.6600-3 4.3000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    6789000.          3.2800-3 2.9000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    6988000.          2.4200-3 2.3000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    7238000.          2.2200-3 2.3000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    7488000.          2.0500-3 2.3000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    7784000.          2.2500-3 2.5000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    8088000.          3.2100-3 3.0000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    8391000.          3.8100-3 4.1000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    8691000.          3.1000-3 4.8000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    8994000.          3.6600-3 5.2000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    9287000.          4.4300-3 5.4000-4                                       J.Wilhelmy+          (20)L0266  4 
+    0 37087   3   2    9534000.          4.1200-3 1.8100-3                                       J.Wilhelmy+          (20)L0266  4 
+#/DATA      18
+#/DATASET

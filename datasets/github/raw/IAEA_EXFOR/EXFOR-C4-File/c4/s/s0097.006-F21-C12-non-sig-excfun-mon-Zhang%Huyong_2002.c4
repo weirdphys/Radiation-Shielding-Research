@@ -1,0 +1,28 @@
+#ENTRY      S0097
+#AUTHOR1    Zhang Huyong+
+#YEAR       2002
+#INSTITUTE  (3CPRNRS)
+#TITLE      Measurements of reaction cross section for F isotopes
+#+          and possible proton skin structure for 17F
+#AUTHOR(S)  Zhang Huyong, Shen Wenqing, Ma Yugang, Cai Xiangzhou, Fang Deqing, 
+#+          Zhong Chen, Yu Liping, Zhan Wenlong, Guo Zhongyan, Xiao Guoqing, 
+#+          Wang Jiansong, Wang Jinchuan, Li Jiaxing, Wang Meng, Wang Jianfeng, 
+#+          Ning Zhenjiang, Wang Quanjin, Chen Zhiqiang
+#REF-CODE   (J,PHE,26,35,2002)
+#REFERENCE  High En.Nucl.Phy.Ch. 26 (2002) 35
+#DATASETS   0
+#
+#DATASET    S0097006 
+#DATE       20141027
+#REACTION   6-C-12(9-F-21,NON),,SIG
+#PROJ       9021
+#TARG       6012
+#MF         3
+#MT         3
+#C4BEGIN    [ 9021  6012   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9021  6012   3   3    6.3000+8          1.616000 0.025000                                       Zhang Huyong+        (02)S0097  6 
+#/DATA      1
+#/DATASET

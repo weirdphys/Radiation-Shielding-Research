@@ -1,0 +1,17 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "audit_policy_id": "V12_16_SOURCE_CONSTRUCTION_AUDIT_V1",
+  "audit_complete": true,
+  "phase1_complete": false,
+  "production_sources_unchanged": true,
+  "zero_new_photon_pdd_transport": true,
+  "all_required_pdd_reused_or_recovered": true,
+  "ten_mv_exact_derivation_reproduced": true,
+  "fifteen_sixteen_derivation_status_explicit": true,
+  "sr02_numeric_reference_count": 4,
+  "simulated_sanity_references_blocked_from_step2c": true,
+  "measured_holdout_numeric_hashes_clean": true,
+  "source_reconstruction_decisions_complete": true,
+  "step2c_status": "FAIL/PENDING \u2014 independent measured source-spectrum evidence is present and numerically evaluated for all five Phase-I production sources. Symmetric support fails for PROJECT_6MV_40x40, PROJECT_10MV_40x40. Measured shape thresholds pass but strict machine/field comparability remains unresolved for PROJECT_16MV_40x40. v12.16 therefore audits construction provenance and dependencies without changing spectra; TVL/PDD surrogates remain nonqualifying.",
+  "next_release_policy": "Only a later source-changing release may reconstruct proven-defective/unreproducible sources; rerun expensive PDD once only after final source arrays are frozen."
+}

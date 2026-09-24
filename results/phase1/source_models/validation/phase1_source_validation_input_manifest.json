@@ -1,0 +1,127 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "case_file": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/metadata/production_source_validation_cases.csv",
+  "case_file_sha256": "4e9e03efa918d60c94d29f8be8868f43bf63faee884c96fa8dffcc5c27bdbafe",
+  "inputs": [
+    {
+      "evidence_id": "PVAL_6MV_TRUEBEAM_40x40_LANDAUER__PDD",
+      "role": "reference_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/production_source_validation/datasets/PVAL_6MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+      "sha256": "a89ed290287c5668c13a03e458313774d9118701e61f222ddcaba4fec4118e46"
+    },
+    {
+      "evidence_id": "PVAL_6MV_TRUEBEAM_40x40_LANDAUER__PDD",
+      "role": "mc_result_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/mc_results/PROJECT_6MV_40x40__PDD.csv",
+      "sha256": "537a690124ceb64386cbe30dceefc4a575b98dbe82748fbd21749062696adf38"
+    },
+    {
+      "evidence_id": "PVAL_6MV_TRUEBEAM_40x40_LANDAUER__PDD",
+      "role": "mc_provenance_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_raw/provenance/PDD_PROJECT_6MV_40x40.json",
+      "sha256": "1fff7d5db33e75127500995bc2f607907ab479c4dc7056762cc0d8b5b49be2aa"
+    },
+    {
+      "evidence_id": "PVAL_10MV_TRUEBEAM_40x40_LANDAUER__PDD",
+      "role": "reference_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/production_source_validation/datasets/PVAL_10MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+      "sha256": "49ac8b5e48eba547713e66ec5eaece842f601524d503e10a4838ca8b698ee64b"
+    },
+    {
+      "evidence_id": "PVAL_10MV_TRUEBEAM_40x40_LANDAUER__PDD",
+      "role": "mc_result_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/mc_results/PROJECT_10MV_40x40__PDD.csv",
+      "sha256": "422424ba09b68cebb1cb6646f73f8fe5b4a1774870ec9c97d955715902de47e7"
+    },
+    {
+      "evidence_id": "PVAL_10MV_TRUEBEAM_40x40_LANDAUER__PDD",
+      "role": "mc_provenance_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_raw/provenance/PDD_PROJECT_10MV_40x40.json",
+      "sha256": "723530df9cb7e0707c5851d8b38073635d93979f6577fd642751c9e8d621dd89"
+    },
+    {
+      "evidence_id": "PVAL_15MV_TRUEBEAM_40x40_LANDAUER__PDD",
+      "role": "reference_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/production_source_validation/datasets/PVAL_15MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+      "sha256": "e7dc988b0f22b255110b251336eedafb9b6140e86c4f0502624e50834ce2425b"
+    },
+    {
+      "evidence_id": "PVAL_15MV_TRUEBEAM_40x40_LANDAUER__PDD",
+      "role": "mc_result_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/mc_results/PROJECT_15MV_40x40__PDD.csv",
+      "sha256": "e5fe835d4244819456ca6db512dddc3e748f64df1dc4ca9fd97068d2f5318bbe"
+    },
+    {
+      "evidence_id": "PVAL_15MV_TRUEBEAM_40x40_LANDAUER__PDD",
+      "role": "mc_provenance_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_raw/provenance/PDD_PROJECT_15MV_40x40.json",
+      "sha256": "97ded9f25719fc8f54b621c04a82a0ca2b209254287a9af06e786ff5d75ce22d"
+    },
+    {
+      "evidence_id": "PVAL_16MV_CLINAC21IX_40x40_PACYNIAK__PDD",
+      "role": "reference_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/production_source_validation/datasets/PVAL_16MV_CLINAC21IX_40x40_PACYNIAK/canonical_pdd_40x40.csv",
+      "sha256": "92fa00b36c6c4b86ab3b0c4a612c50a30873447c426931fe230b16df132d95e1"
+    },
+    {
+      "evidence_id": "PVAL_16MV_CLINAC21IX_40x40_PACYNIAK__PDD",
+      "role": "mc_result_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/mc_results/PROJECT_16MV_40x40__PDD.csv",
+      "sha256": "934a7387115741160f4427e0b0acec77e34aade5fd26cb1bcaee9d42de89108d"
+    },
+    {
+      "evidence_id": "PVAL_16MV_CLINAC21IX_40x40_PACYNIAK__PDD",
+      "role": "mc_provenance_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_raw/provenance/PDD_PROJECT_16MV_40x40.json",
+      "sha256": "e4eb35dd006b600718a04e505f2e01c6f0ff54c7d09c5ae5ee2c5be992c7b8f8"
+    },
+    {
+      "evidence_id": "PVAL_18MV_ONCOR_40x40_SAWKEY__PDD",
+      "role": "reference_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/production_source_validation/datasets/PVAL_18MV_ONCOR_40x40_SAWKEY/canonical_pdd_40x40_clinical.csv",
+      "sha256": "00f3a33c7666e48d50874b36f6688cf296dbbfa24ac7a2df1b5516c8724cf349"
+    },
+    {
+      "evidence_id": "PVAL_18MV_ONCOR_40x40_SAWKEY__PDD",
+      "role": "mc_result_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/mc_results/PROJECT_18MV_40x40__PDD.csv",
+      "sha256": "08d0ea7465e0c5a197d765a65a5c2fee447f82aad563ff05e3d31abdd77bec2a"
+    },
+    {
+      "evidence_id": "PVAL_18MV_ONCOR_40x40_SAWKEY__PDD",
+      "role": "mc_provenance_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_raw/provenance/PDD_PROJECT_18MV_40x40.json",
+      "sha256": "d506e6d08caec313500e49fac5cc1a71800eee8d0890885918eddade40bd958f"
+    },
+    {
+      "evidence_id": "ALI_MCEWEN_ROGERS_2012_ELEKTA_6MV",
+      "role": "reference_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/public_numeric_references/PROJECT_6MV_ALI_2012_ELEKTA_FIG8.csv",
+      "sha256": "6af1fe6ed36d480f042f99b5a7aad51b5d51566a79d87e4a533b7a12597777a3"
+    },
+    {
+      "evidence_id": "ALI_MCEWEN_ROGERS_2012_ELEKTA_10MV",
+      "role": "reference_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/public_numeric_references/PROJECT_10MV_ALI_2012_ELEKTA_FIG8.csv",
+      "sha256": "a812c0fb3d4d00d10993b1565be722a4360a3572086ff86485d6ac8fab183f61"
+    },
+    {
+      "evidence_id": "WAGGENER_ET_AL_1999_15MV",
+      "role": "reference_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/public_numeric_references/PROJECT_15MV_WAGGENER_1999_FIG10_ENERGY_FLUENCE.csv",
+      "sha256": "a060bf2cc3f23144cc7784200fa35ca5980ee2512b592096203e6dfdc07e195f"
+    },
+    {
+      "evidence_id": "ASPRADAKIS_1996_ABB_CH20_16MV",
+      "role": "reference_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/public_numeric_references/PROJECT_16MV_ASPRADAKIS_1996_ABB_CH20_FIG6_4.csv",
+      "sha256": "1ba8102594024ce6d1703173fa03705544e90e8ee901142e5eb06e0dd3cb5e41"
+    },
+    {
+      "evidence_id": "WAGGENER_ET_AL_1999_18MV",
+      "role": "reference_file",
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/public_numeric_references/PROJECT_18MV_WAGGENER_1999_FIG11_ENERGY_FLUENCE.csv",
+      "sha256": "7b68cd2fae5f3fb9bd45d5ec632ef1980ac645055f74092724e6db2a7e92e03b"
+    }
+  ]
+}

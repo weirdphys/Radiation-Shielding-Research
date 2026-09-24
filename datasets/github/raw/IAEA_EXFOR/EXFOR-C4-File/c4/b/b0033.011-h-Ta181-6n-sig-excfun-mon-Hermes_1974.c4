@@ -1,0 +1,38 @@
+#ENTRY      B0033
+#AUTHOR1    F.Hermes+
+#YEAR       1974
+#INSTITUTE  (2GERBON)
+#TITLE      Analysis For (PARTICLE,XN) Reactions on Tantalum and
+#+          Gold. Ta-181,Au-197(HE-3,XN) Excitation Functions and
+#+          Equilibrium Statistical Model Analysis
+#AUTHOR(S)  F.Hermes, E.W.Jasper, H.E.Kurz, T.Mayer-Kuckuk, P.F.A.Goudsmit, 
+#+          H.Arnold
+#REF-CODE   (J,NP/A,228,175,1974)
+#REFERENCE  Nucl.Phys.A 228 (1974) 175 (doi:10.1016/0375-9474(74)90453-9)
+#DATASETS   0
+#
+#DATASET    B0033011 
+#DATE       20011220
+#REACTION   73-TA-181(HE3,6N)75-RE-178,,SIG,,,EXP
+#PROJ       2003
+#TARG       73181
+#MF         3
+#MT         153
+#PRODUCT    75-RE-178
+#C4BEGIN    [ 2003 73181   3 153  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 73181   3 153    4.9700+7          0.035400                                                F.Hermes+            (74)B0033 11 
+ 2003 73181   3 153    5.2000+7          0.092500                                                F.Hermes+            (74)B0033 11 
+ 2003 73181   3 153    5.4300+7          0.180000                                                F.Hermes+            (74)B0033 11 
+ 2003 73181   3 153    5.6500+7          0.580000                                                F.Hermes+            (74)B0033 11 
+ 2003 73181   3 153    5.8600+7          0.355000                                                F.Hermes+            (74)B0033 11 
+ 2003 73181   3 153    6.0700+7          0.445000                                                F.Hermes+            (74)B0033 11 
+ 2003 73181   3 153    6.2700+7          0.407000                                                F.Hermes+            (74)B0033 11 
+ 2003 73181   3 153    6.4800+7          0.419000                                                F.Hermes+            (74)B0033 11 
+ 2003 73181   3 153    6.6700+7          0.368000                                                F.Hermes+            (74)B0033 11 
+ 2003 73181   3 153    7.0500+7          0.288000                                                F.Hermes+            (74)B0033 11 
+ 2003 73181   3 153    7.4100+7          0.201000                                                F.Hermes+            (74)B0033 11 
+#/DATA      11
+#/DATASET

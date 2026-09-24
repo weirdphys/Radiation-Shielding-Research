@@ -1,0 +1,34 @@
+#ENTRY      M0418
+#AUTHOR1    M.Schumacher+
+#YEAR       1981
+#INSTITUTE  (2GERJUL)
+#TITLE      Nuclear photoexcitation   and   Delbruck   scattering
+#+          studied in the energy range 2 - 8 MeV.
+#AUTHOR(S)  M.Schumacher, F.Smend, W.Muckenheim, P.Rullhusen, H.G.Borner
+#REF-CODE   (J,ZP/A,300,193,1981)
+#REFERENCE  Z.Phys.A 300 (1981) 193 (doi:10.1007/BF01412295)
+#DATASETS   0
+#
+#DATASET    M0418006 
+#DATE       20161223
+#REACTION   80-HG-0(G,EL)80-HG-0,,DA
+#PROJ       0
+#TARG       80000
+#MF         4
+#MT         2
+#PRODUCT    80-HG-0
+#C4BEGIN    [    0 80000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 80000   4   2    2599000.          3.0000-5 2.7000-6 6.123-17                              M.Schumacher+        (81)M0418  6 
+    0 80000   4   2    3010000.          2.4000-5 1.0000-5 6.123-17                              M.Schumacher+        (81)M0418  6 
+    0 80000   4   2    3202000.          2.8000-5 5.0000-6 6.123-17                              M.Schumacher+        (81)M0418  6 
+    0 80000   4   2    3254000.          2.5500-5 1.8000-6 6.123-17                              M.Schumacher+        (81)M0418  6 
+    0 80000   4   2    3273000.          2.6000-5 8.0000-6 6.123-17                              M.Schumacher+        (81)M0418  6 
+    0 80000   4   2    3452000.          2.0000-5 8.0000-6 6.123-17                              M.Schumacher+        (81)M0418  6 
+    0 80000   4   2    6418000.          1.2000-5 3.0000-6 6.123-17                              M.Schumacher+        (81)M0418  6 
+    0 80000   4   2    6555000.          7.4000-5 1.7000-5 6.123-17                              M.Schumacher+        (81)M0418  6 
+    0 80000   4   2    6759000.          6.7000-6 1.5000-6 6.123-17                              M.Schumacher+        (81)M0418  6 
+#/DATA      9
+#/DATASET

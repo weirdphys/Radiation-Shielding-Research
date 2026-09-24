@@ -1,0 +1,36 @@
+#ENTRY      S0292
+#AUTHOR1    F.F.Duan+
+#YEAR       2022
+#INSTITUTE  (3CPRIMP)
+#TITLE      Elastic scattering and breakup reactions of
+#+          neutron-rich nucleus 11Be on 208Pb at 210 MeV
+#AUTHOR(S)  F.F.Duan, Y.Y.Yang, Jin Lei, K.Wang, Z.Y.Sun, D.Y.Pang, 
+#+          J.S.Wang, X.Liu, S.W.Xu, J.B.Ma, P.Ma, Z.Bai, Q.Hu, Z.H.Gao, 
+#+          X.X.Xu, C.J.Lin, H.M.Jia, N.R.Ma, L.J.Sun, D.X.Wang, G.Yang, 
+#+          S.Y.Jin, Z.Z.Ren, Y.H.Zhang, X.H.Zhou, Z.G.Hu, H.S.Xu, Ribll Collaboration
+#REF-CODE   (J,PR/C,105,034602,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 034602 (doi:10.1103/PhysRevC.105.034602)
+#DATASETS   0
+#
+#DATASET    S02920022
+#DATE       20251010
+#REACTION   82-PB-208(4-BE-11,EL)82-PB-208,,DA,,RTH
+#PROJ       4011
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 4011 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4011 82208   4   2    2.1000+8          172.5569 18.82752 0.991445                              F.F.Duan+            (22)S0292  22
+ 4011 82208   4   2    2.1000+8          93.72621 9.420114 0.989016                              F.F.Duan+            (22)S0292  22
+ 4011 82208   4   2    2.1000+8          55.01752 5.130128 0.986286                              F.F.Duan+            (22)S0292  22
+ 4011 82208   4   2    2.1000+8          28.27569 3.085128 0.983255                              F.F.Duan+            (22)S0292  22
+ 4011 82208   4   2    2.1000+8          10.94278 1.668883 0.979925                              F.F.Duan+            (22)S0292  22
+ 4011 82208   4   2    2.1000+8          5.863201 1.149863 0.976296                              F.F.Duan+            (22)S0292  22
+ 4011 82208   4   2    2.1000+8          2.542540 0.734045 0.972370                              F.F.Duan+            (22)S0292  22
+ 4011 82208   4   2    2.1000+8          0.813825 0.406913 0.968148                              F.F.Duan+            (22)S0292  22
+#/DATA      8
+#/DATASET

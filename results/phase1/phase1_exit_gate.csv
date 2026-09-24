@@ -1,0 +1,29 @@
+phase1_requirement,passed,status
+Global: run controller completed without recorded execution errors,True,PASS
+Global: current-revision output manifests valid and stale mixed-unit plots absent,True,PASS
+Step 1: corrected benchmark integrity incl. detector-specific SSNTD semantics,True,PASS
+Step 1: full game-plan public corpus coverage (11/11),True,PASS
+Step 2: unified common schema valid,True,PASS
+Step 2B: simulator source models registered/classified; TVL not definition of spectral validity,True,PASS
+"Step 2C0: exact current production probability arrays + energy grids imported from simulator, source snapshotted and SHA-256 frozen",True,PASS
+Step 2C: every Phase-I production source model has automatically evaluated independent non-TVL validation,True,PASS — Step 2C-v2 operational/predictive validation: all five required frozen 1-D photon energy sources have at least one passing independent measured non-TVL modality appropriate to the model scope. The original strict spectral/provenance Step 2C result is preserved separately as a historical non-pass; profile failures remain non-gating spatial-surrogate diagnostics.
+Step 2D: controlled discovery field uses a measurement-validated eligible source,True,PASS
+Step 3: complete Geant4 runtime dataset environment resolved before physics,True,PASS
+Step 3: all required real Geant4 result files present,True,PASS
+Step 3: native Geant4 implementation is C++17 + MT + exactly 16 workers,True,PASS
+Step 3: per-run provenance complete incl. exact scoring-location assumption,True,PASS
+Step 3: four incident source-normalization probes pass before transmission acceptance,True,PASS
+Step 3: deterministic P001 + N001/N002 + separate ICRP-21 conventional baseline computed,True,PASS
+Step 3: every required neutron transmission spectrum is statistically adequate for agreement testing,True,PASS
+Step 3: predeclared benchmark-agreement thresholds pass,True,PASS
+Step 4: benchmark ordered response fields deterministic,True,PASS
+Step 4: Geant4 residual fields generated,True,PASS
+Step 4: validated fixed-geometry controlled thickness sweep + derived attenuation/TVL diagnostics generated,True,PASS
+"Step 1 v10: expanded canonical dataset registry, hashes and evidence semantics valid",True,PASS
+Step 2 v10: expanded evidence-preserving common schema generated,True,PASS
+Step 3 v10: all expanded benchmark comparison contracts explicitly classified,True,PASS
+Step 3 v10: every scientifically READY expanded Geant4 comparison has a real result,True,PASS — no expanded benchmark has yet been scientifically promoted to READY; all blockers are explicitly documented
+Step 4 v10: expanded physically ordered reference fields deterministic,True,PASS
+Step 4 v10: residual fields exist for every scientifically READY expanded comparison,True,PASS
+Step 1–4 v11: IAEA EXFOR experimental photonuclear corpus fully integrated,True,PASS
+Step 1–3 v12.5: processed no-3MV validation corpus hash-clean and five surface-phase-space PDD diagnostics complete,True,PASS

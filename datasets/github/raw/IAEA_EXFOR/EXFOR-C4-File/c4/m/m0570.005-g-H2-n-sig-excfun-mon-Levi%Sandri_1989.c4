@@ -1,0 +1,35 @@
+#ENTRY      M0570
+#AUTHOR1    P.Levi Sandri+
+#YEAR       1989
+#INSTITUTE  (2ITYFRA)
+#TITLE      Differential cross section at forward and backward
+#+          angles for deuteron photodisintegration at
+#+          intermediate energies.
+#AUTHOR(S)  P.Levi Sandri, M.Anghinolfi, N.Bianchi, G.P.Capitani, P.Corvisiero, 
+#+          E.De Sanctis, C.Guaraldo, V.Lucherini, V.Muccifora, E.Polli, 
+#+          A.R.Reolon, G.Ricco, P.Rossi, M.Sanzone, M.Taiuti
+#REF-CODE   (J,PR/C,39,1701,1989)
+#REFERENCE  Phys.Rev.C 39 (1989) 1701 (doi:10.1103/PhysRevC.39.1701)
+#DATASETS   0
+#
+#DATASET    M0570005 
+#DATE       20171121
+#REACTION   1-H-2(G,N)1-H-1,,SIG
+#PROJ       0
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   3   4    9.8000+7          6.9700-5 4.0000-6                                       P.Levi Sandri+       (89)M0570  5 
+    0  1002   3   4    1.0900+8          6.6700-5 3.8000-6                                       P.Levi Sandri+       (89)M0570  5 
+    0  1002   3   4    1.4300+8          5.3700-5 3.3000-6                                       P.Levi Sandri+       (89)M0570  5 
+    0  1002   3   4    1.9100+8          6.0100-5 4.1000-6                                       P.Levi Sandri+       (89)M0570  5 
+    0  1002   3   4    2.1100+8          6.5600-5 4.2000-6                                       P.Levi Sandri+       (89)M0570  5 
+    0  1002   3   4    2.2800+8          6.7900-5 5.2000-6                                       P.Levi Sandri+       (89)M0570  5 
+    0  1002   3   4    2.4300+8          6.8900-5 4.9000-6                                       P.Levi Sandri+       (89)M0570  5 
+#/DATA      7
+#/DATASET

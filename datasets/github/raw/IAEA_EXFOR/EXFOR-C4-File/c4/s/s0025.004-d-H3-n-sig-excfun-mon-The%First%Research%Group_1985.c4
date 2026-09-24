@@ -1,0 +1,69 @@
+#ENTRY      S0025
+#AUTHOR1    The First Research Group+
+#YEAR       1985
+#INSTITUTE  (3CPRIMP)
+#TITLE      Low energy cross-sections measurement of d-d and d-t
+#+          reactions
+#AUTHOR(S)  The First Research Group, The First Research Division
+#REF-CODE   (J,PHE,9,(6),723,198511)
+#REFERENCE  High En.Nucl.Phy.Ch. 9 No.6 (1985) 723
+#DATASETS   0
+#
+#DATASET    S0025004 
+#DATE       20080311
+#REACTION   1-H-3(D,N)2-HE-4,,SIG
+#PROJ       1002
+#TARG       1003
+#MF         3
+#MT         4
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1003   3   4 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1003   3   4 P  13811.00          0.010000 1.0000-3                                       The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  14076.00          0.012000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  18056.00          0.037000 2.0000-3                                       The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  20088.00          0.059000 3.0000-3                                       The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  23220.00          0.109000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  25723.00          0.168000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  25855.00          0.174000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  25978.00          0.173000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  26833.00          0.184000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  27111.00          0.196000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  28822.00          0.246000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  28988.00          0.247000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  30121.00          0.268000 0.013000                                       The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  33117.00          0.382000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  35625.00          0.468000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  36124.00          0.503000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  39098.00          0.635000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  42102.00          0.793000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  45116.00          1.000000 0.045000                                       The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  48133.00          1.170000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  48302.00          1.250000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  51091.00          1.390000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  54135.00          1.660000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  57102.00          1.960000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  60086.00          2.170000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  63118.00          2.460000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  66188.00          2.780000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  72092.00          3.400000 0.140000                                       The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  73604.00          3.480000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  75070.00          3.690000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  78237.00          3.950000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  80991.00          4.050000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  84004.00          4.310000 0.150000                                       The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  87204.00          4.490000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  89094.00          4.540000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  91031.00          4.520000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  92905.00          4.750000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  96631.00          4.820000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  99012.00          4.880000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  101090.0          4.940000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  105010.0          4.950000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  108180.0          5.070000 0.160000                                       The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  113270.0          4.980000                                                The First Research Group+(85)S0025  4 
+ 1002  1003   3   4 P  114310.0          4.890000                                                The First Research Group+(85)S0025  4 
+#/DATA      44
+#/DATASET

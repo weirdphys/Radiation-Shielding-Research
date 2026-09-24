@@ -1,0 +1,30 @@
+#ENTRY      B0146
+#AUTHOR1    J.J.Simpson+
+#YEAR       1977
+#INSTITUTE  (1CANGUE)
+#TITLE      Decay of the Compound Nucleus Kr-74 Formed in the
+#+          Reaction 0-16 + Ni-58.
+#AUTHOR(S)  J.J.Simpson, P.O.Tjom, I.Espe, G.B.Hagemann, B.Herskind, 
+#+          M.Neiman
+#REF-CODE   (J,NP/A,287,362,1977)
+#REFERENCE  Nucl.Phys.A 287 (1977) 362 (doi:10.1016/0375-9474(77)90502-4)
+#DATASETS   0
+#
+#DATASET    B0146004 
+#DATE       20011220
+#REACTION   28-NI-58(8-O-16,P+A)33-AS-69,,SIG,,,EXP
+#PROJ       8016
+#TARG       28058
+#MF         3
+#MT         112
+#PRODUCT    33-AS-69
+#C4BEGIN    [ 8016 28058   3 112  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 28058   3 112    5.0000+7          0.018000                                                J.J.Simpson+         (77)B0146  4 
+ 8016 28058   3 112    5.4000+7          0.042000                                                J.J.Simpson+         (77)B0146  4 
+ 8016 28058   3 112    5.9000+7          0.083000                                                J.J.Simpson+         (77)B0146  4 
+ 8016 28058   3 112    6.9000+7          0.045000                                                J.J.Simpson+         (77)B0146  4 
+#/DATA      4
+#/DATASET

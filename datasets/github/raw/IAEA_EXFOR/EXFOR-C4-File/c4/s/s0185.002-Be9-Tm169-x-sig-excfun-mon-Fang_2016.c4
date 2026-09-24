@@ -1,0 +1,40 @@
+#ENTRY      S0185
+#AUTHOR1    Y.D.Fang+
+#YEAR       2016
+#INSTITUTE  (3CPRIMP)
+#TITLE      One-neutron stripping from 9Be to 169Tm, 181Ta, and
+#+          187Re at near-barrier energies
+#AUTHOR(S)  Y.D.Fang, P.R.S.Gomes, J.Lubian, J.L.Ferreira, D.R.Mendes Jr, 
+#+          X.H.Zhou, M.L.Liu, N.T.Zhang, Y.H.Zhang, G.S.Li, J.G.Wang, 
+#+          S.Guo, Y.H.Qiang, B.S.Gao, Y.Zheng, X.G.Lei, Z.G.Wang
+#REF-CODE   (J,PR/C,93,034615,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 034615 (doi:10.1103/PhysRevC.93.034615)
+#DATASETS   0
+#
+#DATASET    S0185002 
+#DATE       20161031
+#REACTION   69-TM-169(4-BE-9,X)69-TM-170,,SIG
+#PROJ       4009
+#TARG       69169
+#MF         3
+#MT         454
+#PRODUCT    69-TM-170
+#C4BEGIN    [ 4009 69169   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 69169   3 454    4.8000+7          0.148500 0.012300           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    4.6900+7          0.155900 0.015900           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    4.5700+7          0.153200 0.013000           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    4.4500+7          0.156000 0.012500           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    4.3200+7          0.152300 9.6000-3           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    4.2000+7          0.153900 0.010100           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    4.0200+7          0.137100 9.5000-3           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    3.8900+7          0.143800 8.8000-3           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    3.7700+7          0.120000 7.1000-3           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    3.6300+7          0.116800 6.6000-3           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    3.5000+7          0.090800 5.8000-3           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    3.3500+7          0.064200 4.5000-3           69170.9                     Y.D.Fang+            (16)S0185  2 
+ 4009 69169   3 454    3.2100+7          0.042300 3.0000-3           69170.9                     Y.D.Fang+            (16)S0185  2 
+#/DATA      13
+#/DATASET

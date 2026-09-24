@@ -1,0 +1,29 @@
+#ENTRY      M0547
+#AUTHOR1    M.L.Terranova+
+#YEAR       1998
+#INSTITUTE  (2ITYITY)
+#TITLE      Photofission cross   section   and    fissility    of
+#+          pre-actinide and intermediate-mass nuclei by 120 and
+#+          145 Compton backscattered photons.
+#AUTHOR(S)  M.L.Terranova, G.Ya.Kezerashvili, A.M.Milov, S.I.Mishnev, 
+#+          N.Yu.Muchnoi, A.I.Naumenkov, I.Ya.Protopopov, E.A.Simonov, 
+#+          D.N.Shatilov, O.A.P.Tavares, E.De Paiva, E.L.Moreira
+#REF-CODE   (J,JP/G,24,205,1998)
+#REFERENCE  J.Phys.G 24 (1998) 205 (doi:10.1088/0954-3899/24/1/023)
+#DATASETS   0
+#
+#DATASET    M0547023 
+#DATE       20180301
+#REACTION   83-BI-209(G,F),,SIG
+#PROJ       0
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [    0 83209   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 83209   3  18    1.2000+8          2.0000-4 6.0000-5                                       M.L.Terranova+       (98)M0547 23 
+    0 83209   3  18    1.4500+8          3.1000-4 8.0000-5                                       M.L.Terranova+       (98)M0547 23 
+#/DATA      2
+#/DATASET

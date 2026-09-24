@@ -1,0 +1,30 @@
+#ENTRY      B0179
+#AUTHOR1    J.Jastrzebski+
+#YEAR       1979
+#INSTITUTE  (1USAINU)
+#TITLE      Fusion and Nonfusion Processes in Reactions Induced
+#+          By 10-100 MeV Li-6 Ions with Fe Targets.
+#AUTHOR(S)  J.Jastrzebski, H.Karwowski, M.Sadler, P.P.Singh
+#REF-CODE   (J,PR/C,19,724,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 724 (doi:10.1103/PhysRevC.19.724)
+#DATASETS   0
+#
+#DATASET    B01790192
+#DATE       20011220
+#REACTION   26-FE-54(3-LI-6,X)23-V-48,IND,SIG,,,EXP
+#PROJ       3006
+#TARG       26054
+#MF         3
+#MT         454
+#PRODUCT    23-V-48
+#C4BEGIN    [ 3006 26054   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 26054   3 454    4.4600+7          1.4000-3 2.0000-4           23048.9                     J.Jastrzebski+       (79)B0179 192
+ 3006 26054   3 454    5.5500+7          2.1000-3 5.0000-4           23048.9                     J.Jastrzebski+       (79)B0179 192
+ 3006 26054   3 454    7.0400+7          4.0000-3 4.0000-4           23048.9                     J.Jastrzebski+       (79)B0179 192
+ 3006 26054   3 454    8.3000+7          0.021000 2.0000-3           23048.9                     J.Jastrzebski+       (79)B0179 192
+ 3006 26054   3 454    9.4000+7          0.044000 4.0000-3           23048.9                     J.Jastrzebski+       (79)B0179 192
+#/DATA      5
+#/DATASET

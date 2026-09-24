@@ -1,0 +1,31 @@
+#ENTRY      M1007
+#AUTHOR1    E.V.Minarik+
+#YEAR       1957
+#INSTITUTE  (4RUSLEB)
+#TITLE      Fission of U, Th, Bi and Tl induced by high energy
+#+          g-quanta.
+#AUTHOR(S)  E.V.Minarik, V.A.Novikov
+#REF-CODE   (J,ZET,32,241,1957)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 32 (1957) 241
+#DATASETS   0
+#
+#DATASET    M1007004 
+#DATE       20180330
+#REACTION   83-BI-209(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [    0 83209   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 83209   3  18    8.9420+7          1.6400-4 4.5000-5                                       E.V.Minarik+         (57)M1007  4 
+    0 83209   3  18    1.1131+8          2.9400-4 4.8000-5                                       E.V.Minarik+         (57)M1007  4 
+    0 83209   3  18    1.3777+8          6.0200-4 5.7000-5                                       E.V.Minarik+         (57)M1007  4 
+    0 83209   3  18    1.6423+8          1.2100-3 1.1300-4                                       E.V.Minarik+         (57)M1007  4 
+    0 83209   3  18    1.8978+8          1.7190-3 2.0400-4                                       E.V.Minarik+         (57)M1007  4 
+    0 83209   3  18    2.1492+8          2.6130-3 4.0700-4                                       E.V.Minarik+         (57)M1007  4 
+    0 83209   3  18    2.4000+8          4.0160-3 4.9800-4                                       E.V.Minarik+         (57)M1007  4 
+#/DATA      7
+#/DATASET

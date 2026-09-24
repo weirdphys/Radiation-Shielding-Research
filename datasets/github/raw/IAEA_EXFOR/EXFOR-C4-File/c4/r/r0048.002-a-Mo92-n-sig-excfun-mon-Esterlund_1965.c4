@@ -1,0 +1,37 @@
+#ENTRY      R0048
+#AUTHOR1    R.A.Esterlund+
+#YEAR       1965
+#INSTITUTE  (1USAWAS)
+#TITLE      Analysis of excitation functions via the compound
+#+          statistical model
+#AUTHOR(S)  R.A.Esterlund, B.D.Pate
+#REF-CODE   (J,NP,69,(2),401,196507)
+#REFERENCE  Nucl.Phys. 69 No.2 (1965) 401 (doi:10.1016/0029-5582(65)90059-3)
+#DATASETS   0
+#
+#DATASET    R0048002 
+#DATE       20060411
+#REACTION   42-MO-92(A,N)44-RU-95,,SIG
+#PROJ       2004
+#TARG       42092
+#MF         3
+#MT         4
+#PRODUCT    44-RU-95
+#C4BEGIN    [ 2004 42092   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 42092   3   4    9392429.          5.5000-4 6.6000-5                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    1.2002+7          6.7000-3 8.0000-4                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    1.4298+7          0.070400 8.4000-3                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    1.6281+7          0.206000 0.025000                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    1.8160+7          0.299000 0.036000                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    1.9934+7          0.370000 0.044000                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    2.0247+7          0.370000 0.067000                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    2.1917+7          0.358000 0.064000                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    2.3378+7          0.294000 0.053000                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    2.4944+7          0.212000 0.038000                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    2.6301+7          0.156000 0.028000                                       R.A.Esterlund+       (65)R0048  2 
+ 2004 42092   3   4    2.7658+7          0.102000 0.018000                                       R.A.Esterlund+       (65)R0048  2 
+#/DATA      12
+#/DATASET

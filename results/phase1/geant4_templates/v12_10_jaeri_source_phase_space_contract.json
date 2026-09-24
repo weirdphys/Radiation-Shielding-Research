@@ -1,0 +1,19 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "benchmark_family": "JAERI_TIARA_N001_N002",
+  "source_model": "point source at Li target with uniform-solid-angle sampling inside rotary-shutter cone",
+  "rotary_shutter_aperture_diameter_cm": 10.9,
+  "source_to_rotary_shutter_exit_cm": 400.0,
+  "source_cone_reference": "ROTARY_SHUTTER_EXIT",
+  "additional_iron_transport_model": "EXPLICIT_DOWNSTREAM_HOLLOW_IRON_AFTER_ROTARY_SHUTTER_CONE",
+  "extra_iron_cm_by_source_proton_MeV_for_thin_cases": {
+    "43": 40.0,
+    "68": 80.0
+  },
+  "primary_position_rule": "z = -(source_to_rotary_shutter_exit_cm + additional_iron_cm)",
+  "primary_cone_half_angle_rule": "atan(aperture_radius_cm / source_to_rotary_shutter_exit_cm)",
+  "sampled_solid_angle_rule": "2*pi*(1-cos(primary_cone_half_angle))",
+  "explicit_transport_rule": "additional hollow iron collimator clips/scatters downstream trajectories in Geant4",
+  "source_phase_space_change_relative_to_v12_9": "NONE",
+  "threshold_changes": "NONE"
+}

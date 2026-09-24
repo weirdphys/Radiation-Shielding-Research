@@ -1,0 +1,31 @@
+#ENTRY      P0074
+#AUTHOR1    S.Amiel+
+#YEAR       1959
+#INSTITUTE  (1USABNL)
+#TITLE      Reactions of Alpha Particles with Germanium-70 and
+#+          Zinc-70
+#AUTHOR(S)  S.Amiel
+#REF-CODE   (J,PR,116,415,1959)
+#REFERENCE  Phys.Rev. 116 (1959) 415 (doi:10.1103/PhysRev.116.415)
+#DATASETS   0
+#
+#DATASET    P0074005 
+#DATE       20000817
+#REACTION   30-ZN-70(A,2P)30-ZN-72,,SIG
+#PROJ       2004
+#TARG       30070
+#MF         3
+#MT         111
+#PRODUCT    30-ZN-72
+#C4BEGIN    [ 2004 30070   3 111  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30070   3 111    2.6300+7          7.0000-6 2.0000-6                                       S.Amiel              (59)P0074  5 
+ 2004 30070   3 111    3.0200+7          3.8000-5 9.0000-6                                       S.Amiel              (59)P0074  5 
+ 2004 30070   3 111    3.0200+7          5.6000-5 1.4000-5                                       S.Amiel              (59)P0074  5 
+ 2004 30070   3 111    3.4100+7          1.2400-4 3.0000-5                                       S.Amiel              (59)P0074  5 
+ 2004 30070   3 111    3.5400+7          1.6000-4 4.0000-5                                       S.Amiel              (59)P0074  5 
+ 2004 30070   3 111    3.7300+7          2.4200-4 5.9000-5                                       S.Amiel              (59)P0074  5 
+#/DATA      6
+#/DATASET

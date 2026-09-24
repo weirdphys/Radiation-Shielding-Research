@@ -1,0 +1,53 @@
+#ENTRY      G4076
+#AUTHOR1    Yu.M.Arkatov+
+#YEAR       1973
+#INSTITUTE  (4UKRKFT)
+#TITLE      Cross section ratio of the reactions 4He(g,p)3H and
+#+          4He(g,n)3He in the region of giant resonance, and
+#+          charge symmetry
+#AUTHOR(S)  Yu.M.Arkatov, P.I.Vatset, V.I.Voloshchuk, V.A.Zolenko, I.M.Prokhorets, 
+#+          A.F.Khodyachikh, V.I.Chmil'
+#REF-CODE   (J,JEL,17,253,1973)
+#REFERENCE  JETP Lett. 17 (1973) 253
+#DATASETS   0
+#
+#DATASET    G4076002 
+#DATE       20191120
+#REACTION   2-HE-4(G,P)1-H-3,,SIG,,BRS
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3 103    2.0455+7          1.0470-4 1.9900-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    2.1388+7          1.0784-3 5.8700-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    2.2354+7          1.5040-3 9.3500-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    2.3325+7          1.4613-3 5.1900-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    2.4292+7          1.6522-3 6.0000-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    2.5306+7          1.5430-3 8.4000-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    2.6305+7          1.6619-3 7.1900-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    2.7316+7          1.5328-3 5.6000-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    2.8298+7          1.5037-3 7.1900-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    2.9318+7          1.4545-3 7.1800-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    3.0357+7          1.5734-3 8.0000-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    3.1333+7          1.4883-3 7.6100-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    3.2369+7          1.2231-3 6.8100-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    3.3396+7          1.2380-3 7.2000-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    3.4384+7          1.2609-3 6.4000-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    3.5419+7          9.9170-4 6.3900-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    3.6416+7          1.0906-3 6.8000-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    3.7396+7          1.0375-3 6.7900-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    3.8424+7          1.0603-3 7.5900-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    3.9420+7          7.9530-4 6.8000-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    4.0885+7          8.4960-4 3.9900-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    4.2886+7          7.5940-4 3.9900-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    4.4888+7          6.6910-4 4.4200-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    4.6884+7          5.3490-4 3.9900-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    4.8888+7          4.7270-4 4.4100-5                                       Yu.M.Arkatov+        (73)G4076  2 
+    0  2004   3 103    5.0901+7          4.8240-4 4.0000-5                                       Yu.M.Arkatov+        (73)G4076  2 
+#/DATA      26
+#/DATASET

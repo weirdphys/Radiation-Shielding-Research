@@ -1,0 +1,39 @@
+#ENTRY      M0676
+#AUTHOR1    T.Shizuma+
+#YEAR       2005
+#INSTITUTE  (2JPNJAE)
+#TITLE      Photodisintegration cross section measurements on
+#+          186W, 187Re and 188Os: Implications for the Re-Os
+#+          cosmochronology
+#AUTHOR(S)  T.Shizuma, H.Utsunomiya, P.Mohr, T.Hayakawa, S.Goko, A.Makinaga, 
+#+          H.Akimune, T.Yamagata, M.Ohta, H.Ohgaki, Y.-W.Lui, H.Toyokawa, 
+#+          A.Uritani, S.Goriely
+#REF-CODE   (J,PR/C,72,025808,2005)
+#REFERENCE  Phys.Rev.C 72 (2005) 025808 (doi:10.1103/PhysRevC.72.025808)
+#DATASETS   0
+#
+#DATASET    M0676004 
+#DATE       20241107
+#REACTION   76-OS-188(G,N)76-OS-187,,SIG
+#PROJ       0
+#TARG       76188
+#MF         3
+#MT         4
+#PRODUCT    76-OS-187
+#C4BEGIN    [    0 76188   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 76188   3   4    8040000.          0.010200 1.5000-3                                       T.Shizuma+           (05)M0676  4 
+    0 76188   3   4    8100000.          0.015100 1.6000-3                                       T.Shizuma+           (05)M0676  4 
+    0 76188   3   4    8170000.          0.019400 1.1000-3                                       T.Shizuma+           (05)M0676  4 
+    0 76188   3   4    8430000.          0.034400 1.2000-3                                       T.Shizuma+           (05)M0676  4 
+    0 76188   3   4    8780000.          0.041500 1.3000-3                                       T.Shizuma+           (05)M0676  4 
+    0 76188   3   4    8820000.          0.040200 1.2000-3                                       T.Shizuma+           (05)M0676  4 
+    0 76188   3   4    9090000.          0.044900 1.1000-3                                       T.Shizuma+           (05)M0676  4 
+    0 76188   3   4    9470000.          0.063800 1.1000-3                                       T.Shizuma+           (05)M0676  4 
+    0 76188   3   4    1.0080+7          0.077800 1.8000-3                                       T.Shizuma+           (05)M0676  4 
+    0 76188   3   4    1.0450+7          0.098600 1.6000-3                                       T.Shizuma+           (05)M0676  4 
+    0 76188   3   4    1.0940+7          0.127000 2.0000-3                                       T.Shizuma+           (05)M0676  4 
+#/DATA      11
+#/DATASET

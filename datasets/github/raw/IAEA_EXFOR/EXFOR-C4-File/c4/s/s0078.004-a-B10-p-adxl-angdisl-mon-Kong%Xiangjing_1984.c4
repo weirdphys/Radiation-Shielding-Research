@@ -1,0 +1,42 @@
+#ENTRY      S0078
+#AUTHOR1    Kong Xiangjing+
+#YEAR       1984
+#INSTITUTE  (3CPRNRS)
+#TITLE      The (a,t), (a,d) and (a,p) reactions of 31.2 MeV
+#+          alpha particle on the nuclei 10,11B
+#AUTHOR(S)  Kong Xiangjing, Xie Xianliang, Sun Chungwei
+#REF-CODE   (J,PHE,8,199,1984)
+#REFERENCE  High En.Nucl.Phy.Ch. 8 (1984) 199
+#DATASETS   0
+#
+#DATASET    S0078004 
+#DATE       20141030
+#REACTION   5-B-10(A,P)6-C-13,PAR,DA
+#PROJ       2004
+#TARG       5010
+#MF         4
+#MT         600
+#PRODUCT    6-C-13
+#C4BEGIN    [ 2004  5010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  5010   4 600    3.1200+7          2.2900-6 4.4400-7 0.485878          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          7.9800-7 1.9900-7 0.331503          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          7.9800-7 2.4700-7 0.158330          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          7.9600-7 2.2100-7-0.017801          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          8.9400-7 1.7400-7-0.188067          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          8.7900-7 1.5900-7-0.354944          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          5.0100-7 1.1900-7-0.511143          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          7.9800-7 2.2100-7-0.653421          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          9.5700-8 3.8600-8-0.715205          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          2.9400-7 1.0300-7-0.774393          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          3.3500-8 7.9600-9-0.824027          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          9.5500-8 5.3200-8-0.871556          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          1.1700-7 7.1700-8-0.912477          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          1.9300-7 8.1700-8-0.943165          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          1.9600-7 8.1400-8-0.969445          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          9.8600-8 5.9000-8-0.986714          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+ 2004  5010   4 600    3.1200+7          1.2900-7 4.5400-8-0.997172          0.000000         LVLKong Xiangjing+      (84)S0078  4 
+#/DATA      17
+#/DATASET

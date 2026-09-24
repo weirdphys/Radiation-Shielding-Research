@@ -1,0 +1,16 @@
+{
+  "accepted": true,
+  "mode": "existing_edge_scan_rehydration",
+  "failure_reasons": [],
+  "target_sha256": "71d8a62714bbaf15831e56792848243ab3d80811c6f822cc411f13e96f16a4a3",
+  "edge_scan_sha256": "59b59f109dea0d2d34dadcb850708195bb7393a0248fff9a4725864e2a9f2f4f",
+  "edge_scan_audit_sha256": "bc9c99eea10c048cd37291a3c528e00ffb418f8eb3610088e9fb3cecad408dc8",
+  "result_present": true,
+  "result_valid_against_rehydrated_target": true,
+  "provenance_reusable": true,
+  "result_sha256": "e63a90d40370b7409f520970b7ae95524906a9bdb224374cabb666992c8c4b85",
+  "provenance_file": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_raw/provenance/P001_G4_EM_COEFFICIENTS.json",
+  "p001_audit_rehydration_ok": true,
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "geant4_launched_by_this_cell": false
+}

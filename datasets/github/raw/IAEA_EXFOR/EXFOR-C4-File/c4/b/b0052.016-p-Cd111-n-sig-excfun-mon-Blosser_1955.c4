@@ -1,0 +1,25 @@
+#ENTRY      B0052
+#AUTHOR1    H.G.Blosser+
+#YEAR       1955
+#INSTITUTE  (1USAORL)
+#TITLE      Survey of (p,n) reactions at 12 MeV
+#AUTHOR(S)  H.G.Blosser, T.H.Handley
+#REF-CODE   (J,PR,100,1340,1955)
+#REFERENCE  Phys.Rev. 100 (1955) 1340 (doi:10.1103/PhysRev.100.1340)
+#DATASETS   0
+#
+#DATASET    B0052016 
+#DATE       20190120
+#REACTION   48-CD-111(P,N)49-IN-111,,SIG
+#PROJ       1001
+#TARG       48111
+#MF         3
+#MT         4
+#PRODUCT    49-IN-111
+#C4BEGIN    [ 1001 48111   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48111   3   4    1.2000+7          0.810000 0.120000                                       H.G.Blosser+         (55)B0052 16 
+#/DATA      1
+#/DATASET

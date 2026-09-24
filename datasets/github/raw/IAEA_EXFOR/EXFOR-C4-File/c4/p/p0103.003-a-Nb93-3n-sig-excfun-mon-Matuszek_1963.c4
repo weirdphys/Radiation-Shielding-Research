@@ -1,0 +1,32 @@
+#ENTRY      P0103
+#AUTHOR1    J.M.Matuszek+
+#YEAR       1963
+#INSTITUTE  (1USACLK)
+#TITLE      The decay of 293 min Tc94
+#AUTHOR(S)  J.M.Matuszek, T.T.Sugihra
+#REF-CODE   (J,NP,42,582,1963)
+#REFERENCE  Nucl.Phys. 42 (1963) 582 (doi:10.1016/0029-5582(63)90758-2)
+#DATASETS   0
+#
+#DATASET    P0103003 
+#DATE       20000815
+#REACTION   41-NB-93(A,3N)43-TC-94-M,,SIG
+#PROJ       2004
+#TARG       41093
+#MF         3
+#MT         17
+#PRODUCT    43-TC-94-M
+#C4BEGIN    [ 2004 41093   3  17M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 41093   3  17M   2.7200+7          0.025200 4.0400-3                                       J.M.Matuszek+        (63)P0103  3 
+ 2004 41093   3  17M   2.9200+7          0.070500                                                J.M.Matuszek+        (63)P0103  3 
+ 2004 41093   3  17M   3.3200+7          0.125000                                                J.M.Matuszek+        (63)P0103  3 
+ 2004 41093   3  17M   3.3800+7          0.226000 0.031000                                       J.M.Matuszek+        (63)P0103  3 
+ 2004 41093   3  17M   3.7700+7          0.145000 0.025100                                       J.M.Matuszek+        (63)P0103  3 
+ 2004 41093   3  17M   3.8900+7          0.114000                                                J.M.Matuszek+        (63)P0103  3 
+ 2004 41093   3  17M   3.9600+7          0.097700 0.019800                                       J.M.Matuszek+        (63)P0103  3 
+ 2004 41093   3  17M   4.1600+7          0.070500 8.5800-3                                       J.M.Matuszek+        (63)P0103  3 
+#/DATA      8
+#/DATASET

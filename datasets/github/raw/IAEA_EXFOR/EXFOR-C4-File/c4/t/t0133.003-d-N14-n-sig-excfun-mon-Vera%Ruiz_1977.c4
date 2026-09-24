@@ -1,0 +1,27 @@
+#ENTRY      T0133
+#AUTHOR1    H.Vera Ruiz+
+#YEAR       1977
+#INSTITUTE  (1USABNL)
+#TITLE      Excitation Function For 15O Production Via the
+#+          14N(d,n)15O Reaction
+#AUTHOR(S)  H.Vera Ruiz, A.P.Wolf
+#REF-CODE   (J,RCA,24,65,1977)
+#REFERENCE  Radiochim.Acta 24 (1977) 65 (doi:10.1524/ract.1977.24.23.65)
+#DATASETS   0
+#
+#DATASET    T0133003 
+#DATE       20001128
+#REACTION   7-N-14(D,N)8-O-15,,SIG
+#PROJ       1002
+#TARG       7014
+#MF         3
+#MT         4
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1002  7014   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   3   4    3500000.          0.201000                                                H.Vera Ruiz+         (77)T0133  3 
+ 1002  7014   3   4    6400000.          0.142000                                                H.Vera Ruiz+         (77)T0133  3 
+#/DATA      2
+#/DATASET

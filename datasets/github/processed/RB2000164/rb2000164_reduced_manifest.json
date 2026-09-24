@@ -1,0 +1,39 @@
+{
+  "dataset": "ISIS RB2000164",
+  "evidence_type": "EXPERIMENTAL",
+  "raw_archive": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/RB2000164_raw.zip",
+  "mantid_loader": "LoadVesuvio",
+  "reference_run": "42757",
+  "calibration_runs": "42758-42762",
+  "sample_ids_processed": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V"
+  ],
+  "sample_ids_missing": [
+    "F"
+  ],
+  "monitor_rows": 194580,
+  "transmission_rows": 87561,
+  "analysis_rows_1meV_1keV": 82872,
+  "published_energy_range_eV": [
+    0.001,
+    1000.0
+  ],
+  "transmission_definition": "T(E) = [Ca(E)/Sa(E)] * [Sb(E)/Cb(E)]",
+  "removal_cross_section_definition": "Sigma_R(E) = -ln(T(E))/d",
+  "thickness_uncertainty_cm": 0.05,
+  "energy_conversion": "E[eV] = 5227.05 * L[m]^2 / TOF[us]^2, using Mantid monitor geometry",
+  "important_caveats": [
+    "Sample F has no matching acquisition run in the currently downloaded archive and is not fabricated.",
+    "Cd calibration runs 42758-42762 are retained separately and have not yet been used to refine the monitor flight-path calibration.",
+    "The published validated analysis interval is 1 meV to 1 keV.",
+    "Raw monitor spectra are preserved separately from derived transmission/cross-section data."
+  ]
+}

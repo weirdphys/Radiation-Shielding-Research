@@ -1,0 +1,73 @@
+{
+  "common_required_fields": [
+    "implementation_language",
+    "transport_threads",
+    "multithreaded",
+    "run_id",
+    "benchmark_id",
+    "result_type",
+    "execution_mode",
+    "geant4_version",
+    "material_definition",
+    "material_density_g_cm3",
+    "geometry_id",
+    "source_normalization_id",
+    "geometry_definition",
+    "scoring_definition",
+    "scoring_location_definition",
+    "scoring_longitudinal_assumption_status",
+    "run_date",
+    "git_commit",
+    "notebook_revision",
+    "cpp_source_sha256",
+    "result_sha256"
+  ],
+  "stochastic_transport_required_fields": [
+    "physics_list",
+    "hadronic_physics",
+    "neutron_data_library",
+    "source_sampling_file",
+    "absolute_normalization_method",
+    "source_solid_angle_sr",
+    "normalization_scale_per_primary_per_uC",
+    "histories",
+    "random_seed",
+    "scoring_assumption_rationale",
+    "config_sha256",
+    "source_sampling_sha256",
+    "normalization_result_sha256",
+    "geant4_dataset_environment"
+  ],
+  "p001_deterministic_required_fields": [
+    "em_physics",
+    "calculation_method",
+    "beam_on_called",
+    "generated_event_count",
+    "physics_scope",
+    "p001_target_file",
+    "p001_target_sha256",
+    "p001_edge_probe_policy",
+    "p001_edge_scan_target_file",
+    "p001_edge_scan_target_sha256",
+    "p001_edge_scan_output_file",
+    "p001_edge_scan_output_sha256",
+    "p001_edge_scan_audit_file",
+    "p001_edge_scan_audit_sha256"
+  ],
+  "icrp21_required_fields": [
+    "dose_conversion_standard"
+  ],
+  "minimum_histories_per_stochastic_run": 1000000,
+  "p001_histories_required": false,
+  "p001_random_seed_required": false,
+  "free_posthoc_normalization_allowed": false,
+  "required_implementation_language": "C++17",
+  "required_transport_threads": 16,
+  "multithreaded_required": true,
+  "allowed_scoring_longitudinal_assumption_status": [
+    "published_exact",
+    "modeling_assumption",
+    "benchmark_calculation_model",
+    "not_applicable"
+  ]
+}

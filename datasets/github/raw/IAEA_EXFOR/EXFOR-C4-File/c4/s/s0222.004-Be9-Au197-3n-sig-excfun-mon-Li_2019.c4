@@ -1,0 +1,31 @@
+#ENTRY      S0222
+#AUTHOR1    G.S.Li+
+#YEAR       2019
+#INSTITUTE  (3CPRIMP)
+#TITLE      Fusion reactions in the 9Be + 197Au system above the
+#+          Coulomb barrier
+#AUTHOR(S)  G.S.Li, J.G.Wang, J.Lubian, H.O.Soler, Y.D.Fang, M.L.Liu, 
+#+          N.T.Zhang, X.H.Zhou, Y.H.Zhang, B.S.Gao, Y.H.Qiang, S.Guo, 
+#+          S.C.Wang, K.L.Wang, K.K.Zheng, R.Li, Y.Zheng
+#REF-CODE   (J,PR/C,100,054601,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 054601 (doi:10.1103/PhysRevC.100.054601)
+#DATASETS   0
+#
+#DATASET    S0222004 
+#DATE       20201013
+#REACTION   79-AU-197(4-BE-9,3N)83-BI-203,,SIG
+#PROJ       4009
+#TARG       79197
+#MF         3
+#MT         17
+#PRODUCT    83-BI-203
+#C4BEGIN    [ 4009 79197   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 79197   3  17    4.8900+7          0.011750 2.3700-3                                       G.S.Li+              (19)S0222  4 
+ 4009 79197   3  17    4.7900+7          0.013140 1.5900-3                                       G.S.Li+              (19)S0222  4 
+ 4009 79197   3  17    4.6900+7          0.017340 1.8600-3                                       G.S.Li+              (19)S0222  4 
+ 4009 79197   3  17    4.5700+7          0.021610 2.3600-3                                       G.S.Li+              (19)S0222  4 
+#/DATA      4
+#/DATASET

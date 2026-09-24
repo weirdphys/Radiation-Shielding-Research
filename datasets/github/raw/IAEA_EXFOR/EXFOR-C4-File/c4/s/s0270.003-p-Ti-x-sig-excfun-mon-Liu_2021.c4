@@ -1,0 +1,33 @@
+#ENTRY      S0270
+#AUTHOR1    B.Liu+
+#YEAR       2021
+#INSTITUTE  (3CPRIMP)
+#TITLE      Excitation functions of proton induced reactions on
+#+          titanium and copper
+#AUTHOR(S)  B.Liu, R.Han, C.Yuan, H.Sun, Z.Chen, G.Tian, F.Shi, X.Zhang, 
+#+          P.Luo, H.Jia
+#REF-CODE   (J,ARI,173,109713,2021)
+#REFERENCE  Appl.Radiat.Isot. 173 (2021) 109713 (doi:10.1016/j.apradiso.2021.109713)
+#DATASETS   0
+#
+#DATASET    S0270003 
+#DATE       20220520
+#REACTION   22-TI-0(P,X)21-SC-47,,SIG
+#PROJ       1001
+#TARG       22000
+#MF         3
+#MT         454
+#PRODUCT    21-SC-47
+#C4BEGIN    [ 1001 22000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22000   3 454    8820000. 630000.0 2.6000-4 3.0000-5           21047.9                     B.Liu+               (21)S0270  3 
+ 1001 22000   3 454    1.0800+7 550000.0 6.6000-4 6.0000-5           21047.9                     B.Liu+               (21)S0270  3 
+ 1001 22000   3 454    1.2540+7 480000.0 9.6000-4 9.0000-5           21047.9                     B.Liu+               (21)S0270  3 
+ 1001 22000   3 454    1.4100+7 430000.0 1.3800-3 1.1000-4           21047.9                     B.Liu+               (21)S0270  3 
+ 1001 22000   3 454    1.5550+7 370000.0 1.9000-3 1.5000-4           21047.9                     B.Liu+               (21)S0270  3 
+ 1001 22000   3 454    1.6910+7 300000.0 2.5100-3 2.1000-4           21047.9                     B.Liu+               (21)S0270  3 
+ 1001 22000   3 454    1.8180+7 230000.0 4.1400-3 3.4000-4           21047.9                     B.Liu+               (21)S0270  3 
+#/DATA      7
+#/DATASET

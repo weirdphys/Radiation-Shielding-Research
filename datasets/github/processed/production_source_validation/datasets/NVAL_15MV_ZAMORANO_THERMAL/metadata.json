@@ -1,0 +1,38 @@
+{
+  "dataset_id": "NVAL_15MV_ZAMORANO_THERMAL",
+  "case_id": "NVAL_15MV_ZAMORANO_THERMAL",
+  "title": "Zamorano et al. measured out-of-field thermal neutron fluence, TrueBeam and Elekta, 15 MV",
+  "evidence_type": "EXPERIMENTAL",
+  "source_paper": {
+    "filename": "Out-of-field_thermal_neutron_characterization_with.pdf",
+    "sha256": "f9acf18733585bfc296843f35e4967a162f78eecf22169ac42362666a3905ec8",
+    "size_bytes": 2638101
+  },
+  "source_replication_archive": {
+    "filename": "Replication data for Out-of-field thermal neutron characterization with thin 3D-silicon detectors in Varian TrueBeam and Elekta Synergy LINACs(1).zip",
+    "sha256": "e805c3fc2f200c07c0017cf093a8fa181b73ca61fffb6f07f6bbdd1fea072053",
+    "size_bytes": 14969
+  },
+  "doi": "10.1088/1361-6560/adedf6",
+  "repository_handle": "10261/395538",
+  "measurement_contract": {
+    "nominal_energy_MV": 15,
+    "field_size_cm": [
+      10,
+      10
+    ],
+    "flattening_filter": true,
+    "normalization": "neutrons cm^-2 per Gy delivered photon dose at dmax",
+    "positions": "P1–P5; P1 for TrueBeam described as 2 m from isocenter and 1.2 m above floor in the paper."
+  },
+  "canonical_file": "/mnt/data/phase1_remaining_data/processed/datasets/NVAL_15MV_ZAMORANO_THERMAL/canonical_measured_thermal_neutron_fluence.csv",
+  "canonical_csv": "/mnt/data/phase1_remaining_data/processed/datasets/NVAL_15MV_ZAMORANO_THERMAL/canonical_measured_thermal_neutron_fluence.csv",
+  "row_count": 10,
+  "auxiliary_files": [
+    "/mnt/data/phase1_remaining_data/processed/datasets/NVAL_15MV_ZAMORANO_THERMAL/auxiliary_truebeam_15MV_PDD_measured_and_PHITS.csv",
+    null,
+    "/mnt/data/phase1_remaining_data/processed/datasets/NVAL_15MV_ZAMORANO_THERMAL/auxiliary_truebeam_PHITS_thermal_fluence.csv",
+    null
+  ],
+  "extraction_notes": "Thermal fluence values are direct numeric values from the paper table. PDD data are direct numeric values from the Digital.CSIC replication text file. Experimental and PHITS-simulated rows are explicitly separated by evidence_type; no simulated value is promoted to experimental truth."
+}

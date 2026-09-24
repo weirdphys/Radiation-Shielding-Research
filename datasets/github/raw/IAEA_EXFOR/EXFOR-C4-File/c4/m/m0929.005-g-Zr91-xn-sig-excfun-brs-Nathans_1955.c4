@@ -1,0 +1,41 @@
+#ENTRY      M0929
+#AUTHOR1    R.Nathans+
+#YEAR       1955
+#INSTITUTE  (1USAPEN)
+#TITLE      Photoneutron cross  sections  in  24Mg,  25Mg,  90Zr,
+#+          91Zr.
+#AUTHOR(S)  R.Nathans, P.F.Yergin
+#REF-CODE   (J,PR,98,1296,1955)
+#REFERENCE  Phys.Rev. 98 (1955) 1296 (doi:10.1103/PhysRev.98.1296)
+#DATASETS   0
+#
+#DATASET    M0929005 
+#DATE       20170313
+#REACTION   40-ZR-91(G,X)0-NN-1,,SIG,,BRS
+#PROJ       0
+#TARG       40091
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 40091   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 40091   3 201    7700000.          2.6400-3                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    8530000.          6.6000-3                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    9470000.          8.7600-3                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    1.0520+7          0.011390                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    1.1510+7          0.026400                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    1.2500+7          0.036300                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    1.3470+7          0.080850                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    1.4470+7          0.133660                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    1.5460+7          0.188780                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    1.6150+7          0.210560                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    1.8500+7          0.125410                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    1.9540+7          0.091540                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    2.0390+7          0.055450                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    2.1510+7          0.059590                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    2.2500+7          0.073890                                                R.Nathans+           (55)M0929  5 
+    0 40091   3 201    2.3550+7          0.036300                                                R.Nathans+           (55)M0929  5 
+#/DATA      16
+#/DATASET

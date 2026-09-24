@@ -1,0 +1,12 @@
+sample_id,run_spec,role,Q_uAh,mass_g,thickness_cm,area_cm2,areal_density_g_cm2,status
+CONTROL,42757,empty_tank_control,,,,,,available
+A,42763-42765,concrete_sample,540.0,58.91,1.05,25.0,2.36,available
+V,42877-42887,concrete_sample,1980.0,60.26,1.02,24.75,2.43,available
+C,42769-42770,concrete_sample,360.0,64.63,1.15,25.0,2.59,available
+F,,concrete_sample,1620.0,67.9,1.15,25.0,2.72,missing_from_current_archive
+T,42876,concrete_sample,177.0,70.08,1.1,24.88,2.82,available
+S,42875,concrete_sample,180.0,71.56,1.1,25.0,2.86,available
+D,42771-42773,concrete_sample,540.0,70.45,1.1,24.5,2.88,available
+R,42869-42872,concrete_sample,360.0,72.55,1.15,24.63,2.95,available
+U,42873-42874,concrete_sample,360.0,73.95,1.15,24.84,2.98,available
+B,42766-42768,concrete_sample,540.0,74.8,1.2,25.0,2.99,available

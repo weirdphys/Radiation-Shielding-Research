@@ -1,0 +1,32 @@
+{
+  "dataset_id": "NVAL_MATHEW",
+  "object_id": "NVAL_MATHEW.TRAJ_E",
+  "coordinate_native": "neutron_energy_MeV",
+  "coordinate_analysis": "log(neutron_energy_MeV/E_ref)",
+  "coordinate_transform": "ln(x / dataset_min_positive_energy)",
+  "coordinate_reference": 1.3315477442962436e-09,
+  "coordinate_unit": "dimensionless_log_energy",
+  "source_path": "data/processed/production_source_validation/datasets/NVAL_15MV_TRUEBEAM_STX_MATHEW/canonical_measured_neutron_spectra.csv",
+  "n_curves_loaded": 2,
+  "max_curve_points": 49,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "spectrometers": 2
+  },
+  "registry": {
+    "name": "Mathew et al. TrueBeam STx 15 MV measured neutron spectra",
+    "particle": "linac photoneutron",
+    "evidence": "EXPERIMENTAL",
+    "role": "Measured active/passive neutron spectra plus total fluence/dose quantities.",
+    "path": "processed_datasets/production_source_validation/NVAL_15MV_TRUEBEAM_STX_MATHEW/canonical_measured_neutron_spectra.csv",
+    "richness": "RICH_MULTI_1D",
+    "guardrail": "Independent linac-neutron benchmark; not direct PROJECT_15MV_40x40 source-spectrum proof."
+  },
+  "state_group_shapes": {
+    "spectrometers": {
+      "n_coordinate_points": 46,
+      "state_dimension": 2
+    }
+  }
+}

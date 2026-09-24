@@ -1,0 +1,32 @@
+#ENTRY      T0120
+#AUTHOR1    N.W.Golchert+
+#YEAR       1970
+#INSTITUTE  (1USAANL)
+#TITLE      Excitation Functions For 3He Induced Nuclear
+#+          Reactions in Cu
+#AUTHOR(S)  N.W.Golchert, J.Sedlet, D.G.Gardner
+#REF-CODE   (J,NP/A,152,419,1970)
+#REFERENCE  Nucl.Phys.A 152 (1970) 419 (doi:10.1016/0375-9474(70)90842-0)
+#DATASETS   0
+#
+#DATASET    T0120007 
+#DATE       20010131
+#REACTION   29-CU-63(HE3,2P)29-CU-64,,SIG
+#PROJ       2003
+#TARG       29063
+#MF         3
+#MT         111
+#PRODUCT    29-CU-64
+#C4BEGIN    [ 2003 29063   3 111  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 29063   3 111    2.1350+7          0.125000 0.012500                                       N.W.Golchert+        (70)T0120  7 
+ 2003 29063   3 111    2.4200+7          0.120000 0.012000                                       N.W.Golchert+        (70)T0120  7 
+ 2003 29063   3 111    2.6400+7          0.110000 0.011000                                       N.W.Golchert+        (70)T0120  7 
+ 2003 29063   3 111    2.6750+7          0.108000 0.010800                                       N.W.Golchert+        (70)T0120  7 
+ 2003 29063   3 111    2.8650+7          0.101000 0.010100                                       N.W.Golchert+        (70)T0120  7 
+ 2003 29063   3 111    3.1200+7          0.088700 8.8700-3                                       N.W.Golchert+        (70)T0120  7 
+ 2003 29063   3 111    3.3850+7          0.080900 8.0900-3                                       N.W.Golchert+        (70)T0120  7 
+#/DATA      7
+#/DATASET

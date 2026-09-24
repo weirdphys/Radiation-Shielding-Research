@@ -1,0 +1,52 @@
+{
+  "dataset_id": "NVAL_15MV_TRUEBEAM_STX_MATHEW",
+  "case_id": "NVAL_15MV_TRUEBEAM_STX_MATHEW",
+  "title": "Mathew et al. measured 15 MV TrueBeam STx neutron spectra (active and passive NNS)",
+  "evidence_type": "EXPERIMENTAL",
+  "source": {
+    "filename": "elsevier-3.pdf",
+    "sha256": "e921548fbbd220866866dc2412020a30ac730541e6115a1b3d443a99fd9a66fc",
+    "size_bytes": 945815
+  },
+  "doi": "10.1016/j.nima.2020.164662",
+  "machine": "Varian TrueBeam STx",
+  "nominal_photon_energy_MV": 15,
+  "measurement_contract": {
+    "dose_rate_MU_min": 600,
+    "jaws": "completely closed",
+    "location": "1 m from isocenter along treatment couch axis",
+    "repeat_measurements": 3,
+    "active_detector": "He-3 NNS current-mode",
+    "passive_detector": "gold-foil NNS"
+  },
+  "canonical_file": "/mnt/data/phase1_remaining_data/processed/datasets/NVAL_15MV_TRUEBEAM_STX_MATHEW/canonical_measured_neutron_spectra.csv",
+  "canonical_csv": "/mnt/data/phase1_remaining_data/processed/datasets/NVAL_15MV_TRUEBEAM_STX_MATHEW/canonical_measured_neutron_spectra.csv",
+  "auxiliary_files": [
+    "/mnt/data/phase1_remaining_data/processed/datasets/NVAL_15MV_TRUEBEAM_STX_MATHEW/published_totals_and_reconstruction.csv",
+    null,
+    "/mnt/data/phase1_remaining_data/processed/datasets/NVAL_15MV_TRUEBEAM_STX_MATHEW/auxiliary_eight_moderator_measurements.csv",
+    null
+  ],
+  "row_count": 95,
+  "extraction_notes": "Figure 5 spectra extracted from embedded vector step paths. Exact numeric moderator measurements and total fluence/dose values are taken from Tables A.2 and 1. Adjacent equal-height plotted bins can be merged by the vector renderer; equivalent 0.2-decade bin width is supplied so reconstructed totals remain physically comparable.",
+  "spectrum_reconstruction": [
+    {
+      "spectrometer": "Active NNS (He-3 current-mode)",
+      "published_total_neutron_fluence_rate_n_cm2_s": 383100.0,
+      "published_uncertainty_n_cm2_s": 700.0,
+      "digitized_reconstructed_total_n_cm2_s": 382880.95328985644,
+      "reconstruction_ratio": 0.9994282257631335,
+      "published_ambient_dose_equivalent_mSv_h": 189.3,
+      "published_ambient_dose_uncertainty_mSv_h": 0.4
+    },
+    {
+      "spectrometer": "Passive NNS (gold-foil)",
+      "published_total_neutron_fluence_rate_n_cm2_s": 420000.0,
+      "published_uncertainty_n_cm2_s": 20000.0,
+      "digitized_reconstructed_total_n_cm2_s": 417629.6657742877,
+      "reconstruction_ratio": 0.9943563470816374,
+      "published_ambient_dose_equivalent_mSv_h": 212.5,
+      "published_ambient_dose_uncertainty_mSv_h": 8.7
+    }
+  ]
+}

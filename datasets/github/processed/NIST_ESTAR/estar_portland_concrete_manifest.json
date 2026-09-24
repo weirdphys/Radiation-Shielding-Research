@@ -1,0 +1,34 @@
+{
+  "dataset": "NIST ESTAR",
+  "material_id": 144,
+  "material": "CONCRETE, PORTLAND",
+  "density_g_cm3": 2.3,
+  "mean_excitation_energy_eV": 135.2,
+  "observable_columns": {
+    "collision_stopping_power_MeV_cm2_g": "electron collision stopping power",
+    "radiative_stopping_power_MeV_cm2_g": "electron radiative stopping power",
+    "total_stopping_power_MeV_cm2_g": "collision + radiative stopping power",
+    "csda_range_g_cm2": "CSDA range as mass thickness",
+    "csda_range_cm": "CSDA range divided by Portland-concrete density",
+    "radiation_yield": "fraction of primary electron kinetic energy converted to bremsstrahlung",
+    "density_effect_delta": "density-effect correction parameter"
+  },
+  "evidence_type": "EVALUATED_REFERENCE",
+  "program": "NIST UNIX ESTAR FORTRAN",
+  "output_option": 1,
+  "standard_grid": true,
+  "qc": {
+    "rows": 81,
+    "expected_standard_rows": 81,
+    "row_count_pass": true,
+    "energy_min_MeV": 0.01,
+    "energy_max_MeV": 1000.0,
+    "strictly_increasing_energy": true,
+    "all_stopping_powers_positive": true,
+    "all_csda_ranges_nonnegative": true,
+    "radiation_yield_in_0_1": true,
+    "max_relative_total_sum_error": 0.0005066722972972297,
+    "density_g_cm3": 2.3,
+    "mean_excitation_energy_eV": 135.2
+  }
+}

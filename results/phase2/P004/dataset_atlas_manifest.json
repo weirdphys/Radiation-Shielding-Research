@@ -1,0 +1,27 @@
+{
+  "dataset_id": "P004",
+  "object_id": "P004.SEQ_MAT",
+  "coordinate_native": "photon_energy_MeV",
+  "coordinate_analysis": "log(photon_energy_MeV/E_ref)",
+  "coordinate_transform": "ln(x / dataset_min_positive_energy)",
+  "coordinate_reference": 0.06,
+  "coordinate_unit": "dimensionless_log_energy",
+  "source_path": "data/processed/BROAD_BEAM_PHOTON/broad_beam_photon_physics_ready.csv",
+  "n_curves_loaded": 7,
+  "max_curve_points": 5,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "materials": 7
+  },
+  "registry": {
+    "name": "Ogundare broad-beam photon shielding experiment",
+    "particle": "photon",
+    "evidence": "EXPERIMENTAL",
+    "role": "35 measurements across 7 materials \u00d7 5 energies with uncertainties.",
+    "path": "processed_datasets/BROAD_BEAM_PHOTON/broad_beam_photon_physics_ready.parquet",
+    "richness": "SMALL_FIELD",
+    "guardrail": "Material is categorical unless ordered by an explicit physical descriptor such as density or Z_eff."
+  },
+  "state_group_shapes": {}
+}

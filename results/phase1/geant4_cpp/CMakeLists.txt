@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.18)
+project(phase1_geant4_runner LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+find_package(Geant4 REQUIRED)
+include(${Geant4_USE_FILE})
+add_executable(phase1_geant4_runner main.cpp)
+target_link_libraries(phase1_geant4_runner PRIVATE ${Geant4_LIBRARIES})

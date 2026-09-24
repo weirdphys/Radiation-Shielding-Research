@@ -1,0 +1,29 @@
+{
+  "schema": "STEP2H_LOCAL_GIT_SOURCE_PROVENANCE_AUDIT_V1",
+  "generated_at_utc": "2026-09-20T11:26:34.029496+00:00",
+  "repositories": {
+    "radiation_research": {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research",
+      "is_git": true
+    },
+    "particle_accelerator_simulator": {
+      "path": "/home/a/projects/particle-accelerator-shielding-simulator",
+      "is_git": true
+    }
+  },
+  "candidate_commit_rows": 48,
+  "terms": [
+    "P_6MV_40x40",
+    "P_10MV_40x40",
+    "P_15MV_40x40",
+    "P_16MV_40x40",
+    "P_18MV_40x40",
+    "Ding2002",
+    "Ding 2002",
+    "linear_between_6MV_and_18MV_same_field",
+    "energy_axis_scaled_by_10_over_6"
+  ],
+  "automatic_gate_change_performed": false,
+  "production_source_mutation_performed": false,
+  "interpretation": "Candidate historical commits are evidence-discovery only. Exact source construction provenance must be reviewed and frozen before it can change Step-2C qualification."
+}

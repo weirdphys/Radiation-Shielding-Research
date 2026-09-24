@@ -1,0 +1,28 @@
+#ENTRY      S0199
+#AUTHOR1    Huabin Yang+
+#YEAR       2014
+#INSTITUTE  (3CPRIMP)
+#TITLE      Experiment for synthesis of neutron-deficient
+#+          protactinium isotopes
+#AUTHOR(S)  Huabin Yang, Long Ma, Zhiyuan Zhang, Lin Yu, Guobin Jia, 
+#+          Minghui Huang, Zaiguo Gan, Tianheng Huang, Guangshun Li, 
+#+          Xiaolei Wu, Yongde Fang, Zhigang Wang, Bingshui Gao, Wei Hua
+#REF-CODE   (J,JP/G,41,105104,2014)
+#REFERENCE  J.Phys.G 41 (2014) 105104 (doi:10.1088/0954-3899/41/10/105104)
+#DATASETS   0
+#
+#DATASET    S0199006 
+#DATE       20171015
+#REACTION   71-LU-175(20-CA-40,3N)91-PA-212,,SIG
+#PROJ       20040
+#TARG       71175
+#MF         3
+#MT         17
+#PRODUCT    91-PA-212
+#C4BEGIN    [20040 71175   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20040 71175   3  17    1.9300+8          2.000-10                                                Huabin Yang+         (14)S0199  6 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      S0212
+#AUTHOR1    Zhao Wenrong+
+#YEAR       1998
+#INSTITUTE  (3CPRAEP)
+#TITLE      Excitation Functions of Reactions from d+Ti, d+Mo,
+#+          p+Ti and p+Mo
+#AUTHOR(S)  Zhao Wenrong, Yu Weixiang, Han Xiaogang, Lu Hanlin
+#REF-CODE   (R,INDC(CPR)-44,17,1998)
+#REFERENCE  Report INDC(CPR)-44 page 17, 1998
+#DATASETS   0
+#
+#DATASET    S0212011 
+#DATE       20181120
+#REACTION   42-MO-0(P,X)42-MO-99,CUM,SIG
+#PROJ       1001
+#TARG       42000
+#MF         3
+#MT         459
+#PRODUCT    42-MO-99
+#C4BEGIN    [ 1001 42000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42000   3 459    2.1850+7 70000.00 0.012900 6.0000-4           42099.9                     Zhao Wenrong+        (98)S0212 11 
+ 1001 42000   3 459    2.1160+7 100000.0 0.015700 7.0000-4           42099.9                     Zhao Wenrong+        (98)S0212 11 
+ 1001 42000   3 459    2.0420+7 90000.00 0.014100 7.0000-4           42099.9                     Zhao Wenrong+        (98)S0212 11 
+ 1001 42000   3 459    1.9690+7 80000.00 0.012700 7.0000-4           42099.9                     Zhao Wenrong+        (98)S0212 11 
+ 1001 42000   3 459    1.8930+7 90000.00 9.7000-3 5.0000-4           42099.9                     Zhao Wenrong+        (98)S0212 11 
+ 1001 42000   3 459    1.8160+7 90000.00 0.010800 6.0000-4           42099.9                     Zhao Wenrong+        (98)S0212 11 
+ 1001 42000   3 459    1.6780+7 100000.0 6.8000-3 4.0000-4           42099.9                     Zhao Wenrong+        (98)S0212 11 
+ 1001 42000   3 459    1.5900+7 130000.0 5.4000-3 3.0000-4           42099.9                     Zhao Wenrong+        (98)S0212 11 
+ 1001 42000   3 459    1.4990+7 90000.00 3.8000-3 3.0000-4           42099.9                     Zhao Wenrong+        (98)S0212 11 
+#/DATA      9
+#/DATASET

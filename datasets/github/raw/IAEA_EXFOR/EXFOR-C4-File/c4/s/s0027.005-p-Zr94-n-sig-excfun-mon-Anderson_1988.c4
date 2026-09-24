@@ -1,0 +1,28 @@
+#ENTRY      S0027
+#AUTHOR1    J.D.Anderson+
+#YEAR       1988
+#INSTITUTE  (1USALRL)
+#TITLE      Analog(p,n)Cross section of the zirconium isotopes at
+#+          18 and 25 MeV
+#AUTHOR(S)  J.D.Anderson, R.W.Bauer, V.R.Brown, S.M.Grimes, V.A.Madsen, 
+#+          B.A.Pohl, C.H.Poppe, W.Scobel
+#REF-CODE   (J,PR/C,38,1601,198810)
+#REFERENCE  Phys.Rev.C 38 (1988) 1601 (doi:10.1103/PhysRevC.38.1601)
+#DATASETS   0
+#
+#DATASET    S0027005 
+#DATE       20080311
+#REACTION   40-ZR-94(P,N)41-NB-94,PAR,SIG
+#PROJ       1001
+#TARG       40094
+#MF         3
+#MT         50
+#PRODUCT    41-NB-94
+#C4BEGIN    [ 1001 40094   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40094   3  50    1.8000+7          9.4000-3 5.0000-4                   0.000000         LVLJ.D.Anderson+        (88)S0027  5 
+ 1001 40094   3  50    2.5000+7          6.1000-3 3.0000-4                   0.000000         LVLJ.D.Anderson+        (88)S0027  5 
+#/DATA      2
+#/DATASET

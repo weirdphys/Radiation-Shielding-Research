@@ -1,0 +1,30 @@
+#ENTRY      M0408
+#AUTHOR1    T.Suda+
+#YEAR       1988
+#INSTITUTE  (2JPNTOH)
+#TITLE      Measurements of B-10(g,p) and B-10(g,pn) cross
+#+          sections at Eg = 66 - 103 MeV.
+#AUTHOR(S)  T.Suda, O.Konno, I.Nomura, T.Suzuki, T.Terasawa, Y.Torizuka, 
+#+          J.Yokokawa, K.Maeda, J.Eden, G.O'keefe, R.Rassool, M.Thompson, 
+#+          J.Kim
+#REF-CODE   (J,JPJ,57,5,1988)
+#REFERENCE  J.Phys.Soc.Jpn. 57 (1988) 5 (doi:10.1143/JPSJ.57.5)
+#DATASETS   0
+#
+#DATASET    M0408002 
+#DATE       20160905
+#REACTION   5-B-10(G,P)4-BE-9,,DA
+#PROJ       0
+#TARG       5010
+#MF         4
+#MT         103
+#PRODUCT    4-BE-9
+#C4BEGIN    [    0  5010   4 103 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  5010   4 103 C  8.9500+7 1.3500+7 2.6400-5 8.0000-7 0.707107                              T.Suda+              (88)M0408  2 
+    0  5010   4 103 C  8.9500+7 1.3500+7 2.2700-5 7.0000-7 0.422618                              T.Suda+              (88)M0408  2 
+    0  5010   4 103 C  8.9500+7 1.3500+7 1.2900-5 4.0000-7 6.123-17                              T.Suda+              (88)M0408  2 
+#/DATA      3
+#/DATASET

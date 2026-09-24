@@ -1,0 +1,28 @@
+#ENTRY      P0062
+#AUTHOR1    H.Morinaga+
+#YEAR       1956
+#INSTITUTE  (1USAPUR)
+#TITLE      Alpha-Gamma Reaction
+#AUTHOR(S)  H.Morinaga
+#REF-CODE   (J,PR,101,100,195601)
+#REFERENCE  Phys.Rev. 101 (1956) 100 (doi:10.1103/PhysRev.101.100)
+#DATASETS   0
+#
+#DATASET    P0062002 
+#DATE       19830929
+#REACTION   28-NI-58(A,G)30-ZN-62,,SIG
+#PROJ       2004
+#TARG       28058
+#MF         3
+#MT         102
+#PRODUCT    30-ZN-62
+#C4BEGIN    [ 2004 28058   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28058   3 102    1.0600+7          9.5000-5                                                H.Morinaga           (56)P0062  2 
+ 2004 28058   3 102    1.2600+7          2.9100-4                                                H.Morinaga           (56)P0062  2 
+ 2004 28058   3 102    1.4600+7          4.0300-4                                                H.Morinaga           (56)P0062  2 
+ 2004 28058   3 102    1.6200+7          3.9800-4                                                H.Morinaga           (56)P0062  2 
+#/DATA      4
+#/DATASET

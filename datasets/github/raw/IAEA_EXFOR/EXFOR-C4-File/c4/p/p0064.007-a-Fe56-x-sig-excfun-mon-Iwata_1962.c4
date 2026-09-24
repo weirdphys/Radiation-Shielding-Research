@@ -1,0 +1,36 @@
+#ENTRY      P0064
+#AUTHOR1    S.J.Iwata+
+#YEAR       1962
+#INSTITUTE  (2JPNKTO)
+#TITLE      Isomeric Cross Section Ratios in Alpha-Particle
+#+          Reactions
+#AUTHOR(S)  S.J.Iwata
+#REF-CODE   (J,JPJ,17,1323,1962)
+#REFERENCE  J.Phys.Soc.Jpn. 17 (1962) 1323 (doi:10.1143/JPSJ.17.1323)
+#DATASETS   0
+#
+#DATASET    P0064007 
+#DATE       20241025
+#REACTION   26-FE-56(A,X)27-CO-57,,SIG
+#PROJ       2004
+#TARG       26056
+#MF         3
+#MT         454
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 2004 26056   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26056   3 454    2.8200+7 620000.0 0.017900 2.9500-3           27057.9                     S.J.Iwata            (62)P0064  7 
+ 2004 26056   3 454    2.8600+7          0.026900                    27057.9                     S.J.Iwata            (62)P0064  7 
+ 2004 26056   3 454    2.8800+7          0.036100                    27057.9                     S.J.Iwata            (62)P0064  7 
+ 2004 26056   3 454    3.0100+7          0.078700                    27057.9                     S.J.Iwata            (62)P0064  7 
+ 2004 26056   3 454    3.0600+7          0.092000                    27057.9                     S.J.Iwata            (62)P0064  7 
+ 2004 26056   3 454    3.0700+7          0.118000                    27057.9                     S.J.Iwata            (62)P0064  7 
+ 2004 26056   3 454    3.1900+7          0.168000                    27057.9                     S.J.Iwata            (62)P0064  7 
+ 2004 26056   3 454    3.3500+7          0.275000                    27057.9                     S.J.Iwata            (62)P0064  7 
+ 2004 26056   3 454    3.5500+7          0.391000                    27057.9                     S.J.Iwata            (62)P0064  7 
+ 2004 26056   3 454    3.7200+7          0.441000                    27057.9                     S.J.Iwata            (62)P0064  7 
+ 2004 26056   3 454    3.8700+7          0.499000                    27057.9                     S.J.Iwata            (62)P0064  7 
+#/DATA      11
+#/DATASET

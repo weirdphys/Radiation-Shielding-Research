@@ -1,0 +1,30 @@
+#ENTRY      L0102
+#AUTHOR1    T.Bar-Noy+
+#YEAR       1977
+#INSTITUTE  (3ISLISL)
+#TITLE      Elastic and Raman scattering of 8.5-11.4 MeV photons
+#+          from 159Tb, 165Ho and 237Np
+#AUTHOR(S)  T.Bar-Noy, R.Moreh
+#REF-CODE   (J,NP/A,275,151,1977)
+#REFERENCE  Nucl.Phys.A 275 (1977) 151 (doi:10.1016/0375-9474(77)90281-0)
+#DATASETS   0
+#
+#DATASET    L0102006 
+#DATE       20050719
+#REACTION   67-HO-165(G,EL)67-HO-165,,DA
+#PROJ       0
+#TARG       67165
+#MF         4
+#MT         2
+#PRODUCT    67-HO-165
+#C4BEGIN    [    0 67165   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 67165   4   2    8530000.          1.8000-6 4.0000-7-0.766044                              T.Bar-Noy+           (77)L0102  6 
+    0 67165   4   2    8880000.          2.7000-6 4.0000-7-0.766044                              T.Bar-Noy+           (77)L0102  6 
+    0 67165   4   2    9000000.          2.7000-6 3.0000-7-0.766044                              T.Bar-Noy+           (77)L0102  6 
+    0 67165   4   2    9720000.          8.0000-6 1.0000-6-0.766044                              T.Bar-Noy+           (77)L0102  6 
+    0 67165   4   2    1.1390+7          1.0800-4 1.3000-5-0.766044                              T.Bar-Noy+           (77)L0102  6 
+#/DATA      5
+#/DATASET

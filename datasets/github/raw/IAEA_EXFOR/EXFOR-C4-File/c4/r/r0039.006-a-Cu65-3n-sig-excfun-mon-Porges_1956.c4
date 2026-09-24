@@ -1,0 +1,32 @@
+#ENTRY      R0039
+#AUTHOR1    K.G.Porges+
+#YEAR       1956
+#INSTITUTE  (1USABRK)
+#TITLE      Alpha excitation functions of silver and copper
+#AUTHOR(S)  K.G.Porges
+#REF-CODE   (J,PR,101,225,1956)
+#REFERENCE  Phys.Rev. 101 (1956) 225 (doi:10.1103/PhysRev.101.225)
+#DATASETS   0
+#
+#DATASET    R0039006 
+#DATE       20190118
+#REACTION   29-CU-65(A,3N)31-GA-66,,SIG
+#PROJ       2004
+#TARG       29065
+#MF         3
+#MT         17
+#PRODUCT    31-GA-66
+#C4BEGIN    [ 2004 29065   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 29065   3  17    2.9600+7          0.015370                                                K.G.Porges           (56)R0039  6 
+ 2004 29065   3  17    3.0800+7          0.025600                                                K.G.Porges           (56)R0039  6 
+ 2004 29065   3  17    3.1800+7          0.036300                                                K.G.Porges           (56)R0039  6 
+ 2004 29065   3  17    3.2700+7          0.057400                                                K.G.Porges           (56)R0039  6 
+ 2004 29065   3  17    3.3700+7          0.073600                                                K.G.Porges           (56)R0039  6 
+ 2004 29065   3  17    3.5200+7          0.119400                                                K.G.Porges           (56)R0039  6 
+ 2004 29065   3  17    3.6100+7          0.150200                                                K.G.Porges           (56)R0039  6 
+ 2004 29065   3  17    3.7000+7          0.167600                                                K.G.Porges           (56)R0039  6 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,51 @@
+#ENTRY      K2115
+#AUTHOR1    H.Utsunomiya+
+#YEAR       2008
+#INSTITUTE  (2JPNKON)
+#TITLE      M1 gamma strength for zirconium nuclei in the
+#+          photoneutron channel
+#AUTHOR(S)  H.Utsunomiya, S.Goriely, T.Kondo, T.Kaihori, A.Makinaga, 
+#+          S.Goko, H.Akimune, T.Yamagata, H.Toyokawa, T.Matsumoto, 
+#+          H.Harano, S.Hohara, Y.W.Lui, S.Hilaire, S.Peru, A.J.Koning
+#REF-CODE   (J,PRL,100,(16),162502,200804)
+#REFERENCE  Phys.Rev.Lett. 100 No.16 (2008) 162502 (doi:10.1103/PhysRevLett.100.162502)
+#DATASETS   0
+#
+#DATASET    K2115002 
+#DATE       20120523
+#REACTION   40-ZR-91(G,N)40-ZR-90,,SIG
+#PROJ       0
+#TARG       40091
+#MF         3
+#MT         4
+#PRODUCT    40-ZR-90
+#C4BEGIN    [    0 40091   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 40091   3   4 A  7330000.          1.6600-3 4.3000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  7440000.          2.2000-3 3.8000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  7530000.          2.7300-3 4.6000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  7660000.          3.7000-3 1.9000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  7790000.          3.7800-3 2.2000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  7930000.          5.1200-3 1.7000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  8030000.          5.5500-3 1.1000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  8160000.          5.7700-3 2.2000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  8330000.          6.7400-3 2.2000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  8450000.          7.3000-3 1.9000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  8610000.          7.3700-3 2.6000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  8810000.          8.9300-3 2.1000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  9000000.          8.9400-3 2.2000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  9130000.          9.1400-3 2.2000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  9210000.          9.6200-3 2.5000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  9280000.          9.9800-3 2.7000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  9340000.          9.9600-3 2.8000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  9780000.          0.012690 5.1000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  1.0180+7          0.014330 5.5000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  1.0710+7          0.017430 5.8000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  1.1120+7          0.020290 6.9000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  1.1460+7          0.022810 7.2000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  1.1860+7          0.027670 9.5000-4                                       H.Utsunomiya+        (08)K2115  2 
+    0 40091   3   4 A  1.2750+7          0.042930 1.1300-3                                       H.Utsunomiya+        (08)K2115  2 
+#/DATA      24
+#/DATASET

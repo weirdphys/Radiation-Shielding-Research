@@ -1,0 +1,54 @@
+#ENTRY      M0053
+#AUTHOR1    B.S.Ishkhanov+
+#YEAR       1981
+#INSTITUTE  (4RUSMOS)
+#TITLE      Partial cross sections for various channels of the
+#+          Cr-52(gamma,xgamma') reaction.
+#AUTHOR(S)  B.S.Ishkhanov, Yu.A.Novikov, E.S.Omarov, I.M.Piskarev
+#REF-CODE   (J,YF,33,570,1981)
+#REFERENCE  Yad.Fiz. 33 (1981) 570
+#DATASETS   0
+#
+#DATASET    M0053003 
+#DATE       20121030
+#REACTION   24-CR-52(G,P)23-V-51,PAR,DA,G,BRS
+#PROJ       0
+#TARG       24052
+#MF         14
+#MT         600
+#PRODUCT    23-V-51
+#C4BEGIN    [    0 24052  14 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 24052  14 600 A  1.6000+7          2.3000-5 1.1000-5-0.707107          929000.0            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  1.9200+7          1.6000-5 1.4000-5-0.707107          929000.0            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  2.2100+7          4.9000-5 2.3000-5-0.707107          929000.0            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  2.4100+7          6.8000-5 2.2000-5-0.707107          929000.0            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  2.7100+7          8.1000-5 2.4000-5-0.707107          929000.0            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  3.0100+7          6.2000-5 2.7000-5-0.707107          929000.0            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  3.2200+7          9.7000-5 2.5000-5-0.707107          929000.0            B.S.Ishkhanov+       (81)M0053  3 
+#/DATA      7
+#/DATASET
+#
+#DATASET    M0053003 
+#DATE       20121030
+#REACTION   24-CR-52(G,P)23-V-51,PAR,DA,G,BRS
+#PROJ       0
+#TARG       24052
+#MF         14
+#MT         600
+#PRODUCT    23-V-51
+#C4BEGIN    [    0 24052  14 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 24052  14 600 A  1.6000+7          1.0000-6 9.0000-6-0.707107          1609000.            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  1.9100+7          5.6000-5 1.8000-5-0.707107          1609000.            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  2.2100+7          5.5000-5 2.5000-5-0.707107          1609000.            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  2.4100+7          4.7000-5 2.5000-5-0.707107          1609000.            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  2.7100+7          2.3000-5 3.6000-5-0.707107          1609000.            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  3.0100+7          1.0000-5 3.2000-5-0.707107          1609000.            B.S.Ishkhanov+       (81)M0053  3 
+    0 24052  14 600 A  3.2200+7          1.6000-5 3.3000-5-0.707107          1609000.            B.S.Ishkhanov+       (81)M0053  3 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      B0152
+#AUTHOR1    M.Guillaume+
+#YEAR       1978
+#INSTITUTE  (1USABNL)
+#TITLE      Cyclotron Isotopes and Radiopharmaceuticals - Xxvii.
+#+          Se-73
+#AUTHOR(S)  M.Guillaume, R.M.Lambrecht, A.P.Wolf
+#REF-CODE   (J,ARI,29,411,1978)
+#REFERENCE  Appl.Radiat.Isot. 29 (1978) 411 (doi:10.1016/0020-708X(78)90076-5)
+#DATASETS   0
+#
+#DATASET    B0152002 
+#DATE       20011220
+#REACTION   32-GE-70(A,N)34-SE-73-G,M+,SIG,,,EXP
+#PROJ       2004
+#TARG       32070
+#MF         3
+#MT         459
+#PRODUCT    34-SE-73-G
+#C4BEGIN    [ 2004 32070   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 32070   3 459    1.3000+7          0.113600 0.018000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    1.7500+7          0.298200 0.048000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    2.1500+7          0.454400 0.073000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    2.3500+7          0.504100 0.081000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    2.4500+7          0.497000 0.080000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    2.5500+7          0.404700 0.065000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    2.6500+7          0.241400 0.034000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    2.7500+7          0.156200 0.025000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    2.8500+7          0.106500 0.017000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    2.9500+7          0.085200 0.014000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    3.0500+7          0.064000 0.010000           34073.0                     M.Guillaume+         (78)B0152  2 
+ 2004 32070   3 459    3.1500+7          0.056800 9.0000-3           34073.0                     M.Guillaume+         (78)B0152  2 
+#/DATA      12
+#/DATASET

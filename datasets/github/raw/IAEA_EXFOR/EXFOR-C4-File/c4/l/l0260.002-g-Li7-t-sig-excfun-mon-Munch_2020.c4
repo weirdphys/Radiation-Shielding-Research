@@ -1,0 +1,42 @@
+#ENTRY      L0260
+#AUTHOR1    M.Munch+
+#YEAR       2020
+#INSTITUTE  (2DENAAU)
+#TITLE      Measurement of the 7Li(gamma,t)4He ground-state
+#+          cross section between Eg = 4.4 and 10 MeV
+#AUTHOR(S)  M.Munch, C.Matei, S.D.Pain, M.T.Febbraro, K.A.Chipps, H.J.Karwowski, 
+#+          C.Aa.Diget, A.Pappalardo, S.Chesnevskaya, G.L.Guardo, D.Walter, 
+#+          D.L.Balabanski, F.D.Becchetti, C.R.Brune, K.Y.Chae, J.Frost-Schenk, 
+#+          M.J.Kim, M.S.Kwag, M.La Cognata, D.Lattuada, R.G.Pizzone, 
+#+          G.G.Rapisarda, G.V.Turturica, C.A.Ur, Y.Xu
+#REF-CODE   (J,PR/C,101,055801,2020)
+#REFERENCE  Phys.Rev.C 101 (2020) 055801 (doi:10.1103/PhysRevC.101.055801)
+#DATASETS   0
+#
+#DATASET    L0260002 
+#DATE       20200630
+#REACTION   3-LI-7(G,T)2-HE-4,,SIG
+#PROJ       0
+#TARG       3007
+#MF         3
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    0  3007   3 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3007   3 105    4400000. 80000.00 3.8600-4 7.5000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    4510000. 140000.0 6.8600-4 1.0700-4                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    4650000. 90000.00 4.4300-4 6.4000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    5000000. 90000.00 4.7500-4 4.4000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    5980000. 80000.00 5.6400-4 5.2000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    6580000. 80000.00 5.8600-4 5.4000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    7160000. 80000.00 6.0900-4 5.6000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    7410000. 90000.00 7.1600-4 6.6000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    7450000. 100000.0 7.4400-4 6.9000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    7760000. 90000.00 6.4300-4 5.9000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    8940000. 80000.00 6.0400-4 5.6000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    9500000. 60000.00 4.7300-4 4.4000-5                                       M.Munch+             (20)L0260  2 
+    0  3007   3 105    9910000. 50000.00 3.8700-4 3.6000-5                                       M.Munch+             (20)L0260  2 
+#/DATA      13
+#/DATASET

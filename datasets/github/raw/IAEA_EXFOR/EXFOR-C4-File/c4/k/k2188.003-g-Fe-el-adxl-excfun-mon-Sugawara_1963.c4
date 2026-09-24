@@ -1,0 +1,34 @@
+#ENTRY      K2188
+#AUTHOR1    M.Sugawara+
+#YEAR       1963
+#INSTITUTE  (2JPNTOH)
+#TITLE      Nuclear elastic scattering of photons near the
+#+          particle threshold energy (II)
+#AUTHOR(S)  M.Sugawara, S.Mori, A.Ono, A.Hotta, M.Kimura
+#REF-CODE   (J,JPJ,18,(1),17,196301)
+#REFERENCE  J.Phys.Soc.Jpn. 18 No.1 (1963) 17 (doi:10.1143/JPSJ.18.17)
+#DATASETS   0
+#
+#DATASET    K2188003 
+#DATE       20101108
+#REACTION   26-FE-0(G,EL)26-FE-0,,DA,,4PI
+#PROJ       0
+#TARG       26000
+#MF         4
+#MT         2
+#PRODUCT    26-FE-0
+#C4BEGIN    [    0 26000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 26000   4   2    5400000. 1000000. 3.9789-6 1.0345-5-0.500000                              M.Sugawara+          (63)K2188  3 
+    0 26000   4   2    6500000. 1000000. 1.2732-5 1.1141-5-0.500000                              M.Sugawara+          (63)K2188  3 
+    0 26000   4   2    7400000. 1000000. 3.8197-5 1.1937-5-0.500000                              M.Sugawara+          (63)K2188  3 
+    0 26000   4   2    8500000. 1000000. 9.3106-5 1.7507-5-0.500000                              M.Sugawara+          (63)K2188  3 
+    0 26000   4   2    9400000. 1000000. 9.1514-5 1.6711-5-0.500000                              M.Sugawara+          (63)K2188  3 
+    0 26000   4   2    1.0400+7 1000000. 1.0186-4 1.4324-5-0.500000                              M.Sugawara+          (63)K2188  3 
+    0 26000   4   2    1.1500+7 1000000. 6.4458-5 1.2732-5-0.500000                              M.Sugawara+          (63)K2188  3 
+    0 26000   4   2    1.2500+7 1000000. 1.9099-5 8.7535-6-0.500000                              M.Sugawara+          (63)K2188  3 
+    0 26000   4   2    1.3500+7 1000000. 1.1141-5 8.7535-6-0.500000                              M.Sugawara+          (63)K2188  3 
+#/DATA      9
+#/DATASET

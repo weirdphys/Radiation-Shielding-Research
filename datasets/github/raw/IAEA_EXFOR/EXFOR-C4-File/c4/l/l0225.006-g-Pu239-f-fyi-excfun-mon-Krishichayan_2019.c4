@@ -1,0 +1,26 @@
+#ENTRY      L0225
+#AUTHOR1    Krishichayan+
+#YEAR       2019
+#INSTITUTE  (1USATNL)
+#TITLE      Fission product yield measurements using
+#+          monoenergetic photon beams
+#AUTHOR(S)  Krishichayan, Megha Bhike, C.R.Howell, A.P.Tonchev, W.Tornow
+#REF-CODE   (J,PR/C,100,014608,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 014608 (doi:10.1103/PhysRevC.100.014608)
+#DATASETS   0
+#
+#DATASET    L0225006 
+#DATE       20190918
+#REACTION   94-PU-239(G,F)55-CS-136,IND,FY
+#PROJ       0
+#TARG       94239
+#MF         8
+#MT         454
+#PRODUCT    55-CS-136
+#C4BEGIN    [    0 94239   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 94239   8 454    1.3000+7 130000.0 1.0000-3 1.0000-4 55.00000 136.0000 9.000000            Krishichayan+        (19)L0225  6 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      S0023
+#AUTHOR1    Wu Sheng+
+#YEAR       1991
+#INSTITUTE  (3CPRSIU)
+#TITLE      Excitation functions for Mo(d,x)95mTc, Mo(d,x)96gTc
+#+          and Mo(d,x)97mTc reactions
+#AUTHOR(S)  Wu Sheng, Long Xianguan, Peng Xiufeng, Ho Fuqing, Liu Mantian
+#REF-CODE   (J,PHE,15,827,1991)
+#REFERENCE  High En.Nucl.Phy.Ch. 15 (1991) 827
+#DATASETS   0
+#
+#DATASET    S0023002 
+#DATE       20180308
+#REACTION   42-MO-0(D,X)43-TC-95-M,,SIG
+#PROJ       1002
+#TARG       42000
+#MF         3
+#MT         454
+#PRODUCT    43-TC-95-M
+#C4BEGIN    [ 1002 42000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 42000   3 454    1.3300+7          0.035700 2.0000-3           43095.7                     Wu Sheng+            (91)S0023  2 
+ 1002 42000   3 454    1.2500+7          0.033100 1.8000-3           43095.7                     Wu Sheng+            (91)S0023  2 
+ 1002 42000   3 454    1.1600+7          0.036000 2.0000-3           43095.7                     Wu Sheng+            (91)S0023  2 
+ 1002 42000   3 454    1.0700+7          0.034300 1.9000-3           43095.7                     Wu Sheng+            (91)S0023  2 
+ 1002 42000   3 454    9700000.          0.036500 2.0000-3           43095.7                     Wu Sheng+            (91)S0023  2 
+ 1002 42000   3 454    8700000.          0.028700 1.6000-3           43095.7                     Wu Sheng+            (91)S0023  2 
+ 1002 42000   3 454    7600000.          0.021800 1.2000-3           43095.7                     Wu Sheng+            (91)S0023  2 
+ 1002 42000   3 454    6300000.          0.013800 8.0000-4           43095.7                     Wu Sheng+            (91)S0023  2 
+ 1002 42000   3 454    4900000.          4.8200-3 3.0000-4           43095.7                     Wu Sheng+            (91)S0023  2 
+ 1002 42000   3 454    3200000.          4.5000-4 7.0000-5           43095.7                     Wu Sheng+            (91)S0023  2 
+#/DATA      10
+#/DATASET

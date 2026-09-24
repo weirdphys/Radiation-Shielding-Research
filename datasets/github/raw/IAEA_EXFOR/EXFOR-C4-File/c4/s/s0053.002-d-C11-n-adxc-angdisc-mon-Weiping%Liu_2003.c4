@@ -1,0 +1,37 @@
+#ENTRY      S0053
+#AUTHOR1    Weiping Liu+
+#YEAR       2003
+#INSTITUTE  (3CPRAEP)
+#TITLE      Determination of 11C(p,g)12N astrophysical S-factor
+#+          via measurement of 11C(d,n)12N reaction
+#AUTHOR(S)  Weiping Liu, Zhihong Li, Xixiang Bai, Bing Guo, Sheng Zeng, 
+#+          Yongshou Chen, Shengquan Yan, Baoxiang Wang, Gang Lian, 
+#+          Yun Lu, Kaisu Wu, Nengchuan Shu
+#REF-CODE   (J,NP/A,728,275,2003)
+#REFERENCE  Nucl.Phys.A 728 (2003) 275 (doi:10.1016/j.nuclphysa.2003.08.017)
+#DATASETS   0
+#
+#DATASET    S0053002 
+#DATE       20091022
+#REACTION   (1-H-2(6-C-11,N)7-N-12,PAR,DA,RSD)=(6-C-11(D,N)7-N-12,PAR,DA)
+#PROJ       1002
+#TARG       6011
+#MF         4
+#MT         50
+#PRODUCT    7-N-12
+#C4BEGIN    [ 1002  6011   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6011   4  50 AC 1.1597+7          0.053400 0.011500 0.997916 7.3210-3 0.000000         LVLWeiping Liu+         (03)S0053  2 
+ 1002  6011   4  50 AC 1.1597+7          0.014400 3.1000-3 0.961262 0.031270 0.000000         LVLWeiping Liu+         (03)S0053  2 
+ 1002  6011   4  50 AC 1.1597+7          5.1000-3 1.2000-3 0.908508 0.051052 0.000000         LVLWeiping Liu+         (03)S0053  2 
+ 1002  6011   4  50 AC 1.1597+7          3.5000-3 7.0000-4 0.830984 0.070877 0.000000         LVLWeiping Liu+         (03)S0053  2 
+ 1002  6011   4  50 AC 1.1597+7          2.0000-3 7.0000-4 0.725374 0.098515 0.000000         LVLWeiping Liu+         (03)S0053  2 
+ 1002  6011   4  50 AC 1.1597+7          1.6000-3 5.0000-4 0.576432 0.138340 0.000000         LVLWeiping Liu+         (03)S0053  2 
+ 1002  6011   4  50 AC 1.1597+7          3.5000-4 1.2000-4-0.088894 0.660599 0.000000         LVLWeiping Liu+         (03)S0053  2 
+ 1002  6011   4  50 AC 1.1597+7          6.4000-4 5.0000-4-0.759271 0.131755 0.000000         LVLWeiping Liu+         (03)S0053  2 
+ 1002  6011   4  50 AC 1.1597+7          4.6000-3 2.6000-3-0.917060 0.064027 0.000000         LVLWeiping Liu+         (03)S0053  2 
+ 1002  6011   4  50 AC 1.1597+7          9.0000-3 0.015100-0.990983 0.017773 0.000000         LVLWeiping Liu+         (03)S0053  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,42 @@
+Circle Map Fixed-Point Locking Using Radiation-Derived Analytic-Signal Phase
+==============================================================
+
+Interpretation:
+  Fixed-point locking probability for the circle map.
+  This is not a full p:q Arnold-tongue calculation.
+  Radiation phase is an analytic-signal phase of a detrended optical-depth-gradient feature over log-energy.
+
+Source: data/processed/RB2000164/rb2000164_physics_ready_strict.csv.gz
+Radiation object: N003.SEQ_SAMPLE / N003.TRAJ_E
+Observable: transmission T(E)
+Measured samples: 9
+Coordinate points: 5000
+Coordinate step: 0.002762109522816303
+Smoothing window: 151
+Omega range: [0.0, 1.0] with 52 points
+K range: [0.0, 12.566370614359172] with 52 points
+Iterations: 25
+Tolerance: 1e-06
+Original radiation phase samples: 5000
+Used radiation phase samples: 1750
+Mean cross-sample phase resultant length: 0.7209663069
+Median cross-sample phase resultant length: 0.7780941095
+
+
+Plotting diagnostics
+====================
+Interpretation: fixed-point locking probability from the radiation-informed circle map.
+This is not a full rotation-number Arnold tongue calculation.
+
+locked min  = 0.0000000000
+locked max  = 1.0000000000
+locked mean = 0.0745883347
+phase min   = 0.0004541742 cycles
+phase max   = 0.9994910567 cycles
+phase mean  = 0.5437216568 cycles
+phase std   = 0.3196858862 cycles
+phase resultant min    = 0.0573800507
+phase resultant max    = 0.9964817280
+phase resultant mean   = 0.7209663069
+phase resultant median = 0.7780941095
+lock threshold for binary map = 0.5000

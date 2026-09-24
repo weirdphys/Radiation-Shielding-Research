@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "E001_NIST_ESTAR_PORTLAND_CONCRETE",
+  "expected_result_file": "E001_estar_geant4.csv",
+  "observable": "total_stopping_power",
+  "join_keys": "energy_MeV",
+  "reference_column": "total_stopping_power_MeV_cm2_g",
+  "reference_uncertainty_column": "",
+  "mc_column": "mc_total_stopping_power_MeV_cm2_g",
+  "mc_uncertainty_column": "",
+  "comparison_ready": false,
+  "required_for_phase1_exit_when_ready": true,
+  "blocker": "Audit Geant4 concrete composition against NIST ESTAR material 144 before declaring exact material equivalence."
+}

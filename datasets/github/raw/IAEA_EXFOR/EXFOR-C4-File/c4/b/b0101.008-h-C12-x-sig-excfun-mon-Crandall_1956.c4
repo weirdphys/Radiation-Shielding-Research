@@ -1,0 +1,36 @@
+#ENTRY      B0101
+#AUTHOR1    W.E.Crandall+
+#YEAR       1956
+#INSTITUTE  (1USABRK)
+#TITLE      12C(x,xn)11C and 27Al(x,x2pn)24Na cross sections at
+#+          high energies
+#AUTHOR(S)  W.E.Crandall, G.P.Millburn, R.V.Pyle, W.Birnbaum
+#REF-CODE   (J,PR,101,329,1956)
+#REFERENCE  Phys.Rev. 101 (1956) 329 (doi:10.1103/PhysRev.101.329)
+#DATASETS   0
+#
+#DATASET    B0101008 
+#DATE       20220622
+#REACTION   6-C-12(HE3,X)6-C-11,,SIG
+#PROJ       2003
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 2003  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  6012   3 454    3.7200+7 6.2500+7 0.051700                     6011.9                     W.E.Crandall+        (56)B0101  8 
+ 2003  6012   3 454    8.8200+7 3.3200+7 0.072100                     6011.9                     W.E.Crandall+        (56)B0101  8 
+ 2003  6012   3 454    1.2400+8 2.5100+7 0.079400                     6011.9                     W.E.Crandall+        (56)B0101  8 
+ 2003  6012   3 454    1.5300+8 2.2200+7 0.080700                     6011.9                     W.E.Crandall+        (56)B0101  8 
+ 2003  6012   3 454    1.8200+8 1.9300+7 0.082600                     6011.9                     W.E.Crandall+        (56)B0101  8 
+ 2003  6012   3 454    2.6000+8 1.3900+7 0.077500                     6011.9                     W.E.Crandall+        (56)B0101  8 
+ 2003  6012   3 454    3.2600+8 1.1600+7 0.074700                     6011.9                     W.E.Crandall+        (56)B0101  8 
+ 2003  6012   3 454    3.8000+8 1.0000+7 0.070800                     6011.9                     W.E.Crandall+        (56)B0101  8 
+ 2003  6012   3 454    4.3000+8          0.067000                     6011.9                     W.E.Crandall+        (56)B0101  8 
+ 2003  6012   3 454    4.7700+8          0.068600                     6011.9                     W.E.Crandall+        (56)B0101  8 
+ 2003  6012   3 454    4.8500+8          0.068000                     6011.9                     W.E.Crandall+        (56)B0101  8 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,10 @@
+COMMAND: /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/build/step2_route_c_runner info
+
+--- STDOUT ---
+IMPLEMENTATION_LANGUAGE=C++17
+REQUIRED_THREADS=16
+MINIMUM_HISTORIES=100000000
+GEANT4_VERSION=$Name: geant4-11-04-patch-02 [MT]$
+MULTITHREADED=1
+
+--- STDERR ---

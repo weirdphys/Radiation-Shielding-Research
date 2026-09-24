@@ -1,0 +1,28 @@
+#ENTRY      M0434
+#AUTHOR1    E.A.Kotikov+
+#YEAR       1973
+#INSTITUTE  (4RUSLIN)
+#TITLE      The reaction Li-7(gamma,pt)H-3 at Eg < 27 MeV.
+#AUTHOR(S)  E.A.Kotikov, E.D.Makhnovskii
+#REF-CODE   (J,YF,18,245,1973)
+#REFERENCE  Yad.Fiz. 18 (1973) 245
+#DATASETS   0
+#
+#DATASET    M0434002 
+#DATE       20180228
+#REACTION   3-LI-7(G,P+T)1-H-3,,SIG
+#PROJ       0
+#TARG       3007
+#MF         3
+#MT         116
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  3007   3 116  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3007   3 116    2.3500+7          9.5000-5 7.0000-5                                       E.A.Kotikov+         (73)M0434  2 
+    0  3007   3 116    2.4500+7          4.6000-4 1.2000-4                                       E.A.Kotikov+         (73)M0434  2 
+    0  3007   3 116    2.5500+7          2.6000-4 2.4000-4                                       E.A.Kotikov+         (73)M0434  2 
+    0  3007   3 116    2.6500+7          1.7000-4 2.3000-4                                       E.A.Kotikov+         (73)M0434  2 
+#/DATA      4
+#/DATASET

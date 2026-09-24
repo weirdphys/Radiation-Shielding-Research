@@ -1,0 +1,28 @@
+#ENTRY      G3001
+#AUTHOR1    M.L.P.Antunes+
+#YEAR       1995
+#INSTITUTE  (3BZLUSP)
+#TITLE      Two proton and two neutron photoemission cross
+#+          sections of 63Cu
+#AUTHOR(S)  M.L.P.Antunes, M.N.Martins
+#REF-CODE   (J,PR/C,52,1484,1995)
+#REFERENCE  Phys.Rev.C 52 (1995) 1484 (doi:10.1103/PhysRevC.52.1484)
+#DATASETS   0
+#
+#DATASET    G3001007 
+#DATE       20170825
+#REACTION   29-CU-63(G,2P)27-CO-61,,SIG,,BRS
+#PROJ       0
+#TARG       29063
+#MF         3
+#MT         111
+#PRODUCT    27-CO-61
+#C4BEGIN    [    0 29063   3 111  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 29063   3 111    2.2100+7 4900000. 8.9000-5 9.0000-6                                       M.L.P.Antunes+       (95)G3001  7 
+    0 29063   3 111    2.9500+7 2500000. 5.7000-4 7.0000-5                                       M.L.P.Antunes+       (95)G3001  7 
+    0 29063   3 111    4.1000+7 9000000. 3.3000-4 4.0000-5                                       M.L.P.Antunes+       (95)G3001  7 
+#/DATA      3
+#/DATASET

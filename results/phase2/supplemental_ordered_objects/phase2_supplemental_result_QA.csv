@@ -1,0 +1,17 @@
+relative_path,file_type,size_bytes,status,detail
+N001/N001_SEQ_SPEC_central_axis_spectra.png,png,123428,ok,"shape=(1224, 2072, 4)"
+N001_CONTROLLED/N001_controlled_integrated_response_vs_thickness.png,png,91233,ok,"shape=(1020, 1644, 4)"
+N001_CONTROLLED/N001_controlled_mc_relative_uncertainty_vs_thickness.png,png,111561,ok,"shape=(1020, 1652, 4)"
+N001_CONTROLLED/N001_controlled_mean_energy_vs_thickness.png,png,95394,ok,"shape=(1020, 1652, 4)"
+N001_CONTROLLED/N001_controlled_shape_entropy_vs_thickness.png,png,85128,ok,"shape=(1020, 1652, 4)"
+N001_CONTROLLED/N001_controlled_spectra_by_thickness.png,png,248682,ok,"shape=(1224, 2072, 4)"
+N001_CONTROLLED/N001_controlled_spectral_descriptors_by_thickness.csv,csv,2462,ok,rows=9;cols=16
+N002/N002_SEQ_SPEC_central_axis_spectra.png,png,137827,ok,"shape=(1224, 2072, 4)"
+P003/P003_buildup_area_vs_energy.png,png,83221,ok,"shape=(1020, 1652, 4)"
+P003/P003_buildup_lower_order_descriptors.csv,csv,492,ok,rows=5;cols=7
+P003/P003_buildup_trajectories.png,png,152030,ok,"shape=(1230, 1862, 4)"
+P003/P003_curvature_rms_vs_energy.png,png,86923,ok,"shape=(1020, 1652, 4)"
+P003/P003_log_growth_vs_energy.png,png,86767,ok,"shape=(1020, 1652, 4)"
+phase2_sparse_reference_roles.csv,csv,580,ok,rows=5;cols=4
+phase2_supplemental_feature_registry.csv,csv,102490,ok,rows=381;cols=10
+phase2_supplemental_summary.csv,csv,95,ok,rows=3;cols=4

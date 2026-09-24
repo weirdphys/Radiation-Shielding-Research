@@ -1,0 +1,22 @@
+dataset_id,dataset_name,ledger_outcomes,valid_method_cells,not_applicable,conditional_fail,skipped_dependency,dependency_missing,data_unavailable,errors,not_executed_in_current_kernel,feature_count,model_eligible_feature_count,status_count_total
+P001,NIST XCOM ordinary concrete,9,5,0,3,1,0,0,0,0,33,0,9
+N001,JAERI/TIARA concrete ~43 MeV source,9,0,0,8,1,0,0,0,0,0,0,9
+N002,JAERI/TIARA concrete ~68 MeV source,9,0,0,8,1,0,0,0,0,0,0,9
+P002,IAEA SRS-47 photon TVLs,9,0,0,8,1,0,0,0,0,0,0,9
+P003,Published FLUKA concrete buildup benchmark,9,0,0,8,1,0,0,0,0,0,0,9
+C001,IAEA H-1 capture-gamma reference,9,0,0,8,1,0,0,0,0,0,0,9
+PN001,Published natural-W photoneutron benchmark,9,0,0,8,1,0,0,0,0,0,0,9
+P004,Ogundare broad-beam photon shielding experiment,9,0,0,8,1,0,0,0,0,0,0,9
+N003,ISIS RB2000164 barite-enriched concrete,9,9,0,0,0,0,0,0,0,97,31,9
+N004,ISIS RB2000209 standard-monitor concrete transmission,9,9,0,0,0,0,0,0,0,47,19,9
+E001,NIST ESTAR Portland concrete,9,7,0,2,0,0,0,0,0,77,0,9
+PN002,IAEA Photonuclear Data Library PD-2019,9,4,0,5,0,0,0,0,0,19,8,9
+P005_SIM,Photon Shielding Spectra Dataset (PSSD),9,0,0,8,1,0,0,0,0,0,0,9
+PN003,IAEA EXFOR experimental photonuclear data,9,4,0,5,0,0,0,0,0,19,4,9
+PVAL_6MV,TrueBeam 6 MV 40×40 LANDauer PDD,9,5,0,4,0,0,0,0,0,17,0,9
+PVAL_10MV,TrueBeam 10 MV 40×40 LANDauer PDD,9,5,0,4,0,0,0,0,0,17,0,9
+PVAL_15MV,TrueBeam 15 MV 40×40 LANDauer PDD,9,5,0,4,0,0,0,0,0,17,0,9
+PVAL_16MV,Clinac 21IX 16 MV 40×40 Pacyniak PDD,9,1,0,7,1,0,0,0,0,4,0,9
+PVAL_18MV,Siemens Oncor 18 MV 40×40 Sawkey/Faddegon PDD,9,5,0,4,0,0,0,0,0,18,0,9
+NVAL_MATHEW,Mathew et al. TrueBeam STx 15 MV measured neutron spectra,9,5,0,3,1,0,0,0,0,25,0,9
+NVAL_ZAMORANO,Zamorano et al. 15 MV measured thermal-neutron fluence,9,0,2,7,0,0,0,0,0,0,0,9

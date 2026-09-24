@@ -1,0 +1,51 @@
+#ENTRY      M0078
+#AUTHOR1    V.E.Zhuchko+
+#YEAR       1978
+#INSTITUTE  (4RUSIFP)
+#TITLE      Study of the probability of near-threshold fission
+#+          of the isotopes of Th, U, Np, Pu, and Am by
+#+          bremsstrahlung.
+#AUTHOR(S)  V.E.Zhuchko, Yu.B.Ostapenko, G.N.Smirenkin, A.S.Soldatov, 
+#+          Yu.M.Tsipenyuk
+#REF-CODE   (J,SNP,28,602,1978)
+#REFERENCE  Sov.J.Nucl.Phys. 28 (1978) 602
+#DATASETS   0
+#
+#DATASET    M0078024 
+#DATE       20250515
+#REACTION   94-PU-239(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       94239
+#MF         3
+#MT         18
+#C4BEGIN    [    0 94239   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 94239   3  18 A  4300000.          2.8000-8 7.1000-9                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  4500000.          3.4900-7 1.2000-7                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  4750000.          1.4500-6 3.2000-7                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  4850000.          4.6000-6 1.7600-6                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  4950000.          1.7600-5 3.4000-6                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  5050000.          5.1100-5 4.5000-6                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  5150000.          1.3700-4 1.6000-5                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  5250000.          3.8000-4 3.0000-5                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  5350000.          9.0300-4 5.3000-5                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  5450000.          2.2200-3 9.0000-5                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  5550000.          4.3500-3 2.6000-4                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  5650000.          5.1500-3 6.5000-4                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  5750000.          6.8700-3 7.0000-4                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  5850000.          4.6700-3 3.6000-4                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  5950000.          3.9100-3 4.4000-4                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  6050000.          3.7800-3 4.5000-4                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  6150000.          5.0300-3 5.7000-4                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  6250000.          6.9500-3 1.3900-3                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  6350000.          0.011900 1.1000-3                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  6450000.          0.011800 1.1000-3                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  6550000.          9.0100-3 9.3000-4                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  6650000.          8.5600-3 2.3100-3                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  6750000.          0.014300 2.7000-3                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  6850000.          0.019200 4.8000-3                                       V.E.Zhuchko+         (78)M0078 24 
+    0 94239   3  18 A  6950000.          0.017500 9.8000-3                                       V.E.Zhuchko+         (78)M0078 24 
+#/DATA      25
+#/DATASET

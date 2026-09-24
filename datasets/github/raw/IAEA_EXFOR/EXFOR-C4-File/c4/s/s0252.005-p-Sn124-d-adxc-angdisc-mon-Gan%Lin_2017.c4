@@ -1,0 +1,42 @@
+#ENTRY      S0252
+#AUTHOR1    Gan Lin+
+#YEAR       2017
+#INSTITUTE  (3CPRAEP)
+#TITLE      Experimental Study of the Neutron Spectroscopic
+#+          Factors in 122-125Sn
+#AUTHOR(S)  Gan Lin, Li Zhihong, Li Yunju, Su Jun, Guo Bing, Han Zhiyu, 
+#+          Lian Gang, Li Xinyue, Pei Changjin, Shen Yangping, Wang Youbao, 
+#+          Zeng Sheng, Zhou Yong, Li Ertao
+#REF-CODE   (J,CNPR,34,450,2017)
+#REFERENCE  Nucl.Phys.Rev. 34 (2017) 450
+#DATASETS   0
+#
+#DATASET    S0252005 
+#DATE       20251020
+#REACTION   50-SN-124(P,D)50-SN-123,PAR,DA
+#PROJ       1001
+#TARG       50124
+#MF         4
+#MT         650
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1001 50124   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50124   4 650  C 1.4000+7          2.0600-4 1.8400-5 0.990024          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.9400-4 1.7600-5 0.977416          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.9600-4 1.7700-5 0.960294          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.8700-4 1.5200-5 0.937889          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.8100-4 1.6500-5 0.910684          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.4300-4 1.4100-5 0.878817          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.4000-4 1.4300-5 0.843391          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.5700-4 1.6300-5 0.803857          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.4600-4 1.4700-5 0.759271          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.5700-4 1.5200-5 0.712026          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.2700-4 1.3400-5 0.660002          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.2100-4 1.3100-5 0.605988          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.0200-4 1.1600-5 0.549023          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.2400-4 1.3200-5 0.487860          0.000000         LVLGan Lin+             (17)S0252  5 
+ 1001 50124   4 650  C 1.4000+7          1.7800-4 2.0700-5 0.425779          0.000000         LVLGan Lin+             (17)S0252  5 
+#/DATA      15
+#/DATASET

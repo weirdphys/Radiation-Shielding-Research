@@ -1,0 +1,27 @@
+{
+  "dataset_id": "PN003",
+  "object_id": "PN003.TRAJ_EXFOR",
+  "coordinate_native": "incident_photon_energy_MeV",
+  "coordinate_analysis": "log(incident_photon_energy_MeV/E_ref)",
+  "coordinate_transform": "ln(x / dataset_min_positive_energy)",
+  "coordinate_reference": 1.8,
+  "coordinate_unit": "dimensionless_log_energy",
+  "source_path": "data/processed/IAEA_EXFOR/exfor_photonuclear_mf3_strict.parquet",
+  "n_curves_loaded": 64,
+  "max_curve_points": 305,
+  "curve_cap_applied": true,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "experimental_reaction_cross_sections": 64
+  },
+  "registry": {
+    "name": "IAEA EXFOR experimental photonuclear data",
+    "particle": "photonuclear/nuclear reaction",
+    "evidence": "EXPERIMENTAL",
+    "role": "66,683 strict photon-induced MF=3 rows with uncertainty and dependence semantics.",
+    "path": "registry-resolved processed IAEA_EXFOR canonical Parquet",
+    "richness": "VERY_RICH_TENSOR",
+    "guardrail": "Retain target, reaction, observable, frame, status, uncertainty, accession/subentry and units."
+  },
+  "state_group_shapes": {}
+}

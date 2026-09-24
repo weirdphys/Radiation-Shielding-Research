@@ -1,0 +1,29 @@
+{
+  "citation": "J Appl Clin Med Phys. 2017 Feb 16;18(2):69\u201384. doi: 10.1002/acm2.12049",
+  "doi": "10.1002/acm2.12049",
+  "is_historical_ocr": false,
+  "is_manuscript": false,
+  "is_pmc_openaccess": true,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC5689963.1/ACM2-18-069-g001.jpg?md5=b08f45643eb1175e19e08411e8cc00dd",
+    "s3://pmc-oa-opendata/PMC5689963.1/ACM2-18-069-g002.jpg?md5=1b4df874b202b63bfb3a6c18c70d9c0f",
+    "s3://pmc-oa-opendata/PMC5689963.1/ACM2-18-069-g003.jpg?md5=1358024e3e7a2b98088c8c38ace78781",
+    "s3://pmc-oa-opendata/PMC5689963.1/ACM2-18-069-g004.jpg?md5=bc49cfa9a5598ea5096099834ba2d247",
+    "s3://pmc-oa-opendata/PMC5689963.1/ACM2-18-069-g005.jpg?md5=7c3340d23f1764b7c8505c5432684513",
+    "s3://pmc-oa-opendata/PMC5689963.1/ACM2-18-069-g006.jpg?md5=fa0274c6a663ab6332daa5d06dd9e554",
+    "s3://pmc-oa-opendata/PMC5689963.1/ACM2-18-069-g007.jpg?md5=137a5343f0608105d88f49873124a7db",
+    "s3://pmc-oa-opendata/PMC5689963.1/ACM2-18-069-g008.jpg?md5=aabff53303633f28f965b692262aea8c",
+    "s3://pmc-oa-opendata/PMC5689963.1/ACM2-18-069-g009.jpg?md5=531b4097c10a917e3f3fe73fd7273b3a",
+    "s3://pmc-oa-opendata/PMC5689963.1/ACM2-18-069-g010.jpg?md5=5c433d24ba1429e1262d63707f2ae777"
+  ],
+  "mid": null,
+  "pdf_url": "s3://pmc-oa-opendata/PMC5689963.1/PMC5689963.1.pdf?md5=0cbeeeae803570f48d4662790a8985bf",
+  "pmcid": "PMC5689963",
+  "pmid": 28300376,
+  "text_url": "s3://pmc-oa-opendata/PMC5689963.1/PMC5689963.1.txt?md5=6dbb493dc1af9760f36d86edaa3ac6f5",
+  "title": "Moving GPU\u2010OpenCL\u2010based Monte Carlo dose calculation toward clinical use: Automatic beam commissioning and source sampling for treatment plan dose calculation",
+  "version": 1,
+  "xml_url": "s3://pmc-oa-opendata/PMC5689963.1/PMC5689963.1.xml?md5=765f6984ce9d33589012f53c9b542ee8"
+}

@@ -1,0 +1,26 @@
+#ENTRY      M0270
+#AUTHOR1    T.Nakamura+
+#YEAR       1959
+#INSTITUTE  (2JPNKTO)
+#TITLE      Absolute cross sections of the (gamma,n) reaction for
+#+          Cu-63, Zn-64, and Ag-109.
+#AUTHOR(S)  T.Nakamura, K.Takamatsu, K.Fukunaga, M.Yata, Sh.Yasumi
+#REF-CODE   (J,JPJ,14,693,1959)
+#REFERENCE  J.Phys.Soc.Jpn. 14 (1959) 693 (doi:10.1143/JPSJ.14.693)
+#DATASETS   0
+#
+#DATASET    M0270003 
+#DATE       20160224
+#REACTION   30-ZN-64(G,N)30-ZN-63,,SIG
+#PROJ       0
+#TARG       30064
+#MF         3
+#MT         4
+#PRODUCT    30-ZN-63
+#C4BEGIN    [    0 30064   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 30064   3   4    1.7600+7          0.023300 4.1940-3                                       T.Nakamura+          (59)M0270  3 
+#/DATA      1
+#/DATASET

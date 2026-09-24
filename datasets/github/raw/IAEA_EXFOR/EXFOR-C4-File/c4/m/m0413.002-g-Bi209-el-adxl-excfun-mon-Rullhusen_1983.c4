@@ -1,0 +1,31 @@
+#ENTRY      M0413
+#AUTHOR1    P.Rullhusen+
+#YEAR       1983
+#INSTITUTE  (2FR ILL)
+#TITLE      Giant dipole resonances  and  Coulomb  correction  in
+#+          delbruck  scattering  studied  by  elastic and raman
+#+          scattering of 8.5 and 11.4 MeV photons.
+#AUTHOR(S)  P.Rullhusen, U.Zurmuhl, F.Smend, M.Schumacher, H.G.Borner, 
+#+          S.A.Kerr
+#REF-CODE   (J,PR/C,27,559,1983)
+#REFERENCE  Phys.Rev.C 27 (1983) 559 (doi:10.1103/PhysRevC.27.559)
+#DATASETS   0
+#
+#DATASET    M0413002 
+#DATE       20161223
+#REACTION   83-BI-209(G,EL)83-BI-209,,DA
+#PROJ       0
+#TARG       83209
+#MF         4
+#MT         2
+#PRODUCT    83-BI-209
+#C4BEGIN    [    0 83209   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 83209   4   2    8533000.          6.4000-6 5.2000-6 6.123-17                              P.Rullhusen+         (83)M0413  2 
+    0 83209   4   2    8884000.          8.4000-6 2.5000-6 6.123-17                              P.Rullhusen+         (83)M0413  2 
+    0 83209   4   2    8998000.          1.3000-5 1.9000-6 6.123-17                              P.Rullhusen+         (83)M0413  2 
+    0 83209   4   2    9720000.          2.3700-5 4.8000-6 6.123-17                              P.Rullhusen+         (83)M0413  2 
+#/DATA      4
+#/DATASET

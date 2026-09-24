@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "N003_ISIS_RB2000164",
+  "expected_result_file": "N003_rb2000164_geant4.csv",
+  "observable": "transmission",
+  "join_keys": "sample_id,energy_eV",
+  "reference_column": "transmission",
+  "reference_uncertainty_column": "transmission_uncertainty",
+  "mc_column": "mc_transmission",
+  "mc_uncertainty_column": "mc_transmission_uncertainty",
+  "comparison_ready": false,
+  "required_for_phase1_exit_when_ready": true,
+  "blocker": "Exact sample elemental/material composition must be grounded."
+}

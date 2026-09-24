@@ -1,0 +1,11 @@
+atomic_number,element,mass_fraction,material_density_g_cm3,mean_Z_over_A,mean_excitation_energy_eV
+1,Hydrogen,0.0221,2.3,0.50932,124.5
+6,Carbon,0.002484,2.3,0.50932,124.5
+8,Oxygen,0.57493,2.3,0.50932,124.5
+11,Sodium,0.015208,2.3,0.50932,124.5
+12,Magnesium,0.001266,2.3,0.50932,124.5
+13,Aluminum,0.019953,2.3,0.50932,124.5
+14,Silicon,0.304627,2.3,0.50932,124.5
+19,Potassium,0.010045,2.3,0.50932,124.5
+20,Calcium,0.042951,2.3,0.50932,124.5
+26,Iron,0.006435,2.3,0.50932,124.5

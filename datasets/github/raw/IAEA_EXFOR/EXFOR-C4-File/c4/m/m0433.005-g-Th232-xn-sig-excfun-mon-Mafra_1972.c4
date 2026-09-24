@@ -1,0 +1,33 @@
+#ENTRY      M0433
+#AUTHOR1    O.Y.Mafra+
+#YEAR       1972
+#INSTITUTE  (3BZLUSP)
+#TITLE      Intermediate structure in the photoneutron and
+#+          photofission cross sections in U-238 and Th-232.
+#AUTHOR(S)  O.Y.Mafra, S.Kuniyoshi, J.Goldemberg
+#REF-CODE   (J,NP/A,186,110,1972)
+#REFERENCE  Nucl.Phys.A 186 (1972) 110 (doi:10.1016/0375-9474(72)90128-5)
+#DATASETS   0
+#
+#DATASET    M0433005 
+#DATE       20180209
+#REACTION   90-TH-232(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 90232   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3 201    6420000.          5.1000-3 2.0000-3                                       O.Y.Mafra+           (72)M0433  5 
+    0 90232   3 201    6730000.          0.025700 4.1000-3                                       O.Y.Mafra+           (72)M0433  5 
+    0 90232   3 201    7230000.          5.3000-3 2.5000-3                                       O.Y.Mafra+           (72)M0433  5 
+    0 90232   3 201    7380000.          0.016100 2.6000-3                                       O.Y.Mafra+           (72)M0433  5 
+    0 90232   3 201    7640000.          0.021600 5.3000-3                                       O.Y.Mafra+           (72)M0433  5 
+    0 90232   3 201    7730000.          0.019200 3.9000-3                                       O.Y.Mafra+           (72)M0433  5 
+    0 90232   3 201    7880000.          0.023400 4.2000-3                                       O.Y.Mafra+           (72)M0433  5 
+    0 90232   3 201    9000000.          0.069600 0.016400                                       O.Y.Mafra+           (72)M0433  5 
+#/DATA      8
+#/DATASET

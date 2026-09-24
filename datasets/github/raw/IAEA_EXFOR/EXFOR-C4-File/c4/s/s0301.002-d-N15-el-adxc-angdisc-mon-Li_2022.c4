@@ -1,0 +1,41 @@
+#ENTRY      S0301
+#AUTHOR1    X.Y.Li+
+#YEAR       2022
+#INSTITUTE  (3CPRAEP)
+#TITLE      Astrophysical 15N(n, g)16N reaction rate from
+#+          precision measurement of the 15N(d, p)16N angular
+#+          distributions
+#AUTHOR(S)  X.Y.Li, B.Guo, Z.H.Li, Y.J.Li, J.Su, D.Y.Pang, J.J.He, S.Q.Yan, 
+#+          Q.W.Fan, J.C.Liu, L.Gan, Z.Y.Han, E.T.Li, G.Lian, Y.P.Shen, 
+#+          Y.B.Wang, S.Zeng, W.P.Liu
+#REF-CODE   (J,PR/C,106,025807,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 025807 (doi:10.1103/PhysRevC.106.025807)
+#DATASETS   0
+#
+#DATASET    S0301002 
+#DATE       20251024
+#REACTION   7-N-15(D,EL)7-N-15,,DA
+#PROJ       1002
+#TARG       7015
+#MF         4
+#MT         2
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1002  7015   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7015   4   2  C 1.5000+7          3.582046 0.437910 0.980615                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          1.435807 0.124230 0.961741                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          0.892020 0.072760 0.937282                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          0.423143 0.034360 0.907044                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          0.122554 9.8900-3 0.872069                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          0.020701 1.7500-3 0.830984                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          3.1900-3 2.8000-4 0.784776                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          0.014786 1.2500-3 0.734915                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          0.026473 2.2200-3 0.679441                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          0.029314 2.4500-3 0.622515                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          0.023523 1.9900-3 0.560639                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          0.016362 1.3900-3 0.496974                              X.Y.Li+              (22)S0301  2 
+ 1002  7015   4   2  C 1.5000+7          0.011435 9.9000-4 0.430511                              X.Y.Li+              (22)S0301  2 
+#/DATA      13
+#/DATASET

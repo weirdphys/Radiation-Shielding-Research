@@ -1,0 +1,37 @@
+#ENTRY      T0052
+#AUTHOR1    R.W.Bauer+
+#YEAR       1986
+#INSTITUTE  (1USALRL)
+#TITLE      (p,t) reaction on even-mass cadmium nuclei:
+#+          Test for the admixture of intruder configurations
+#+          in the ground states
+#AUTHOR(S)  R.W.Bauer, J.A.Becker, I.D.Proctor, D.J.Decman, R.G.Lanier, 
+#+          J.A.Cizewski
+#REF-CODE   (J,PR/C,34,1110,198609)
+#REFERENCE  Phys.Rev.C 34 (1986) 1110 (doi:10.1103/PhysRevC.34.1110)
+#DATASETS   0
+#
+#DATASET    T0052006 
+#DATE       20120317
+#REACTION   48-CD-114(P,T)48-CD-112,PAR,DA
+#PROJ       1001
+#TARG       48114
+#MF         4
+#MT         700
+#PRODUCT    48-CD-112
+#C4BEGIN    [ 1001 48114   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48114   4 700  C 2.6000+7 4.0000+7 7.7400-4 1.6900-4 0.959805          0.000000         LVLR.W.Bauer+           (86)T0052  6 
+ 1001 48114   4 700  C 2.6000+7 4.0000+7 1.0900-4          0.931691          0.000000         LVLR.W.Bauer+           (86)T0052  6 
+ 1001 48114   4 700  C 2.6000+7 4.0000+7 1.7800-4          0.894934          0.000000         LVLR.W.Bauer+           (86)T0052  6 
+ 1001 48114   4 700  C 2.6000+7 4.0000+7 5.2300-4          0.853551          0.000000         LVLR.W.Bauer+           (86)T0052  6 
+ 1001 48114   4 700  C 2.6000+7 4.0000+7 9.2400-4          0.804894          0.000000         LVLR.W.Bauer+           (86)T0052  6 
+ 1001 48114   4 700  C 2.6000+7 4.0000+7 5.8700-4          0.750111          0.000000         LVLR.W.Bauer+           (86)T0052  6 
+ 1001 48114   4 700  C 2.6000+7 4.0000+7 2.1600-4          0.692143          0.000000         LVLR.W.Bauer+           (86)T0052  6 
+ 1001 48114   4 700  C 2.6000+7 4.0000+7 4.9000-5          0.622515          0.000000         LVLR.W.Bauer+           (86)T0052  6 
+ 1001 48114   4 700  C 2.6000+7 4.0000+7 1.6400-4          0.554844          0.000000         LVLR.W.Bauer+           (86)T0052  6 
+ 1001 48114   4 700  C 2.6000+7 4.0000+7 2.7100-4          0.471012          0.000000         LVLR.W.Bauer+           (86)T0052  6 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      S0013
+#AUTHOR1    Long Xianguan+
+#YEAR       1990
+#INSTITUTE  (3CPRSIU)
+#TITLE      Excitation functins for the 55Mn(a,n)58m,gCo,
+#+          55Mn(a,2n)57Co and 55Mn(a,a+n)54Mn reactions
+#AUTHOR(S)  Long Xianguan, He Fuqing, Peng Xiufeng, Liu Mantian
+#REF-CODE   (J,PHE,14,444,1990)
+#REFERENCE  High En.Nucl.Phy.Ch. 14 (1990) 444
+#DATASETS   0
+#
+#DATASET    S0013004 
+#DATE       20080311
+#REACTION   25-MN-55(A,2N)27-CO-57,,SIG
+#PROJ       2004
+#TARG       25055
+#MF         3
+#MT         16
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 2004 25055   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 25055   3  16    2.6500+7          0.626000 0.050000                                       Long Xianguan+       (90)S0013  4 
+ 2004 25055   3  16    2.5000+7          0.633000 0.051000                                       Long Xianguan+       (90)S0013  4 
+ 2004 25055   3  16    2.3500+7          0.700000 0.056000                                       Long Xianguan+       (90)S0013  4 
+ 2004 25055   3  16    2.2100+7          0.661000 0.053000                                       Long Xianguan+       (90)S0013  4 
+ 2004 25055   3  16    2.0500+7          0.553000 0.044000                                       Long Xianguan+       (90)S0013  4 
+ 2004 25055   3  16    1.8700+7          0.536000 0.043000                                       Long Xianguan+       (90)S0013  4 
+ 2004 25055   3  16    1.7000+7          0.343000 0.027000                                       Long Xianguan+       (90)S0013  4 
+ 2004 25055   3  16    1.4900+7          0.173000 0.014000                                       Long Xianguan+       (90)S0013  4 
+#/DATA      8
+#/DATASET

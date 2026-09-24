@@ -1,0 +1,33 @@
+#ENTRY      M0409
+#AUTHOR1    D.H.Wright+
+#YEAR       1985
+#INSTITUTE  (1USAUI)
+#TITLE      Elastic photon scattering from carbon and calcium and
+#+          its interpretation.
+#AUTHOR(S)  D.H.Wright, P.T.Debevec, L.J.Morfold, A.M.Nathan
+#REF-CODE   (J,PR/C,32,1174,1985)
+#REFERENCE  Phys.Rev.C 32 (1985) 1174 (doi:10.1103/PhysRevC.32.1174)
+#DATASETS   0
+#
+#DATASET    M0409004 
+#DATE       20161222
+#REACTION   6-C-12(G,EL)6-C-12,,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4   2    3.2600+7          6.3000-7 4.0000-8 6.123-17                              D.H.Wright+          (85)M0409  4 
+    0  6012   4   2    3.3400+7          6.5000-7 4.0000-8 6.123-17                              D.H.Wright+          (85)M0409  4 
+    0  6012   4   2    3.4200+7          6.0000-7 4.0000-8 6.123-17                              D.H.Wright+          (85)M0409  4 
+    0  6012   4   2    3.5100+7          5.7000-7 5.0000-8 6.123-17                              D.H.Wright+          (85)M0409  4 
+    0  6012   4   2    3.6000+7          5.9000-7 4.0000-8 6.123-17                              D.H.Wright+          (85)M0409  4 
+    0  6012   4   2    3.6900+7          5.6000-7 4.0000-8 6.123-17                              D.H.Wright+          (85)M0409  4 
+    0  6012   4   2    3.8000+7          5.4000-7 3.0000-8 6.123-17                              D.H.Wright+          (85)M0409  4 
+    0  6012   4   2    3.9100+7          5.5000-7 3.0000-8 6.123-17                              D.H.Wright+          (85)M0409  4 
+#/DATA      8
+#/DATASET

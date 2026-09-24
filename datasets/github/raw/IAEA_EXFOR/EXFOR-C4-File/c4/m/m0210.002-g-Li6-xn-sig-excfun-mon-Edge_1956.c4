@@ -1,0 +1,26 @@
+#ENTRY      M0210
+#AUTHOR1    R.D.Edge+
+#YEAR       1956
+#INSTITUTE  (3AULCBR)
+#TITLE      Neutron experiments with a sensitive Szilard-Chalmers
+#+          detector.
+#AUTHOR(S)  R.D.Edge
+#REF-CODE   (J,AUJ,9,429,1956)
+#REFERENCE  Australian J.Physics 9 (1956) 429 (doi:10.1071/PH560429)
+#DATASETS   0
+#
+#DATASET    M0210002 
+#DATE       20160224
+#REACTION   3-LI-6(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       3006
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0  3006   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   3 201    6200000.          3.0000-4 2.0000-4                                       R.D.Edge             (56)M0210  2 
+#/DATA      1
+#/DATASET

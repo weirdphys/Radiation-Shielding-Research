@@ -1,0 +1,45 @@
+#ENTRY      B0086
+#AUTHOR1    D.C.Aumann+
+#YEAR       1977
+#INSTITUTE  (2GERMUN)
+#TITLE      Absolute Cross Sections and Isomeric Cross-Section
+#+          Ratios For the Nd-148(D,2N), Nd-148(P,N), and
+#+          Nd-146(A,PN) Reactions Producing the Isomeric Pair
+#+          Pm-148-M,-G
+#AUTHOR(S)  D.C.Aumann, W.Gueckel
+#REF-CODE   (J,PR/C,16,160,1977)
+#REFERENCE  Phys.Rev.C 16 (1977) 160 (doi:10.1103/PhysRevC.16.160)
+#DATASETS   0
+#
+#DATASET    B0086003G
+#DATE       20020111
+#REACTION   60-ND-148(D,2N)61-PM-148-G,,SIG,,,EXP
+#PROJ       1002
+#TARG       60148
+#MF         3
+#MT         16
+#PRODUCT    61-PM-148-G
+#C4BEGIN    [ 1002 60148   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 60148   3  16G   1.1400+7          0.228000 0.034000                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   1.2300+7          0.161000 0.024000                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   1.4500+7          0.179000 0.027000                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   1.7100+7 1300000. 0.084000 0.013000                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   1.8200+7          0.092000 0.014000                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   2.2100+7          0.057000 9.0000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   2.2400+7          0.052000 8.0000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   2.6900+7          0.045000 7.0000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   2.6900+7          0.038000 6.0000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   3.3700+7 1000000. 0.023000 3.0000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   3.5100+7          0.016700 2.5000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   4.0000+7          0.014400 2.2000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   4.0200+7          0.015000 2.2000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   4.2300+7          0.015900 2.4000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   4.5200+7          0.011700 1.8000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   4.5700+7          0.011600 1.7000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   4.7200+7 600000.0 0.013200 2.0000-3                                       D.C.Aumann+          (77)B0086  3G
+ 1002 60148   3  16G   5.1900+7          9.1000-3 1.4000-3                                       D.C.Aumann+          (77)B0086  3G
+#/DATA      18
+#/DATASET

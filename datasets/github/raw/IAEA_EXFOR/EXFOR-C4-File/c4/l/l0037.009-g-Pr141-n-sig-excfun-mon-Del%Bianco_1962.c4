@@ -1,0 +1,25 @@
+#ENTRY      L0037
+#AUTHOR1    W.E.Del Bianco+
+#YEAR       1962
+#INSTITUTE  (1USAPEN)
+#TITLE      Photonuclear activation by 20.5-MeV gamma rays.
+#AUTHOR(S)  W.E.Del Bianco, W.E.Stephens
+#REF-CODE   (J,PR,126,709,196204)
+#REFERENCE  Phys.Rev. 126 (1962) 709 (doi:10.1103/PhysRev.126.709)
+#DATASETS   0
+#
+#DATASET    L0037009 
+#DATE       20110119
+#REACTION   59-PR-141(G,N)59-PR-140,,SIG
+#PROJ       0
+#TARG       59141
+#MF         3
+#MT         4
+#PRODUCT    59-PR-140
+#C4BEGIN    [    0 59141   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 59141   3   4    2.0480+7          0.051700 5.4000-3                                       W.E.Del Bianco+      (62)L0037  9 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      S0024
+#AUTHOR1    Peng Xiufeng+
+#YEAR       1992
+#INSTITUTE  (3CPRSIU)
+#TITLE      Excitation functions for 107Ag(d,2n)107Cd,
+#+          109Ag(d,2n)109Cd and 109Ag(d,p)110mAg reactions
+#AUTHOR(S)  Peng Xiufeng, Long Xianguan He Fuqing, Liu Mantian
+#REF-CODE   (J,NIM/B,68,145,1992)
+#REFERENCE  Nucl.Instrum.Meth.B 68 (1992) 145 (doi:10.1016/0168-583X(92)96066-8)
+#DATASETS   0
+#
+#DATASET    S0024002 
+#DATE       20120710
+#REACTION   47-AG-107(D,2N)48-CD-107,,SIG
+#PROJ       1002
+#TARG       47107
+#MF         3
+#MT         16
+#PRODUCT    48-CD-107
+#C4BEGIN    [ 1002 47107   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 47107   3  16    1.3300+7          1.002000 0.068000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    1.2800+7          0.840000 0.057000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    1.2300+7          0.910000 0.062000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    1.1700+7          0.767000 0.052000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    1.1200+7          0.780000 0.053000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    1.0700+7          0.666000 0.045000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    1.0100+7          0.575000 0.039000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    9500000.          0.490000 0.033000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    8900000.          0.366000 0.025000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    8200000.          0.256000 0.017000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    7500000.          0.134000 0.019000                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    6600000.          0.044000 3.0000-3                                       Peng Xiufeng+        (92)S0024  2 
+ 1002 47107   3  16    5700000.          3.5000-3 2.0000-4                                       Peng Xiufeng+        (92)S0024  2 
+#/DATA      13
+#/DATASET

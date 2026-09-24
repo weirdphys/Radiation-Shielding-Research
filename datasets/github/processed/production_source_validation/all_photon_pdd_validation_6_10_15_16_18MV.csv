@@ -1,0 +1,324 @@
+dataset_id,evidence_type,machine,nominal_energy_MV,field_size_x_cm,field_size_y_cm,ssd_cm,phantom_medium,detector,depth_cm,pdd_percent,pdd_normalization_depth_cm,extraction_method,digitized_from_figure,beam_configuration
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,0.0,72.4,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,0.5,94.8,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,1.0,100.1,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,1.5,100.0,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,2.0,98.5,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,2.5,96.8,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,3.0,95.2,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,3.5,93.6,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,4.0,91.9,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,4.5,90.1,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,5.0,88.5,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,5.5,86.7,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,6.0,84.9,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,6.5,83.3,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,7.0,81.6,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,7.5,80.0,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,8.0,78.4,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,8.5,76.8,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,9.0,75.2,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,9.5,73.5,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,10.0,72.0,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,10.5,70.5,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,11.0,69.0,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,11.5,67.5,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,12.0,65.9,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,12.5,64.6,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,13.0,63.2,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,13.5,61.8,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,14.0,60.4,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,14.5,59.1,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,15.0,57.8,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,15.5,56.5,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,16.0,55.2,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,16.5,54.0,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,17.0,52.7,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,17.5,51.5,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,18.0,50.5,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,18.5,49.3,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,19.0,48.1,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,19.5,47.0,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,20.0,45.9,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,20.5,44.9,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,21.0,43.8,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,21.5,42.9,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,22.0,41.9,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,22.5,41.0,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,23.0,40.0,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,23.5,39.1,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,24.0,38.2,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,24.5,37.3,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,25.0,36.4,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,25.5,35.5,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,26.0,34.7,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,26.5,33.9,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,27.0,33.1,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,27.5,32.3,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,28.0,31.6,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,28.5,30.8,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,29.0,30.2,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,29.5,29.4,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,30.0,28.8,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,30.5,28.1,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,31.0,27.5,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,31.5,26.8,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,32.0,26.2,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,32.5,25.6,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,33.0,25.0,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,33.5,24.4,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,34.0,23.8,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,6,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,34.5,23.3,1.5,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,0.0,62.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,0.5,86.2,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,1.0,96.7,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,1.5,100.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,2.0,100.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,2.4,100.0,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,2.5,99.9,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,3.0,98.6,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,3.5,97.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,4.0,95.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,4.5,93.8,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,5.0,92.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,5.5,90.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,6.0,89.0,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,6.5,87.4,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,7.0,85.8,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,7.5,84.3,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,8.0,82.7,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,8.5,81.2,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,9.0,79.7,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,9.5,78.2,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,10.0,76.9,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,10.5,75.4,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,11.0,73.9,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,11.5,72.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,12.0,71.2,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,12.5,69.7,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,13.0,68.4,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,13.5,67.2,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,14.0,65.9,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,14.5,64.7,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,15.0,63.4,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,15.5,62.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,16.0,61.0,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,16.5,59.7,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,17.0,58.6,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,17.5,57.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,18.0,56.3,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,18.5,55.3,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,19.0,54.2,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,19.5,53.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,20.0,52.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,20.5,51.0,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,21.0,50.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,21.5,49.0,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,22.0,48.0,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,22.5,47.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,23.0,46.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,23.5,45.2,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,24.0,44.3,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,24.5,43.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,25.0,42.6,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,25.5,41.7,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,26.0,40.9,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,26.5,40.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,27.0,39.3,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,27.5,38.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,28.0,37.7,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,28.5,37.0,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,29.0,36.3,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,29.5,35.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,30.0,34.9,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,30.5,34.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,31.0,33.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,31.5,32.8,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,32.0,32.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,32.5,31.5,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,33.0,30.9,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,33.5,30.3,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,34.0,29.7,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,10,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,34.5,29.1,2.4,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,0.0,63.4,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,0.5,86.6,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,1.0,97.7,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,1.5,101.4,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,2.0,101.9,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,2.5,101.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,3.0,100.0,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,3.5,98.5,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,4.0,96.8,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,4.5,95.2,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,5.0,93.5,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,5.5,92.0,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,6.0,90.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,6.5,88.7,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,7.0,87.2,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,7.5,85.8,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,8.0,84.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,8.5,82.8,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,9.0,81.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,9.5,79.8,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,10.0,78.4,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,10.5,77.0,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,11.0,75.6,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,11.5,74.2,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,12.0,72.9,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,12.5,71.5,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,13.0,70.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,13.5,69.0,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,14.0,67.7,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,14.5,66.4,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,15.0,65.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,15.5,64.0,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,16.0,62.9,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,16.5,61.7,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,17.0,60.5,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,17.5,59.4,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,18.0,58.4,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,18.5,57.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,19.0,56.2,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,19.5,55.1,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,20.0,54.0,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,20.5,53.1,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,21.0,52.1,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,21.5,51.1,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,22.0,50.2,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,22.5,49.2,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,23.0,48.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,23.5,47.4,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,24.0,46.5,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,24.5,45.7,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,25.0,44.7,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,25.5,44.0,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,26.0,43.2,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,26.5,42.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,27.0,41.5,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,27.5,40.8,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,28.0,40.0,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,28.5,39.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,29.0,38.5,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,29.5,37.7,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,30.0,37.1,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,30.5,36.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,31.0,35.7,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,31.5,35.0,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,32.0,34.4,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,32.5,33.7,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,33.0,33.1,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,33.5,32.5,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,34.0,31.9,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,EXPERIMENTAL,Varian TrueBeam #9999,15,40.0,40.0,100.0,water,PTW 31021 Semiflex 3D 0.070cc ion chamber,34.5,31.3,3.0,direct_numeric_table_from_pdf_text,False,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,0.0,58.952009,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,1.0,93.964901,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,2.0,100.849206,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,3.0,99.651501,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,4.0,96.956666,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,5.0,93.964901,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,6.0,90.673709,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,7.0,87.681943,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,8.0,84.388256,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,9.0,81.39649,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,10.0,78.70415,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,11.0,75.709889,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,12.0,73.01755,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,13.0,70.32521,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,14.0,67.929801,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,15.0,65.237461,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,16.0,63.141479,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,17.0,86.783665,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,18.0,58.355652,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,19.0,55.960243,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,20.0,54.166181,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,21.0,52.070199,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,22.0,49.974216,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,23.0,48.180155,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,24.0,46.383598,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,25.0,44.589536,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,26.0,43.092406,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,27.0,41.298345,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,28.0,39.801214,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,29.0,38.304084,,vector_path_digitization_from_Figure_3,True,
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,EXPERIMENTAL,Varian 21iX Clinac,16,40.0,40.0,,water,,30.0,36.809449,,vector_path_digitization_from_Figure_3,True,
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,0.0,56.511116,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,0.5,74.823955,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,1.0,90.117591,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,1.5,96.477802,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,2.0,99.324611,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,2.5,99.998156,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,3.0,99.472416,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,3.5,98.537349,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,4.0,97.108847,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,4.5,95.636828,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,5.0,93.961803,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,5.5,92.366171,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,6.0,90.795591,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,6.5,89.243281,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,7.0,87.613993,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,7.5,86.109153,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,8.0,84.544976,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,8.5,83.214051,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,9.0,81.617707,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,9.5,80.169447,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,10.0,78.790658,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,10.5,77.311819,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,11.0,75.969065,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,11.5,74.623074,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,12.0,73.229347,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,12.5,71.860438,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,13.0,70.66626,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,13.5,69.298136,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,14.0,68.110749,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,14.5,66.835481,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,15.0,65.595402,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,15.5,64.293104,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,16.0,63.133575,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,16.5,62.00494,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,17.0,60.861386,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,17.5,59.812696,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,18.0,58.698584,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,18.5,57.554867,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,19.0,56.48655,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,19.5,55.456053,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,20.0,54.441225,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,20.5,53.384729,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,21.0,52.423608,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,21.5,51.436241,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,22.0,50.469592,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,22.5,49.536671,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,23.0,48.67433,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,23.5,47.717982,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,24.0,46.90914,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,24.5,45.971539,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,25.0,45.098885,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,25.5,44.252161,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,26.0,43.434981,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,26.5,42.595361,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,27.0,41.90494,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,27.5,41.04499,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,28.0,40.289357,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,28.5,39.533727,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,29.0,38.810865,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,29.5,38.105816,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,30.0,37.385204,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,30.5,36.675689,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,31.0,35.952244,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,31.5,35.269084,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,32.0,34.651349,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,32.5,34.038368,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,33.0,33.371824,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,33.5,32.704467,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,34.0,32.124577,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,34.5,31.529759,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,35.0,30.925534,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,35.5,30.397494,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,36.0,29.796136,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,36.5,29.252748,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,37.0,28.700504,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,37.5,28.181705,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,38.0,27.662698,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,38.5,27.154406,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,39.0,26.637721,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,39.5,26.127085,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)
+PVAL_18MV_ONCOR_40x40_SAWKEY,EXPERIMENTAL,Siemens Oncor,18,40.0,40.0,100.0,water,PTW N34001 Roos parallel-plate ion chamber,40.0,25.659329,,vector_curve_digitization_from_Figure_6,True,clinical flattened beam (FF in)

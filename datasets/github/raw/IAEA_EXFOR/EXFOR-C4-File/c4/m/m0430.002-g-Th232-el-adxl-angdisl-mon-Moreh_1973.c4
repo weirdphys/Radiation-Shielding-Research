@@ -1,0 +1,30 @@
+#ENTRY      M0430
+#AUTHOR1    R.Moreh+
+#YEAR       1973
+#INSTITUTE  (3ISLNEG)
+#TITLE      Delbruck scattering of 7.9 MeV photons.
+#AUTHOR(S)  R.Moreh, S.Kahana
+#REF-CODE   (J,PL/B,47,351,1973)
+#REFERENCE  Phys.Lett.B 47 (1973) 351 (doi:10.1016/0370-2693(73)90621-7)
+#DATASETS   0
+#
+#DATASET    M0430002 
+#DATE       20161223
+#REACTION   90-TH-232(G,EL)90-TH-232,,DA
+#PROJ       0
+#TARG       90232
+#MF         4
+#MT         2
+#PRODUCT    90-TH-232
+#C4BEGIN    [    0 90232   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   4   2    7519000.          4.4700-4 9.0000-5 0.906308                              R.Moreh+             (73)M0430  2 
+    0 90232   4   2    7519000.          1.4400-4 4.0000-5 0.819152                              R.Moreh+             (73)M0430  2 
+    0 90232   4   2    7519000.          5.5000-5 1.5000-5 0.707107                              R.Moreh+             (73)M0430  2 
+    0 90232   4   2    7519000.          2.6000-5 9.0000-6 0.500000                              R.Moreh+             (73)M0430  2 
+    0 90232   4   2    7519000.          3.8000-6 2.7000-6 6.123-17                              R.Moreh+             (73)M0430  2 
+    0 90232   4   2    7519000.          1.8000-6 1.2000-6-0.766044                              R.Moreh+             (73)M0430  2 
+#/DATA      6
+#/DATASET

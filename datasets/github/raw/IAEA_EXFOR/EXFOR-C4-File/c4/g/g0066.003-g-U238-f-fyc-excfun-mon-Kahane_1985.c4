@@ -1,0 +1,25 @@
+#ENTRY      G0066
+#AUTHOR1    S.Kahane+
+#YEAR       1985
+#INSTITUTE  (3ISLNEG)
+#TITLE      Photofission of 238U with neutron-capture gamma rays
+#AUTHOR(S)  S.Kahane, A.Wolf
+#REF-CODE   (J,PR/C,32,1944,1985)
+#REFERENCE  Phys.Rev.C 32 (1985) 1944 (doi:10.1103/PhysRevC.32.1944)
+#DATASETS   0
+#
+#DATASET    G0066003 
+#DATE       20201225
+#REACTION   92-U-238(G,F)54-XE-135,CUM,FY
+#PROJ       0
+#TARG       92238
+#MF         8
+#MT         459
+#PRODUCT    54-XE-135
+#C4BEGIN    [    0 92238   8 459 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   8 459 D  7800000.          0.069000 4.7000-3 54.00000 135.0000 9.000000            S.Kahane+            (85)G0066  3 
+#/DATA      1
+#/DATASET

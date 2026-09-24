@@ -1,0 +1,35 @@
+#ENTRY      B0002
+#AUTHOR1    H.E.Kurz+
+#YEAR       1971
+#INSTITUTE  (2GERBON)
+#TITLE      Measurement and equilibrium statistical-model
+#+          calculation of excitation functions of the
+#+          197Au(a,xn) reactions in the energy range from 16 to
+#+          103 MeV
+#AUTHOR(S)  H.E.Kurz, E.W.Jasper, K.Fischer, F.Hermes
+#REF-CODE   (J,NP/A,168,129,1971)
+#REFERENCE  Nucl.Phys.A 168 (1971) 129 (doi:10.1016/0375-9474(71)90654-3)
+#DATASETS   0
+#
+#DATASET    B0002004G
+#DATE       20220930
+#REACTION   79-AU-197(A,3N)81-TL-198-G,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         17
+#PRODUCT    81-TL-198-G
+#C4BEGIN    [ 2004 79197   3  17G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3  17G   2.9500+7 1000000. 0.066000                                                H.E.Kurz+            (71)B0002  4G
+ 2004 79197   3  17G   3.2900+7 1000000. 0.232000                                                H.E.Kurz+            (71)B0002  4G
+ 2004 79197   3  17G   3.6100+7 1000000. 0.346000                                                H.E.Kurz+            (71)B0002  4G
+ 2004 79197   3  17G   3.9100+7 1000000. 0.399000                                                H.E.Kurz+            (71)B0002  4G
+ 2004 79197   3  17G   4.2000+7 1000000. 0.303000                                                H.E.Kurz+            (71)B0002  4G
+ 2004 79197   3  17G   4.7400+7 1000000. 0.149000                                                H.E.Kurz+            (71)B0002  4G
+ 2004 79197   3  17G   5.2400+7 1000000. 0.084000                                                H.E.Kurz+            (71)B0002  4G
+ 2004 79197   3  17G   6.1500+7 1000000. 0.036000                                                H.E.Kurz+            (71)B0002  4G
+#/DATA      8
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      T0119
+#AUTHOR1    D.J.Overway+
+#YEAR       1981
+#INSTITUTE  (1USAMHG)
+#TITLE      The 12C(alpha,n)15O and 16O(alpha,n)19Ne reactions at
+#+          E(alpha) = 41 MeV
+#AUTHOR(S)  D.J.Overway, W.C.Parkinson
+#REF-CODE   (J,NP/A,363,93,1981)
+#REFERENCE  Nucl.Phys.A 363 (1981) 93 (doi:10.1016/0375-9474(81)90456-5)
+#DATASETS   0
+#
+#DATASET    T0119004 
+#DATE       20001018
+#REACTION   8-O-16(A,N)10-NE-19,PAR,DA
+#PROJ       2004
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    10-NE-19
+#C4BEGIN    [ 2004  8016   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8016   4  50 A  4.1000+7          5.0000-4          0.965926          190000.0         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          3.2000-4          0.965926          1550000.         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          7.5000-4          0.965926          2780000.         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          1.7500-3          0.965926          4630000.         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          5.0000-4          0.965926          5430000.         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          5.5000-4          0.965926          6200000.         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          4.3000-4          0.965926          6800000.         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          4.4000-4          0.965926          7610000.         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          3.4000-4          0.965926          8420000.         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          8.0000-4          0.965926          8950000.         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          1.1000-3          0.965926          9880000.         LVLD.J.Overway+         (81)T0119  4 
+ 2004  8016   4  50 A  4.1000+7          9.8000-4          0.965926          1.2490+7         LVLD.J.Overway+         (81)T0119  4 
+#/DATA      12
+#/DATASET

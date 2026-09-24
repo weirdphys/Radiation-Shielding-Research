@@ -1,0 +1,37 @@
+benchmark_id,check,passed,detail
+P001_NIST_ORDINARY_CONCRETE,Required photon coefficient columns are present,True,"['row_index', 'edge_label', 'energy_MeV', 'mu_over_rho_cm2_g', 'mu_en_over_rho_cm2_g', 'mu_cm_inv', 'mu_en_cm_inv']"
+P001_NIST_ORDINARY_CONCRETE,Photon energies are positive and non-decreasing,True,Duplicate energies are intentionally retained at NIST absorption edges.
+P001_NIST_ORDINARY_CONCRETE,Photon attenuation coefficients are positive,True,Checked mu/rho and mu_en/rho.
+P001_NIST_ORDINARY_CONCRETE,NIST concrete density is 2.300 g/cm3,True,density=2.3
+P001_NIST_ORDINARY_CONCRETE,NIST concrete mass fractions sum to unity,True,sum=0.999999000
+P001_NIST_ORDINARY_CONCRETE,Stored linear attenuation is consistent with density,True,mu = (mu/rho) * rho
+N001/N002,Required neutron transmission columns are present,True,"['detector', 'source_proton_MeV', 'shield_thickness_cm', 'off_axis_cm', 'energy_lower_MeV', 'energy_upper_MeV', 'lethargy_flux_n_cm2_per_uC', 'error_percent', 'geometry_id', 'source_normalization_id', 'additional_iron_collimator_cm', 'peak_source_intensity_x1e9_n_sr_uC', 'peak_source_intensity_n_sr_uC']"
+N001/N002,JAERI/TIARA concrete density is 2.31 g/cm3,True,density=2.31
+N001/N002,JAERI concrete atomic densities are positive,True,"elements=['Hydrogen', 'Oxygen', 'Sodium', 'Magnesium', 'Aluminum', 'Silicon', 'Potassium', 'Calcium', 'Iron']"
+N002_JAERI_TIARA_68MEV,All six 160-to-60 MeV Table-15 boundary corrections are applied and logged,True,boundary_corrections=6
+N001_JAERI_TIARA_43MEV,All three Table-12 150-cm flux transcription corrections are applied and logged,True,"flux_corrections=3; expected corrected fluxes 0.185, 0.174, 0.163"
+N001_JAERI_TIARA_43MEV,Published Table-12 value 31-32 MeV equals 0.185,True,"[{'energy_lower_MeV': 31, 'energy_upper_MeV': 32, 'lethargy_flux_n_cm2_per_uC': 0.185}]"
+N001_JAERI_TIARA_43MEV,Published Table-12 value 30-31 MeV equals 0.174,True,"[{'energy_lower_MeV': 30, 'energy_upper_MeV': 31, 'lethargy_flux_n_cm2_per_uC': 0.174}]"
+N001_JAERI_TIARA_43MEV,Published Table-12 value 29-30 MeV equals 0.163,True,"[{'energy_lower_MeV': 29, 'energy_upper_MeV': 30, 'lethargy_flux_n_cm2_per_uC': 0.163}]"
+N001/N002,All neutron energy bins satisfy upper > lower,True,Checked all BC501A rows.
+N001/N002,All neutron fluxes are positive,True,min=0.0359
+N001/N002,All reported neutron percentage errors are non-negative,True,min=4.4
+N001/N002,Source cases are exactly 43 and 68 MeV proton cases,True,"[43, 68]"
+N001_JAERI_TIARA_43MEV,43-MeV transmission thicknesses match benchmark,True,"Expected 25, 50, 100, 150 cm."
+N002_JAERI_TIARA_68MEV,68-MeV transmission thicknesses match benchmark,True,"Expected 25, 50, 100, 150, 200 cm."
+N001/N002,No duplicate neutron spectrum-bin keys,True,duplicates=0
+N001/N002,No extreme adjacent-bin transcription discontinuities remain,True,warnings=0
+N001,43-MeV source total-above-6.5 ratio reproduces published value,True,computed=2.174324; published=2.17
+N001,43-MeV source peak normalization integral is approximately unity,True,computed_peak_integral=1.010430
+N002,68-MeV source total-above-6.5 ratio reproduces published value,True,computed=2.612784; published=2.61
+N002,68-MeV source peak normalization integral is approximately unity,True,computed_peak_integral=1.001626
+N001_JAERI_TIARA_43MEV,43-MeV BC501A thin-shield rows use 40-cm additional iron,True,25/50 cm -> 40 cm Fe
+N002_JAERI_TIARA_68MEV,68-MeV BC501A thin-shield rows use 80-cm additional iron,True,25/50 cm -> 80 cm Fe
+N001/N002,Thick BC501A rows use no additional iron collimator,True,>=100 cm -> no additional Fe
+N001/N002,Rem-counter rows use no additional iron collimator,True,Sec. 3.4
+N001/N002,JAERI in-shield depth-response data were extracted,True,rows=24
+N001/N002,Depth-response values and errors are positive,True,Tables 22-23
+N001/N002,TLD depth rows use only 60Co-equivalent R/uC,True,['60Co-eq R/uC']
+N001/N002,SSNTD depth rows use only pits cm^-2 uC^-1,True,['pits cm-2 uC-1']
+N001/N002,SSNTD Table-23 inconsistency is explicitly quality-flagged,True,flagged_SSNTD_rows=11
+N002_JAERI_TIARA_68MEV,Published Table-25 68-MeV / 50-cm inconsistency is preserved and flagged,True,Published 1.17E+01 retained with explicit quality flag.

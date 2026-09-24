@@ -1,0 +1,26 @@
+#ENTRY      M0157
+#AUTHOR1    Yu.P.Gangrskiy+
+#YEAR       1986
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Emission of Ne-24 nuclei in reactions with low-energy
+#+          photons.
+#AUTHOR(S)  Yu.P.Gangrskiy, Kh.G.Khristov, V.M.Vasko
+#REF-CODE   (J,YF,44,(2),294,1986)
+#REFERENCE  Yad.Fiz. 44 No.2 (1986) 294
+#DATASETS   0
+#
+#DATASET    M0157003 
+#DATE       20121102
+#REACTION   90-TH-232(G,F)11-NA-24,,SIG,,BRS
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         454
+#PRODUCT    11-NA-24
+#C4BEGIN    [    0 90232   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3 454    2.8000+7          1.0000-8                    11024.9                     Yu.P.Gangrskiy+      (86)M0157  3 
+#/DATA      1
+#/DATASET

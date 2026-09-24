@@ -1,0 +1,8 @@
+material,alpha,beta,formula
+Limestone,-0.0221,0.201,mu_mass = alpha * ln(E_keV) + beta
+Beach Soil,-0.0395,0.337,mu_mass = alpha * ln(E_keV) + beta
+Ordinary Sand,-0.031,0.2761,mu_mass = alpha * ln(E_keV) + beta
+River Soil,-0.0282,0.2489,mu_mass = alpha * ln(E_keV) + beta
+Hill Soil,-0.0275,0.2515,mu_mass = alpha * ln(E_keV) + beta
+Land Soil,-0.0256,0.2296,mu_mass = alpha * ln(E_keV) + beta
+Cement,-0.0276,0.2463,mu_mass = alpha * ln(E_keV) + beta

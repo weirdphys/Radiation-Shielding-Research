@@ -1,0 +1,25 @@
+#ENTRY      B0154
+#AUTHOR1    E.Lebowitz+
+#YEAR       1970
+#INSTITUTE  (1USABNL)
+#TITLE      An auxiliary cyclotron beam monitor.
+#AUTHOR(S)  E.Lebowitz, M.W.Greene
+#REF-CODE   (J,ARI,21,625,1970)
+#REFERENCE  Appl.Radiat.Isot. 21 (1970) 625 (doi:10.1016/0020-708X(70)90106-7)
+#DATASETS   0
+#
+#DATASET    B0154004 
+#DATE       20011220
+#REACTION   29-CU-63(A,X)30-ZN-65,CUM,SIG,,,EXP
+#PROJ       2004
+#TARG       29063
+#MF         3
+#MT         459
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 2004 29063   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 29063   3 459    2.7800+7 1400000. 0.711000 0.036000           30065.9                     E.Lebowitz+          (70)B0154  4 
+#/DATA      1
+#/DATASET

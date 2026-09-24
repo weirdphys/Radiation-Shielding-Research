@@ -1,0 +1,27 @@
+{
+  "dataset_id": "N001",
+  "object_id": "N001.TRAJ_DEPTH",
+  "coordinate_native": "shield_depth_cm",
+  "coordinate_analysis": "shield_depth_cm",
+  "coordinate_transform": "identity",
+  "coordinate_reference": NaN,
+  "coordinate_unit": "cm",
+  "source_path": "results/phase1/ordered_response_fields/N001_JAERI_TIARA_43MEV_R_E_t_x_reference.npz",
+  "n_curves_loaded": 40,
+  "max_curve_points": 4,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "neutron_response_channels": 40
+  },
+  "registry": {
+    "name": "JAERI/TIARA concrete ~43 MeV source",
+    "particle": "neutron",
+    "evidence": "EXPERIMENTAL",
+    "role": "Measured source spectrum, transmitted spectra, in-shield depth response and dose-equivalent benchmark.",
+    "path": "radiation_benchmark_data/neutron/jaeri_tiara_* selected at source_proton_MeV=43",
+    "richness": "RICH_STATE_TRAJECTORY",
+    "guardrail": "Depth/energy are transport coordinates, not time."
+  },
+  "state_group_shapes": {}
+}

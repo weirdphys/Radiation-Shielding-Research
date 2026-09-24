@@ -1,0 +1,39 @@
+#ENTRY      P0058
+#AUTHOR1    F.S.Houck+
+#YEAR       1961
+#INSTITUTE  (1USACOL)
+#TITLE      Reactions of Alpha Particles with Iron-54 and Nickel-58
+#AUTHOR(S)  F.S.Houck, J.M.Miller
+#REF-CODE   (J,PR,123,231,196107)
+#REFERENCE  Phys.Rev. 123 (1961) 231 (doi:10.1103/PhysRev.123.231)
+#DATASETS   0
+#
+#DATASET    P0058010 
+#DATE       20000817
+#REACTION   26-FE-54(A,2N)28-NI-56,,SIG
+#PROJ       2004
+#TARG       26054
+#MF         3
+#MT         16
+#PRODUCT    28-NI-56
+#C4BEGIN    [ 2004 26054   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26054   3  16    1.6600+7          8.4000-5                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    1.7200+7          4.0000-5 3.5000-5                                       F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    2.1100+7          3.9900-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    2.1200+7          4.6100-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    2.1600+7          5.1500-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    2.3300+7          5.6000-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    2.4000+7          5.3000-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    2.5400+7          6.3400-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    2.7500+7          8.0700-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    2.9200+7          9.5900-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    3.2500+7          0.010900                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    3.4300+7          9.8600-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    3.5600+7          9.0200-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    3.8700+7          6.8900-3                                                F.S.Houck+           (61)P0058 10 
+ 2004 26054   3  16    4.0000+7          6.3400-3                                                F.S.Houck+           (61)P0058 10 
+#/DATA      15
+#/DATASET

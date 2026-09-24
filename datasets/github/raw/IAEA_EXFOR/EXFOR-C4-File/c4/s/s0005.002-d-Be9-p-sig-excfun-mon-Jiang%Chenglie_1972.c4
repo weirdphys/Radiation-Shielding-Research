@@ -1,0 +1,36 @@
+#ENTRY      S0005
+#AUTHOR1    Jiang Chenglie+
+#YEAR       1972
+#INSTITUTE  (3CPRAEP)
+#TITLE      Study of Be-9(d,x) reactions
+#AUTHOR(S)  Jiang Chenglie, Zhao Kui, Wang Dachun, Li Weijiang, Zhou Enchen, 
+#+          Li Zhichang, Cai Dunjiu, Cheng Yehao, Lu Fubao, Han Shukui
+#REF-CODE   (C,72LANZH,,3,1972)
+#REFERENCE  Proceedings of Conf.on Low Energy Nucl.Phys.,Lanzhou,1972 page 3
+#DATASETS   0
+#
+#DATASET    S0005002 
+#DATE       20080311
+#REACTION   4-BE-9(D,P)4-BE-10,PAR,SIG
+#PROJ       1002
+#TARG       4009
+#MF         3
+#MT         600
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1002  4009   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   3 600    2500000.          0.014300 1.0010-3                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+ 1002  4009   3 600    2250000.          0.016700 1.1690-3                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+ 1002  4009   3 600    2000000.          0.020600 1.4420-3                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+ 1002  4009   3 600    1750000.          0.015400 1.0780-3                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+ 1002  4009   3 600    1480000.          0.015700 1.0990-3                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+ 1002  4009   3 600    1300000.          0.014500 1.0150-3                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+ 1002  4009   3 600    1010000.          0.015700 1.0990-3                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+ 1002  4009   3 600    706000.0          0.010700 7.4900-4                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+ 1002  4009   3 600    401000.0          3.4400-3 2.4080-4                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+ 1002  4009   3 600    220000.0          3.0100-4 2.1070-5                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+ 1002  4009   3 600    150000.0          3.8000-5 2.6600-6                   0.000000         LVLJiang Chenglie+      (72)S0005  2 
+#/DATA      11
+#/DATASET

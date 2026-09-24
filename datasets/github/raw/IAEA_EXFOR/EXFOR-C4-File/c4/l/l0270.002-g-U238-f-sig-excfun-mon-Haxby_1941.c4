@@ -1,0 +1,24 @@
+#ENTRY      L0270
+#AUTHOR1    R.O.Haxby+
+#YEAR       1941
+#INSTITUTE  (1USAWES)
+#TITLE      Photo-Fission of Uranium and Thorium
+#AUTHOR(S)  R.O.Haxby, W.E.Shoupp, W.E.Stephens, W.H.Wells
+#REF-CODE   (J,PR,59,57,1941)
+#REFERENCE  Phys.Rev. 59 (1941) 57 (doi:10.1103/PhysRev.59.57)
+#DATASETS   0
+#
+#DATASET    L0270002 
+#DATE       20210503
+#REACTION   92-U-238(G,F),,SIG
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  18    6300000.          3.4700-3 1.0410-3                                       R.O.Haxby+           (41)L0270  2 
+#/DATA      1
+#/DATASET

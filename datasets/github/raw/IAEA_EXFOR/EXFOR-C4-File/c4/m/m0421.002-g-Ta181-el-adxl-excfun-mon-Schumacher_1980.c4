@@ -1,0 +1,27 @@
+#ENTRY      M0421
+#AUTHOR1    M.Schumacher+
+#YEAR       1980
+#INSTITUTE  (2FR ILL)
+#TITLE      The energy dependence of Delbruck scattering
+#+          investigated at Z = 73, 82, and 92.
+#AUTHOR(S)  M.Schumacher, P.Rujjhusen, F.Smend, W.Muckenheim, H.G.Borner
+#REF-CODE   (J,NP/A,346,418,1980)
+#REFERENCE  Nucl.Phys.A 346 (1980) 418 (doi:10.1016/0375-9474(80)90477-7)
+#DATASETS   0
+#
+#DATASET    M0421002 
+#DATE       20160906
+#REACTION   73-TA-181(G,EL)73-TA-181,,DA
+#PROJ       0
+#TARG       73181
+#MF         4
+#MT         2
+#PRODUCT    73-TA-181
+#C4BEGIN    [    0 73181   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 73181   4   2    4291000.          1.5500-5 3.0000-6-0.500000                              M.Schumacher+        (80)M0421  2 
+    0 73181   4   2    4767000.          1.2600-5 1.7000-6-0.500000                              M.Schumacher+        (80)M0421  2 
+#/DATA      2
+#/DATASET

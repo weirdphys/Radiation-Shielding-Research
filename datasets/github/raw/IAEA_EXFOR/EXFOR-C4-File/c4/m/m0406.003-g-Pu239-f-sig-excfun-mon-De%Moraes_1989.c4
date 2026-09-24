@@ -1,0 +1,35 @@
+#ENTRY      M0406
+#AUTHOR1    M.A.P.V.De Moraes+
+#YEAR       1989
+#INSTITUTE  (3BZLUSP)
+#TITLE      Photofission cross sections of U-233 and Pu-239  near
+#+          threshold induced by gamma rays from thermal neutron
+#+          capture.
+#AUTHOR(S)  M.A.P.V.De Moraes, M.T.F.Cesar
+#REF-CODE   (J,NIM/A,277,467,1989)
+#REFERENCE  Nucl.Instrum.Meth.A 277 (1989) 467 (doi:10.1016/0168-9002(89)90776-6)
+#DATASETS   0
+#
+#DATASET    M0406003 
+#DATE       20161222
+#REACTION   94-PU-239(G,F),,SIG
+#PROJ       0
+#TARG       94239
+#MF         3
+#MT         18
+#C4BEGIN    [    0 94239   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 94239   3  18    5430000.          8.8900-3 4.8700-3                                       M.A.P.V.De Moraes+   (89)M0406  3 
+    0 94239   3  18    6730000.          0.020800 2.1200-3                                       M.A.P.V.De Moraes+   (89)M0406  3 
+    0 94239   3  18    7230000.          0.026830 6.2000-3                                       M.A.P.V.De Moraes+   (89)M0406  3 
+    0 94239   3  18    7380000.          0.034520 3.9900-3                                       M.A.P.V.De Moraes+   (89)M0406  3 
+    0 94239   3  18    7640000.          0.037560 5.2700-3                                       M.A.P.V.De Moraes+   (89)M0406  3 
+    0 94239   3  18    7720000.          0.044220 6.1900-3                                       M.A.P.V.De Moraes+   (89)M0406  3 
+    0 94239   3  18    7880000.          0.042420 7.4800-3                                       M.A.P.V.De Moraes+   (89)M0406  3 
+    0 94239   3  18    7910000.          0.036200 4.8500-3                                       M.A.P.V.De Moraes+   (89)M0406  3 
+    0 94239   3  18    9000000.          0.092670 0.014870                                       M.A.P.V.De Moraes+   (89)M0406  3 
+    0 94239   3  18    9720000.          0.131850 0.025020                                       M.A.P.V.De Moraes+   (89)M0406  3 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,18 @@
+first_run,last_run,run_count,run_list,candidate_run_spec,title,normalized_title,classification
+44475,44475,1,44475,44475,test,test,other
+44476,44484,9,"44476,44477,44478,44479,44480,44481,44482,44483,44484",44476-44484,empty tank + GEM,empty tank + gem,candidate_control
+44712,44716,5,"44712,44713,44714,44715,44716",44712-44716,Empty tank with GEM,empty tank with gem,candidate_control
+44717,44723,7,"44717,44718,44719,44720,44721,44722,44723",44717-44723,3mm Nb in tank with GEM,3mm nb in tank with gem,other
+44724,44728,5,"44724,44725,44726,44727,44728",44724-44728,Concrete sample 1 (117.77g) in tank with GEM,concrete sample 1 (117.77g) in tank with gem,candidate_sample
+44729,44742,14,"44729,44730,44731,44732,44733,44734,44735,44736,44737,44738,44739,44740,44741,44742",44729-44742,Al window in tank with GEM,al window in tank with gem,other
+44743,44748,6,"44743,44744,44745,44746,44747,44748",44743-44748,Concrete sample 2 (4 blocks) in tank with GEM,concrete sample 2 (4 blocks) in tank with gem,candidate_sample
+44749,44754,6,"44749,44750,44751,44752,44753,44754",44749-44754,Concrete sample 3M (163.72g) in tank with GEM,concrete sample 3m (163.72g) in tank with gem,candidate_sample
+44755,44760,6,"44755,44756,44757,44758,44759,44760",44755-44760,Concrete sample 4M (4 blocks) in tank with GEM,concrete sample 4m (4 blocks) in tank with gem,candidate_sample
+44761,44775,15,"44761,44762,44763,44764,44765,44766,44767,44768,44769,44770,44771,44772,44773,44774,44775",44761-44775,2mm V on Al frame in tank with GEM,2mm v on al frame in tank with gem,other
+44776,44778,3,"44776,44777,44778",44776-44778,2mm V on Al frame in tank with GEM - U+Ta foils,2mm v on al frame in tank with gem - u+ta foils,calibration_or_reference
+44779,44784,6,"44779,44780,44781,44782,44783,44784",44779-44784,Concrete sample 5I (146.51g) in tank with GEM,concrete sample 5i (146.51g) in tank with gem,candidate_sample
+44785,44790,6,"44785,44786,44787,44788,44789,44790",44785-44790,Concrete sample 6I (158.58g) in tank with GEM,concrete sample 6i (158.58g) in tank with gem,candidate_sample
+44791,44791,1,44791,44791,Test run after DAE reset.,test run after dae reset.,other
+44792,44798,7,"44792,44793,44794,44795,44796,44797,44798",44792-44798,Empty tank with GEM,empty tank with gem,candidate_control
+45130,45133,4,"45130,45131,45132,45133",45130-45133,Sample 1 on Al face with Cd frame at RT,sample 1 on al face with cd frame at rt,candidate_sample
+45134,45135,2,"45134,45135",45134-45135,Sample 3(M) on Al face with Cd frame at RT,sample 3(m) on al face with cd frame at rt,candidate_sample

@@ -1,0 +1,39 @@
+#ENTRY      S0015
+#AUTHOR1    Tao Zhenlan+
+#YEAR       1984
+#INSTITUTE  (3CPRNRS)
+#TITLE      Excitation function of deuteron-induced reactions
+#+          on natural iron
+#AUTHOR(S)  Tao Zhenlan, Zhu Fuying, Qiu Huiyuan, Wang Gongoing
+#REF-CODE   (J,CST,18,506,1984)
+#REFERENCE  At.En.Sci.Technol. 18 (1984) 506
+#DATASETS   0
+#
+#DATASET    S0015006 
+#DATE       20130603
+#REACTION   26-FE-0(D,X)25-MN-54,,SIG
+#PROJ       1002
+#TARG       26000
+#MF         3
+#MT         454
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 1002 26000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 26000   3 454    1.5000+7          0.043000 7.7000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    1.4600+7          0.050000 6.4000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    1.4200+7          0.066000 8.0000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    1.3800+7          0.047000 7.6000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    1.2900+7          0.073000 9.9000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    1.2500+7          0.058000 5.2000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    1.2000+7          0.065000 5.2000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    1.1000+7          0.063000 5.0000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    1.0500+7          0.060000 5.4000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    1.0000+7          0.050000 4.0000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    9400000.          0.047000 3.3000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    8300000.          0.041000 3.9000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    7700000.          0.034000 2.7000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+ 1002 26000   3 454    7100000.          0.025000 2.0000-3           25054.9                     Tao Zhenlan+         (84)S0015  6 
+#/DATA      14
+#/DATASET

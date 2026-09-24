@@ -1,0 +1,40 @@
+#ENTRY      M0673
+#AUTHOR1    G.Blanpied+
+#YEAR       1996
+#INSTITUTE  (1USABNL)
+#TITLE      Polarized Compton scattering from the proton.
+#AUTHOR(S)  G.Blanpied, M.Blecher, A.Caracappa, C.Djalali, G.Giordano, 
+#+          K.Hicks, S.Hoblit, M.Khandaker, O.C.Kistner, G.Matone, L.Miceli, 
+#+          C.Molinari, B.Preedom, D.Rebreyend, A.M.Sandorfi, C.Schaert, 
+#+          R.M.Sealock, H.Stroher, C.E.Thorn, S.T.Thornton, C.S.Whisnant, 
+#+          H.Zhang, X.Zhao
+#REF-CODE   (J,PRL,76,1023,1996)
+#REFERENCE  Phys.Rev.Lett. 76 (1996) 1023 (doi:10.1103/PhysRevLett.76.1023)
+#DATASETS   0
+#
+#DATASET    M0673002 
+#DATE       20220816
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.1300+8          4.1110-8 8.8900-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 2.2353+8          5.0190-8 7.4100-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 2.3468+8          6.1670-8 6.3000-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 2.4172+8          8.2960-8 5.1900-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 2.5523+8          9.0740-8 4.0700-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 2.6402+8          1.0741-7 3.7000-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 2.7519+8          1.3352-7 3.3300-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 2.8635+8          1.5815-7 3.0000-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 2.9721+8          1.8537-7 2.5900-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 3.0895+8          1.9981-7 3.7000-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 3.2275+8          2.0741-7 5.5600-9 6.123-17                              G.Blanpied+          (96)M0673  2 
+    0  1001   4   2  C 3.3300+8          2.0000-7 1.1850-8 6.123-17                              G.Blanpied+          (96)M0673  2 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,12 @@
+coverage_area,required_by_gameplan,covered,current_evidence,notes
+photon_attenuation_transmission,True,True,NIST ordinary-concrete photon attenuation coefficients,Deterministic coefficient reference.
+broad_beam_concrete_shielding,True,True,IAEA SRS 47 Table 4 concrete primary/leakage TVLs,"Engineering broad-beam benchmark; used as independent integral check, not source fitting."
+neutron_attenuation_transmission,True,True,JAERI/TIARA BC501A concrete transmission spectra,On-axis and selected off-axis measurements.
+capture_gamma,True,True,IAEA evaluated H-1 thermal capture prompt-gamma energy/cross section,Nuclear-data anchor for capture-gamma physics.
+photoneutron_production,True,True,Published Geant4 11.0 thick-target natW photoneutron yields,"Published MC reference, explicitly not experimental truth."
+spectra,True,True,JAERI/TIARA measured source and transmitted neutron spectra,Measured source spectra are used without TVL tuning.
+buildup,True,True,"Published FLUKA concrete exposure buildup factors, 10-50 MeV",Point-isotropic barrier-geometry table.
+depth_distributions,True,True,JAERI/TIARA Tables 22-23 TLD and SSNTD depth profiles,Detector-specific units preserved in v4.
+material_compositions_densities,True,True,NIST and JAERI material definitions,Concrete + iron metadata.
+accelerator_measurements,True,True,JAERI/TIARA p-7Li accelerator experiment,43- and 68-MeV source cases.
+benchmark_monte_carlo_cases,True,True,Published FLUKA buildup + published Geant4 photoneutron yields,External code-to-code references kept distinct from experiment.

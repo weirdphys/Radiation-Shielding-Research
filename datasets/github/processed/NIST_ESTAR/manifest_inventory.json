@@ -1,0 +1,20 @@
+{
+  "dataset": "NIST ESTAR",
+  "stage": "official_source_extracted_materials_inventoried",
+  "archive": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/STAR.tar.gz",
+  "sha256": "b8241beb0e721b6b89dd316e32b23ac6c80e9a8908bd43da1570216de51de2c6",
+  "estar_directory": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/archive/phase1/working/processed_datasets_working/NIST_STAR_extracted/ESTAR",
+  "material_lines": 280,
+  "default_energy_values_found": 82,
+  "concrete_candidate_lines": 1,
+  "compiler": {
+    "gfortran_found": false,
+    "gfortran_path": null,
+    "estar_source_directory": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/archive/phase1/working/processed_datasets_working/NIST_STAR_extracted/ESTAR",
+    "estar_f_exists": true,
+    "edconv_f_exists": true,
+    "convert_f_exists": true,
+    "compos_f_exists": true
+  },
+  "next_stage": "Compile the official NIST FORTRAN utilities and generate stopping-power/range tables for the selected shielding materials."
+}

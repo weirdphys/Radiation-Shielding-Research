@@ -1,0 +1,30 @@
+#ENTRY      M0823
+#AUTHOR1    Yu.M.Arkatov+
+#YEAR       1969
+#INSTITUTE  (4UKRKFT)
+#TITLE      Three-particle and total photodisintegration of 4He.
+#AUTHOR(S)  Yu.M.Arkatov, A.V.Bazaeva, P.I.Vatset, V.I.Voloshchuk, A.P.Klyucharev, 
+#+          A.F.Khodyachikh
+#REF-CODE   (J,YF,10,1123,1969)
+#REFERENCE  Yad.Fiz. 10 (1969) 1123
+#DATASETS   0
+#
+#DATASET    M0823003 
+#DATE       20180326
+#REACTION   2-HE-4(G,2N+P)1-H-1,,SIG
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         41
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  2004   3  41  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3  41    3.5000+7 5000000. 1.0500-5 3.8000-6                                       Yu.M.Arkatov+        (69)M0823  3 
+    0  2004   3  41    5.0000+7 1.0000+7 3.4600-5 5.4000-6                                       Yu.M.Arkatov+        (69)M0823  3 
+    0  2004   3  41    7.0000+7 1.0000+7 3.5600-5 6.6000-6                                       Yu.M.Arkatov+        (69)M0823  3 
+    0  2004   3  41    9.0000+7 1.0000+7 4.3900-5 8.6000-6                                       Yu.M.Arkatov+        (69)M0823  3 
+    0  2004   3  41    1.1000+8 1.0000+7 2.9000-5 8.1000-6                                       Yu.M.Arkatov+        (69)M0823  3 
+#/DATA      5
+#/DATASET

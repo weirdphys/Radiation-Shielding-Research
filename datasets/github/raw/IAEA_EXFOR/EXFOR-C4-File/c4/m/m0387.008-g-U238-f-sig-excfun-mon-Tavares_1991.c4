@@ -1,0 +1,27 @@
+#ENTRY      M0387
+#AUTHOR1    O.A.P.Tavares+
+#YEAR       1991
+#INSTITUTE  (2ITYFRA)
+#TITLE      Fission of   complex   nuclei   induced   by   52-MeV
+#+          monochromatic and polarized photons.
+#AUTHOR(S)  O.A.P.Tavares, M.L.Terranova, L.Casano, A.D'angelo, D.Moricciani, 
+#+          C.Schaerf, D.Babusci, B.Girolami, J.B.Martins, E.L.Moreira, 
+#+          J.L.Vieira
+#REF-CODE   (J,PR/C,44,1683,1991)
+#REFERENCE  Phys.Rev.C 44 (1991) 1683 (doi:10.1103/PhysRevC.44.1683)
+#DATASETS   0
+#
+#DATASET    M0387008 
+#DATE       20161221
+#REACTION   92-U-238(G,F),,SIG
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  18    5.2000+7 2600000. 0.010000 1.0000-3                                       O.A.P.Tavares+       (91)M0387  8 
+#/DATA      1
+#/DATASET

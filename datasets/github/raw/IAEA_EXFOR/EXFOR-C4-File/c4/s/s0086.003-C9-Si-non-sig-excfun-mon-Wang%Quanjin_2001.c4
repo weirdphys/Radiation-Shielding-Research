@@ -1,0 +1,27 @@
+#ENTRY      S0086
+#AUTHOR1    Wang Quanjin+
+#YEAR       2001
+#INSTITUTE  (3CPRIMP)
+#TITLE      Measurement of total reaction cross sections for 8B
+#+          and 9C on silicon target
+#AUTHOR(S)  Wang Quanjin, Zhan Wenlong, Guo Zhongyan, Xiao Guoqing, 
+#+          Sun Zhiyu, Wang Meng, Chen Zhiqiang, Li Jiaxing, Wang Jiansong, 
+#+          Ning Zhenjiang, Wang Jinchuan, Wang Jianfeng
+#REF-CODE   (J,PHE,25,1165,2001)
+#REFERENCE  High En.Nucl.Phy.Ch. 25 (2001) 1165
+#DATASETS   0
+#
+#DATASET    S0086003 
+#DATE       20141112
+#REACTION   14-SI-0(6-C-9,NON),,SIG
+#PROJ       6009
+#TARG       14000
+#MF         3
+#MT         3
+#C4BEGIN    [ 6009 14000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6009 14000   3   3    5.4990+8          1.699000 0.051000                                       Wang Quanjin+        (01)S0086  3 
+#/DATA      1
+#/DATASET

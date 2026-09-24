@@ -1,0 +1,11 @@
+beam,observable,source,figure,pdf_page,field_cm,ssd_cm,depth_cm,direction,measured_curve,eligibility,notes
+6MV,PDD,Ben Hdech 2011,Figure 62,162,40x40,100,,central-axis depth-dose,experimental black 40x40 curve,PASS,Published display factor k=0.4 must be undone before final PDD dmax normalization.
+6MV,PROFILE,Ben Hdech 2011,Figure 62,162,40x40,100,10,published bilateral lateral profile,experimental black 40x40 curve,PASS,k=0.4 is multiplicative and cancels under CAX profile normalization; no symmetrization.
+10MV,PDD,Araki 2005,Figure 3(d),4,40x40,100,,central-axis depth-dose,Measured solid curve,PASS,Use measured PDD only; calculated/component curves are not holdout data.
+10MV,PROFILE,Araki 2005,Figure 5(d),6,40x40,100,10,bilateral X-axis dose profile,Measured 10-cm 40x40 profile,PASS,"No mirroring, symmetrization or fitted horizontal translation."
+15MV,PDD,Tian et al. 2017,Figure 4,7,40x40,100,,central-axis depth-dose,measurement solid line,PASS,40x40 measured PDD is the preregistered primary PDD holdout.
+15MV,PROFILE,Tian et al. 2017,Figure 5(b2),8,40x40,100,10,cross-line,measurement solid line,PASS,Primary gating profile fixed to cross-line 10 cm before digitization. Shallow profile excluded.
+16MV,PDD,Ben Hdech 2011,Figure 62,162,40x40,100,,central-axis depth-dose,experimental black 40x40 curve,PASS,Published display factor k=0.4 must be undone before final PDD dmax normalization.
+16MV,PROFILE,Ben Hdech 2011,Figure 62,162,40x40,100,10,published bilateral lateral profile,experimental black 40x40 curve,PASS,k=0.4 cancels under CAX normalization; left/right crossings remain independent.
+18MV,PDD,Ben Hdech 2011,Figure 62,162,40x40,100,,central-axis depth-dose,experimental black 40x40 curve,PASS,Published display factor k=0.4 must be undone before final PDD dmax normalization.
+18MV,PROFILE,Ben Hdech 2011,Figure 62,162,40x40,100,10,published bilateral lateral profile,experimental black 40x40 curve,PASS,k=0.4 cancels under CAX normalization; left/right crossings remain independent.

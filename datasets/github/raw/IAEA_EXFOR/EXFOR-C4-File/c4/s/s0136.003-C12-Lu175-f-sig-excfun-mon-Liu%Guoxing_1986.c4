@@ -1,0 +1,28 @@
+#ENTRY      S0136
+#AUTHOR1    Liu Guoxing+
+#YEAR       1986
+#INSTITUTE  (3CPRIMP)
+#TITLE      Fission excitation function in interactions of C-12
+#+          ions with various targets
+#AUTHOR(S)  Liu Guoxing, Chen Keliang, Ma Hongfan, Wang Sufang, Cai Wei
+#REF-CODE   (J,PHE,10,597,1986)
+#REFERENCE  High En.Nucl.Phy.Ch. 10 (1986) 597
+#DATASETS   0
+#
+#DATASET    S0136003 
+#DATE       20151022
+#REACTION   71-LU-175(6-C-12,F),,SIG
+#PROJ       6012
+#TARG       71175
+#MF         3
+#MT         18
+#C4BEGIN    [ 6012 71175   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 71175   3  18    7.2700+7          7.4100-4 7.0000-5                                       Liu Guoxing+         (86)S0136  3 
+ 6012 71175   3  18    6.9600+7          1.5600-4 2.0000-5                                       Liu Guoxing+         (86)S0136  3 
+ 6012 71175   3  18    6.7300+7          9.7000-5 1.0000-5                                       Liu Guoxing+         (86)S0136  3 
+ 6012 71175   3  18    6.5400+7          4.1000-5 5.0000-6                                       Liu Guoxing+         (86)S0136  3 
+#/DATA      4
+#/DATASET

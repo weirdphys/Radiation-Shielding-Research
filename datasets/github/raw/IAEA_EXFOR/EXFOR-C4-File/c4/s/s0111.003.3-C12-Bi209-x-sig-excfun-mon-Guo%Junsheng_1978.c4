@@ -1,0 +1,32 @@
+#ENTRY      S0111
+#AUTHOR1    Guo Junsheng+
+#YEAR       1978
+#INSTITUTE  (3CPRIMP)
+#TITLE      The measurement of the excitation functions of
+#+          isotopes of Fr and At, produced in the bombardment of
+#+          C-12 on Bi-209
+#AUTHOR(S)  Guo Junsheng, Sun Xijun, Xu Xiaoji, Wang Jun, Liu Hongye
+#REF-CODE   (J,PHE,2,143,1978)
+#REFERENCE  High En.Nucl.Phy.Ch. 2 (1978) 143
+#DATASETS   0
+#
+#DATASET    S01110033
+#DATE       20151008
+#REACTION   83-BI-209(6-C-12,X)87-FR-214-M,,SIG
+#PROJ       6012
+#TARG       83209
+#MF         3
+#MT         454
+#PRODUCT    87-FR-214-M
+#C4BEGIN    [ 6012 83209   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 83209   3 454    6.2500+7          4.4000-4 7.4800-5           87214.7                     Guo Junsheng+        (78)S0111  33
+ 6012 83209   3 454    6.3900+7          1.2900-3 2.1930-4           87214.7                     Guo Junsheng+        (78)S0111  33
+ 6012 83209   3 454    6.5200+7          2.3900-3 4.0630-4           87214.7                     Guo Junsheng+        (78)S0111  33
+ 6012 83209   3 454    6.6400+7          3.1500-3 5.3550-4           87214.7                     Guo Junsheng+        (78)S0111  33
+ 6012 83209   3 454    6.7600+7          4.4900-3 7.6330-4           87214.7                     Guo Junsheng+        (78)S0111  33
+ 6012 83209   3 454    6.8800+7          4.8800-3 8.2960-4           87214.7                     Guo Junsheng+        (78)S0111  33
+#/DATA      6
+#/DATASET

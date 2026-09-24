@@ -1,0 +1,38 @@
+#ENTRY      S0003
+#AUTHOR1    Mao Zhenlin+
+#YEAR       1972
+#INSTITUTE  (3CPRAEP)
+#TITLE      Nuclear reactions induced by 5.03 MeV deuteron beam
+#+          on Li-6,Li-7,C-12 and O-16 nuclei.
+#AUTHOR(S)  Mao Zhenlin, Zhuang Youxiang, Sun Zuxun, Zhang Peihua, Wang Zhifu, 
+#+          Yuan Jian, Yuan Rongfang, Wen Keling
+#REF-CODE   (C,72LANZH,,3,1972)
+#REFERENCE  Proceedings of Conf.on Low Energy Nucl.Phys.,Lanzhou,1972 page 3
+#DATASETS   0
+#
+#DATASET    S0003032 
+#DATE       20080311
+#REACTION   8-O-16(D,EL)8-O-16,,DA
+#PROJ       1002
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1002  8016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8016   4   2  C 5030000. 150000.0 0.100200          0.566406                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 0.056400          0.403545                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 0.032400          0.230050                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 0.021900          0.050593                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 9.1000-3         -0.125333                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 0.011900         -0.294040                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 0.015200         -0.449319                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 0.017500         -0.590606                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 0.020800         -0.713250                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 0.016700         -0.815128                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 0.019600         -0.895712                              Mao Zhenlin+         (72)S0003 32 
+ 1002  8016   4   2  C 5030000. 150000.0 0.011800         -0.953191                              Mao Zhenlin+         (72)S0003 32 
+#/DATA      12
+#/DATASET

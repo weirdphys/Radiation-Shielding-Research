@@ -1,0 +1,43 @@
+#ENTRY      S0220
+#AUTHOR1    Y.P.Shen+
+#YEAR       2019
+#INSTITUTE  (3CPRAEP)
+#TITLE      First experimental constraint of the spectroscopic
+#+          amplitudes for the alpha-cluster in the 11B ground
+#+          state
+#AUTHOR(S)  Y.P.Shen, B.Guo, T.L.Ma, D.Y.Pang, D.D.Ni, Z.Z.Ren, Y.J.Li, 
+#+          Z.D.An, J.Su, J.C.Liu, Q.W.Fan, Z.Y.Han, X.Y.Li, Z.H.Li, 
+#+          G.Lian, Y.Su, Y.B.Wang, S.Q.Yan, S.Zeng, W.P.Liu
+#REF-CODE   (J,PL/B,797,134820,2019)
+#REFERENCE  Phys.Lett.B 797 (2019) 134820 (doi:10.1016/j.physletb.2019.134820)
+#DATASETS   0
+#
+#DATASET    S0220003 
+#DATE       20200315
+#REACTION   3-LI-7(3-LI-6,D)5-B-11,PAR,DA
+#PROJ       3006
+#TARG       3007
+#MF         4
+#MT         650
+#PRODUCT    5-B-11
+#C4BEGIN    [ 3006  3007   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  3007   4 650  C 2.4000+7          6.4130-4 4.6000-5 0.997564          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          5.8380-4 4.4900-5 0.993373          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          5.2650-4 4.2600-5 0.987136          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          4.5090-4 3.5200-5 0.978867          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          3.8170-4 3.2900-5 0.968148          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          2.9440-4 2.5300-5 0.955793          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          2.1970-4 2.0000-5 0.941471          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          1.7050-4 1.7000-5 0.923880          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          1.8420-4 1.7600-5 0.907044          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          1.9740-4 2.1000-5 0.886204          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          2.1490-4 1.9800-5 0.865151          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          2.1910-4 2.0200-5 0.840567          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          2.1520-4 2.0000-5 0.816138          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          1.8950-4 1.8500-5 0.789084          0.000000         LVLY.P.Shen+            (19)S0220  3 
+ 3006  3007   4 650  C 2.4000+7          1.8980-4 1.8200-5 0.761538          0.000000         LVLY.P.Shen+            (19)S0220  3 
+#/DATA      15
+#/DATASET

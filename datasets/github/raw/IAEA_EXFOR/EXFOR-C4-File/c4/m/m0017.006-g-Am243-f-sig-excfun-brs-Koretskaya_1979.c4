@@ -1,0 +1,40 @@
+#ENTRY      M0017
+#AUTHOR1    I.S.Koretskaya+
+#YEAR       1979
+#INSTITUTE  (4RUSJIA)
+#TITLE      Photofission cross sections of 241Am and 243Am
+#+          in the region of the E1 giant resonance.
+#AUTHOR(S)  I.S.Koretskaya, V.L.Kuznetsov, L.E.Lazareva, V.G.Nedoresov, 
+#+          N.V.Nikitina
+#REF-CODE   (J,SNP,30,472,1979)
+#REFERENCE  Sov.J.Nucl.Phys. 30 (1979) 472
+#DATASETS   0
+#
+#DATASET    M0017006 
+#DATE       20260409
+#REACTION   95-AM-243(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       95243
+#MF         3
+#MT         18
+#C4BEGIN    [    0 95243   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 95243   3  18    7000000.          0.032000 0.023000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    8000000.          0.063000 0.024000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    9000000.          0.112000 0.025000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.0000+7          0.193000 0.026000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.1000+7          0.229000 0.027000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.2000+7          0.244000 0.028000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.2500+7          0.250000 0.025000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.3000+7          0.290000 0.029000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.3900+7          0.350000 0.030000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.5000+7          0.221000 0.037000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.6000+7          0.132000 0.042000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.7000+7          0.095000 0.050000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.8000+7          0.156000 0.058000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    1.9000+7          0.130000 0.063000                                       I.S.Koretskaya+      (79)M0017  6 
+    0 95243   3  18    2.0000+7          0.018000 0.068000                                       I.S.Koretskaya+      (79)M0017  6 
+#/DATA      15
+#/DATASET

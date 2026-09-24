@@ -1,0 +1,29 @@
+#ENTRY      S0048
+#AUTHOR1    Zeng Sheng+
+#YEAR       2005
+#INSTITUTE  (3CPRAEP)
+#TITLE      Measurement of 2H(8Li,9Be)n reaction relevant to
+#+          primordial nucleosynthesis
+#AUTHOR(S)  Zeng Sheng, Liu Wei-Ping, Li Zhi-Hong, Bai Xi-Xiang, Yan Sheng-Quan, 
+#+          Wang Bao-Xiang, Lian Gang, Su Jun
+#REF-CODE   (J,CPL,22,2219,2005)
+#REFERENCE  Chin.Phys.Lett. 22 (2005) 2219 (doi:10.1088/0256-307X/22/9/022)
+#DATASETS   0
+#
+#DATASET    S0048002 
+#DATE       20091022
+#REACTION   (1-H-2(3-LI-8,N)4-BE-9,PAR,DA,RSD)=(3-LI-8(D,N)4-BE-9,PAR,DA)
+#PROJ       1002
+#TARG       3008
+#MF         4
+#MT         50
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1002  3008   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3008   4  50 AC 1.0138+7          1.2949-3 4.3162-4 0.882678 0.062396 0.000000         LVLZeng Sheng+          (05)S0048  2 
+ 1002  3008   4  50 AC 1.0138+7          9.7297-4 3.6775-4 0.732029 0.064492 0.000000         LVLZeng Sheng+          (05)S0048  2 
+ 1002  3008   4  50 AC 1.0138+7          6.5570-4 2.9324-4 0.571106 0.068332 0.000000         LVLZeng Sheng+          (05)S0048  2 
+#/DATA      3
+#/DATASET

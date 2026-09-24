@@ -1,0 +1,40 @@
+#ENTRY      L0197
+#AUTHOR1    R.J.deBoer+
+#YEAR       2014
+#INSTITUTE  (1USANOT)
+#TITLE      Photoneutron strengths in 26Mg at energies of
+#+          astrophysical interest
+#AUTHOR(S)  R.J.deBoer, A.Best, J.Gorres, K.Smith, W.Tan, M.Wiescher, 
+#+          R.Raut, G.Rusev, A.P.Tonchev, W.Tornow
+#REF-CODE   (J,PR/C,89,055802,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 055802 (doi:10.1103/PhysRevC.89.055802)
+#DATASETS   0
+#
+#DATASET    L0197002 
+#DATE       20141118
+#REACTION   12-MG-26(G,N)12-MG-25,,SIG
+#PROJ       0
+#TARG       12026
+#MF         3
+#MT         4
+#PRODUCT    12-MG-25
+#C4BEGIN    [    0 12026   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 12026   3   4    1.1000+7 200000.0 2.2000-4 1.7000-5                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.1150+7 200000.0 1.0900-3 8.4000-5                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.1300+7 200000.0 2.4500-3 1.8600-4                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.1450+7 200000.0 2.6100-3 1.9600-4                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.1600+7 200000.0 5.4500-3 4.0700-4                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.1750+7 200000.0 5.9100-3 4.5000-4                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.1900+7 200000.0 3.0700-3 2.3200-4                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.2050+7 200000.0 2.8400-3 2.1100-4                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.2090+7 200000.0 3.7000-4 2.9000-5                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.2270+7 200000.0 2.1700-3 1.6300-4                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.2375+7 200000.0 2.9600-3 2.1300-4                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.2525+7 200000.0 4.0400-3 3.1100-4                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.2675+7 200000.0 6.8200-3 5.2200-4                                       R.J.deBoer+          (14)L0197  2 
+    0 12026   3   4    1.2825+7 200000.0 4.2800-3 3.2200-4                                       R.J.deBoer+          (14)L0197  2 
+#/DATA      14
+#/DATASET

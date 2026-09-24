@@ -1,0 +1,51 @@
+#ENTRY      M0539
+#AUTHOR1    G.P.Antropov+
+#YEAR       1967
+#INSTITUTE  (4RUSFTI)
+#TITLE      Photoneutron reactions on Al, S, Ta, and Bi.
+#AUTHOR(S)  G.P.Antropov, I.E.Mitrofanov, B.S.Russkikh
+#REF-CODE   (J,IZV,31,336,1967)
+#REFERENCE  Izv.Ross.AN,Fiz. 31 (1967) 336
+#DATASETS   0
+#
+#DATASET    M0539007 
+#DATE       20110512
+#REACTION   83-BI-209(G,X)0-NN-1,,SIG,,BRS
+#PROJ       0
+#TARG       83209
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 83209   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 83209   3 201    7500000.          0.020500                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    7750000.          0.065500                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    8000000.          0.040900                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    8500000.          0.066900                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    9000000.          0.100300                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    9500000.          0.140600                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.0000+7          0.167900                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.0500+7          0.272900                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.1000+7          0.382100                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.1500+7          0.485800                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.2000+7          0.492600                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.2500+7          0.586800                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.3000+7          0.622300                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.3500+7          0.580000                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.4000+7          0.648200                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.4500+7          0.743800                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.5000+7          0.710300                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.5500+7          0.477600                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.6000+7          0.313900                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.6500+7          0.279800                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.7000+7          0.238800                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.7500+7          0.211500                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.8000+7          0.202000                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.8500+7          0.181500                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.9000+7          0.163800                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    1.9500+7          0.102400                                                G.P.Antropov+        (67)M0539  7 
+    0 83209   3 201    2.0000+7          0.109200                                                G.P.Antropov+        (67)M0539  7 
+#/DATA      27
+#/DATASET

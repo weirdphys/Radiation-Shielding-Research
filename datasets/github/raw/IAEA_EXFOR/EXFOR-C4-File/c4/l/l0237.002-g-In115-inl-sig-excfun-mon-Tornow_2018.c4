@@ -1,0 +1,39 @@
+#ENTRY      L0237
+#AUTHOR1    W.Tornow+
+#YEAR       2018
+#INSTITUTE  (1USADKE)
+#TITLE      Measurement of the 115In(g,g')115mIn inelastic
+#+          scattering cross section in the 1.8 to 3.7 MeV energy
+#+          range with monoenergetic photon beams
+#AUTHOR(S)  W.Tornow, M.Bhike, S.W.Finch, Krishichayan, A.P.Tonchev
+#REF-CODE   (J,PR/C,98,064305,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 064305 (doi:10.1103/PhysRevC.98.064305)
+#DATASETS   0
+#
+#DATASET    L0237002 
+#DATE       20181208
+#REACTION   49-IN-115(G,INL)49-IN-115-M,,SIG
+#PROJ       0
+#TARG       49115
+#MF         3
+#MT         102
+#PRODUCT    49-IN-115-M
+#C4BEGIN    [    0 49115   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 49115   3 102M   1900000. 30000.00 3.7000-7 9.0000-8                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   2000000. 40000.00 4.7000-7 1.0000-7                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   2100000. 40000.00 1.8800-6 3.4000-7                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   2300000. 40000.00 2.1000-6 3.7000-7                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   2400000. 50000.00 1.8700-6 3.0000-7                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   2500000. 50000.00 5.8600-6 9.4000-7                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   2590000. 50000.00 4.3900-6 8.9000-7                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   2800000. 60000.00 5.6400-6 1.1500-6                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   2950000. 60000.00 1.8700-5 3.8000-6                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   3120000. 60000.00 1.3200-5 2.7000-6                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   3300000. 70000.00 6.7500-6 1.3800-6                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   3600000. 70000.00 2.3500-5 4.8000-6                                       W.Tornow+            (18)L0237  2 
+    0 49115   3 102M   3700000. 70000.00 2.8700-5 5.8000-6                                       W.Tornow+            (18)L0237  2 
+#/DATA      13
+#/DATASET

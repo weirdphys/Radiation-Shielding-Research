@@ -1,0 +1,11 @@
+{
+  "dataset": "ISIS RB2000209",
+  "stage": "run_inventory_and_group_discovery_complete",
+  "archive": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/RB2000209_raw.zip",
+  "archive_sha256": "2695a16eb6100ce8560d15ab5b0e0d8915eb9dd69fba3a0a8ee0900fff556108",
+  "inventory_rows": 721,
+  "unique_runs": 103,
+  "candidate_groups": 17,
+  "physical_reduction_status": "PENDING_VALIDATED_SAMPLE_CONTROL_MAPPING",
+  "important_note": "No transmission or removal cross sections are calculated until the run groups are classified from their experimental titles/setup."
+}

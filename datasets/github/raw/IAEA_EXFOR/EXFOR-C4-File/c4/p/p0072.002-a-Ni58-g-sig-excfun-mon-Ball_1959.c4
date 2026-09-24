@@ -1,0 +1,31 @@
+#ENTRY      P0072
+#AUTHOR1    J.B.Ball+
+#YEAR       1959
+#INSTITUTE  (1USAWAU)
+#TITLE      Radiative Alpha-Particle Capture in Ni58 and Xe136 at
+#+          Higher Energies
+#AUTHOR(S)  J.B.Ball, A.W.Fairhall, I.Halpern
+#REF-CODE   (J,PR,114,305,1959)
+#REFERENCE  Phys.Rev. 114 (1959) 305 (doi:10.1103/PhysRev.114.305)
+#DATASETS   0
+#
+#DATASET    P0072002 
+#DATE       20000817
+#REACTION   28-NI-58(A,G)30-ZN-62,,SIG
+#PROJ       2004
+#TARG       28058
+#MF         3
+#MT         102
+#PRODUCT    30-ZN-62
+#C4BEGIN    [ 2004 28058   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28058   3 102    1.2296+7          1.5600-4 1.0000-5                                       J.B.Ball+            (59)P0072  2 
+ 2004 28058   3 102    1.4541+7          3.3700-4 1.5000-5                                       J.B.Ball+            (59)P0072  2 
+ 2004 28058   3 102    1.8605+7          3.5200-4 5.1000-5                                       J.B.Ball+            (59)P0072  2 
+ 2004 28058   3 102    2.0102+7          2.1200-4 3.6000-5                                       J.B.Ball+            (59)P0072  2 
+ 2004 28058   3 102    2.2883+7          1.0100-4 3.4000-5                                       J.B.Ball+            (59)P0072  2 
+ 2004 28058   3 102    3.3151+7          4.6000-5 1.5000-5                                       J.B.Ball+            (59)P0072  2 
+#/DATA      6
+#/DATASET

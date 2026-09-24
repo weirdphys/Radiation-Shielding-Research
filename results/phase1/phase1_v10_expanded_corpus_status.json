@@ -1,0 +1,33 @@
+{
+  "registry_gate": true,
+  "scientific_semantic_gate": true,
+  "corpus_integrity_gate": true,
+  "schema_gate": true,
+  "contract_classification_gate": true,
+  "geant4_contract_gate": true,
+  "required_comparison_gate": true,
+  "required_comparison_status": "PASS \u2014 no expanded benchmark has yet been scientifically promoted to READY; all blockers are explicitly documented",
+  "ordered_reference_fields_gate": true,
+  "residual_field_gate": true,
+  "registered_datasets": [
+    "PSSD",
+    "IAEA_PD2019",
+    "NIST_ESTAR",
+    "BROAD_BEAM_PHOTON",
+    "ISIS_RB2000164",
+    "ISIS_RB2000209_STANDARD_MONITOR_PROXY",
+    "IAEA_EXFOR"
+  ],
+  "phase1_case_ids": [
+    "P004_BROAD_BEAM_CONCRETE_CONSTITUENTS",
+    "N003_ISIS_RB2000164",
+    "N004_ISIS_RB2000209_STANDARD_MONITOR_PROXY",
+    "E001_NIST_ESTAR_PORTLAND_CONCRETE",
+    "PN002_IAEA_PD2019",
+    "P005_PSSD_INDEPENDENT_SIMULATION",
+    "PN003_IAEA_EXFOR_EXPERIMENTAL"
+  ],
+  "RB2000209_sigma_allowed": false,
+  "RB2000209_GEM_product": false,
+  "PSSD_is_experimental_truth": false
+}

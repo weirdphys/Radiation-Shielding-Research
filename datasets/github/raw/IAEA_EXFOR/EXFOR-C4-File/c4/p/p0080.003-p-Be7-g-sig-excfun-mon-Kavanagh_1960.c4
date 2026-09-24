@@ -1,0 +1,26 @@
+#ENTRY      P0080
+#AUTHOR1    R.W.Kavanagh+
+#YEAR       1960
+#INSTITUTE  (1USACAL)
+#TITLE      Proton capture in Be7
+#AUTHOR(S)  R.W.Kavanagh
+#REF-CODE   (J,NP,15,411,1960)
+#REFERENCE  Nucl.Phys. 15 (1960) 411 (doi:10.1016/0029-5582(60)90322-9)
+#DATASETS   0
+#
+#DATASET    P0080003 
+#DATE       20000814
+#REACTION   4-BE-7(P,G)5-B-8,,SIG
+#PROJ       1001
+#TARG       4007
+#MF         3
+#MT         102
+#PRODUCT    5-B-8
+#C4BEGIN    [ 1001  4007   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4007   3 102    800000.0          4.8000-7 1.8000-7                                       R.W.Kavanagh         (60)P0080  3 
+ 1001  4007   3 102    1400000.          5.0000-7 2.0000-7                                       R.W.Kavanagh         (60)P0080  3 
+#/DATA      2
+#/DATASET

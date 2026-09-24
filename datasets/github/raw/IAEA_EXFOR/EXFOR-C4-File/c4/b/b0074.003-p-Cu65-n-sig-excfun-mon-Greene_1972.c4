@@ -1,0 +1,41 @@
+#ENTRY      B0074
+#AUTHOR1    M.W.Greene+
+#YEAR       1972
+#INSTITUTE  (1USABNL)
+#TITLE      Proton Reactions with Copper For Auxiliary Cyclotron
+#+          Beam Monitoring
+#AUTHOR(S)  M.W.Greene, E.Lebowitz
+#REF-CODE   (J,ARI,23,342,1972)
+#REFERENCE  Appl.Radiat.Isot. 23 (1972) 342 (doi:10.1016/0020-708X(72)90017-8)
+#DATASETS   0
+#
+#DATASET    B0074003 
+#DATE       20011220
+#REACTION   29-CU-65(P,N)30-ZN-65,,SIG,,,EXP
+#PROJ       1001
+#TARG       29065
+#MF         3
+#MT         4
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 1001 29065   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29065   3   4    1.6000+7          0.243000                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    1.6000+7          0.256000                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    1.8000+7          0.139000                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    1.8000+7          0.183000                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    2.0000+7          0.091500                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    2.0000+7          0.094200                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    2.2000+7          0.052000                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    2.2000+7          0.055000                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    2.4900+7          0.049000                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    2.7100+7          0.050500                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    2.8000+7          0.043500                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    2.9000+7          0.043000                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    2.9900+7          0.043000                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    3.0200+7          0.042500                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    3.2200+7          0.044500                                                M.W.Greene+          (72)B0074  3 
+ 1001 29065   3   4    3.2800+7          0.040200                                                M.W.Greene+          (72)B0074  3 
+#/DATA      16
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      B0047
+#AUTHOR1    B.L.Cohen+
+#YEAR       1955
+#INSTITUTE  (1USAORL)
+#TITLE      (P,GAMMA) Cross Sections.
+#AUTHOR(S)  B.L.Cohen
+#REF-CODE   (J,PR,100,206,1955)
+#REFERENCE  Phys.Rev. 100 (1955) 206 (doi:10.1103/PhysRev.100.206)
+#DATASETS   0
+#
+#DATASET    B0047004 
+#DATE       20011220
+#REACTION   28-NI-60(P,G)29-CU-61,,SIG,,,EXP
+#PROJ       1001
+#TARG       28060
+#MF         3
+#MT         102
+#PRODUCT    29-CU-61
+#C4BEGIN    [ 1001 28060   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28060   3 102    1.0000+7          9.0000-4                                                B.L.Cohen            (55)B0047  4 
+ 1001 28060   3 102    1.6000+7          7.0000-4                                                B.L.Cohen            (55)B0047  4 
+ 1001 28060   3 102    2.1000+7          9.0000-4                                                B.L.Cohen            (55)B0047  4 
+ 1001 28060   3 102    2.2500+7          9.0000-4                                                B.L.Cohen            (55)B0047  4 
+#/DATA      4
+#/DATASET

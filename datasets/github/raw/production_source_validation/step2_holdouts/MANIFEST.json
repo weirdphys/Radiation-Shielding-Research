@@ -1,0 +1,100 @@
+{
+  "schema": "STEP2_HOLDOUT_FILE_MANIFEST_V1",
+  "root_role": "step2_holdouts",
+  "files": [
+    {
+      "path": "README.md",
+      "size_bytes": 267,
+      "sha256": "b2e69674bb82a6543eb112eb4b4de7609f81952e53f11ac4c84ee94419a3e6ee"
+    },
+    {
+      "path": "exact_figure_objects/Araki_Figure3d_10MV_40x40_PDD.png",
+      "size_bytes": 110711,
+      "sha256": "8bd611087203ca1466ffa10d6d3ae114c68d9cf9409573d57576c25c0ae6a039"
+    },
+    {
+      "path": "exact_figure_objects/Araki_Figure5d_10MV_40x40_PROFILE_10cm.png",
+      "size_bytes": 36607,
+      "sha256": "3cd396ff9f3baa33710d5dc077d9685888794e4735f7c416900d7c80492d3d9c"
+    },
+    {
+      "path": "exact_figure_objects/BenHdech_Figure62.svg",
+      "size_bytes": 1525276,
+      "sha256": "7246aa82015f25bbbb948e210e4750a25fe4acd4e9d8db1338c0c42815f62839"
+    },
+    {
+      "path": "exact_figure_objects/Tian_Figure4_15MV_40x40_PDD.jpg",
+      "size_bytes": 89925,
+      "sha256": "a8604ccdd56b71e0fff5837ab5918c2c0e58ab7e4c8f63456f7d47ce064f7d47"
+    },
+    {
+      "path": "exact_figure_objects/Tian_Figure5b2_15MV_40x40_PROFILE_10cm_CROSSLINE.jpg",
+      "size_bytes": 301058,
+      "sha256": "6b4ef316c20bcfcd8dadf94db493ebf46a5bb0e3cfc507f85ee5f14a74ab9893"
+    },
+    {
+      "path": "provenance/AMENDMENT_RECORD_v1_1.json",
+      "size_bytes": 4618,
+      "sha256": "e297974771e99374ab69d094f5335877f19a4a6eb1aaeac54b9c272dc79c0198"
+    },
+    {
+      "path": "provenance/BEAM_HOLDOUT_ASSIGNMENT_v1_1.csv",
+      "size_bytes": 1348,
+      "sha256": "2d64f94ca42d89255db9777003c1be0072d45f00fe79cb1216a9d5b25d5eb07a"
+    },
+    {
+      "path": "provenance/BenHdech_MEASURED_PATH_MAP_v1.json",
+      "size_bytes": 4103,
+      "sha256": "80fceafdfaf526390f7b6afb7d5fbeb5f6b8c7bdedf95b8d3c5549d432ed7fa8"
+    },
+    {
+      "path": "provenance/BenHdech_SELECTED_PATH_GEOMETRY.jsonl",
+      "size_bytes": 121194,
+      "sha256": "67a1d67225431e77f0bd4dd2a1e7b08fb8290da891b6118c58d6e6b0588d8354"
+    },
+    {
+      "path": "provenance/OBSERVABLE_MAP_v1.csv",
+      "size_bytes": 2023,
+      "sha256": "343a2b5c590c9ac4b1a940362a8f4b66439d38e3d1927ed3cdd2801c39bc1650"
+    },
+    {
+      "path": "provenance/STEP2C_MULTI_OBSERVABLE_IMPLEMENTATION_FREEZE_v1_1.json",
+      "size_bytes": 14180,
+      "sha256": "b1e8fee3463bfff60c64e4d5a5801ffceb7c1554d0e7d73f78dec0f32dadcb47"
+    },
+    {
+      "path": "source_freezes/Step2D_PreDigitization_Source_Page_Freeze_v1.zip",
+      "size_bytes": 23288416,
+      "sha256": "bc391ddfecb46d641b9ef54bf13cfc7b84f95ccd0579f6a1d0bba7b342331f5d"
+    },
+    {
+      "path": "source_freezes/Step2F_BenHdech_Measured_Path_Map_Freeze_v1.zip",
+      "size_bytes": 3009323,
+      "sha256": "fbb06ebaff87e18521cc4d2417da4bdea4eea3368b7d86710c2c5a570155c820"
+    },
+    {
+      "path": "sources/Araki_2005_Clinac2100C_4MV_10MV.pdf",
+      "size_bytes": 1040687,
+      "sha256": "3da32a92200c904f0b13742cb2ecc20bd069521a363599cdd15c20e0609ae44e"
+    },
+    {
+      "path": "sources/Ben_Hdech_2011_tel-00683748_DIRECT_PUBLIC.pdf",
+      "size_bytes": 10994809,
+      "sha256": "4b6ce30fcb120791270201088ab9c8e4ad3f9357002895ed86b34b5147e16736"
+    },
+    {
+      "path": "sources/Tian_2017_PMC_metadata.json",
+      "size_bytes": 1848,
+      "sha256": "ae90e1a5ebab3d4028adc9fe3c9f2bafd1ea9cabb1db39f12cb51bd83ae843dd"
+    },
+    {
+      "path": "sources/Tian_2017_TrueBeam_goMC.pdf",
+      "size_bytes": 1605872,
+      "sha256": "c143e0f86b1dd7a04045bb1baaf163f85a02fac96c374fd9b80c642bd48c9286"
+    }
+  ],
+  "frozen_source_package_sha256": {
+    "Step2D_PreDigitization_Source_Page_Freeze_v1.zip": "bc391ddfecb46d641b9ef54bf13cfc7b84f95ccd0579f6a1d0bba7b342331f5d",
+    "Step2F_BenHdech_Measured_Path_Map_Freeze_v1.zip": "fbb06ebaff87e18521cc4d2417da4bdea4eea3368b7d86710c2c5a570155c820"
+  }
+}

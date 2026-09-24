@@ -1,0 +1,28 @@
+#ENTRY      M0571
+#AUTHOR1    R.Nolte+
+#YEAR       1989
+#INSTITUTE  (2GERGOE)
+#TITLE      Nuclear-structure dependence of the E1 strength
+#+          located in the giant dipole resonance of heavy
+#+          nuclei.
+#AUTHOR(S)  R.Nolte, F.Schroder, A.Baumann, K.W.Rose, K.Fuhrberg, M.Schumacher, 
+#+          P.Fettweis, R.Carchon
+#REF-CODE   (J,PR/C,40,1175,1989)
+#REFERENCE  Phys.Rev.C 40 (1989) 1175 (doi:10.1103/PhysRevC.40.1175)
+#DATASETS   0
+#
+#DATASET    M0571004 
+#DATE       19990315
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    1.7640+7          3.2000-4 4.0000-5 6.123-17                              R.Nolte+             (89)M0571  4 
+#/DATA      1
+#/DATASET

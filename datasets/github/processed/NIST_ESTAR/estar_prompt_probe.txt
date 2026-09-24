@@ -1,0 +1,21 @@
+  Output options: 
+     1) Stopping powers, ranges and radiation yields,
+        for standard energy grid
+     2) Stopping powers only,
+        for user-selected energy grid
+  Choose 1 or 2: 
+
+At line 85 of file ESTAR.f (unit = 5, file = 'stdin')
+Fortran runtime error: End of file
+
+Error termination. Backtrace:
+#0  0x72c4cece6e2e in list_formatted_read_scalar
+	at ../../../libgfortran/io/list_read.c:2554
+#1  0x5ad7ab0112d5 in ???
+#2  0x5ad7ab00e21e in ???
+#3  0x72c4ce62a1c9 in __libc_start_call_main
+	at ../sysdeps/nptl/libc_start_call_main.h:58
+#4  0x72c4ce62a28a in __libc_start_main_impl
+	at ../csu/libc-start.c:360
+#5  0x5ad7ab00e244 in ???
+#6  0xffffffffffffffff in ???

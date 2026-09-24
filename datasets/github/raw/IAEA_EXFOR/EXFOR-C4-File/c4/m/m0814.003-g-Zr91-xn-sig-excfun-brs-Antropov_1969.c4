@@ -1,0 +1,44 @@
+#ENTRY      M0814
+#AUTHOR1    G.P.Antropov+
+#YEAR       1969
+#INSTITUTE  (4RUSFTI)
+#TITLE      Photoneutron cross sections of 90Zr and 91Zr.
+#AUTHOR(S)  G.P.Antropov, I.E.Mitrofanov, A.I.Prokof'ev, B.S.Russkikh
+#REF-CODE   (J,IZV,33,700,1969)
+#REFERENCE  Izv.Ross.AN,Fiz. 33 (1969) 700
+#DATASETS   0
+#
+#DATASET    M0814003 
+#DATE       20220210
+#REACTION   40-ZR-91(G,X)0-NN-1,,SIG,,BRS
+#PROJ       0
+#TARG       40091
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 40091   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 40091   3 201    1.2000+7          3.8200-3 2.2900-3                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.2500+7          8.4000-3 4.4800-3                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.3000+7          0.015290 5.0000-3                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.3500+7          0.026760 5.3500-3                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.4000+7          0.043240 5.3100-3                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.4500+7          0.088730 6.8900-3                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.5000+7          0.146820 8.4100-3                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.5500+7          0.222570 7.1300-3                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.6000+7          0.267650 9.1800-3                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.6500+7          0.207000 9.0000-3                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.7000+7          0.146000 0.011760                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.7500+7          0.176660 0.012270                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.8000+7          0.206470 0.013760                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.8500+7          0.168240 0.014530                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.9000+7          0.116250 0.015250                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    1.9500+7          0.073440 0.014400                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    2.0000+7          0.030620 0.014530                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    2.0500+7          0.013800 0.013700                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    2.1000+7          0.064880 0.016000                                       G.P.Antropov+        (69)M0814  3 
+    0 40091   3 201    2.1500+7          0.082590 0.014540                                       G.P.Antropov+        (69)M0814  3 
+#/DATA      20
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      B0174
+#AUTHOR1    H.J.Probst+
+#YEAR       1976
+#INSTITUTE  (2GERJUL)
+#TITLE      Excitation functions of high-energy alpha-particle
+#+          induced nuclear reactions on aluminium and magnesium:
+#+          Production of 28Mg
+#AUTHOR(S)  H.J.Probst, S.M.Qaim, R.Weinreich
+#REF-CODE   (J,ARI,27,431,1976)
+#REFERENCE  Appl.Radiat.Isot. 27 (1976) 431 (doi:10.1016/0020-708X(76)90062-4)
+#DATASETS   0
+#
+#DATASET    B0174010 
+#DATE       20180517
+#REACTION   12-MG-26(A,P)13-AL-29,,SIG
+#PROJ       2004
+#TARG       12026
+#MF         3
+#MT         103
+#PRODUCT    13-AL-29
+#C4BEGIN    [ 2004 12026   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12026   3 103    1.2100+7 1600000. 0.013900 3.1000-3                                       H.J.Probst+          (76)B0174 10 
+ 2004 12026   3 103    2.0100+7          0.071200 0.017000                                       H.J.Probst+          (76)B0174 10 
+ 2004 12026   3 103    2.8400+7 1800000. 0.034800 4.2000-3                                       H.J.Probst+          (76)B0174 10 
+ 2004 12026   3 103    3.3900+7          0.013000                                                H.J.Probst+          (76)B0174 10 
+ 2004 12026   3 103    4.0200+7          7.3400-3                                                H.J.Probst+          (76)B0174 10 
+ 2004 12026   3 103    4.6600+7          4.8800-3                                                H.J.Probst+          (76)B0174 10 
+ 2004 12026   3 103    5.3100+7          4.3000-3 6.9000-4                                       H.J.Probst+          (76)B0174 10 
+ 2004 12026   3 103    6.4200+7          1.2900-3                                                H.J.Probst+          (76)B0174 10 
+ 2004 12026   3 103    7.8000+7 1300000. 5.3200-4 7.5000-5                                       H.J.Probst+          (76)B0174 10 
+#/DATA      9
+#/DATASET

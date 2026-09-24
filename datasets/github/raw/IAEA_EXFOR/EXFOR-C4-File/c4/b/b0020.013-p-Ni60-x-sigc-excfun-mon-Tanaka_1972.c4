@@ -1,0 +1,31 @@
+#ENTRY      B0020
+#AUTHOR1    S.Tanaka+
+#YEAR       1972
+#INSTITUTE  (2JPNTOK)
+#TITLE      Nuclear reactions of nickel with protons up to 56 MeV
+#AUTHOR(S)  S.Tanaka, M.Furukawa, M.Chiba
+#REF-CODE   (J,JIN,34,2419,1972)
+#REFERENCE  J.Inorg.Nucl.Chem. 34 (1972) 2419 (doi:10.1016/0022-1902(72)80187-8)
+#DATASETS   0
+#
+#DATASET    B0020013 
+#DATE       20190119
+#REACTION   28-NI-60(P,X)27-CO-56,CUM,SIG
+#PROJ       1001
+#TARG       28060
+#MF         3
+#MT         459
+#PRODUCT    27-CO-56
+#C4BEGIN    [ 1001 28060   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28060   3 459    2.7000+7          0.068400                    27056.9                     S.Tanaka+            (72)B0020 13 
+ 1001 28060   3 459    3.0200+7          0.070000                    27056.9                     S.Tanaka+            (72)B0020 13 
+ 1001 28060   3 459    3.4800+7          0.045900                    27056.9                     S.Tanaka+            (72)B0020 13 
+ 1001 28060   3 459    4.1100+7          0.016700                    27056.9                     S.Tanaka+            (72)B0020 13 
+ 1001 28060   3 459    4.6800+7          0.011300                    27056.9                     S.Tanaka+            (72)B0020 13 
+ 1001 28060   3 459    5.0500+7          0.012400                    27056.9                     S.Tanaka+            (72)B0020 13 
+ 1001 28060   3 459    5.4900+7          0.012800                    27056.9                     S.Tanaka+            (72)B0020 13 
+#/DATA      7
+#/DATASET

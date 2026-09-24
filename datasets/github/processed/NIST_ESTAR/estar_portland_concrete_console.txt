@@ -1,0 +1,15 @@
+  Output options: 
+     1) Stopping powers, ranges and radiation yields,
+        for standard energy grid
+     2) Stopping powers only,
+        for user-selected energy grid
+  Choose 1 or 2: 
+  Options for entering properties of stopping material:
+     1) Use input from composition file UCOMP
+     2) Enter composition data from keyboard, as prompted
+  Choose 1 or 2: 
+  Enter ID number of material: 
+ I-value from UCOMP file is =  135.2 eV.
+  Is this value acceptable (1=yes,2=no): 
+  Enter name of output file: 
+

@@ -1,0 +1,50 @@
+POST-VALIDATION SPECTRAL DIAGNOSTIC AUDIT v1
+====================================================
+
+READ-ONLY. NON-CONSTRUCTION-EVIDENCE.
+No source, threshold, or production file was changed.
+
+6MV
+---
+JS=0.029514, TV=0.147882, cosine=0.947259
+Energy-fluence centroid: candidate=2.3759 MeV, reference=2.9079 MeV, delta=-0.5320 MeV
+Max cumulative separation=0.1474 near 2.099 MeV
+Largest bin excess at 0.457 MeV: +0.00926
+Largest bin deficit at 4.291 MeV: -0.00426
+
+10MV
+----
+JS=0.020970, TV=0.098068, cosine=0.972128
+Energy-fluence centroid: candidate=3.8510 MeV, reference=4.3206 MeV, delta=-0.4696 MeV
+Max cumulative separation=0.0942 near 2.364 MeV
+Largest bin excess at 0.598 MeV: +0.00893
+Largest bin deficit at 6.638 MeV: -0.00293
+
+15MV
+----
+JS=0.085394, TV=0.249205, cosine=0.893634
+Energy-fluence centroid: candidate=5.8107 MeV, reference=5.7056 MeV, delta=+0.1050 MeV
+Max cumulative separation=0.1505 near 2.600 MeV
+Largest bin excess at 1.400 MeV: +0.01808
+Largest bin deficit at 3.200 MeV: -0.01359
+Candidate energy-fluence on reference interval decomposes to 27.98% scaled-6MV-parent + 72.02% scaled-18MV-parent.
+
+16MV
+----
+JS=0.067426, TV=0.219972, cosine=0.925344
+Energy-fluence centroid: candidate=6.0889 MeV, reference=5.6006 MeV, delta=+0.4883 MeV
+Max cumulative separation=0.1368 near 8.950 MeV
+Largest bin excess at 1.350 MeV: +0.00703
+Largest bin deficit at 6.950 MeV: -0.00547
+Candidate energy-fluence on reference interval decomposes to 18.90% scaled-6MV-parent + 81.10% scaled-18MV-parent.
+
+18MV
+----
+JS=0.020617, TV=0.133745, cosine=0.969271
+Energy-fluence centroid: candidate=6.9164 MeV, reference=6.4748 MeV, delta=+0.4416 MeV
+Max cumulative separation=0.0787 near 9.600 MeV
+Largest bin excess at 1.000 MeV: +0.00783
+Largest bin deficit at 3.200 MeV: -0.00673
+
+Interpretation rule:
+Do not tune the source family from this report. Use it only to decide what independent evidence or model refinement should be investigated in a future prospectively specified release.

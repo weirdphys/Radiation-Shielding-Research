@@ -1,0 +1,33 @@
+#ENTRY      M0261
+#AUTHOR1    A.Murakami+
+#YEAR       1968
+#INSTITUTE  (2JPNTOK)
+#TITLE      Li-6(g,t)He-3 and Li-6(g,pd)H-3 reactions.
+#AUTHOR(S)  A.Murakami
+#REF-CODE   (J,NC/B,55,(2),604,1968)
+#REFERENCE  Nuovo Cim.B 55 No.2 (1968) 604 (doi:10.1007/BF02711673)
+#DATASETS   0
+#
+#DATASET    M0261003 
+#DATE       20130613
+#REACTION   3-LI-6(G,T)2-HE-3,,SIG
+#PROJ       0
+#TARG       3006
+#MF         3
+#MT         105
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  3006   3 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   3 105    2.2500+7          6.4000-4 2.8000-4                                       A.Murakami           (68)M0261  3 
+    0  3006   3 105    2.3500+7          5.2500-3 1.1100-3                                       A.Murakami           (68)M0261  3 
+    0  3006   3 105    2.4500+7          5.9700-3 1.2400-3                                       A.Murakami           (68)M0261  3 
+    0  3006   3 105    2.5500+7          3.3000-3 8.1000-4                                       A.Murakami           (68)M0261  3 
+    0  3006   3 105    2.6500+7          1.0900-3 4.0000-4                                       A.Murakami           (68)M0261  3 
+    0  3006   3 105    2.7500+7          4.1000-4 2.3000-4                                       A.Murakami           (68)M0261  3 
+    0  3006   3 105    2.8500+7          4.1000-4 2.3000-4                                       A.Murakami           (68)M0261  3 
+    0  3006   3 105    2.9500+7          6.9000-4 3.2000-4                                       A.Murakami           (68)M0261  3 
+    0  3006   3 105    3.0500+7          1.6000-4                                                A.Murakami           (68)M0261  3 
+#/DATA      9
+#/DATASET

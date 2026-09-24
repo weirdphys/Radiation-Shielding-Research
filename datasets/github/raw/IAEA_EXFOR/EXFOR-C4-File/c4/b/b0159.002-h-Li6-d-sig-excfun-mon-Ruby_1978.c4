@@ -1,0 +1,28 @@
+#ENTRY      B0159
+#AUTHOR1    L.Ruby+
+#YEAR       1978
+#INSTITUTE  (1USABRK)
+#TITLE      Measurement of the Li-6(HE-3,D)Be-7 and
+#+          Li-7(HE-3,T)Be-7 Cross Sections.
+#AUTHOR(S)  L.Ruby, J.W.Sterbentz
+#REF-CODE   (J,ANS,30,623,1978)
+#REFERENCE  Trans.Am.Nucl.Soc. 30 (1978) 623
+#DATASETS   0
+#
+#DATASET    B0159002 
+#DATE       20011220
+#REACTION   3-LI-6(HE3,D)4-BE-7,,SIG,,,EXP
+#PROJ       2003
+#TARG       3006
+#MF         3
+#MT         104
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2003  3006   3 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3006   3 104    2000000.          0.283000 0.016000                                       L.Ruby+              (78)B0159  2 
+ 2003  3006   3 104    3000000.          0.384000 0.022000                                       L.Ruby+              (78)B0159  2 
+ 2003  3006   3 104    6000000.          0.389000 0.023000                                       L.Ruby+              (78)B0159  2 
+#/DATA      3
+#/DATASET

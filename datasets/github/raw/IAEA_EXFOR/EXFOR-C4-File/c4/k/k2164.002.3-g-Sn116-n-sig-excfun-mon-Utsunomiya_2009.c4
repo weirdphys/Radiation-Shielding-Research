@@ -1,0 +1,37 @@
+#ENTRY      K2164
+#AUTHOR1    H.Utsunomiya+
+#YEAR       2009
+#INSTITUTE  (2JPNKON)
+#TITLE      Gamma-ray strength function for 116,117Sn with the
+#+          pygmy dipole resonance balanced in the photoneutron
+#+          and neutron capture channels
+#AUTHOR(S)  H.Utsunomiya, S.Goriely, M.Kamata, T.Kondo, O.Itoh, H.Akimune, 
+#+          T.Yamagata, H.Toyokawa, Y.-W.Lui, S.Hilaire, A.J.Koning
+#REF-CODE   (J,PR/C,80,055806,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 055806 (doi:10.1103/PhysRevC.80.055806)
+#DATASETS   0
+#
+#DATASET    K21640023
+#DATE       20231113
+#REACTION   50-SN-116(G,N)50-SN-115,,SIG,,AV
+#PROJ       0
+#TARG       50116
+#MF         3
+#MT         4
+#PRODUCT    50-SN-115
+#C4BEGIN    [    0 50116   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 50116   3   4 A  9630000.          0.018670 1.2100-3                                       H.Utsunomiya+        (09)K2164  23
+    0 50116   3   4 A  9740000.          0.021540 2.7500-3                                       H.Utsunomiya+        (09)K2164  23
+    0 50116   3   4 A  9890000.          0.019190 5.1000-4                                       H.Utsunomiya+        (09)K2164  23
+    0 50116   3   4 A  1.0010+7          0.020740 1.1200-3                                       H.Utsunomiya+        (09)K2164  23
+    0 50116   3   4 A  1.0320+7          0.025010 9.9000-4                                       H.Utsunomiya+        (09)K2164  23
+    0 50116   3   4 A  1.0530+7          0.023260 1.6800-3                                       H.Utsunomiya+        (09)K2164  23
+    0 50116   3   4 A  1.0940+7          0.033270 1.7500-3                                       H.Utsunomiya+        (09)K2164  23
+    0 50116   3   4 A  1.1400+7          0.040510 2.3500-3                                       H.Utsunomiya+        (09)K2164  23
+    0 50116   3   4 A  1.1740+7          0.046610 2.4300-3                                       H.Utsunomiya+        (09)K2164  23
+    0 50116   3   4 A  1.2350+7          0.077980 3.7400-3                                       H.Utsunomiya+        (09)K2164  23
+#/DATA      10
+#/DATASET

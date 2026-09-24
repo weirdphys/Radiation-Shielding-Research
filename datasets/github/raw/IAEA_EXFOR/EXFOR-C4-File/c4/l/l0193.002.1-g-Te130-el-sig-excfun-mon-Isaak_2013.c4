@@ -1,0 +1,39 @@
+#ENTRY      L0193
+#AUTHOR1    J.Isaak+
+#YEAR       2013
+#INSTITUTE  (2GERGSI)
+#TITLE      Constraining nuclear photon strength functions by the
+#+          decay properties of photo-excited states
+#AUTHOR(S)  J.Isaak, D.Savran, M.Krticka, M.W.Ahmed, J.Beller, E.Fiori, 
+#+          J.Glorius, J.H.Kelley, B.Loeher, N.Pietralla, C.Romig, G.Rusev, 
+#+          M.Scheck, L.Schnorrenberger, J.Silva, K.Sonnabend, A.P.Tonchev, 
+#+          W.Tornow, H.R.Weller, M.Zweidinger
+#REF-CODE   (J,PL/B,727,361,2013)
+#REFERENCE  Phys.Lett.B 727 (2013) 361 (doi:10.1016/j.physletb.2013.10.040)
+#DATASETS   0
+#
+#DATASET    L01930021
+#DATE       20140404
+#REACTION   52-TE-130(G,EL)52-TE-130,,SIG
+#PROJ       0
+#TARG       52130
+#MF         3
+#MT         2
+#PRODUCT    52-TE-130
+#C4BEGIN    [    0 52130   3   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 52130   3   2 A  5500000.          9.0000-4 7.0000-5                                       J.Isaak+             (13)L0193  21
+    0 52130   3   2 A  5720000.          3.6100-3 2.4000-4                                       J.Isaak+             (13)L0193  21
+    0 52130   3   2 A  5950000.          3.6300-3 1.3000-4                                       J.Isaak+             (13)L0193  21
+    0 52130   3   2 A  6200000.          4.7500-3 1.8000-4                                       J.Isaak+             (13)L0193  21
+    0 52130   3   2 A  6450000.          7.2300-3 2.1000-4                                       J.Isaak+             (13)L0193  21
+    0 52130   3   2 A  6680000.          9.9000-3 4.5000-4                                       J.Isaak+             (13)L0193  21
+    0 52130   3   2 A  6930000.          9.9300-3 3.5000-4                                       J.Isaak+             (13)L0193  21
+    0 52130   3   2 A  7230000.          6.1700-3 2.9000-4                                       J.Isaak+             (13)L0193  21
+    0 52130   3   2 A  7550000.          5.8200-3 3.7000-4                                       J.Isaak+             (13)L0193  21
+    0 52130   3   2 A  7850000.          8.2000-3 4.4000-4                                       J.Isaak+             (13)L0193  21
+    0 52130   3   2 A  8150000.          3.1600-3 2.0000-4                                       J.Isaak+             (13)L0193  21
+#/DATA      11
+#/DATASET

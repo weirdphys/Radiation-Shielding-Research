@@ -1,0 +1,35 @@
+#ENTRY      M1012
+#AUTHOR1    Kuo Ch'i-Di+
+#YEAR       1960
+#INSTITUTE  (4RUSLEB)
+#TITLE      An investigation of the 120Sn(gamma,p) reaction.
+#AUTHOR(S)  Kuo Ch'i-Di, B.S.Ratner
+#REF-CODE   (J,ZET,39,1578,1960)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 39 (1960) 1578
+#DATASETS   0
+#
+#DATASET    M1012002 
+#DATE       20200113
+#REACTION   50-SN-120(G,P)49-IN-119-M,,SIG,,BRS
+#PROJ       0
+#TARG       50120
+#MF         3
+#MT         103
+#PRODUCT    49-IN-119-M
+#C4BEGIN    [    0 50120   3 103M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 50120   3 103M   1.6500+7          2.2200-4 1.2700-4                                       Kuo Ch'i-Di+         (60)M1012  2 
+    0 50120   3 103M   1.7500+7          4.4300-4 1.5800-4                                       Kuo Ch'i-Di+         (60)M1012  2 
+    0 50120   3 103M   1.8500+7          1.1090-3 1.7100-4                                       Kuo Ch'i-Di+         (60)M1012  2 
+    0 50120   3 103M   1.9500+7          3.8330-3 1.2800-4                                       Kuo Ch'i-Di+         (60)M1012  2 
+    0 50120   3 103M   2.0500+7          6.2710-3 1.4700-4                                       Kuo Ch'i-Di+         (60)M1012  2 
+    0 50120   3 103M   2.1500+7          5.7330-3 1.2800-4                                       Kuo Ch'i-Di+         (60)M1012  2 
+    0 50120   3 103M   2.2500+7          3.6920-3 1.2700-4                                       Kuo Ch'i-Di+         (60)M1012  2 
+    0 50120   3 103M   2.3500+7          2.3030-3 1.6000-4                                       Kuo Ch'i-Di+         (60)M1012  2 
+    0 50120   3 103M   2.4500+7          1.9000-3 1.2600-4                                       Kuo Ch'i-Di+         (60)M1012  2 
+    0 50120   3 103M   2.5500+7          1.1720-3 9.6000-5                                       Kuo Ch'i-Di+         (60)M1012  2 
+    0 50120   3 103M   2.6500+7          6.3300-4 1.0800-4                                       Kuo Ch'i-Di+         (60)M1012  2 
+#/DATA      11
+#/DATASET

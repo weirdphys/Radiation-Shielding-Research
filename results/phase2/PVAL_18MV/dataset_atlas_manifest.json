@@ -1,0 +1,27 @@
+{
+  "dataset_id": "PVAL_18MV",
+  "object_id": "PVAL_18MV.TRAJ_PDD",
+  "coordinate_native": "water_depth_cm",
+  "coordinate_analysis": "water_depth_cm",
+  "coordinate_transform": "identity",
+  "coordinate_reference": NaN,
+  "coordinate_unit": "cm",
+  "source_path": "data/processed/production_source_validation/datasets/PVAL_18MV_ONCOR_40x40_SAWKEY/canonical_pdd_40x40_clinical.csv",
+  "n_curves_loaded": 1,
+  "max_curve_points": 81,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "PDD": 1
+  },
+  "registry": {
+    "name": "Siemens Oncor 18 MV 40\u00d740 Sawkey/Faddegon PDD",
+    "particle": "photon beam validation",
+    "evidence": "EXPERIMENTAL",
+    "role": "Measured clinical flattening-filter-in 40\u00d740 water PDD diagnostic.",
+    "path": "processed_datasets/production_source_validation/PVAL_18MV_ONCOR_40x40_SAWKEY/canonical_pdd_40x40_clinical.csv",
+    "richness": "RICH_1D",
+    "guardrail": "PDD is nonqualifying for direct aggregate 1-D source-spectrum promotion."
+  },
+  "state_group_shapes": {}
+}

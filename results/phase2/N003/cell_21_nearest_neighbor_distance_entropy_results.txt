@@ -1,0 +1,46 @@
+Nearest-Neighbor Distance-Distribution Entropy in Radiation Delay-Embedding Space
+=============================================================
+
+Interpretation:
+  This is Shannon entropy of the nearest-neighbor distance distribution, not Kolmogorov-Sinai entropy.
+  It is a finite-sample geometric descriptor of spacing heterogeneity in delay-embedding space.
+  Radiation curves are ordered by log-energy rather than time.
+  Adjacent-coordinate nearest neighbors are quantified separately because they can dominate smooth ordered trajectories.
+
+Source: data/processed/RB2000164/rb2000164_physics_ready_strict.csv.gz
+Radiation object: N003.SEQ_SAMPLE / N003.TRAJ_E
+Observables: ['Sigma_R_cm_inv', 'transmission']
+Embedding dimensions: (2, 3, 4, 5, 6, 7, 8, 9, 10)
+Delay: 1
+Histogram bins: 80
+MAX_POINTS: 7000
+Common log-energy points: 5000
+Coordinate step: 0.002762109522816303
+Successful rows: 162 / 162
+
+Overall diagnostics:
+  entropy min: 0.65509604 bits
+  entropy max: 5.32521492 bits
+  entropy mean: 3.73092826 bits
+  mean adjacent-neighbor fraction: 0.02611772
+  median adjacent-neighbor fraction: 0.02242246
+
+Embedding-dimension summary:
+  Sigma_R_cm_inv d=2: entropy_mean=1.260317, entropy_std=0.174451, adjacent_fraction_mean=0.011491
+  Sigma_R_cm_inv d=3: entropy_mean=2.592580, entropy_std=0.273340, adjacent_fraction_mean=0.013783
+  Sigma_R_cm_inv d=4: entropy_mean=3.288240, entropy_std=0.246697, adjacent_fraction_mean=0.014764
+  Sigma_R_cm_inv d=5: entropy_mean=3.656284, entropy_std=0.206613, adjacent_fraction_mean=0.018570
+  Sigma_R_cm_inv d=6: entropy_mean=3.892181, entropy_std=0.212314, adjacent_fraction_mean=0.023179
+  Sigma_R_cm_inv d=7: entropy_mean=4.053308, entropy_std=0.236912, adjacent_fraction_mean=0.026654
+  Sigma_R_cm_inv d=8: entropy_mean=4.159178, entropy_std=0.224059, adjacent_fraction_mean=0.034626
+  Sigma_R_cm_inv d=9: entropy_mean=4.141498, entropy_std=0.353381, adjacent_fraction_mean=0.042067
+  Sigma_R_cm_inv d=10: entropy_mean=4.221369, entropy_std=0.317078, adjacent_fraction_mean=0.050714
+  transmission d=2: entropy_mean=1.600580, entropy_std=0.528326, adjacent_fraction_mean=0.011247
+  transmission d=3: entropy_mean=2.926912, entropy_std=0.525419, adjacent_fraction_mean=0.013761
+  transmission d=4: entropy_mean=3.683990, entropy_std=0.431277, adjacent_fraction_mean=0.014653
+  transmission d=5: entropy_mean=4.172447, entropy_std=0.368211, adjacent_fraction_mean=0.018570
+  transmission d=6: entropy_mean=4.450384, entropy_std=0.317132, adjacent_fraction_mean=0.023023
+  transmission d=7: entropy_mean=4.611755, entropy_std=0.422209, adjacent_fraction_mean=0.026476
+  transmission d=8: entropy_mean=4.716312, entropy_std=0.374656, adjacent_fraction_mean=0.034137
+  transmission d=9: entropy_mean=4.822928, entropy_std=0.352073, adjacent_fraction_mean=0.041889
+  transmission d=10: entropy_mean=4.906444, entropy_std=0.331644, adjacent_fraction_mean=0.050513

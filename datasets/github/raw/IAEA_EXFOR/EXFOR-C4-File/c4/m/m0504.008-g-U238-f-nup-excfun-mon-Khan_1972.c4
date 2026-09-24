@@ -1,0 +1,25 @@
+#ENTRY      M0504
+#AUTHOR1    A.M.Khan+
+#YEAR       1972
+#INSTITUTE  (1CANCRC)
+#TITLE      Photofission of Th-232, U-238 and U-235 near
+#+          threshold using a variable energy beam of g-rays.
+#AUTHOR(S)  A.M.Khan, J.W.Knowles
+#REF-CODE   (J,NP/A,179,333,1972)
+#REFERENCE  Nucl.Phys.A 179 (1972) 333 (doi:10.1016/0375-9474(72)90374-0)
+#DATASETS   0
+#
+#DATASET    M0504008 
+#DATE       20190603
+#REACTION   92-U-238(G,F),PR,NU
+#PROJ       0
+#TARG       92238
+#MF         1
+#MT         456
+#C4BEGIN    [    0 92238   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   1 456    8000000. 150000.0 2.760000 0.100000                                       A.M.Khan+            (72)M0504  8 
+#/DATA      1
+#/DATASET

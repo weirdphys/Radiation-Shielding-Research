@@ -1,0 +1,35 @@
+#ENTRY      S0013
+#AUTHOR1    Long Xianguan+
+#YEAR       1990
+#INSTITUTE  (3CPRSIU)
+#TITLE      Excitation functins for the 55Mn(a,n)58m,gCo,
+#+          55Mn(a,2n)57Co and 55Mn(a,a+n)54Mn reactions
+#AUTHOR(S)  Long Xianguan, He Fuqing, Peng Xiufeng, Liu Mantian
+#REF-CODE   (J,PHE,14,444,1990)
+#REFERENCE  High En.Nucl.Phy.Ch. 14 (1990) 444
+#DATASETS   0
+#
+#DATASET    S0013002 
+#DATE       20080311
+#REACTION   25-MN-55(A,N)27-CO-58-M,,SIG
+#PROJ       2004
+#TARG       25055
+#MF         3
+#MT         4
+#PRODUCT    27-CO-58-M
+#C4BEGIN    [ 2004 25055   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 25055   3   4M   2.6500+7          0.050000 4.0000-3                                       Long Xianguan+       (90)S0013  2 
+ 2004 25055   3   4M   2.5000+7          0.061000 5.0000-3                                       Long Xianguan+       (90)S0013  2 
+ 2004 25055   3   4M   2.3500+7          0.095000 8.0000-3                                       Long Xianguan+       (90)S0013  2 
+ 2004 25055   3   4M   2.2100+7          0.121000 0.010000                                       Long Xianguan+       (90)S0013  2 
+ 2004 25055   3   4M   2.0500+7          0.183000 0.015000                                       Long Xianguan+       (90)S0013  2 
+ 2004 25055   3   4M   1.8700+7          0.295000 0.024000                                       Long Xianguan+       (90)S0013  2 
+ 2004 25055   3   4M   1.7000+7          0.351000 0.029000                                       Long Xianguan+       (90)S0013  2 
+ 2004 25055   3   4M   1.4900+7          0.470000 0.038000                                       Long Xianguan+       (90)S0013  2 
+ 2004 25055   3   4M   1.2800+7          0.477000 0.038000                                       Long Xianguan+       (90)S0013  2 
+ 2004 25055   3   4M   1.0400+7          0.262000 0.021000                                       Long Xianguan+       (90)S0013  2 
+#/DATA      10
+#/DATASET

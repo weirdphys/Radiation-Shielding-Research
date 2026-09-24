@@ -1,0 +1,33 @@
+#ENTRY      M0668
+#AUTHOR1    K.Y.Hara+
+#YEAR       2003
+#INSTITUTE  (2JPNKON)
+#TITLE      Photodisintegration of deuterium and Big Bang
+#+          nucleosynthesis
+#AUTHOR(S)  K.Y.Hara, H.Utsunomiya, S.Goko, H.Akimune, T.Yamagata, M.Ohta, 
+#+          H.Toyokawa, K.Kudo, A.Uritani, Y.Shibata, Y.-W.Lui, H.Ohgaki
+#REF-CODE   (J,PR/D,68,072001,2003)
+#REFERENCE  Phys.Rev.D 68 (2003) 072001 (doi:10.1103/PhysRevD.68.072001)
+#DATASETS   0
+#
+#DATASET    M0668002 
+#DATE       20260120
+#REACTION   1-H-2(G,N)1-H-1,,SIG
+#PROJ       0
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   3   4    2330000. 18000.00 6.8300-4 5.3500-5                                       K.Y.Hara+            (03)M0668  2 
+    0  1002   3   4    2520000. 18000.00 9.8300-4 3.9000-5                                       K.Y.Hara+            (03)M0668  2 
+    0  1002   3   4    2790000. 22000.00 1.4700-3 3.0000-5                                       K.Y.Hara+            (03)M0668  2 
+    0  1002   3   4    3230000. 50000.00 2.0400-3 4.0000-5                                       K.Y.Hara+            (03)M0668  2 
+    0  1002   3   4    3690000. 42000.00 2.2900-3 4.0000-5                                       K.Y.Hara+            (03)M0668  2 
+    0  1002   3   4    4530000. 88000.00 2.4800-3 4.0000-5                                       K.Y.Hara+            (03)M0668  2 
+    0  1002   3   4    4580000. 60000.00 2.4100-3 2.0000-5                                       K.Y.Hara+            (03)M0668  2 
+#/DATA      7
+#/DATASET

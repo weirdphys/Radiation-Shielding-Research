@@ -1,0 +1,119 @@
+#ENTRY      B0132
+#AUTHOR1    J.G.Fleissner+
+#YEAR       1978
+#INSTITUTE  (1USANOT)
+#TITLE      Investigation of 54- to 99-MeV 6Li induced reactions
+#+          on rare earth targets
+#AUTHOR(S)  J.G.Fleissner, D.A.Rakel, F.P.Venezia, E.G.Funk, J.W.Mihelich, 
+#+          H.A.Smith Jr
+#REF-CODE   (J,PR/C,17,1001,1978)
+#REFERENCE  Phys.Rev.C 17 (1978) 1001 (doi:10.1103/PhysRevC.17.1001)
+#DATASETS   0
+#
+#DATASET    B0132002 
+#DATE       20011220
+#REACTION   60-ND-150(3-LI-6,X)ELEM/MASS,,SIG,,,EXP
+#PROJ       3006
+#TARG       60150
+#MF         3
+#MT         454
+#C4BEGIN    [ 3006 60150   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 60150   3 454    5.4000+7          0.050000                    62149.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    5.4000+7          0.096000                    62150.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    5.4000+7          0.096000                    62151.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    5.4000+7          0.042000                    62152.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    5.4000+7          0.059000                    63149.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    5.4000+7          0.284000                    63150.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    5.4000+7          0.106000                    63151.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    5.4000+7          0.024000                    63152.9                     J.G.Fleissner+       (78)B0132  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    B0132002 
+#DATE       20011220
+#REACTION   60-ND-150(3-LI-6,X)ELEM/MASS,,SIG,,,EXP
+#PROJ       3006
+#TARG       60150
+#MF         3
+#MT         454
+#C4BEGIN    [ 3006 60150   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 60150   3 454    6.6000+7          0.012000                    62148.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    6.6000+7          0.082000                    62149.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    6.6000+7          0.181000                    62150.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    6.6000+7          0.102000                    62151.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    6.6000+7          0.039000                    62152.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    6.6000+7          0.072000                    63148.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    6.6000+7          0.303000                    63149.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    6.6000+7          0.248000                    63150.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    6.6000+7          0.057000                    63151.9                     J.G.Fleissner+       (78)B0132  2 
+#/DATA      9
+#/DATASET
+#
+#DATASET    B0132002 
+#DATE       20011220
+#REACTION   60-ND-150(3-LI-6,X)ELEM/MASS,,SIG,,,EXP
+#PROJ       3006
+#TARG       60150
+#MF         3
+#MT         454
+#C4BEGIN    [ 3006 60150   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 60150   3 454    7.7000+7          0.073000                    62148.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    7.7000+7          0.174000                    62149.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    7.7000+7          0.178000                    62150.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    7.7000+7          0.071000                    62151.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    7.7000+7          0.023000                    62152.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    7.7000+7          0.026000                    63147.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    7.7000+7          0.303000                    63148.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    7.7000+7          0.330000                    63149.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    7.7000+7          0.128000                    63150.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    7.7000+7          0.044000                    63151.9                     J.G.Fleissner+       (78)B0132  2 
+#/DATA      10
+#/DATASET
+#
+#DATASET    B0132002 
+#DATE       20011220
+#REACTION   60-ND-150(3-LI-6,X)ELEM/MASS,,SIG,,,EXP
+#PROJ       3006
+#TARG       60150
+#MF         3
+#MT         454
+#C4BEGIN    [ 3006 60150   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 60150   3 454    9.1000+7          0.140000                    62148.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    9.1000+7          0.157000                    62149.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    9.1000+7          0.080000                    62150.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    9.1000+7          0.013000                    62151.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    9.1000+7          3.0000-3                    62152.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    9.1000+7          0.185000                    63147.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    9.1000+7          0.272000                    63148.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    9.1000+7          0.110000                    63149.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    9.1000+7          0.061000                    63150.9                     J.G.Fleissner+       (78)B0132  2 
+ 3006 60150   3 454    9.1000+7          0.029000                    63151.9                     J.G.Fleissner+       (78)B0132  2 
+#/DATA      10
+#/DATASET
+#
+#DATASET    B0132002 
+#DATE       20011220
+#REACTION   60-ND-150(3-LI-6,X)ELEM/MASS,,SIG,,,EXP
+#PROJ       3006
+#TARG       60150
+#MF         3
+#MT         454
+#C4BEGIN    [ 3006 60150   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 60150   3 454    9.9000+7          0.099000                    62147.9                     J.G.Fleissner+       (78)B0132  2 
+#/DATA      1
+#/DATASET

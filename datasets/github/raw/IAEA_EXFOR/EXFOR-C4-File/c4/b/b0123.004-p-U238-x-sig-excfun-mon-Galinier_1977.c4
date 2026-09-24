@@ -1,0 +1,37 @@
+#ENTRY      B0123
+#AUTHOR1    J.-L.Galinier+
+#YEAR       1977
+#INSTITUTE  (1CANMCG)
+#TITLE      Nuclear Charge Dispersion Studies in the Light-Mass
+#+          Region Formed in the Fission of U-238 by Protons of
+#+          Energy 35 - 85 MeV
+#AUTHOR(S)  J.-L.Galinier, M.Diksic, L.Yaffe
+#REF-CODE   (J,CJC,55,3609,1977)
+#REFERENCE  Can.J.Chem. 55 (1977) 3609 (doi:10.1139/v77-507)
+#DATASETS   0
+#
+#DATASET    B0123004 
+#DATE       20011220
+#REACTION   92-U-238(P,F)33-AS-78,IND,SIG,,,EXP
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         454
+#PRODUCT    33-AS-78
+#C4BEGIN    [ 1001 92238   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3 454 D  3.5000+7 2000000. 4.9000-4 1.4000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+ 1001 92238   3 454 D  4.0000+7 2000000. 5.7000-4 1.8000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+ 1001 92238   3 454 D  4.5000+7 2000000. 4.2000-4 1.0000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+ 1001 92238   3 454 D  5.0000+7 2000000. 4.5000-4 1.0000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+ 1001 92238   3 454 D  5.5000+7 2000000. 5.3000-4 1.1000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+ 1001 92238   3 454 D  6.0000+7 2000000. 6.2000-4 1.2000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+ 1001 92238   3 454 D  6.5000+7 2000000. 9.2000-4 1.5000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+ 1001 92238   3 454 D  7.0000+7 2000000. 7.6000-4 1.4000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+ 1001 92238   3 454 D  7.5000+7 2000000. 1.0000-3 2.0000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+ 1001 92238   3 454 D  8.0000+7 2000000. 1.4000-3 2.0000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+ 1001 92238   3 454 D  8.5000+7 2000000. 1.7000-3 3.0000-4           33078.9                     J.-L.Galinier+       (77)B0123  4 
+#/DATA      11
+#/DATASET

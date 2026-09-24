@@ -1,0 +1,24 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "source_model_id": "PROJECT_16MV_40x40",
+  "evidence_id": "ASPRADAKIS_1996_ABB_CH20_16MV",
+  "production_source_sampling_semantic_sha256": "77837433134b1a3a6e8b10430b0990ef1762fdd56ad4c5d61c05790121002e6e",
+  "evaluation_status": "COMPUTED_CORROBORATIVE_REFERENCE_NOT_STRICT_GATE_ELIGIBLE",
+  "strict_shape_gate_eligible": false,
+  "shape_thresholds_passed": true,
+  "two_sided_support_passed": true,
+  "js_divergence_bits": 0.029265111646986926,
+  "total_variation": 0.137862359733763,
+  "cosine_similarity": 0.9622273190476187,
+  "production_energy_fluence_centroid_MeV": 5.600499249078521,
+  "reference_energy_fluence_centroid_MeV": 5.600648536733013,
+  "energy_fluence_centroid_difference_MeV": -0.0001492876544926247,
+  "frozen_thresholds": {
+    "js_max": 0.08,
+    "total_variation_max": 0.25,
+    "cosine_min": 0.95,
+    "production_coverage_min": 0.95,
+    "reference_coverage_min": 0.95
+  },
+  "purpose": "regression baseline only; future source reconstruction must surface any material degradation rather than silently replacing this result"
+}

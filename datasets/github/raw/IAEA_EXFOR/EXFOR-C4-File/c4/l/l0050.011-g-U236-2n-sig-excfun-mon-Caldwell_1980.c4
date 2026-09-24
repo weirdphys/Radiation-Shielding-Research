@@ -1,0 +1,44 @@
+#ENTRY      L0050
+#AUTHOR1    J.T.Caldwell+
+#YEAR       1980
+#INSTITUTE  (1USALRL)
+#TITLE      Giant resonance for the actinide nuclei: photoneutron
+#+          and photofission cross sections for 235U, 236U, 238U,
+#+          and 232Th.
+#AUTHOR(S)  J.T.Caldwell, E.J.Dowdy, B.L.Berman, R.A.Alvarez, P.Meyer
+#REF-CODE   (J,PR/C,21,1215,198004)
+#REFERENCE  Phys.Rev.C 21 (1980) 1215 (doi:10.1103/PhysRevC.21.1215)
+#DATASETS   0
+#
+#DATASET    L0050011 
+#DATE       19970129
+#REACTION   92-U-236(G,2N)92-U-234,,SIG
+#PROJ       0
+#TARG       92236
+#MF         3
+#MT         16
+#PRODUCT    92-U-234
+#C4BEGIN    [    0 92236   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92236   3  16    1.0905+7          7.0000-4                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.1273+7          3.1000-3                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.1518+7          1.6000-3                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.1763+7          1.2000-3                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.2008+7          9.0000-4                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.2376+7          0.025600                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.2866+7          0.054700                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.3357+7          0.102900                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.3847+7          0.122500                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.4338+7          0.104700                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.4828+7          0.125600                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.5318+7          0.107100                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.5809+7          0.068100                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.6299+7          0.067800                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.6790+7          0.048000                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.7280+7          0.033400                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.7770+7          0.036700                                                J.T.Caldwell+        (80)L0050 11 
+    0 92236   3  16    1.8261+7          0.045600                                                J.T.Caldwell+        (80)L0050 11 
+#/DATA      18
+#/DATASET

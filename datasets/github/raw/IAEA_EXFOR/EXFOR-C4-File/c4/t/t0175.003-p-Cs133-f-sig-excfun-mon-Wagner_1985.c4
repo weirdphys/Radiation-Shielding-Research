@@ -1,0 +1,25 @@
+#ENTRY      T0175
+#AUTHOR1    B.J.Wagner+
+#YEAR       1985
+#INSTITUTE  (1USAINU)
+#TITLE      Radiochemical measurements of 200-MeV proton-induced
+#+          fission of 133Cs
+#AUTHOR(S)  B.J.Wagner, T.E.Ward, V.E.Viola Jr
+#REF-CODE   (J,PR/C,31,1934,198505)
+#REFERENCE  Phys.Rev.C 31 (1985) 1934 (doi:10.1103/PhysRevC.31.1934)
+#DATASETS   0
+#
+#DATASET    T0175003 
+#DATE       20020724
+#REACTION   55-CS-133(P,F),,SIG
+#PROJ       1001
+#TARG       55133
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 55133   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 55133   3  18 D  2.0000+8          4.7000-6 1.6000-6                                       B.J.Wagner+          (85)T0175  3 
+#/DATA      1
+#/DATASET

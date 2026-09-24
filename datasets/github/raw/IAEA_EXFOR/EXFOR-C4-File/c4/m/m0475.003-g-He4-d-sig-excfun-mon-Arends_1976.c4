@@ -1,0 +1,32 @@
+#ENTRY      M0475
+#AUTHOR1    J.Arends+
+#YEAR       1976
+#INSTITUTE  (2GERBON)
+#TITLE      Experimental investigation    of    the    He-4(g,d)d
+#+          reaction.
+#AUTHOR(S)  J.Arends, J.Eyink, T.Hegerath, H.Hartmann, B.Mecking, G.Noldeke, 
+#+          H.Rost
+#REF-CODE   (J,PL/B,62,411,1976)
+#REFERENCE  Phys.Lett.B 62 (1976) 411 (doi:10.1016/0370-2693(76)90671-7)
+#DATASETS   0
+#
+#DATASET    M0475003 
+#DATE       20160426
+#REACTION   2-HE-4(G,D)1-H-2,,SIG
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         104
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2004   3 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3 104    2.0100+8          2.4100-9 3.200-10                                       J.Arends+            (76)M0475  3 
+    0  2004   3 104    2.2500+8          1.2900-9 2.300-10                                       J.Arends+            (76)M0475  3 
+    0  2004   3 104    2.5300+8          9.200-10 2.000-10                                       J.Arends+            (76)M0475  3 
+    0  2004   3 104    2.8500+8          1.0400-9 2.000-10                                       J.Arends+            (76)M0475  3 
+    0  2004   3 104    3.2000+8          6.100-10 1.600-10                                       J.Arends+            (76)M0475  3 
+    0  2004   3 104    3.5900+8          5.500-10 1.500-10                                       J.Arends+            (76)M0475  3 
+#/DATA      6
+#/DATASET

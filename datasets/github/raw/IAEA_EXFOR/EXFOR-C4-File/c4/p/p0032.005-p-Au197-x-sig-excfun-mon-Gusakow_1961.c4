@@ -1,0 +1,33 @@
+#ENTRY      P0032
+#AUTHOR1    M.Gusakow+
+#YEAR       1961
+#INSTITUTE  (2FR PAR)
+#TITLE      p,pn reactions at intermediate energy
+#+          (Reactions (p,pn) a moyenne energie)
+#AUTHOR(S)  M.Gusakow, G.Albouy, N.Poffe, C.Riehl
+#REF-CODE   (J,JPR,22,636,1961)
+#REFERENCE  J.Phys.(Paris) 22 (1961) 636 (doi:10.1051/jphysrad:019610022010063600)
+#DATASETS   0
+#
+#DATASET    P0032005 
+#DATE       20230918
+#REACTION   79-AU-197(P,X)79-AU-196,,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         454
+#PRODUCT    79-AU-196
+#C4BEGIN    [ 1001 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3 454    4.0200+7 2020000. 0.060600 0.011300           79196.9                     M.Gusakow+           (61)P0032  5 
+ 1001 79197   3 454    6.0100+7 2020000. 0.115000 0.013900           79196.9                     M.Gusakow+           (61)P0032  5 
+ 1001 79197   3 454    7.0300+7 2470000. 0.160000 0.018000           79196.9                     M.Gusakow+           (61)P0032  5 
+ 1001 79197   3 454    8.5300+7 1880000. 0.190000 0.022900           79196.9                     M.Gusakow+           (61)P0032  5 
+ 1001 79197   3 454    9.7300+7 2170000. 0.128000 0.016300           79196.9                     M.Gusakow+           (61)P0032  5 
+ 1001 79197   3 454    1.2400+8 2630000. 0.080100 0.010600           79196.9                     M.Gusakow+           (61)P0032  5 
+ 1001 79197   3 454    1.3600+8 2250000. 0.068400 0.010200           79196.9                     M.Gusakow+           (61)P0032  5 
+ 1001 79197   3 454    1.5500+8 1800000. 0.077100 0.010500           79196.9                     M.Gusakow+           (61)P0032  5 
+#/DATA      8
+#/DATASET

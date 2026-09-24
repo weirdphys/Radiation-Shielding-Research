@@ -1,0 +1,37 @@
+#ENTRY      T0010
+#AUTHOR1    J.H.Gibbons+
+#YEAR       1959
+#INSTITUTE  (1USAORL)
+#TITLE      Total neutron yields from light elements under proton
+#+          and alpha bombardment
+#AUTHOR(S)  J.H.Gibbons, R.L.Macklin
+#REF-CODE   (J,PR,114,571,1959)
+#REFERENCE  Phys.Rev. 114 (1959) 571 (doi:10.1103/PhysRev.114.571)
+#DATASETS   0
+#
+#DATASET    T0010012 
+#DATE       19991011
+#REACTION   1-H-2(P,N+P)1-H-1,,SIG
+#PROJ       1001
+#TARG       1002
+#MF         3
+#MT         28
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1002   3  28  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   3  28    3499000. 10000.00 6.8000-5 3.0000-5                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    3554000. 10000.00 2.2400-4 6.0000-5                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    3554000. 10000.00 2.6500-4 7.5000-5                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    3616000. 10000.00 5.0000-4 8.0000-5                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    3683000. 10000.00 8.6200-4 6.7000-5                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    3749000. 10000.00 1.3300-3 1.0300-4                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    3811000. 10000.00 2.0000-3 1.5500-4                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    3883000. 10000.00 2.7160-3 2.1000-4                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    4349000. 10000.00 9.7550-3 6.2500-4                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    4716000. 10000.00 0.017230 1.1000-3                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    4916000. 10000.00 0.021550 1.3800-3                                       J.H.Gibbons+         (59)T0010 12 
+ 1001  1002   3  28    5516000. 10000.00 0.033550 2.1500-3                                       J.H.Gibbons+         (59)T0010 12 
+#/DATA      12
+#/DATASET

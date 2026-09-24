@@ -1,0 +1,37 @@
+#ENTRY      L0025
+#AUTHOR1    P.Carlos+
+#YEAR       1971
+#INSTITUTE  (2FR SAC)
+#TITLE      The giant dipole resonance in the transition region
+#+          for the neodymium isotopes.
+#AUTHOR(S)  P.Carlos, H.Beil, R.Bergere, A.Leptretre, A.Veyssiere
+#REF-CODE   (J,NP/A,172,437,1971)
+#REFERENCE  Nucl.Phys.A 172 (1971) 437 (doi:10.1016/0375-9474(71)90725-1)
+#DATASETS   0
+#
+#DATASET    L0025004 
+#DATE       19970129
+#REACTION   60-ND-142(G,2N)60-ND-140,,SIG
+#PROJ       0
+#TARG       60142
+#MF         3
+#MT         16
+#PRODUCT    60-ND-140
+#C4BEGIN    [    0 60142   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 60142   3  16    1.7214+7          3.4100-3 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    1.7486+7          4.5500-3 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    1.7758+7          3.9800-3 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    1.8031+7          9.6600-3 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    1.8303+7          0.013080 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    1.8576+7          0.015920 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    1.8848+7          0.018190 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    1.9120+7          0.021600 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    1.9393+7          0.021600 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    1.9665+7          0.026150 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    1.9938+7          0.030700 5.0000-3                                       P.Carlos+            (71)L0025  4 
+    0 60142   3  16    2.0210+7          0.023880 5.0000-3                                       P.Carlos+            (71)L0025  4 
+#/DATA      12
+#/DATASET

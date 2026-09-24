@@ -1,0 +1,32 @@
+{
+  "dataset_id": "N004",
+  "object_id": "N004.TRAJ_E",
+  "coordinate_native": "neutron_energy_eV",
+  "coordinate_analysis": "log(neutron_energy_eV/E_ref)",
+  "coordinate_transform": "ln(x / dataset_min_positive_energy)",
+  "coordinate_reference": 0.0010002928904489,
+  "coordinate_unit": "dimensionless_log_energy",
+  "source_path": "data/processed/RB2000209/rb2000209_standard_monitor_proxy_physics_ready_1meV_1keV.csv.gz",
+  "n_curves_loaded": 6,
+  "max_curve_points": 9122,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "transmission_proxy_samples": 6
+  },
+  "registry": {
+    "name": "ISIS RB2000209 standard-monitor concrete transmission",
+    "particle": "neutron",
+    "evidence": "EXPERIMENTAL_DERIVED_MONITOR_PROXY",
+    "role": "54,445-row standard-monitor transmission proxy over 1 meV\u20131 keV.",
+    "path": "processed_datasets/RB2000209/rb2000209_standard_monitor_proxy_physics_ready_1meV_1keV.parquet",
+    "richness": "VERY_RICH_FIELD",
+    "guardrail": "No grounded sample path length: do not calculate or infer Sigma(E); do not call proxy GEM-derived."
+  },
+  "state_group_shapes": {
+    "transmission_proxy_samples": {
+      "n_coordinate_points": 3500,
+      "state_dimension": 6
+    }
+  }
+}

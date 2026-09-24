@@ -1,0 +1,29 @@
+#ENTRY      T0036
+#AUTHOR1    J.F.Harmon+
+#YEAR       1989
+#INSTITUTE  (1USAISU)
+#TITLE      Cross sections and astrophisical S factor for the
+#+          7Li(p,a) reaction at low energies
+#AUTHOR(S)  J.F.Harmon
+#REF-CODE   (J,NIM/B,40-41,507,1989)
+#REFERENCE  Nucl.Instrum.Meth.B 40-41 (1989) 507 (doi:10.1016/0168-583X(89)91033-1)
+#DATASETS   0
+#
+#DATASET    T0036003 
+#DATE       20241025
+#REACTION   3-LI-7(P,X)2-HE-4,,SIG
+#PROJ       1001
+#TARG       3007
+#MF         3
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  3007   3 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   3 207    100000.0 3000.000 1.0600-4 3.9600-6                                       J.F.Harmon           (89)T0036  3 
+ 1001  3007   3 207    150000.0 3000.000 4.8400-4 9.9800-5                                       J.F.Harmon           (89)T0036  3 
+ 1001  3007   3 207    200000.0 3000.000 9.9500-4 1.6200-4                                       J.F.Harmon           (89)T0036  3 
+ 1001  3007   3 207    250000.0 3000.000 1.8700-3 2.7900-4                                       J.F.Harmon           (89)T0036  3 
+#/DATA      4
+#/DATASET

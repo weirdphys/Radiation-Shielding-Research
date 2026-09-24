@@ -1,0 +1,37 @@
+#ENTRY      L0057
+#AUTHOR1    B.L.Berman+
+#YEAR       1987
+#INSTITUTE  (1USALRL)
+#TITLE      Absolute photoneutron cross sections for Zr, I, Pr,
+#+          Au, and Pb.
+#AUTHOR(S)  B.L.Berman, R.E.Pywell, S.S.Dietrich, M.N.Thompson, K.G.Mc.upper()eil, 
+#+          J.W.Jury
+#REF-CODE   (J,PR/C,36,1286,8705)
+#REFERENCE  Phys.Rev.C 36 (1987) 1286 (doi:10.1103/PhysRevC.36.1286)
+#DATASETS   0
+#
+#DATASET    L0057007 
+#DATE       19970129
+#REACTION   53-I-127(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       53127
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 53127   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 53127   3 201    1.2069+7          0.082710                                                B.L.Berman+          (87)L0057  7 
+    0 53127   3 201    1.2548+7          0.102700                                                B.L.Berman+          (87)L0057  7 
+    0 53127   3 201    1.3026+7          0.127750                                                B.L.Berman+          (87)L0057  7 
+    0 53127   3 201    1.3504+7          0.163640                                                B.L.Berman+          (87)L0057  7 
+    0 53127   3 201    1.3982+7          0.203260                                                B.L.Berman+          (87)L0057  7 
+    0 53127   3 201    1.4460+7          0.235020                                                B.L.Berman+          (87)L0057  7 
+    0 53127   3 201    1.4938+7          0.252260                                                B.L.Berman+          (87)L0057  7 
+    0 53127   3 201    1.5416+7          0.244730                                                B.L.Berman+          (87)L0057  7 
+    0 53127   3 201    1.5895+7          0.231060                                                B.L.Berman+          (87)L0057  7 
+    0 53127   3 201    1.6373+7          0.220260                                                B.L.Berman+          (87)L0057  7 
+    0 53127   3 201    1.6851+7          0.211920                                                B.L.Berman+          (87)L0057  7 
+#/DATA      11
+#/DATASET

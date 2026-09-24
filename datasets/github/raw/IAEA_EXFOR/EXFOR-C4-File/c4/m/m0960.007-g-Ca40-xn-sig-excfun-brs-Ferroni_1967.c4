@@ -1,0 +1,34 @@
+#ENTRY      M0960
+#AUTHOR1    S.Ferroni+
+#YEAR       1967
+#INSTITUTE  (2FR ENS)
+#TITLE      High-energy photodisintegration in carbon, oxygen and
+#+          calcium.
+#AUTHOR(S)  S.Ferroni, V.Gracco, D.B.Isabelle, R.Malvano, M.Sanzone
+#REF-CODE   (J,NP/A,98,409,1967)
+#REFERENCE  Nucl.Phys.A 98 (1967) 409 (doi:10.1016/0375-9474(67)90148-0)
+#DATASETS   0
+#
+#DATASET    M0960007 
+#DATE       20171208
+#REACTION   20-CA-40(G,X)0-NN-1,,SIG,,BRS
+#PROJ       0
+#TARG       20040
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 20040   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 20040   3 201    1.0000+8          6.5620-3 1.3124-4                                       S.Ferroni+           (67)M0960  7 
+    0 20040   3 201    1.0500+8          5.9620-3 1.1924-4                                       S.Ferroni+           (67)M0960  7 
+    0 20040   3 201    1.1000+8          5.2370-3 1.0474-4                                       S.Ferroni+           (67)M0960  7 
+    0 20040   3 201    1.1500+8          4.4480-3 8.8960-5                                       S.Ferroni+           (67)M0960  7 
+    0 20040   3 201    1.2000+8          3.5330-3 7.0660-5                                       S.Ferroni+           (67)M0960  7 
+    0 20040   3 201    1.2500+8          2.5550-3 5.1100-5                                       S.Ferroni+           (67)M0960  7 
+    0 20040   3 201    1.3000+8          1.4970-3 2.9940-5                                       S.Ferroni+           (67)M0960  7 
+    0 20040   3 201    1.3500+8          3.5000-4 7.0000-6                                       S.Ferroni+           (67)M0960  7 
+    0 20040   3 201    1.3700+8          6.3000-5 1.2600-6                                       S.Ferroni+           (67)M0960  7 
+#/DATA      9
+#/DATASET

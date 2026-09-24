@@ -1,0 +1,41 @@
+{
+  "dataset": "ISIS RB2000164",
+  "processing_stage": "physics_ready_finalized",
+  "experimental_samples": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V"
+  ],
+  "missing_sample": "F",
+  "published_energy_range_eV": [
+    0.001,
+    1000.0
+  ],
+  "raw_transmission_rows": 87561,
+  "published_range_rows": 82872,
+  "strict_physics_ready_rows": 82864,
+  "excluded_rows": 8,
+  "all_samples_same_energy_grid": true,
+  "energy_points_per_sample": 9208,
+  "primary_long_table": "rb2000164_physics_ready_strict.parquet",
+  "primary_transmission_matrix": "rb2000164_matrix_transmission_strict.parquet",
+  "primary_sigmaR_matrix": "rb2000164_matrix_sigmaR_strict.parquet",
+  "optional_complete_matrices": {
+    "transmission": "rb2000164_matrix_transmission_complete.parquet",
+    "sigmaR": "rb2000164_matrix_sigmaR_complete.parquet"
+  },
+  "imputation_policy": "Only internal NaN values in matrix-only products are interpolated in log10(E). Original experimental-derived data are never overwritten. Separate imputation masks identify every interpolated value.",
+  "qc_policy": "Primary physics-ready data require finite values, 1 meV <= E <= 1 keV, 0 < T <= 1, and Sigma_R >= 0. Excluded measurements remain preserved in the flagged source table and QC quarantine table.",
+  "recommended_use": {
+    "direct_physics_validation": "rb2000164_physics_ready_strict.parquet",
+    "entropy_fractal_spectral": "strict matrices where NaN is supported; otherwise complete matrices together with imputation masks",
+    "topology_manifold_geometry": "aligned matrix forms",
+    "uncertainty_analysis": "uncertainty matrices"
+  }
+}

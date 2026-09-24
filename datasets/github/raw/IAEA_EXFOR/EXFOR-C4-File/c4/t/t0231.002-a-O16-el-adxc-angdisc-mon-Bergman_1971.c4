@@ -1,0 +1,26 @@
+#ENTRY      T0231
+#AUTHOR1    C.Bergman+
+#YEAR       1971
+#INSTITUTE  (1USAMIN)
+#TITLE      Scattering of 19-30 MeV alpha particles from 16O
+#AUTHOR(S)  C.Bergman, R.K.Hobbie
+#REF-CODE   (J,PR/C,3,1729,1971)
+#REFERENCE  Phys.Rev.C 3 (1971) 1729 (doi:10.1103/PhysRevC.3.1729)
+#DATASETS   0
+#
+#DATASET    T0231002 
+#DATE       20030806
+#REACTION   8-O-16(A,EL)8-O-16,,DA
+#PROJ       2004
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2004  8016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8016   4   2  C 2.3120+7 50000.00 0.047500 1.4250-3-0.860742                              C.Bergman+           (71)T0231  2 
+ 2004  8016   4   2  C 2.3120+7 50000.00 0.051300 1.5390-3-0.893371                              C.Bergman+           (71)T0231  2 
+#/DATA      2
+#/DATASET

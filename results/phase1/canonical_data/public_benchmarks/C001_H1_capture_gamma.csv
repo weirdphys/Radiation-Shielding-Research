@@ -1,0 +1,2 @@
+benchmark_id,target,incident_neutron_regime,gamma_energy_keV,partial_gamma_production_cross_section_b,cross_section_uncertainty_b,source_reference,source_url
+C001_IAEA_H1_CAPTURE_GAMMA,1H,thermal,2223.25,0.3326,0.0007,IAEA INDC(NDS)-443 / PGAA evaluated prompt-gamma data,https://www-nds.iaea.org/pgaa/Annex1/INDC_NDS_443.pdf

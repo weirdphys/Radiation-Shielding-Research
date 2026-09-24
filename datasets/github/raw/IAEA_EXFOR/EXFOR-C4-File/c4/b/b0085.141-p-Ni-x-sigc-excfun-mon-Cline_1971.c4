@@ -1,0 +1,27 @@
+#ENTRY      B0085
+#AUTHOR1    J.E.Cline+
+#YEAR       1971
+#INSTITUTE  (1USAMTR)
+#TITLE      Measurements of spallation cross sections for 590 MeV
+#+          protons on thin targets of copper, nickel, iron and
+#+          aluminum
+#AUTHOR(S)  J.E.Cline, E.B.Nieschmidt
+#REF-CODE   (J,NP/A,169,437,1971)
+#REFERENCE  Nucl.Phys.A 169 (1971) 437 (doi:10.1016/0375-9474(71)90897-9)
+#DATASETS   0
+#
+#DATASET    B0085141 
+#DATE       20240425
+#REACTION   28-NI-0(P,X)24-CR-51,CUM,SIG
+#PROJ       1001
+#TARG       28000
+#MF         3
+#MT         459
+#PRODUCT    24-CR-51
+#C4BEGIN    [ 1001 28000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   3 459    5.9000+8          0.051800 6.0000-3           24051.9                     J.E.Cline+           (71)B0085141 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,92 @@
+#ENTRY      T0166
+#AUTHOR1    L.W.Swenson+
+#YEAR       1989
+#INSTITUTE  (1USAORU)
+#TITLE      Different continuum approaches to giant resonances in
+#+          208Pb with 400-MeV protons
+#AUTHOR(S)  L.W.Swenson, Y.Y.Chen, J.Lisantii, D.K.McDaniels, F.E.Bertrand, 
+#+          D.J.Horen, E.E.Gross, C.Glover, R.O.Sayer, B.L.Burks, O.Hausser, 
+#+          K.Hicks, M.J.Iqbal
+#REF-CODE   (J,PR/C,40,246,1989)
+#REFERENCE  Phys.Rev.C 40 (1989) 246 (doi:10.1103/PhysRevC.40.246)
+#DATASETS   0
+#
+#DATASET    T0166002 
+#DATE       20241025
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601    4.0000+8 115000.0 0.024000 6.9600-3 0.994282          1.0600+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 0.012000 3.0000-3 0.989950          1.0600+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 4.9000-3 1.4700-3 0.984534          1.0600+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 4.8000-3 1.3920-3 0.977820          1.0600+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 1.8000-3 5.0400-4 0.969403          1.0600+7         LVLL.W.Swenson+         (89)T0166  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    T0166002 
+#DATE       20241025
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601    4.0000+8 115000.0 2.8000-3 8.1200-4 0.994631          1.2000+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 4.4000-3 1.1880-3 0.990244          1.2000+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 5.7000-3 1.5960-3 0.984747          1.2000+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 2.9000-3 8.1200-4 0.978437          1.2000+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 2.9000-3 8.1200-4 0.970591          1.2000+7         LVLL.W.Swenson+         (89)T0166  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    T0166002 
+#DATE       20241025
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601    4.0000+8 115000.0 8.0000-4 4.0000-4 0.994667          1.8000+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 2.7000-3 7.0200-4 0.990171          1.8000+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 4.1000-3 1.1070-3 0.984808          1.8000+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 3.0000-3 8.1000-4 0.978148          1.8000+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 1.7000-3 4.0800-4 0.970464          1.8000+7         LVLL.W.Swenson+         (89)T0166  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    T0166002 
+#DATE       20241025
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601    4.0000+8 115000.0 3.5000-3 1.0150-3 0.994667          2.0900+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 4.0000-3 1.2000-3 0.990317          2.0900+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 7.7000-4 2.3100-4 0.984838          2.0900+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 2.0000-3 6.0000-4 0.977893          2.0900+7         LVLL.W.Swenson+         (89)T0166  2 
+ 1001 82208   4 601    4.0000+8 115000.0 2.0000-3 6.0000-4 0.970675          2.0900+7         LVLL.W.Swenson+         (89)T0166  2 
+#/DATA      5
+#/DATASET

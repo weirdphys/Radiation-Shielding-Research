@@ -1,0 +1,29 @@
+#ENTRY      L0238
+#AUTHOR1    S.A.Yates+
+#YEAR       2018
+#INSTITUTE  (1USATNL)
+#TITLE      Measurement of the 80Se(gamma,n) reaction with
+#+          linearly polarized gamma rays
+#AUTHOR(S)  S.A.Yates, B.Fallin, C.R.Howell, Krishichayan, W.Tornow, 
+#+          S.M.Grimes
+#REF-CODE   (J,PR/C,98,054621,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 054621 (doi:10.1103/PhysRevC.98.054621)
+#DATASETS   0
+#
+#DATASET    L0238002 
+#DATE       20181209
+#REACTION   34-SE-80(G,N)34-SE-79,,SIG
+#PROJ       0
+#TARG       34080
+#MF         3
+#MT         4
+#PRODUCT    34-SE-79
+#C4BEGIN    [    0 34080   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 34080   3   4    1.5600+7 468000.0 0.108700 0.015000                                       S.A.Yates+           (18)L0238  2 
+    0 34080   3   4    1.5800+7 474000.0 0.112900 0.016100                                       S.A.Yates+           (18)L0238  2 
+    0 34080   3   4    1.6000+7 480000.0 0.113100 0.015100                                       S.A.Yates+           (18)L0238  2 
+#/DATA      3
+#/DATASET

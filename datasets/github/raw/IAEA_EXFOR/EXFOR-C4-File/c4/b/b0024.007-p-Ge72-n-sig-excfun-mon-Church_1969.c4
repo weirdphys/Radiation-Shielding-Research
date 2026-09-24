@@ -1,0 +1,28 @@
+#ENTRY      B0024
+#AUTHOR1    L.B.Church+
+#YEAR       1969
+#INSTITUTE  (1USACAR)
+#TITLE      Study of (P,XN) Reactions at 400 MeV
+#AUTHOR(S)  L.B.Church, A.A.Caretto Jr
+#REF-CODE   (J,PR,178,1732,1969)
+#REFERENCE  Phys.Rev. 178 (1969) 1732 (doi:10.1103/PhysRev.178.1732)
+#DATASETS   0
+#
+#DATASET    B0024007 
+#DATE       20011220
+#REACTION   32-GE-72(P,N)33-AS-72,,SIG,,,EXP
+#PROJ       1001
+#TARG       32072
+#MF         3
+#MT         4
+#PRODUCT    33-AS-72
+#C4BEGIN    [ 1001 32072   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32072   3   4    1.0000+8          0.010290 2.0200-3                                       L.B.Church+          (69)B0024  7 
+ 1001 32072   3   4    2.0000+8          5.0300-3 8.9000-4                                       L.B.Church+          (69)B0024  7 
+ 1001 32072   3   4    3.0000+8          3.1200-3 5.4000-4                                       L.B.Church+          (69)B0024  7 
+ 1001 32072   3   4    4.0000+8          2.4600-3 4.5000-4                                       L.B.Church+          (69)B0024  7 
+#/DATA      4
+#/DATASET

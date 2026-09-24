@@ -1,0 +1,35 @@
+#ENTRY      M0736
+#AUTHOR1    K.Vogt+
+#YEAR       2002
+#INSTITUTE  (2GERTHD)
+#TITLE      Measurement of the (g,n) cross section of the nucleus
+#+          197Au close above the reaction threshold.
+#AUTHOR(S)  K.Vogt, P.Mohr, M.Babilon, W.Bayer, D.Galaviz, T.Hartmann, 
+#+          C.Hutter, T.Rauscher, K.Sonnabend, S.Volz, A.Zilges
+#REF-CODE   (J,NP/A,707,241,2002)
+#REFERENCE  Nucl.Phys.A 707 (2002) 241 (doi:10.1016/S0375-9474(02)00922-3)
+#DATASETS   0
+#
+#DATASET    M0736002 
+#DATE       20170531
+#REACTION   79-AU-197(G,N)79-AU-196,,SIG,,BRS
+#PROJ       0
+#TARG       79197
+#MF         3
+#MT         4
+#PRODUCT    79-AU-196
+#C4BEGIN    [    0 79197   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 79197   3   4    8080000.          3.5950-3                                                K.Vogt+              (02)M0736  2 
+    0 79197   3   4    8250000.          0.018343                                                K.Vogt+              (02)M0736  2 
+    0 79197   3   4    8500000.          0.029537                                                K.Vogt+              (02)M0736  2 
+    0 79197   3   4    8750000.          0.037935                                                K.Vogt+              (02)M0736  2 
+    0 79197   3   4    9000000.          0.045003                                                K.Vogt+              (02)M0736  2 
+    0 79197   3   4    9250000.          0.051244                                                K.Vogt+              (02)M0736  2 
+    0 79197   3   4    9500000.          0.056907                                                K.Vogt+              (02)M0736  2 
+    0 79197   3   4    9750000.          0.062133                                                K.Vogt+              (02)M0736  2 
+    0 79197   3   4    9900000.          0.065100                                                K.Vogt+              (02)M0736  2 
+#/DATA      9
+#/DATASET

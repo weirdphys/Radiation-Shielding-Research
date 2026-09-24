@@ -1,0 +1,34 @@
+#ENTRY      T0276
+#AUTHOR1    N.C.Schoen+
+#YEAR       1979
+#INSTITUTE  (1USATRW)
+#TITLE      Excitation functions for radioactive isotopes produced
+#+          by proton bombardment of Fe, Co, and W in the energy
+#+          range from 10 to 60 MeV
+#AUTHOR(S)  N.C.Schoen, G.Orlov, R.J.McDonald
+#REF-CODE   (J,PR/C,20,88,1979)
+#REFERENCE  Phys.Rev.C 20 (1979) 88 (doi:10.1103/PhysRevC.20.88)
+#DATASETS   0
+#
+#DATASET    T0276011 
+#DATE       20120326
+#REACTION   27-CO-59(P,X)25-MN-54,,SIG
+#PROJ       1001
+#TARG       27059
+#MF         3
+#MT         454
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 1001 27059   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 27059   3 454    6.3000+7 600000.0 0.027200 1.8000-3           25054.9                     N.C.Schoen+          (79)T0276 11 
+ 1001 27059   3 454    5.7600+7 600000.0 0.038400 2.4000-3           25054.9                     N.C.Schoen+          (79)T0276 11 
+ 1001 27059   3 454    5.4300+7 700000.0 0.044000 2.6000-3           25054.9                     N.C.Schoen+          (79)T0276 11 
+ 1001 27059   3 454    5.0900+7 700000.0 0.045400 2.8000-3           25054.9                     N.C.Schoen+          (79)T0276 11 
+ 1001 27059   3 454    4.7300+7 700000.0 0.047600 2.9000-3           25054.9                     N.C.Schoen+          (79)T0276 11 
+ 1001 27059   3 454    4.3500+7 800000.0 0.051100 3.0000-3           25054.9                     N.C.Schoen+          (79)T0276 11 
+ 1001 27059   3 454    3.7700+7 900000.0 0.037500 2.2000-3           25054.9                     N.C.Schoen+          (79)T0276 11 
+ 1001 27059   3 454    3.3200+7 1000000. 0.013100 9.0000-4           25054.9                     N.C.Schoen+          (79)T0276 11 
+#/DATA      8
+#/DATASET

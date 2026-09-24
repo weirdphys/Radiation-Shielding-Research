@@ -1,0 +1,36 @@
+#ENTRY      M0165
+#AUTHOR1    I.I.Dushkov+
+#YEAR       1965
+#INSTITUTE  (4RUSMOS)
+#TITLE      Photoprotons from Zr.
+#AUTHOR(S)  I.I.Dushkov, B.S.Ishkhanov, I.M.Kapitonov, B.A.Yur'Ev, V.G.Shevchenko
+#REF-CODE   (J,IZV,29,213,1965)
+#REFERENCE  Izv.Ross.AN,Fiz. 29 (1965) 213
+#DATASETS   0
+#
+#DATASET    M0165002 
+#DATE       20101118
+#REACTION   40-ZR-90(G,P)39-Y-89,,DA,,4PI/BRS
+#PROJ       0
+#TARG       40090
+#MF         4
+#MT         103
+#PRODUCT    39-Y-89
+#C4BEGIN    [    0 40090   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 40090   4 103    1.7500+7          1.5915-4          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    1.8500+7          5.5704-4          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    1.9500+7          1.6512-3          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    2.0500+7          1.8502-3          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    2.1500+7          2.3873-3          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    2.3500+7          1.4324-3          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    2.4500+7          8.3556-4          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    2.5500+7          4.1778-4          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    2.6500+7          1.5915-4          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    2.7500+7          3.7799-4          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    2.9500+7          4.3768-4          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+    0 40090   4 103    3.0500+7          3.1831-4          6.123-17                              I.I.Dushkov+         (65)M0165  2 
+#/DATA      12
+#/DATASET

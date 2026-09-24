@@ -1,0 +1,1201 @@
+#ENTRY      B0127
+#AUTHOR1    S.Schery+
+#YEAR       1977
+#INSTITUTE  (1USAMHG)
+#TITLE      Activation and Angular Distribution Measurements
+#+          Of Li-7(P,N)Be-7 (0.0+0.429 MEV) For E(P)=25-45 MeV.
+#+          A Technique For Absolute Neutron Yield Determination.
+#AUTHOR(S)  S.Schery, L.Young, R.Doering, S.Austin, R.Bhowmik
+#REF-CODE   (J,NIM,147,399,1977)
+#REFERENCE  Nucl.Intrum.Meth. 147 (1977) 399 (doi:10.1016/0029-554X(77)90275-0)
+#DATASETS   0
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          0.017500 5.0750-4 1.000000          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          5.3300-3 1.4924-4 1.000000          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          0.013800 4.0020-4 0.984808          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          3.8000-3 1.1020-4 0.984808          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          9.6200-3 2.6936-4 0.965926          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          2.8700-3 8.0360-5 0.965926          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          6.6000-3 1.7820-4 0.939693          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          1.9700-3 5.9100-5 0.939693          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          4.4500-3 1.2015-4 0.906308          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          1.7300-3 5.0170-5 0.906308          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          3.4800-3 1.0092-4 0.866025          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          1.3800-3 4.0020-5 0.866025          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          3.0500-3 9.1500-5 0.819152          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          1.4100-3 3.9480-5 0.819152          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          3.2400-3 9.0720-5 0.766044          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          1.3600-3 3.9440-5 0.766044          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          3.0100-3 8.1270-5 0.707107          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          1.2800-3 3.8400-5 0.707107          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          3.0100-3 8.1270-5 0.642788          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          1.1500-3 2.9900-5 0.642788          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          2.7500-3 7.9750-5 0.573576          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          9.8900-4 2.7692-5 0.573576          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          2.3200-3 6.0320-5 0.500000          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          8.6800-4 2.4304-5 0.500000          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          1.9600-3 5.0960-5 0.422618          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          6.6700-4 1.8676-5 0.422618          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          1.5100-3 3.9260-5 0.342020          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          5.1300-4 2.5650-5 0.342020          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          1.2000-3 3.6000-5 0.258819          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          3.7900-4 1.8950-5 0.258819          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          9.2000-4 4.6000-5 0.173648          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          3.3900-4 1.3560-5 0.173648          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          7.8100-4 2.2649-5 0.087156          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          2.7100-4 1.3550-5 0.087156          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          7.2500-4 2.0300-5 6.123-17          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          2.5100-4 1.2550-5 6.123-17          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          7.1000-4 4.9700-5-0.087156          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          2.6700-4 1.3350-5-0.087156          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          7.3000-4 2.9200-5-0.173648          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          2.5700-4 1.2850-5-0.173648          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          6.8000-4 4.0800-5-0.342020          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          2.6300-4 1.5780-5-0.342020          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          5.7000-4 2.8500-5-0.500000          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          2.1400-4 1.2840-5-0.500000          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          3.7200-4 1.8600-5-0.642788          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          1.0700-4 7.4900-6-0.642788          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          3.0900-4 2.4720-5-0.766044          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          7.6000-5 1.0640-5-0.766044          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    2.4800+7          2.9900-4 2.0930-5-0.866025          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    2.4800+7          6.7000-5 6.0300-6-0.866025          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          0.020900 6.0610-4 1.000000          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          7.8100-3 2.1868-4 1.000000          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          0.017600 4.9280-4 0.984808          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          6.9800-3 2.0242-4 0.984808          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          0.012700 3.8100-4 0.965926          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          4.9100-3 1.4239-4 0.965926          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          8.0600-3 2.3374-4 0.939693          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          3.5900-3 1.0052-4 0.939693          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          5.1400-3 1.3878-4 0.906308          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          2.4300-3 7.0470-5 0.906308          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          3.4700-3 1.0063-4 0.866025          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          1.7800-3 4.9840-5 0.866025          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          2.5900-3 6.9930-5 0.819152          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          1.1800-3 2.9500-5 0.819152          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          2.3100-3 6.0060-5 0.766044          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          9.8900-4 2.7692-5 0.766044          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          1.9400-3 5.0440-5 0.707107          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          7.6800-4 2.2272-5 0.707107          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          1.9100-3 4.9660-5 0.642788          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          6.9800-4 2.0242-5 0.642788          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          1.4500-3 4.0600-5 0.573576          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          5.1000-4 1.3770-5 0.573576          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          1.1300-3 3.0510-5 0.500000          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          4.0400-4 1.0908-5 0.500000          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          7.9200-4 2.2176-5 0.422618          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          3.0100-4 8.1270-6 0.422618          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          6.1500-4 1.7220-5 0.342020          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          2.3900-4 6.9310-6 0.342020          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          4.5900-4 1.2852-5 0.258819          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          1.8200-4 4.9140-6 0.258819          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          3.5600-4 9.9680-6 0.173648          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          1.1800-4 2.9500-6 0.173648          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          2.9300-4 7.9110-6 0.087156          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          1.1200-4 3.0240-6 0.087156          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          2.2800-4 5.9280-6 6.123-17          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          9.3800-5 2.6264-6 6.123-17          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          1.9100-4 4.9660-6-0.087156          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          7.6000-5 3.8000-6-0.087156          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          1.6100-4 4.0250-6-0.173648          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          6.4800-5 1.9440-6-0.173648          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          1.2300-4 2.9520-6-0.342020          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          4.8500-5 2.9100-6-0.342020          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          9.0000-5 2.5200-6-0.500000          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          3.2200-5 9.0160-7-0.500000          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          6.7300-5 1.8844-6-0.642788          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          1.7600-5 4.9280-7-0.642788          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          6.4000-5 5.1200-6-0.766044          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          9.2000-6 1.0120-6-0.766044          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    3.5000+7          7.4000-5 3.7000-6-0.866025          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    3.5000+7          1.6500-5 1.4850-6-0.866025          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          0.021000 5.0400-4 1.000000          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          0.010300 2.5750-4 1.000000          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          0.016500 3.9600-4 0.984808          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          7.6500-3 1.9890-4 0.984808          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          0.011340 2.9484-4 0.965926          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          5.5800-3 1.3950-4 0.965926          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          6.8500-3 1.7810-4 0.939693          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          3.7700-3 1.0179-4 0.939693          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          4.1400-3 1.1178-4 0.906308          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          2.5500-3 6.8850-5 0.906308          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          2.9100-3 6.9840-5 0.866025          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          1.6000-3 4.0000-5 0.866025          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          2.2800-3 5.9280-5 0.819152          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          1.1900-3 2.9750-5 0.819152          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          1.8900-3 4.9140-5 0.766044          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          6.9100-4 1.7966-5 0.766044          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          1.5200-3 3.9520-5 0.707107          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          5.3200-4 1.3832-5 0.707107          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          1.2100-3 3.0250-5 0.642788          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          3.8800-4 1.0088-5 0.642788          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          9.8800-4 2.4700-5 0.573576          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          3.1000-4 8.0600-6 0.573576          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          6.4300-4 1.8004-5 0.500000          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          2.2200-4 5.9940-6 0.500000          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          3.9600-4 1.5840-5 0.422618          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          1.5300-4 3.9780-6 0.422618          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          3.0000-4 2.1000-5 0.342020          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          1.3200-4 5.2800-6 0.342020          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          1.4200-4 7.1000-6 0.173648          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          6.5000-5 5.2000-6 0.173648          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          9.2600-5 2.7780-6 6.123-17          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          3.7000-5 4.0700-6 6.123-17          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          5.7000-5 5.1300-6-0.173648          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          2.0800-5 2.7040-6-0.173648          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          2.9200-5 2.9200-6-0.342020          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          1.4900-5 1.6390-6-0.342020          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          3.0900-5 2.7810-6-0.500000          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          8.4000-6 1.2600-6-0.500000          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    B0127004 
+#DATE       20011220
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50    4.5000+7          2.4800-5 2.4800-6-0.766044          0.000000         LVLS.Schery+            (77)B0127  4 
+ 1001  3007   4  50    4.5000+7          3.9000-6 8.1900-7-0.766044          429000.0         LVLS.Schery+            (77)B0127  4 
+#/DATA      2
+#/DATASET

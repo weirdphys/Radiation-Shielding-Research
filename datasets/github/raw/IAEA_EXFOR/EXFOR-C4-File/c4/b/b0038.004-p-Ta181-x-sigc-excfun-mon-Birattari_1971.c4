@@ -1,0 +1,40 @@
+#ENTRY      B0038
+#AUTHOR1    C.Birattari+
+#YEAR       1971
+#INSTITUTE  (2ITYMIL)
+#TITLE      (p,xn) reactions induced in Tm-169, Ta-181 and Bi-209
+#+          with 20 to 45 MeV protons
+#AUTHOR(S)  C.Birattari, E.Gadioli, A.M.Grassi Strini, G.Strini, G.Tagliaferri, 
+#+          L.Zetta
+#REF-CODE   (J,NP/A,166,605,1971)
+#REFERENCE  Nucl.Phys.A 166 (1971) 605 (doi:10.1016/0375-9474(71)90909-2)
+#DATASETS   0
+#
+#DATASET    B0038004 
+#DATE       20211221
+#REACTION   73-TA-181(P,3N)74-W-179-G,(M),SIG
+#PROJ       1001
+#TARG       73181
+#MF         3
+#MT         459
+#PRODUCT    74-W-179-G
+#C4BEGIN    [ 1001 73181   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73181   3 459    1.7600+7          0.060000 0.015000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    2.0000+7          0.470000 0.048000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    2.1800+7          0.699000 0.067000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    2.3700+7          0.856000 0.086000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    2.6100+7          0.870000 0.084000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    2.7800+7          0.749000 0.070000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    3.0000+7          0.549000 0.052000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    3.2000+7          0.337000 0.037000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    3.4500+7          0.210000 0.017000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    3.5900+7          0.180000 0.017000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    3.8400+7          0.138000 0.013000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    4.0100+7          0.112000 0.015000           74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    4.2000+7          0.100000                    74179.0                     C.Birattari+         (71)B0038  4 
+ 1001 73181   3 459    4.4200+7          0.090500 0.015000           74179.0                     C.Birattari+         (71)B0038  4 
+#/DATA      14
+#/DATASET

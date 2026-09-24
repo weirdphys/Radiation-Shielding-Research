@@ -1,0 +1,78 @@
+#ENTRY      B0118
+#AUTHOR1    M.De Saint-Simon+
+#YEAR       1978
+#INSTITUTE  (2FR PAR)
+#TITLE      Relative thresholds for production of iodine
+#+          isotopes from fusion and transfer-induced fission
+#+          reactions.
+#AUTHOR(S)  M.De Saint-Simon, R.J.Otto, G.T.Seaborg
+#REF-CODE   (J,PR/C,18,1651,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 1651 (doi:10.1103/PhysRevC.18.1651)
+#DATASETS   0
+#
+#DATASET    B01180021
+#DATE       20211221
+#REACTION   92-U-238(18-AR-40,F)ELEM/MASS,,SIG,,AV
+#PROJ       18040
+#TARG       92238
+#MF         3
+#MT         454
+#C4BEGIN    [18040 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 92238   3 454    2.4000+8          6.8300-4 2.8000-5           53124.9                     M.De Saint-Simon+    (78)B0118  21
+18040 92238   3 454    2.4000+8          2.3400-3 6.9000-5           53126.9                     M.De Saint-Simon+    (78)B0118  21
+#/DATA      2
+#/DATASET
+#
+#DATASET    B01180021
+#DATE       20211221
+#REACTION   92-U-238(18-AR-40,F)ELEM/MASS,,SIG,,AV
+#PROJ       18040
+#TARG       92238
+#MF         3
+#MT         454
+#C4BEGIN    [18040 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 92238   3 454    2.5000+8          1.2410-3 2.8700-4           53124.9                     M.De Saint-Simon+    (78)B0118  21
+18040 92238   3 454    2.5000+8          3.5450-3 4.5000-5           53126.9                     M.De Saint-Simon+    (78)B0118  21
+18040 92238   3 454    2.5000+8          3.1180-3 3.1000-5           53128.9                     M.De Saint-Simon+    (78)B0118  21
+#/DATA      3
+#/DATASET
+#
+#DATASET    B01180021
+#DATE       20211221
+#REACTION   92-U-238(18-AR-40,F)ELEM/MASS,,SIG,,AV
+#PROJ       18040
+#TARG       92238
+#MF         3
+#MT         454
+#C4BEGIN    [18040 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 92238   3 454    2.7000+8          1.6500-3 1.9000-4           53124.9                     M.De Saint-Simon+    (78)B0118  21
+18040 92238   3 454    2.7000+8          4.3400-3 2.4000-4           53126.9                     M.De Saint-Simon+    (78)B0118  21
+18040 92238   3 454    2.7000+8          3.7700-3 3.8000-5           53128.9                     M.De Saint-Simon+    (78)B0118  21
+#/DATA      3
+#/DATASET
+#
+#DATASET    B01180021
+#DATE       20211221
+#REACTION   92-U-238(18-AR-40,F)ELEM/MASS,,SIG,,AV
+#PROJ       18040
+#TARG       92238
+#MF         3
+#MT         454
+#C4BEGIN    [18040 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 92238   3 454    2.9000+8          3.0000-3 2.3000-4           53124.9                     M.De Saint-Simon+    (78)B0118  21
+18040 92238   3 454    2.9000+8          7.1700-3 7.0000-5           53126.9                     M.De Saint-Simon+    (78)B0118  21
+18040 92238   3 454    2.9000+8          5.5100-3 6.0000-5           53128.9                     M.De Saint-Simon+    (78)B0118  21
+#/DATA      3
+#/DATASET

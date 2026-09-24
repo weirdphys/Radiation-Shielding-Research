@@ -1,0 +1,33 @@
+#ENTRY      P0028
+#AUTHOR1    G.R.Choppin+
+#YEAR       1963
+#INSTITUTE  (1USAFSU)
+#TITLE      Low-Energy Charged-Particle-Induced Fission
+#AUTHOR(S)  G.R.Choppin, J.R.Meriwether, J.D.Fox
+#REF-CODE   (J,PR,131,2149,1963)
+#REFERENCE  Phys.Rev. 131 (1963) 2149 (doi:10.1103/PhysRev.131.2149)
+#DATASETS   0
+#
+#DATASET    P0028007 
+#DATE       20250611
+#REACTION   92-U-238(P,F),,SIG
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3  18    2914000. 3000.000 7.6780-7 3.8060-7                                       G.R.Choppin+         (63)P0028  7 
+ 1001 92238   3  18    3933000. 3000.000 5.7540-6 9.7140-7                                       G.R.Choppin+         (63)P0028  7 
+ 1001 92238   3  18    4940000. 3000.000 6.7800-6 8.2350-7                                       G.R.Choppin+         (63)P0028  7 
+ 1001 92238   3  18    5964000. 3000.000 1.0070-4                                                G.R.Choppin+         (63)P0028  7 
+ 1001 92238   3  18    7236000. 3000.000 9.4190-4                                                G.R.Choppin+         (63)P0028  7 
+ 1001 92238   3  18    7619000. 3000.000 2.1630-3                                                G.R.Choppin+         (63)P0028  7 
+ 1001 92238   3  18    8919000. 3000.000 0.010390                                                G.R.Choppin+         (63)P0028  7 
+ 1001 92238   3  18    1.0090+7 3000.000 0.036460                                                G.R.Choppin+         (63)P0028  7 
+ 1001 92238   3  18    1.1321+7 3000.000 0.083580                                                G.R.Choppin+         (63)P0028  7 
+ 1001 92238   3  18    1.2171+7 3000.000 0.104200                                                G.R.Choppin+         (63)P0028  7 
+#/DATA      10
+#/DATASET

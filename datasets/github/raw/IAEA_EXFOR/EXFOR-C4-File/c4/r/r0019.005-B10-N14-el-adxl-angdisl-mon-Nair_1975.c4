@@ -1,0 +1,35 @@
+#ENTRY      R0019
+#AUTHOR1    K.G.Nair+
+#YEAR       1975
+#INSTITUTE  (1USATAM)
+#TITLE      Transfer reactions with heavy ions on light nuclei
+#AUTHOR(S)  K.G.Nair, H.Voit, C.W.Towsley, M.Hamm, J.D.Bronson, K.Nagatani
+#REF-CODE   (J,PR/C,12,1575,1975)
+#REFERENCE  Phys.Rev.C 12 (1975) 1575 (doi:10.1103/PhysRevC.12.1575)
+#DATASETS   0
+#
+#DATASET    R0019005 
+#DATE       20190118
+#REACTION   7-N-14(5-B-10,EL)7-N-14,,DA
+#PROJ       5010
+#TARG       7014
+#MF         4
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [ 5010  7014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5010  7014   4   2    1.0000+8 500000.0 0.120000          0.955793                              K.G.Nair+            (75)R0019  5 
+ 5010  7014   4   2    1.0000+8 500000.0 0.107000          0.944376                              K.G.Nair+            (75)R0019  5 
+ 5010  7014   4   2    1.0000+8 500000.0 0.038000          0.936060                              K.G.Nair+            (75)R0019  5 
+ 5010  7014   4   2    1.0000+8 500000.0 0.018000          0.924546                              K.G.Nair+            (75)R0019  5 
+ 5010  7014   4   2    1.0000+8 500000.0 0.027000          0.912120                              K.G.Nair+            (75)R0019  5 
+ 5010  7014   4   2    1.0000+8 500000.0 0.029000          0.900319                              K.G.Nair+            (75)R0019  5 
+ 5010  7014   4   2    1.0000+8 500000.0 0.013400          0.885394                              K.G.Nair+            (75)R0019  5 
+ 5010  7014   4   2    1.0000+8 500000.0 7.2000-3          0.872922                              K.G.Nair+            (75)R0019  5 
+ 5010  7014   4   2    1.0000+8 500000.0 6.1000-3          0.857167                              K.G.Nair+            (75)R0019  5 
+ 5010  7014   4   2    1.0000+8 500000.0 6.9000-3          0.845262                              K.G.Nair+            (75)R0019  5 
+ 5010  7014   4   2    1.0000+8 500000.0 3.4000-3          0.815128                              K.G.Nair+            (75)R0019  5 
+#/DATA      11
+#/DATASET

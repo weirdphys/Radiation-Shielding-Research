@@ -1,0 +1,41 @@
+#ENTRY      S0060
+#AUTHOR1    Cheng Xiaowu+
+#YEAR       1966
+#INSTITUTE  (3CPRNRS)
+#TITLE      Some measurements of deuteron induced excitation
+#+          function at 13 MeV
+#AUTHOR(S)  Cheng Xiaowu, Wang Zhenxia, Wang Zhenjie, Yang Jinqing
+#REF-CODE   (J,ASI,22,(2),250,1966)
+#REFERENCE  Acta Phys.Sin. 22 No.2 (1966) 250 (doi:10.7498/aps.22.250)
+#DATASETS   0
+#
+#DATASET    S0060002 
+#DATE       20120615
+#REACTION   29-CU-65(D,2N)30-ZN-65,,SIG
+#PROJ       1002
+#TARG       29065
+#MF         3
+#MT         16
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 1002 29065   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 29065   3  16    4630000.          0.019730 9.8650-4                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    5200000.          0.064800 3.2400-3                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    5800000.          0.146300 7.3150-3                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    6300000.          0.251780 0.012589                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    6770000.          0.343830 0.017191                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    7690000.          0.506850 0.025343                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    8000000.          0.540410 0.027020                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    8420000.          0.626710 0.031336                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    8830000.          0.651640 0.032582                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    9180000.          0.670820 0.033541                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    9570000.          0.728350 0.036417                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    9940000.          0.788760 0.039438                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    1.0220+7          0.814650 0.040732                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    1.0590+7          0.820410 0.041021                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    1.0990+7          0.820410 0.041021                                       Cheng Xiaowu+        (66)S0060  2 
+ 1002 29065   3  16    1.1080+7          0.798350 0.039918                                       Cheng Xiaowu+        (66)S0060  2 
+#/DATA      16
+#/DATASET

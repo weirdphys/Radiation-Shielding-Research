@@ -1,0 +1,29 @@
+#ENTRY      L0175
+#AUTHOR1    W.Tornow+
+#YEAR       2012
+#INSTITUTE  (1USADKE)
+#TITLE      Photodisintegration cross section of the reaction
+#+          4He(gamma,n)3He at the giant dipole resonance peak
+#AUTHOR(S)  W.Tornow, J.H.Kelley, R.Raut, G.Rusev, A.P.Tonchev, M.W.Ahmed, 
+#+          A.S.Crowell, S.C.Stave
+#REF-CODE   (J,PR/C,85,061001,2012)
+#REFERENCE  Phys.Rev.C 85 (2012) 061001 (doi:10.1103/PhysRevC.85.061001)
+#DATASETS   0
+#
+#DATASET    L0175002 
+#DATE       20120920
+#REACTION   2-HE-4(G,N)2-HE-3,,SIG
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3   4    2.7000+7 780000.0 1.5800-3 1.0000-5                                       W.Tornow+            (12)L0175  2 
+    0  2004   3   4    2.7500+7 780000.0 1.7700-3 1.0000-5                                       W.Tornow+            (12)L0175  2 
+    0  2004   3   4    2.8000+7 780000.0 1.7300-3 1.0000-5                                       W.Tornow+            (12)L0175  2 
+#/DATA      3
+#/DATASET

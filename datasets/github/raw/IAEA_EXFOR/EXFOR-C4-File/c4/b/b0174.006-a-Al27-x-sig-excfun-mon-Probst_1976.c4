@@ -1,0 +1,31 @@
+#ENTRY      B0174
+#AUTHOR1    H.J.Probst+
+#YEAR       1976
+#INSTITUTE  (2GERJUL)
+#TITLE      Excitation functions of high-energy alpha-particle
+#+          induced nuclear reactions on aluminium and magnesium:
+#+          Production of 28Mg
+#AUTHOR(S)  H.J.Probst, S.M.Qaim, R.Weinreich
+#REF-CODE   (J,ARI,27,431,1976)
+#REFERENCE  Appl.Radiat.Isot. 27 (1976) 431 (doi:10.1016/0020-708X(76)90062-4)
+#DATASETS   0
+#
+#DATASET    B0174006 
+#DATE       20180517
+#REACTION   13-AL-27(A,X)13-AL-28,,SIG
+#PROJ       2004
+#TARG       13027
+#MF         3
+#MT         454
+#PRODUCT    13-AL-28
+#C4BEGIN    [ 2004 13027   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 13027   3 454    3.3000+7          9.8100-3 2.0000-3           13028.9                     H.J.Probst+          (76)B0174  6 
+ 2004 13027   3 454    3.6600+7          0.036300 6.8000-3           13028.9                     H.J.Probst+          (76)B0174  6 
+ 2004 13027   3 454    3.9800+7          0.036300 6.8000-3           13028.9                     H.J.Probst+          (76)B0174  6 
+ 2004 13027   3 454    4.3400+7          0.063300 0.012000           13028.9                     H.J.Probst+          (76)B0174  6 
+ 2004 13027   3 454    4.8100+7          0.056200 0.015000           13028.9                     H.J.Probst+          (76)B0174  6 
+#/DATA      5
+#/DATASET

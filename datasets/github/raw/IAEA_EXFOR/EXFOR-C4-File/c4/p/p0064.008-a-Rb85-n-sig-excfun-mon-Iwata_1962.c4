@@ -1,0 +1,39 @@
+#ENTRY      P0064
+#AUTHOR1    S.J.Iwata+
+#YEAR       1962
+#INSTITUTE  (2JPNKTO)
+#TITLE      Isomeric Cross Section Ratios in Alpha-Particle
+#+          Reactions
+#AUTHOR(S)  S.J.Iwata
+#REF-CODE   (J,JPJ,17,1323,1962)
+#REFERENCE  J.Phys.Soc.Jpn. 17 (1962) 1323 (doi:10.1143/JPSJ.17.1323)
+#DATASETS   0
+#
+#DATASET    P0064008 
+#DATE       20000817
+#REACTION   37-RB-85(A,N)39-Y-88,,SIG
+#PROJ       2004
+#TARG       37085
+#MF         3
+#MT         4
+#PRODUCT    39-Y-88
+#C4BEGIN    [ 2004 37085   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 37085   3   4    1.0100+7          0.077600                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    1.0900+7          0.063100                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    1.3900+7          0.257000                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    1.4500+7          0.222000                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    1.7200+7          0.115000                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    1.7600+7          0.211000                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    2.0600+7          0.079400                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    2.0900+7          0.136000                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    2.1800+7          0.087900                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    2.3600+7          0.048100                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    2.3600+7          0.043500                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    2.4800+7          0.046800                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    2.6800+7          0.085900                                                S.J.Iwata            (62)P0064  8 
+ 2004 37085   3   4    2.7500+7          0.076900                                                S.J.Iwata            (62)P0064  8 
+#/DATA      14
+#/DATASET

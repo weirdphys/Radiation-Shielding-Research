@@ -1,0 +1,36 @@
+#ENTRY      M0378
+#AUTHOR1    T.Emura+
+#YEAR       1994
+#INSTITUTE  (2JPNTOK)
+#TITLE      Three-body    He-3  photodisintegration    in     the
+#+          delta-region.
+#AUTHOR(S)  T.Emura, S.Endo, G.M.Huber, H.Itoh, S.Kato, M.Koike, O.Konno, 
+#+          B.Lasiuk, G.J.Lolos, K.Maeda, T.Maki, K.Maruyama, H.Miyamoto, 
+#+          R.Naridomi, K.Niki, T.Ogata, C.Rangacharyulu, A.Sasaki, 
+#+          T.Suda, Y.Sumi, Y.Wada, H.Yamazaki
+#REF-CODE   (J,PR/C,49,R597,1994)
+#REFERENCE  Phys.Rev.C 49 (1994) R597 (doi:10.1103/PhysRevC.49.R597)
+#DATASETS   0
+#
+#DATASET    M0378002 
+#DATE       20161018
+#REACTION   2-HE-3(G,N+P)1-H-1,,SIG
+#PROJ       0
+#TARG       2003
+#MF         3
+#MT         28
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  2003   3  28  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   3  28    1.4500+8 2.0000+7 5.7600-5 4.1000-6                                       T.Emura+             (94)M0378  2 
+    0  2003   3  28    1.8500+8 2.0000+7 7.5400-5 4.8000-6                                       T.Emura+             (94)M0378  2 
+    0  2003   3  28    2.2500+8 2.0000+7 9.1800-5 7.4000-6                                       T.Emura+             (94)M0378  2 
+    0  2003   3  28    2.6500+8 2.0000+7 8.2000-5 6.2000-6                                       T.Emura+             (94)M0378  2 
+    0  2003   3  28    3.0500+8 2.0000+7 6.3800-5 5.4000-6                                       T.Emura+             (94)M0378  2 
+    0  2003   3  28    3.4500+8 2.0000+7 3.8300-5 4.3000-6                                       T.Emura+             (94)M0378  2 
+    0  2003   3  28    3.8500+8 2.0000+7 3.3200-5 4.6000-6                                       T.Emura+             (94)M0378  2 
+    0  2003   3  28    4.2500+8 2.0000+7 2.2900-5 5.2000-6                                       T.Emura+             (94)M0378  2 
+#/DATA      8
+#/DATASET

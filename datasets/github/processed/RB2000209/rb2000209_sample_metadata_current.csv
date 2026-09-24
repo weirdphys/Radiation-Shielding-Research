@@ -1,0 +1,7 @@
+sample_id,run_spec,title,mass_g,thickness_cm,thickness_status,Sigma_status,reason
+1,44724-44728,Concrete sample 1 (117.77g),117.77,,NOT_YET_GROUNDED,NOT_CALCULATED,No experimentally grounded neutron path length has yet been recovered for this RB2000209 sample.
+2,44743-44748,Concrete sample 2 (4 blocks),,,NOT_YET_GROUNDED,NOT_CALCULATED,No experimentally grounded neutron path length has yet been recovered for this RB2000209 sample.
+3M,44749-44754,Concrete sample 3M (163.72g),163.72,,NOT_YET_GROUNDED,NOT_CALCULATED,No experimentally grounded neutron path length has yet been recovered for this RB2000209 sample.
+4M,44755-44760,Concrete sample 4M (4 blocks),,,NOT_YET_GROUNDED,NOT_CALCULATED,No experimentally grounded neutron path length has yet been recovered for this RB2000209 sample.
+5I,44779-44784,Concrete sample 5I (146.51g),146.51,,NOT_YET_GROUNDED,NOT_CALCULATED,No experimentally grounded neutron path length has yet been recovered for this RB2000209 sample.
+6I,44785-44790,Concrete sample 6I (158.58g),158.58,,NOT_YET_GROUNDED,NOT_CALCULATED,No experimentally grounded neutron path length has yet been recovered for this RB2000209 sample.

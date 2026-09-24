@@ -1,0 +1,33 @@
+#ENTRY      P0105
+#AUTHOR1    M.Cogneau+
+#YEAR       1965
+#INSTITUTE  (2BLGLVN)
+#TITLE      Absolute cross-sections and excitation functions for
+#+          alpha-particle induced reactions on Zn between 11 and
+#+          24 MeV
+#AUTHOR(S)  M.Cogneau, L.J.Gilly
+#REF-CODE   (J,NP,73,122,1965)
+#REFERENCE  Nucl.Phys. 73 (1965) 122 (doi:10.1016/0029-5582(65)90159-8)
+#DATASETS   0
+#
+#DATASET    P0105003 
+#DATE       20000815
+#REACTION   30-ZN-64(A,N+P)31-GA-66,,SIG
+#PROJ       2004
+#TARG       30064
+#MF         3
+#MT         28
+#PRODUCT    31-GA-66
+#C4BEGIN    [ 2004 30064   3  28  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30064   3  28    2.0100+7          0.041100                                                M.Cogneau+           (65)P0105  3 
+ 2004 30064   3  28    2.0800+7          0.081700                                                M.Cogneau+           (65)P0105  3 
+ 2004 30064   3  28    2.1400+7          0.144000                                                M.Cogneau+           (65)P0105  3 
+ 2004 30064   3  28    2.2100+7          0.245000                                                M.Cogneau+           (65)P0105  3 
+ 2004 30064   3  28    2.2700+7          0.348000                                                M.Cogneau+           (65)P0105  3 
+ 2004 30064   3  28    2.3300+7          0.384000                                                M.Cogneau+           (65)P0105  3 
+ 2004 30064   3  28    2.3900+7          0.413000                                                M.Cogneau+           (65)P0105  3 
+#/DATA      7
+#/DATASET

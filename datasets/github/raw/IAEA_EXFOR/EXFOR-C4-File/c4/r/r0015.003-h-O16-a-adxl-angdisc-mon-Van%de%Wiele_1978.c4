@@ -1,0 +1,41 @@
+#ENTRY      R0015
+#AUTHOR1    J.Van de Wiele+
+#YEAR       1978
+#INSTITUTE  (2FR PAR)
+#TITLE      Study of the mechanism of the (3He,a) reaction at 217
+#+          (205) MeV and the excitation of hole states in deep
+#+          layers
+#AUTHOR(S)  J.Van de Wiele, E.Gerlic, H.Langevin-Joliot, G.Duhamel
+#REF-CODE   (J,NP/A,297,61,1978)
+#REFERENCE  Nucl.Phys.A 297 (1978) 61 (doi:10.1016/0375-9474(78)90199-9)
+#DATASETS   0
+#
+#DATASET    R0015003 
+#DATE       20040830
+#REACTION   8-O-16(HE3,A)8-O-15,PAR,DA
+#PROJ       2003
+#TARG       8016
+#MF         4
+#MT         800
+#PRODUCT    8-O-15
+#C4BEGIN    [ 2003  8016   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  8016   4 800  C 2.1700+8          0.011100          0.996195          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          0.010400          0.996195          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          9.8000-3          0.996195          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          8.7000-3          0.993572          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          6.2000-3          0.991445          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          4.5000-3          0.988228          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          4.0000-3          0.985109          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          3.4000-3          0.980615          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          2.9000-3          0.976296          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          2.4000-3          0.972370          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          1.8100-3          0.966823          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          1.3900-3          0.961262          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          9.1000-4          0.948324          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          4.2000-4          0.926529          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+ 2003  8016   4 800  C 2.1700+8          1.4000-4          0.901077          6180000.         LVLJ.Van de Wiele+      (78)R0015  3 
+#/DATA      15
+#/DATASET

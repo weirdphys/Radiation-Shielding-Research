@@ -1,0 +1,28 @@
+#ENTRY      R0041
+#AUTHOR1    D.F.Crisler+
+#YEAR       1972
+#INSTITUTE  (1USAUWY)
+#TITLE      Reactions induced by He3 ions on Zn64
+#AUTHOR(S)  D.F.Crisler, H.B.Eldridge, R.Kunselman, C.S.Zaidins
+#REF-CODE   (J,PR/C,5,419,1972)
+#REFERENCE  Phys.Rev.C 5 (1972) 419 (doi:10.1103/PhysRevC.5.419)
+#DATASETS   0
+#
+#DATASET    R0041002 
+#DATE       20241119
+#REACTION   30-ZN-64(HE3,P)31-GA-66,(CUM),SIG
+#PROJ       2003
+#TARG       30064
+#MF         3
+#MT         459
+#PRODUCT    31-GA-66
+#C4BEGIN    [ 2003 30064   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 30064   3 459    2.1300+7          0.028600 3.1000-3           31066.9                     D.F.Crisler+         (72)R0041  2 
+ 2003 30064   3 459    2.8700+7          0.015200 1.7000-3           31066.9                     D.F.Crisler+         (72)R0041  2 
+ 2003 30064   3 459    3.7000+7          8.4700-3 9.3000-4           31066.9                     D.F.Crisler+         (72)R0041  2 
+ 2003 30064   3 459    4.2800+7          8.1500-3 9.1000-4           31066.9                     D.F.Crisler+         (72)R0041  2 
+#/DATA      4
+#/DATASET

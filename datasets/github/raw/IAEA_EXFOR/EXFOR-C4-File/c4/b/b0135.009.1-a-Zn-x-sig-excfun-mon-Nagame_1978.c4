@@ -1,0 +1,35 @@
+#ENTRY      B0135
+#AUTHOR1    Y.Nagame+
+#YEAR       1978
+#INSTITUTE  (2JPNTMU)
+#TITLE      Production of 67Ga by alpha bombardment of natural
+#+          zinc
+#AUTHOR(S)  Y.Nagame, M.Unno, H.Nakahara, Y.Murakami
+#REF-CODE   (J,ARI,29,615,1978)
+#REFERENCE  Appl.Radiat.Isot. 29 (1978) 615 (doi:10.1016/0020-708X(78)90095-9)
+#DATASETS   0
+#
+#DATASET    B01350091
+#DATE       20160824
+#REACTION   30-ZN-0(A,X)32-GE-66,,SIG
+#PROJ       2004
+#TARG       30000
+#MF         3
+#MT         454
+#PRODUCT    32-GE-66
+#C4BEGIN    [ 2004 30000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30000   3 454    2.1900+7          2.1000-3                    32066.9                     Y.Nagame+            (78)B0135  91
+ 2004 30000   3 454    2.2900+7          3.7000-3                    32066.9                     Y.Nagame+            (78)B0135  91
+ 2004 30000   3 454    2.3900+7          5.9000-3                    32066.9                     Y.Nagame+            (78)B0135  91
+ 2004 30000   3 454    2.6400+7          0.011000                    32066.9                     Y.Nagame+            (78)B0135  91
+ 2004 30000   3 454    2.9200+7          0.015000                    32066.9                     Y.Nagame+            (78)B0135  91
+ 2004 30000   3 454    3.0700+7          0.018000                    32066.9                     Y.Nagame+            (78)B0135  91
+ 2004 30000   3 454    3.2600+7          0.021000                    32066.9                     Y.Nagame+            (78)B0135  91
+ 2004 30000   3 454    3.5800+7          0.019000                    32066.9                     Y.Nagame+            (78)B0135  91
+ 2004 30000   3 454    3.7100+7          0.019000                    32066.9                     Y.Nagame+            (78)B0135  91
+ 2004 30000   3 454    3.8700+7          0.017000                    32066.9                     Y.Nagame+            (78)B0135  91
+#/DATA      10
+#/DATASET

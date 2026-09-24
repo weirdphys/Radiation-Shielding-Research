@@ -1,0 +1,35 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "benchmark_family": "JAERI_TIARA_N001_N002",
+  "applies_to_result_type": "neutron_transmission",
+  "reference_model": "TIARA/SINBAD cylindrical flux-estimator calculation model corresponding to BC501A",
+  "detector_geometry": {
+    "shape": "cylinder",
+    "axis": "beam_z",
+    "diameter_cm": 12.7,
+    "length_cm": 12.7,
+    "material": "BC501A liquid scintillator, density 0.874 g/cm3, H/C atomic densities 0.0482/0.0398 atom/(barn cm)",
+    "front_face_gap_from_concrete_cm": 0.0
+  },
+  "scoring_model": "SINBAD_BC501A_CYLINDRICAL_TRACK_LENGTH_V1",
+  "estimator": "scalar neutron fluence = sum(track length in tally volume) / tally volume",
+  "angular_acceptance": "all directions; no forward-only restriction",
+  "track_reentry_policy": "all path length in tally volume contributes, including side entry and re-entry",
+  "detector_material_transport": "BC501A material is explicit, matching the benchmark F4-volume detector model",
+  "energy_assignment": "pre-step neutron kinetic energy in the explicit BC501A detector volume",
+  "spectral_normalization": "divide each energy-bin fluence by bin lethargy width",
+  "uncertainty": "event-wise history contributions with SEM over the full history count",
+  "legacy_plane_estimator_qualifies_for_reuse": false,
+  "source_normalization_scoring_changed": false,
+  "icrp21_scoring_changed": false,
+  "controlled_sweep_scoring_changed": false,
+  "physics_list_changed": false,
+  "source_spectrum_changed": false,
+  "agreement_thresholds_changed": false,
+  "references": [
+    "OECD/NEA SINBAD TIARA 43/68 MeV Proton Benchmark (NEA-1552/03)",
+    "JAEA-Technology 2008-030, TIARA benchmark calculation model",
+    "IAEA INDC(NDS)-0785, TIARA SINBAD MCNP model and BC501A F4 volume tally",
+    "BC-501A manufacturer data: density 0.874 g/cm3; H=4.82e22 and C=3.98e22 atoms/cm3"
+  ]
+}

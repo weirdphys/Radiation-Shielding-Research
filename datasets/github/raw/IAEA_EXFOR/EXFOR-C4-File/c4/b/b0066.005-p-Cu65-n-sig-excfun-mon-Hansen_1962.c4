@@ -1,0 +1,33 @@
+#ENTRY      B0066
+#AUTHOR1    L.F.Hansen+
+#YEAR       1962
+#INSTITUTE  (1USALRL)
+#TITLE      Statistical Theory Predictions For 5 to 11 MeV (P,N)
+#+          And (P,P') Nuclear Reactions in V-51, Co-59, Cu-63,
+#+          Cu-65, and Rh-103
+#AUTHOR(S)  L.F.Hansen, R.D.Albert
+#REF-CODE   (J,PR,128,291,1962)
+#REFERENCE  Phys.Rev. 128 (1962) 291 (doi:10.1103/PhysRev.128.291)
+#DATASETS   0
+#
+#DATASET    B0066005 
+#DATE       20011220
+#REACTION   29-CU-65(P,N)30-ZN-65,,SIG,,,EXP
+#PROJ       1001
+#TARG       29065
+#MF         3
+#MT         4
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 1001 29065   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29065   3   4    5000000.          0.237000 0.025000                                       L.F.Hansen+          (62)B0066  5 
+ 1001 29065   3   4    6000000.          0.419000 0.041000                                       L.F.Hansen+          (62)B0066  5 
+ 1001 29065   3   4    7000000.          0.515000 0.052000                                       L.F.Hansen+          (62)B0066  5 
+ 1001 29065   3   4    8000000.          0.571000 0.061000                                       L.F.Hansen+          (62)B0066  5 
+ 1001 29065   3   4    9000000.          0.638000 0.067000                                       L.F.Hansen+          (62)B0066  5 
+ 1001 29065   3   4    1.0000+7          0.692000 0.068000                                       L.F.Hansen+          (62)B0066  5 
+ 1001 29065   3   4    1.1000+7          0.753000 0.075000                                       L.F.Hansen+          (62)B0066  5 
+#/DATA      7
+#/DATASET

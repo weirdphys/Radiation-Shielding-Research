@@ -1,0 +1,42 @@
+#ENTRY      M0662
+#AUTHOR1    A.Leistenschneider+
+#YEAR       2001
+#INSTITUTE  (2GERFRK)
+#TITLE      Photoneutron cross sections for unstable neutron-rich
+#+          oxygen isotopes.
+#AUTHOR(S)  A.Leistenschneider, T.Aumann, K.Boretzky, D.Cortina, J.Cub, 
+#+          U.Datta Pramanik, W.Dostal, Th.W.Elze, H.Emling, H.Geissel, 
+#+          A.Grunschloss, M.Hellstr, R.Holzmann, S.Ilievski, N.Iwasa, 
+#+          M.Kaspar, A.Kleinbohl, J.V.Kratz, R.Kulessa, Y.Leifels, 
+#+          E.Lubkiewicz, G.Munzenberg, P.Reiter, M.Rejmund, C.Scheidenberger, 
+#+          C.Schlegel, H.Simon, J.Stroth, K.Summerer, E.Wajda, W.Walus, 
+#+          S.Wan
+#REF-CODE   (J,PRL,86,5442,2001)
+#REFERENCE  Phys.Rev.Lett. 86 (2001) 5442 (doi:10.1103/PhysRevLett.86.5442)
+#DATASETS   0
+#
+#DATASET    M0662003 
+#DATE       20200613
+#REACTION   8-O-22(G,X)0-NN-1,,SIG,,SPA
+#PROJ       0
+#TARG       8022
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0  8022   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8022   3 201    7370000.          5.0000-5 2.5000-4                                       A.Leistenschneider+  (01)M0662  3 
+    0  8022   3 201    8310000.          2.0000-3 3.5000-4                                       A.Leistenschneider+  (01)M0662  3 
+    0  8022   3 201    9360000.          2.1500-3 4.5000-4                                       A.Leistenschneider+  (01)M0662  3 
+    0  8022   3 201    1.0340+7          1.0000-3 3.5000-4                                       A.Leistenschneider+  (01)M0662  3 
+    0  8022   3 201    1.1730+7          3.2500-3 7.3000-4                                       A.Leistenschneider+  (01)M0662  3 
+    0  8022   3 201    1.3610+7          5.1000-3 1.0300-3                                       A.Leistenschneider+  (01)M0662  3 
+    0  8022   3 201    1.5640+7          6.2000-3 1.7500-3                                       A.Leistenschneider+  (01)M0662  3 
+    0  8022   3 201    1.7710+7          0.011500 2.9000-3                                       A.Leistenschneider+  (01)M0662  3 
+    0  8022   3 201    1.9290+7          7.0000-3 4.0500-3                                       A.Leistenschneider+  (01)M0662  3 
+    0  8022   3 201    2.1840+7          0.012500 5.0000-3                                       A.Leistenschneider+  (01)M0662  3 
+    0  8022   3 201    2.4860+7          6.0000-3 0.012000                                       A.Leistenschneider+  (01)M0662  3 
+#/DATA      11
+#/DATASET

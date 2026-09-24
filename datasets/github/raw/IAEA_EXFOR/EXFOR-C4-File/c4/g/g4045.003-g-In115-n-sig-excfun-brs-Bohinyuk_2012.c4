@@ -1,0 +1,39 @@
+#ENTRY      G4045
+#AUTHOR1    V.S.Bohinyuk+
+#YEAR       2012
+#INSTITUTE  (4UKRUZH)
+#TITLE      Research of excitation of the isomers states in
+#+          (gamma,n)-reactions
+#AUTHOR(S)  V.S.Bohinyuk, V.I.Zhaba, A.M.Parlag, L.O.Shabalina
+#REF-CODE   (J,UZHV,32,39,2012)
+#REFERENCE  Nauk.Vis.Uzhg.Univ. 32 (2012) 39
+#DATASETS   0
+#
+#DATASET    G4045003 
+#DATE       20130527
+#REACTION   49-IN-115(G,N)49-IN-114-L,,SIG,,BRS
+#PROJ       0
+#TARG       49115
+#MF         3
+#MT         4
+#PRODUCT    49-IN-114-L
+#C4BEGIN    [    0 49115   3   4? ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 49115   3   4?   1.2000+7          0.012860 1.1600-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   1.3000+7          0.023730 1.1800-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   1.4000+7          0.031780 1.6100-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   1.5000+7          0.036770 2.1400-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   1.5850+7          0.039820 4.1200-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   1.6900+7          0.034100 4.5400-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   1.7850+7          0.027590 5.1000-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   1.8600+7          0.014120 5.7400-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   1.9600+7          6.4100-3 6.6300-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   2.0550+7          4.9800-3 6.6700-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   2.1500+7          4.2900-3 7.3900-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   2.2350+7          5.5200-3 7.6300-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   2.3250+7          3.5300-3 8.2000-3                                       V.S.Bohinyuk+        (12)G4045  3 
+    0 49115   3   4?   2.4250+7          1.3600-3 9.4700-3                                       V.S.Bohinyuk+        (12)G4045  3 
+#/DATA      14
+#/DATASET

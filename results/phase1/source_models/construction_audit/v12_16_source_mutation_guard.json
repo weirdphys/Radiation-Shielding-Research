@@ -1,0 +1,41 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "policy_id": "V12_16_SOURCE_CONSTRUCTION_AUDIT_V1",
+  "source_mutation_allowed": false,
+  "baseline_source_sampling_sha256": {
+    "PROJECT_10MV_40x40": "c28450b7b10d1a9b1c5b1817930d2d3c876e209a8e7c790cee9906e1e5be2c3b",
+    "PROJECT_15MV_40x40": "126a34998b2ccb61a95f6ed54cd573ef72aa5a826273aaad90d009f79c9e465c",
+    "PROJECT_16MV_40x40": "77837433134b1a3a6e8b10430b0990ef1762fdd56ad4c5d61c05790121002e6e",
+    "PROJECT_18MV_40x40": "45a63e56c8dfe8698af88e693f19f57fe6a9951a6103659b4abba8997837ad15",
+    "PROJECT_3MV_40x40": "ac2c66e5ce23c985ec48097876750a5fa98b387abfb5af7a2bba2caacb9b62cc",
+    "PROJECT_6MV_40x40": "9c9c811136b50e3776267d6bbc08300dff5a20f295dcedf9d3ad61bf3225488b"
+  },
+  "final_in_memory_source_sampling_sha256": {
+    "PROJECT_10MV_40x40": "c28450b7b10d1a9b1c5b1817930d2d3c876e209a8e7c790cee9906e1e5be2c3b",
+    "PROJECT_15MV_40x40": "126a34998b2ccb61a95f6ed54cd573ef72aa5a826273aaad90d009f79c9e465c",
+    "PROJECT_16MV_40x40": "77837433134b1a3a6e8b10430b0990ef1762fdd56ad4c5d61c05790121002e6e",
+    "PROJECT_18MV_40x40": "45a63e56c8dfe8698af88e693f19f57fe6a9951a6103659b4abba8997837ad15",
+    "PROJECT_3MV_40x40": "ac2c66e5ce23c985ec48097876750a5fa98b387abfb5af7a2bba2caacb9b62cc",
+    "PROJECT_6MV_40x40": "9c9c811136b50e3776267d6bbc08300dff5a20f295dcedf9d3ad61bf3225488b"
+  },
+  "final_exported_source_sampling_sha256": {
+    "PROJECT_10MV_40x40": "caab3f5160f7014a45ad821bce432cf38a1d8c44a6be650eea48a61b7b297ff4",
+    "PROJECT_15MV_40x40": "f0c4758537040d9e78e11982caac2cbfaedf7bd0b83a55bfcec9899bd24ba900",
+    "PROJECT_16MV_40x40": "eefe35d880ed2bd7d8a4bd0fbfa71b57675adf666a38d832df214ca72efb644c",
+    "PROJECT_18MV_40x40": "32e74c63c0ccce674daecd733e33a6761ca33f3df93953af08b4992cbfbbfe7d",
+    "PROJECT_3MV_40x40": "27b1c48ecc46e3383f9b4ffc18cf89f48f73b8ba4ebe9495a05c672673cd208a",
+    "PROJECT_6MV_40x40": "83431b024b3a969c2d1cb0f6d5d24d1b684f1fa7cd0cd5df6e52ecaf5d561b91"
+  },
+  "production_sources_unchanged": true,
+  "final_exported_source_raw_sha256": {
+    "PROJECT_10MV_40x40": "f30628f230b0c6a7cfd4528c788feab9eb9f37d51ed21d28f291dcb4a71b592b",
+    "PROJECT_15MV_40x40": "f9603d5c1a890b642651c71018605790c2d8d403c07e24b2053f13a8e29ec77a",
+    "PROJECT_16MV_40x40": "8277ef593538c0b3c4113be6aeefb2d56ff013cd97ed4a686b6524c7e76e2510",
+    "PROJECT_18MV_40x40": "516b6ff4fcb52fcc428b20ecd94cab0f28a49dc86beb1f5417e9c9e6e52e329f",
+    "PROJECT_3MV_40x40": "19f384e3af24f2018eeded5d395d9dab72de81534fe0e2def0d83932413a3d53",
+    "PROJECT_6MV_40x40": "b8f5d26d4729735369717fccd4fa2318dcc8b89bda49cd76f159e2457539f9f7"
+  },
+  "new_photon_pdd_transport_executed": false,
+  "all_required_photon_pdd_artifacts_reused_or_recovered": true,
+  "audit_complete": true
+}

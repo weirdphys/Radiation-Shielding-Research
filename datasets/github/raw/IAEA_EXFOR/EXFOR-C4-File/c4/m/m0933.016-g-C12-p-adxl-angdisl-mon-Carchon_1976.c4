@@ -1,0 +1,32 @@
+#ENTRY      M0933
+#AUTHOR1    R.Carchon+
+#YEAR       1976
+#INSTITUTE  (2BLGGHT)
+#TITLE      Photoproton cross section and  angular  distributions
+#+          for 12C in the giant dipole resonance region.
+#AUTHOR(S)  R.Carchon, R.Van De Vyver, H.Ferdinande, J.Devos, E.Van Camp
+#REF-CODE   (J,PR/C,14,(2),456,1976)
+#REFERENCE  Phys.Rev.C 14 No.2 (1976) 456 (doi:10.1103/PhysRevC.14.456)
+#DATASETS   0
+#
+#DATASET    M0933016 
+#DATE       20170407
+#REACTION   6-C-12(G,P)5-B-11,,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         103
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 103    2.6850+7          2.5400-4 2.9000-5 0.798636                              R.Carchon+           (76)M0933 16 
+    0  6012   4 103    2.6850+7          3.2800-4 3.4000-5 0.587785                              R.Carchon+           (76)M0933 16 
+    0  6012   4 103    2.6850+7          3.2400-4 4.4000-5 0.325568                              R.Carchon+           (76)M0933 16 
+    0  6012   4 103    2.6850+7          2.8900-4 4.7000-5 6.123-17                              R.Carchon+           (76)M0933 16 
+    0  6012   4 103    2.6850+7          2.2900-4 3.7000-5-0.325568                              R.Carchon+           (76)M0933 16 
+    0  6012   4 103    2.6850+7          1.7500-4 2.8000-5-0.587785                              R.Carchon+           (76)M0933 16 
+    0  6012   4 103    2.6850+7          1.2300-4 2.4000-5-0.798636                              R.Carchon+           (76)M0933 16 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      L0232
+#AUTHOR1    M.H.Sikora+
+#YEAR       2017
+#INSTITUTE  (1USADKE)
+#TITLE      Compton scattering from 4He at 61 MeV
+#AUTHOR(S)  M.H.Sikora, M.W.Ahmed, A.Banu, C.Bartram, B.Crowe, E.J.Downie, 
+#+          G.Feldman, H.Gao, H.W.Griesshammer, H.Hao, C.R.Howell, H.J.Karwowski, 
+#+          D.P.Kendellen, M.A.Kovash, X.Li, D.M.Markoff, S.Mikhailov, 
+#+          V.Popov, R.E.Pywell, J.A.Silano, M.C.Spraker, P.Wallace, 
+#+          H.R.Weller, C.S.Whisnant, Y.K.Wu, W.Xiong, X.Yan, Z.W.Zhao
+#REF-CODE   (J,PR/C,96,055209,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 055209 (doi:10.1103/PhysRevC.96.055209)
+#DATASETS   0
+#
+#DATASET    L0232002 
+#DATE       20180517
+#REACTION   2-HE-4(G,EL)2-HE-4,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [    0  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   2    6.1000+7          1.1980-7 6.8000-9 0.766044                              M.H.Sikora+          (17)L0232  2 
+    0  2004   4   2    6.1000+7          1.1590-7 5.4000-9 0.573576                              M.H.Sikora+          (17)L0232  2 
+    0  2004   4   2    6.1000+7          8.9800-8 3.2000-9 0.258819                              M.H.Sikora+          (17)L0232  2 
+    0  2004   4   2    6.1000+7          8.5800-8 3.3000-9-0.342020                              M.H.Sikora+          (17)L0232  2 
+    0  2004   4   2    6.1000+7          9.5300-8 2.9000-9-0.573576                              M.H.Sikora+          (17)L0232  2 
+    0  2004   4   2    6.1000+7          1.2000-7 3.2000-9-0.819152                              M.H.Sikora+          (17)L0232  2 
+    0  2004   4   2    6.1000+7          1.5020-7 3.5000-9-0.933580                              M.H.Sikora+          (17)L0232  2 
+#/DATA      7
+#/DATASET

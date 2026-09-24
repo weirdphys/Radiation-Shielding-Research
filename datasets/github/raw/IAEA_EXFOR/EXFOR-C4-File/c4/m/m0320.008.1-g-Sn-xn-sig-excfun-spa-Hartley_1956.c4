@@ -1,0 +1,26 @@
+#ENTRY      M0320
+#AUTHOR1    W.H.Hartley+
+#YEAR       1956
+#INSTITUTE  (1USAPEN)
+#TITLE      Cross sections for photoneutron emission induced
+#+          by lithium gamma rays.
+#AUTHOR(S)  W.H.Hartley, W.E.Stephens, E.J.Winhold
+#REF-CODE   (J,PR,104,178,1956)
+#REFERENCE  Phys.Rev. 104 (1956) 178 (doi:10.1103/PhysRev.104.178)
+#DATASETS   0
+#
+#DATASET    M03200081
+#DATE       20260119
+#REACTION   50-SN-0(G,X)0-NN-1,,SIG,,SPA
+#PROJ       0
+#TARG       50000
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 50000   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 50000   3 201    1.6200+7 441000.0 0.200000 0.030000                                       W.H.Hartley+         (56)M0320  81
+#/DATA      1
+#/DATASET

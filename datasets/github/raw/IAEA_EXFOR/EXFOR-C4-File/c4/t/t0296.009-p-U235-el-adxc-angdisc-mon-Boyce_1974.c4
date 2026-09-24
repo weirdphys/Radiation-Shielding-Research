@@ -1,0 +1,81 @@
+#ENTRY      T0296
+#AUTHOR1    J.R.Boyce+
+#YEAR       1974
+#INSTITUTE  (1USADKE)
+#TITLE      Absolute cross sections for proton-induced fission of
+#+          the uranium isotopes.
+#AUTHOR(S)  J.R.Boyce, T.D.Hayward, R.Bass, H.W.Newson, E.G.Bilpuch, 
+#+          F.O.Purser, H.W.Schmitt
+#REF-CODE   (J,PR/C,10,231,197407)
+#REFERENCE  Phys.Rev.C 10 (1974) 231 (doi:10.1103/PhysRevC.10.231)
+#DATASETS   0
+#
+#DATASET    T0296009 
+#DATE       20040719
+#REACTION   92-U-235(P,EL)92-U-235,,DA,,RTH
+#PROJ       1001
+#TARG       92235
+#MF         4
+#MT         2
+#PRODUCT    92-U-235
+#C4BEGIN    [ 1001 92235   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92235   4   2  C 1.3750+7          1.843441          0.645458                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 1.3750+7          0.885114          0.503020                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 1.3750+7          0.445665          0.348572                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 1.3750+7          0.232115          0.171929                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 1.3750+7          0.157277         -5.2360-3                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 1.3750+7          0.103106         -0.171929                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 1.3750+7          0.066978         -0.358368                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 1.3750+7          0.050262         -0.509041                              J.R.Boyce+           (74)T0296  9 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0296009 
+#DATE       20040719
+#REACTION   92-U-235(P,EL)92-U-235,,DA,,RTH
+#PROJ       1001
+#TARG       92235
+#MF         4
+#MT         2
+#PRODUCT    92-U-235
+#C4BEGIN    [ 1001 92235   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92235   4   2  C 2.0000+7          0.194710          0.500000                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.0000+7          0.118155          0.333807                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.0000+7          0.067634          0.177085                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.0000+7          0.029663         -3.4907-3                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.0000+7          0.019426         -0.190809                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.0000+7          0.015418         -0.342020                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.0000+7          0.011135         -0.498488                              J.R.Boyce+           (74)T0296  9 
+#/DATA      7
+#/DATASET
+#
+#DATASET    T0296009 
+#DATE       20040719
+#REACTION   92-U-235(P,EL)92-U-235,,DA,,RTH
+#PROJ       1001
+#TARG       92235
+#MF         4
+#MT         2
+#PRODUCT    92-U-235
+#C4BEGIN    [ 1001 92235   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92235   4   2  C 2.5000+7          0.199203          0.646790                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.5000+7          0.086472          0.506034                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.5000+7          0.060210          0.340380                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.5000+7          0.036712          0.246999                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.5000+7          0.023246          0.168489                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.5000+7          0.013561         -0.024432                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.5000+7          9.7038-3         -0.180519                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.5000+7          0.010043         -0.270600                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.5000+7          4.9980-3         -0.351842                              J.R.Boyce+           (74)T0296  9 
+ 1001 92235   4   2  C 2.5000+7          2.8563-3         -0.506034                              J.R.Boyce+           (74)T0296  9 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      L0177
+#AUTHOR1    L.S.Myers+
+#YEAR       2012
+#INSTITUTE  (1USATNL)
+#TITLE      Compton scattering from 6Li at 60 MeV
+#AUTHOR(S)  L.S.Myers, M.W.Ahmed, G.Feldman, S.S.Henshaw, M.A.Kovash, 
+#+          J.M.Mueller, H.R.Weller
+#REF-CODE   (J,PR/C,86,044614,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 044614 (doi:10.1103/PhysRevC.86.044614)
+#DATASETS   0
+#
+#DATASET    L0177003 
+#DATE       20121113
+#REACTION   3-LI-6(G,EL)3-LI-6,,DA
+#PROJ       0
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    0  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   4   2    6.0000+7 2700000. 1.9600-7 1.0000-8 0.766044                              L.S.Myers+           (12)L0177  3 
+    0  3006   4   2    6.0000+7 2700000. 1.7600-7 8.0000-9 0.573576                              L.S.Myers+           (12)L0177  3 
+    0  3006   4   2    6.0000+7 2700000. 1.2500-7 7.0000-9 0.258819                              L.S.Myers+           (12)L0177  3 
+    0  3006   4   2    6.0000+7 2700000. 1.3500-7 7.0000-9 6.123-17                              L.S.Myers+           (12)L0177  3 
+    0  3006   4   2    6.0000+7 2700000. 1.3900-7 8.0000-9-0.342020                              L.S.Myers+           (12)L0177  3 
+    0  3006   4   2    6.0000+7 2700000. 1.7700-7 9.0000-9-0.573576                              L.S.Myers+           (12)L0177  3 
+    0  3006   4   2    6.0000+7 2700000. 1.7800-7 9.0000-9-0.819152                              L.S.Myers+           (12)L0177  3 
+    0  3006   4   2    6.0000+7 2700000. 1.9800-7 8.0000-9-0.933580                              L.S.Myers+           (12)L0177  3 
+#/DATA      8
+#/DATASET

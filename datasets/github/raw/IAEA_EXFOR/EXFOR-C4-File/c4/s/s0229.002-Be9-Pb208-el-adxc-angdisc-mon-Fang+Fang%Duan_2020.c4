@@ -1,0 +1,45 @@
+#ENTRY      S0229
+#AUTHOR1    Fang-Fang Duan+
+#YEAR       2020
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Experimental study of the elastic scattering of 10Be
+#+          on 208Pb at the energy of around three times the
+#+          Coulomb barrier
+#AUTHOR(S)  Fang-Fang Duan, Yan-Yun Yang, Dan-Yang Pang, Bi-Tao Hu, 
+#+          Jian-Song Wang, Kang Wang, Guo Yang, Valdir Guimaraes, Peng Ma, 
+#+          Shi-Wei Xu, Xing-Quan Liu, Jun-Bing Ma, Zhen Bai, Qiang Hu, 
+#+          Shu-Ya Jin, Xin-Xin Sun, Jia-Sheng Yao, Hang-Kai Qi, Zhi-Yu Sun
+#REF-CODE   (J,CPH/C,44,024001,2020)
+#REFERENCE  Chin.Phys.C 44 (2020) 024001 (doi:10.1088/1674-1137/44/2/024001)
+#DATASETS   0
+#
+#DATASET    S0229002 
+#DATE       20201223
+#REACTION   82-PB-208(4-BE-9,EL)82-PB-208,,DA,,RTH
+#PROJ       4009
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 4009 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 82208   4   2  C 8.8000+7          3120.913 162.9043 0.994990                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          1579.606 49.78266 0.993004                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          933.7155 25.58434 0.990690                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          551.8038 15.12077 0.988047                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          367.5819 10.50636 0.985076                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          231.5567 7.593574 0.981779                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          165.4678 6.200424 0.978156                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          114.8861 5.173777 0.974209                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          77.99822 4.401817 0.969940                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          70.52674 4.127319 0.965348                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          48.55189 3.374483 0.960436                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          38.78713 3.038083 0.955207                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          30.31845 3.548480 0.949660                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          26.27669 4.379407 0.943798                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          21.06256 3.911101 0.937623                              Fang-Fang Duan+      (20)S0229  2 
+ 4009 82208   4   2  C 8.8000+7          17.75397 3.874223 0.931139                              Fang-Fang Duan+      (20)S0229  2 
+#/DATA      16
+#/DATASET

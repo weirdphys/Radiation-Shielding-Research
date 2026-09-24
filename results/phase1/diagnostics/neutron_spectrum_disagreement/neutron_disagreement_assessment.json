@@ -1,0 +1,96 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "thresholds_preserved": {
+    "neutron_median_factor_limit": 1.5,
+    "neutron_fraction_within_factor2_min": 0.8
+  },
+  "benchmark_results": {
+    "N001_JAERI_TIARA_43MEV": {
+      "rows": 310,
+      "valid_ratio_rows": 304,
+      "median_factor_error": 1.2102059496358462,
+      "fraction_within_factor2": 0.9342105263157895,
+      "passes_predeclared_gate": true,
+      "iron_collimator_summary": [
+        {
+          "benchmark_id": "N001_JAERI_TIARA_43MEV",
+          "iron_configuration": "IRON_PRESENT",
+          "additional_iron_collimator_cm": 40.0,
+          "n": 231,
+          "valid_ratio_rows": 227,
+          "geometric_mean_mc_over_reference": 0.881591018322589,
+          "median_mc_over_reference": 0.9896295947519889,
+          "median_factor_error": 1.1996600000179216,
+          "fraction_within_factor2": 0.933920704845815,
+          "fraction_mc_over_2x_reference": 0.00881057268722467,
+          "fraction_mc_under_half_reference": 0.05726872246696035,
+          "median_abs_log10_ratio": 0.07905817851551541,
+          "median_abs_uncertainty_z": 1.0326462459691137,
+          "fraction_within_2sigma": 0.7929515418502202
+        },
+        {
+          "benchmark_id": "N001_JAERI_TIARA_43MEV",
+          "iron_configuration": "NO_ADDITIONAL_IRON",
+          "additional_iron_collimator_cm": 0.0,
+          "n": 79,
+          "valid_ratio_rows": 77,
+          "geometric_mean_mc_over_reference": 0.9717707622398272,
+          "median_mc_over_reference": 1.0836667739673365,
+          "median_factor_error": 1.2260758108381427,
+          "fraction_within_factor2": 0.935064935064935,
+          "fraction_mc_over_2x_reference": 0.025974025974025976,
+          "fraction_mc_under_half_reference": 0.03896103896103896,
+          "median_abs_log10_ratio": 0.08851732435104696,
+          "median_abs_uncertainty_z": 0.8778648468106139,
+          "fraction_within_2sigma": 0.8441558441558441
+        }
+      ]
+    },
+    "N002_JAERI_TIARA_68MEV": {
+      "rows": 455,
+      "valid_ratio_rows": 452,
+      "median_factor_error": 1.2389489834900484,
+      "fraction_within_factor2": 0.9137168141592921,
+      "passes_predeclared_gate": true,
+      "iron_collimator_summary": [
+        {
+          "benchmark_id": "N002_JAERI_TIARA_68MEV",
+          "iron_configuration": "IRON_PRESENT",
+          "additional_iron_collimator_cm": 80.0,
+          "n": 302,
+          "valid_ratio_rows": 300,
+          "geometric_mean_mc_over_reference": 1.0065912195898161,
+          "median_mc_over_reference": 1.066310187255687,
+          "median_factor_error": 1.1799989912821913,
+          "fraction_within_factor2": 0.94,
+          "fraction_mc_over_2x_reference": 0.016666666666666666,
+          "fraction_mc_under_half_reference": 0.043333333333333335,
+          "median_abs_log10_ratio": 0.07188163605123951,
+          "median_abs_uncertainty_z": 1.0256162585141375,
+          "fraction_within_2sigma": 0.7466666666666667
+        },
+        {
+          "benchmark_id": "N002_JAERI_TIARA_68MEV",
+          "iron_configuration": "NO_ADDITIONAL_IRON",
+          "additional_iron_collimator_cm": 0.0,
+          "n": 153,
+          "valid_ratio_rows": 152,
+          "geometric_mean_mc_over_reference": 0.9261925568967458,
+          "median_mc_over_reference": 0.9284510602998003,
+          "median_factor_error": 1.3628764071310802,
+          "fraction_within_factor2": 0.8618421052631579,
+          "fraction_mc_over_2x_reference": 0.05263157894736842,
+          "fraction_mc_under_half_reference": 0.08552631578947369,
+          "median_abs_log10_ratio": 0.13445647349079995,
+          "median_abs_uncertainty_z": 1.2751401263880102,
+          "fraction_within_2sigma": 0.7368421052631579
+        }
+      ]
+    }
+  },
+  "interpretation": [
+    "Entrance source-normalization probes are evaluated separately; this diagnostic therefore does not apply any post-hoc normalization fit.",
+    "No Phase-I acceptance threshold is changed by this diagnostic.",
+    "No additional neutron Geant4 rerun is launched here. The purpose is to localize any remaining discrepancy before changing geometry, source modeling, detector response, or neutron-physics assumptions."
+  ]
+}

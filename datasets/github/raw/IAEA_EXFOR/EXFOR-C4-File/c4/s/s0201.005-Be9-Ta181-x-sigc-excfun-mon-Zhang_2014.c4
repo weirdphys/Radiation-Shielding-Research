@@ -1,0 +1,40 @@
+#ENTRY      S0201
+#AUTHOR1    N.T.Zhang+
+#YEAR       2014
+#INSTITUTE  (3CPRIMP)
+#TITLE      Complete and incomplete fusion in the 9Be+181Ta
+#+          reaction
+#AUTHOR(S)  N.T.Zhang, Y.D.Fang, P.R.S.Gomes, J.Lubian, M.L.Liu, X.H.Zhou, 
+#+          G.S.Li, J.G.Wang, S.Guo, Y.H.Qiang, Y.H.Zhang, D.R.Mendes Jr, 
+#+          Y.Zheng, X.G.Lei, B.S.Gao, Z.G.Wang, K.L.Wang, X.F.He
+#REF-CODE   (J,PR/C,90,024621,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 024621 (doi:10.1103/PhysRevC.90.024621)
+#DATASETS   0
+#
+#DATASET    S0201005 
+#DATE       20200218
+#REACTION   73-TA-181(4-BE-9,X)75-RE-183,(CUM),SIG
+#PROJ       4009
+#TARG       73181
+#MF         3
+#MT         459
+#PRODUCT    75-RE-183
+#C4BEGIN    [ 4009 73181   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 73181   3 459    5.0300+7          0.196600 0.014300           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    4.9200+7          0.165200 0.013000           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    4.8100+7          0.156300 0.012700           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    4.7000+7          0.132500 7.9000-3           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    4.5900+7          0.114900 0.013700           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    4.4700+7          0.091600 7.1000-3           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    4.3500+7          0.055900 3.1000-3           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    4.2300+7          0.036400 2.0000-3           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    4.0300+7          0.015900 1.0000-3           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    3.9000+7          7.8000-3 1.4000-3           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    3.7800+7          5.2000-3 7.0000-4           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    3.6500+7          2.6000-3 9.0000-4           75183.9                     N.T.Zhang+           (14)S0201  5 
+ 4009 73181   3 459    3.5300+7          8.0000-4 2.0000-4           75183.9                     N.T.Zhang+           (14)S0201  5 
+#/DATA      13
+#/DATASET

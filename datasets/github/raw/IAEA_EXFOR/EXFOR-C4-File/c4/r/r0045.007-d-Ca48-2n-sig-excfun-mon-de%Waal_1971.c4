@@ -1,0 +1,33 @@
+#ENTRY      R0045
+#AUTHOR1    T.J.de Waal+
+#YEAR       1971
+#INSTITUTE  (3SAFSUN)
+#TITLE      Activation cross sections for deutron-induced reactions
+#+          on calcium isotopes up to 5.5 MeV
+#AUTHOR(S)  T.J.de Waal, M.Peisach, R.Pretorius
+#REF-CODE   (J,RCA,15,(3),123,197104)
+#REFERENCE  Radiochim.Acta 15 No.3 (1971) 123 (doi:10.1524/ract.1971.15.3.123)
+#DATASETS   0
+#
+#DATASET    R0045007 
+#DATE       20060906
+#REACTION   20-CA-48(D,2N)21-SC-48,,SIG
+#PROJ       1002
+#TARG       20048
+#MF         3
+#MT         16
+#PRODUCT    21-SC-48
+#C4BEGIN    [ 1002 20048   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 20048   3  16    5456000.          0.098000 3.9000-3                                       T.J.de Waal+         (71)R0045  7 
+ 1002 20048   3  16    5120000.          0.073200 5.1000-3                                       T.J.de Waal+         (71)R0045  7 
+ 1002 20048   3  16    4954000.          0.046500 3.7000-3                                       T.J.de Waal+         (71)R0045  7 
+ 1002 20048   3  16    4787000.          0.043000 4.3000-3                                       T.J.de Waal+         (71)R0045  7 
+ 1002 20048   3  16    4450000.          0.035900 2.8000-3                                       T.J.de Waal+         (71)R0045  7 
+ 1002 20048   3  16    4404000.          0.032200 2.5000-3                                       T.J.de Waal+         (71)R0045  7 
+ 1002 20048   3  16    4026000.          0.014000 2.7000-3                                       T.J.de Waal+         (71)R0045  7 
+ 1002 20048   3  16    3950000.          7.5000-3 1.0000-3                                       T.J.de Waal+         (71)R0045  7 
+#/DATA      8
+#/DATASET

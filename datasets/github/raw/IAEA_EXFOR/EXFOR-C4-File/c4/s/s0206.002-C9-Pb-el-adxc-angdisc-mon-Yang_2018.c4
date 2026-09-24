@@ -1,0 +1,42 @@
+#ENTRY      S0206
+#AUTHOR1    Y.Y.Yang+
+#YEAR       2018
+#INSTITUTE  (3CPRIMP)
+#TITLE      Elastic scattering of the proton drip line nuclei 7Be,
+#+          8B, and 9C on a lead target at energies around three
+#+          times the Coulomb barriers
+#AUTHOR(S)  Y.Y.Yang, X.Liu, D.Y.Pang, D.Patel, R.F.Chen, J.S.Wang, 
+#+          P.Ma, J.B.Ma, S.L.Jin, Z.Bai, V.Guimaraes, Q.Wang, W.H.Ma, 
+#+          F.F.Duan, Z.H.Gao, Y.C.Yu, Z.Y.Sun, Z.G.Hu, S.W.Xu, S.T.Wang, 
+#+          D.Yan, Y.Zhou, Y.H.Zhang, X.H.Zhou, H.S.Xu, G.Q.Xiao, W.L.Zhan
+#REF-CODE   (J,PR/C,98,044608,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 044608 (doi:10.1103/PhysRevC.98.044608)
+#DATASETS   0
+#
+#DATASET    S0206002 
+#DATE       20220921
+#REACTION   82-PB-0(6-C-9,EL)82-PB-0,,DA,,RTH
+#PROJ       6009
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [ 6009 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6009 82000   4   2  C 2.2700+8 1589000. 315.2418 58.57119 0.990700                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 180.2337 22.99278 0.988041                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 125.1996 11.67418 0.985079                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 80.32503 6.640417 0.981793                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 68.70469 4.847777 0.978184                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 46.10282 3.350032 0.974213                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 32.32098 2.526913 0.969957                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 19.98266 1.858853 0.965382                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 9.784712 1.274051 0.960488                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 6.417836 1.060799 0.955278                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 3.500855 0.807083 0.949699                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 2.322318 0.698378 0.943859                              Y.Y.Yang+            (18)S0206  2 
+ 6009 82000   4   2  C 2.2700+8 1589000. 1.435230 0.587761 0.937707                              Y.Y.Yang+            (18)S0206  2 
+#/DATA      13
+#/DATASET

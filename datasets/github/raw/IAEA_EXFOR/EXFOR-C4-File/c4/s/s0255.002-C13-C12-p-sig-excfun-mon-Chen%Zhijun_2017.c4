@@ -1,0 +1,40 @@
+#ENTRY      S0255
+#AUTHOR1    Chen Zhijun+
+#YEAR       2017
+#INSTITUTE  (3CPRIMP)
+#TITLE      Measurement of 12C+13C fusion cross sections below
+#+          coulomb barrier energies
+#AUTHOR(S)  Chen Zhijun, Zhang Ningtao, Li Qite, Ren Xiaotang, Tang Xiaodong, 
+#+          Wang Xinyu, Xu Jinyan, Xu Shiwei
+#REF-CODE   (J,CNPR,34,705,2017)
+#REFERENCE  Nucl.Phys.Rev. 34 (2017) 705
+#DATASETS   0
+#
+#DATASET    S0255002 
+#DATE       20220104
+#REACTION   6-C-12(6-C-13,P)11-NA-24,,SIG
+#PROJ       6013
+#TARG       6012
+#MF         3
+#MT         103
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 6013  6012   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6013  6012   3 103    1.1941+7          0.019700                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    1.1732+7          0.014300                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    1.1336+7          0.013300                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    1.1149+7          9.6800-3                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    1.0940+7          6.9200-3                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    1.0732+7          5.2700-3                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    1.0544+7          5.0000-3                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    1.0336+7          3.4000-3                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    1.0148+7          2.8500-3                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    9939851.          2.0400-3                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    9752288.          1.5200-3                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    9543885.          1.1300-3                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    9335483.          7.8800-4                                                Chen Zhijun+         (17)S0255  2 
+ 6013  6012   3 103    9147922.          5.7400-4                                                Chen Zhijun+         (17)S0255  2 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      M0488
+#AUTHOR1    Y.Birenbaum+
+#YEAR       1985
+#INSTITUTE  (3ISLNEG)
+#TITLE      Absolute cross section for the photodisintegration
+#+          of deuterium.
+#AUTHOR(S)  Y.Birenbaum, S.Kahane, R.Moreh
+#REF-CODE   (J,PR/C,32,1825,1985)
+#REFERENCE  Phys.Rev.C 32 (1985) 1825 (doi:10.1103/PhysRevC.32.1825)
+#DATASETS   0
+#
+#DATASET    M0488002 
+#DATE       20180301
+#REACTION   1-H-2(G,N)1-H-1,,SIG
+#PROJ       0
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   3   4    5970000.          2.1620-3 9.9000-5                                       Y.Birenbaum+         (85)M0488  2 
+    0  1002   3   4    7250000. 10000.00 1.8820-3 1.1000-5                                       Y.Birenbaum+         (85)M0488  2 
+    0  1002   3   4    7600000. 10000.00 1.8030-3 1.6000-5                                       Y.Birenbaum+         (85)M0488  2 
+    0  1002   3   4    7640000.          1.8100-3 2.8000-5                                       Y.Birenbaum+         (85)M0488  2 
+    0  1002   3   4    8800000. 20000.00 1.5860-3 1.1000-5                                       Y.Birenbaum+         (85)M0488  2 
+    0  1002   3   4    9000000.          1.5700-3 3.6000-5                                       Y.Birenbaum+         (85)M0488  2 
+    0  1002   3   4    1.1390+7          1.2570-3 3.6000-5                                       Y.Birenbaum+         (85)M0488  2 
+#/DATA      7
+#/DATASET

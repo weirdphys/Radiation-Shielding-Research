@@ -1,0 +1,42 @@
+#ENTRY      B0027
+#AUTHOR1    E.Gadioli+
+#YEAR       1974
+#INSTITUTE  (2ITYMIL)
+#TITLE      Excitation Functions of V-51, Fe-56, Cu-65(P,N)
+#+          Reactions Between 10 and 45 MeV
+#AUTHOR(S)  E.Gadioli, A.M.Grassi Strini, G.Lo Bianco, G.Strini, G.Tagliaferri
+#REF-CODE   (J,NC/A,22,547,1974)
+#REFERENCE  Nuovo Cim.A 22 (1974) 547 (doi:10.1007/BF02804838)
+#DATASETS   0
+#
+#DATASET    B0027002 
+#DATE       20011220
+#REACTION   23-V-51(P,N)24-CR-51,,SIG,,,EXP
+#PROJ       1001
+#TARG       23051
+#MF         3
+#MT         4
+#PRODUCT    24-CR-51
+#C4BEGIN    [ 1001 23051   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 23051   3   4    1.1300+7          0.833600                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    1.3600+7          0.784900                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    1.5400+7          0.435900                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    1.7900+7          0.212100                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    1.9800+7          0.135800                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    2.1700+7          0.090700                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    2.4300+7          0.067100                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    2.6000+7          0.063700                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    2.8100+7          0.058300                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    2.9800+7          0.042600                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    3.2100+7          0.039300                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    3.4000+7          0.040100                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    3.6200+7          0.035700                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    3.8400+7          0.035600                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    4.0600+7          0.030800                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    4.2400+7          0.028800                                                E.Gadioli+           (74)B0027  2 
+ 1001 23051   3   4    4.4700+7          0.030100                                                E.Gadioli+           (74)B0027  2 
+#/DATA      17
+#/DATASET

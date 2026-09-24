@@ -1,0 +1,32 @@
+#ENTRY      M0755
+#AUTHOR1    Y.Birenbaum+
+#YEAR       1995
+#INSTITUTE  (3ISLNEG)
+#TITLE      Absolute cross sections for (gamma,n) transitions  in
+#+          lead, bismuth, and terbium.
+#AUTHOR(S)  Y.Birenbaum, Z.Berant, S.Kahane, A.Wolf, R.Moreh
+#REF-CODE   (J,PR/C,51,3496,1995)
+#REFERENCE  Phys.Rev.C 51 (1995) 3496 (doi:10.1103/PhysRevC.51.3496)
+#DATASETS   0
+#
+#DATASET    M0755006 
+#DATE       20080814
+#REACTION   82-PB-208(G,N)82-PB-207,PAR,SIG
+#PROJ       0
+#TARG       82208
+#MF         3
+#MT         50
+#PRODUCT    82-PB-207
+#C4BEGIN    [    0 82208   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82208   3  50    7632000.          0.054000 9.0000-3                   0.000000         LVLY.Birenbaum+         (95)M0755  6 
+    0 82208   3  50    8533000.          9.2000-3 9.0000-4                   0.000000         LVLY.Birenbaum+         (95)M0755  6 
+    0 82208   3  50    8999000.          9.3000-3 8.0000-4                   0.000000         LVLY.Birenbaum+         (95)M0755  6 
+    0 82208   3  50    9298000.          0.047200 9.6000-3                   0.000000         LVLY.Birenbaum+         (95)M0755  6 
+    0 82208   3  50    9720000.          3.6000-3 1.0000-3                   0.000000         LVLY.Birenbaum+         (95)M0755  6 
+    0 82208   3  50    1.0055+7          0.109000 0.028000                   0.000000         LVLY.Birenbaum+         (95)M0755  6 
+    0 82208   3  50    1.1387+7          0.313000 0.065000                   0.000000         LVLY.Birenbaum+         (95)M0755  6 
+#/DATA      7
+#/DATASET

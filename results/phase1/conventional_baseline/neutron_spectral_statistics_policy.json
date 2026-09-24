@@ -1,0 +1,14 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "purpose": "Prevent statistically sparse neutron-transmission spectra from entering the N001/N002 physics-agreement metric.",
+  "minimum_positive_mc_bin_fraction_among_reference_positive_bins": 0.9,
+  "maximum_median_relative_mc_statistical_sigma": 0.4,
+  "maximum_p90_relative_mc_statistical_sigma": 0.75,
+  "agreement_thresholds_changed": false,
+  "targeted_high_stat_history_floors": {
+    "N001_JAERI_TIARA_43MEV__TRANS__JAERI_43MEV_BC501A_T100_FE000": 10000000,
+    "N001_JAERI_TIARA_43MEV__TRANS__JAERI_43MEV_BC501A_T150_FE000": 100000000,
+    "N002_JAERI_TIARA_68MEV__TRANS__JAERI_68MEV_BC501A_T150_FE000": 10000000,
+    "N002_JAERI_TIARA_68MEV__TRANS__JAERI_68MEV_BC501A_T200_FE000": 100000000
+  }
+}

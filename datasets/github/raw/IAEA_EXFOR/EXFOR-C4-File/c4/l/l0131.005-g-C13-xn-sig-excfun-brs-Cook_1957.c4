@@ -1,0 +1,38 @@
+#ENTRY      L0131
+#AUTHOR1    B.C.Cook+
+#YEAR       1957
+#INSTITUTE  (1USACHI)
+#TITLE      Photodisintegration of C13
+#AUTHOR(S)  B.C.Cook, A.S.Penfold, V.L.Telegdi
+#REF-CODE   (J,PR,106,300,1957)
+#REFERENCE  Phys.Rev. 106 (1957) 300 (doi:10.1103/PhysRev.106.300)
+#DATASETS   0
+#
+#DATASET    L0131005 
+#DATE       20150204
+#REACTION   6-C-13(G,X)0-NN-1,,SIG,,BRS
+#PROJ       0
+#TARG       6013
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0  6013   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6013   3 201    2.4567+7          7.3950-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    2.5554+7          8.4460-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    2.6509+7          8.6700-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    2.7535+7          7.1560-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    2.8560+7          6.2780-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    2.9551+7          5.1420-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    3.0542+7          4.2650-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    3.1533+7          3.5080-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    3.2558+7          2.7860-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    3.3480+7          2.1320-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    3.4573+7          1.4610-3                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    3.5529+7          8.9300-4                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    3.6554+7          4.9800-4                                                B.C.Cook+            (57)L0131  5 
+    0  6013   3 201    3.7578+7          6.8000-5                                                B.C.Cook+            (57)L0131  5 
+#/DATA      14
+#/DATASET

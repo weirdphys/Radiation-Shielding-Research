@@ -1,0 +1,32 @@
+#ENTRY      M0995
+#AUTHOR1    A.N.Gorbunov+
+#YEAR       1960
+#INSTITUTE  (4RUSLEB)
+#TITLE      The 27Al -> 24Na, 59Co -> 56Mn, and 31P -> 24Na
+#+          reactions in the 260 MeV gamma-ray energy range.
+#AUTHOR(S)  A.N.Gorbunov, F.P.Denisov, V.A.Kolotukhin
+#REF-CODE   (J,ZET,38,1084,1960)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 38 (1960) 1084
+#DATASETS   0
+#
+#DATASET    M0995004 
+#DATE       20191112
+#REACTION   15-P-31(G,X)11-NA-24,,SIG,,BRS
+#PROJ       0
+#TARG       15031
+#MF         3
+#MT         454
+#PRODUCT    11-NA-24
+#C4BEGIN    [    0 15031   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 15031   3 454    6.2930+7          6.0317-5 1.4286-5           11024.9                     A.N.Gorbunov+        (60)M0995  4 
+    0 15031   3 454    7.5680+7          2.8056-5 1.6667-5           11024.9                     A.N.Gorbunov+        (60)M0995  4 
+    0 15031   3 454    9.1840+7          2.7777-5 9.9370-6           11024.9                     A.N.Gorbunov+        (60)M0995  4 
+    0 15031   3 454    1.2245+8          3.7888-5 1.0254-5           11024.9                     A.N.Gorbunov+        (60)M0995  4 
+    0 15031   3 454    1.6071+8          4.6429-5 1.0722-5           11024.9                     A.N.Gorbunov+        (60)M0995  4 
+    0 15031   3 454    1.9048+8          4.8412-5 1.2310-5           11024.9                     A.N.Gorbunov+        (60)M0995  4 
+    0 15031   3 454    2.2959+8          7.2222-5 1.0421-5           11024.9                     A.N.Gorbunov+        (60)M0995  4 
+#/DATA      7
+#/DATASET

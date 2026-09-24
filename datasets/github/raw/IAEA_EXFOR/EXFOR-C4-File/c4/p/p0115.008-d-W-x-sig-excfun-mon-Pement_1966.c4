@@ -1,0 +1,32 @@
+#ENTRY      P0115
+#AUTHOR1    F.W.Pement+
+#YEAR       1966
+#INSTITUTE  (1USAPUP)
+#TITLE      Compound-statistical features of deuteron-induced
+#+          reactions: (II). The compound nucleus and stripping-
+#+          evaporation mechanisms in (d,2n) reactions
+#AUTHOR(S)  F.W.Pement, R.L.Wolke
+#REF-CODE   (J,NP,86,429,1966)
+#REFERENCE  Nucl.Phys. 86 (1966) 429 (doi:10.1016/0029-5582(66)90550-5)
+#DATASETS   0
+#
+#DATASET    P0115008 
+#DATE       20230112
+#REACTION   74-W-0(D,X)75-RE-184-G,,SIG
+#PROJ       1002
+#TARG       74000
+#MF         3
+#MT         454
+#PRODUCT    75-RE-184-G
+#C4BEGIN    [ 1002 74000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 74000   3 454    7300000.          0.034000 6.0000-3           75184.0                     F.W.Pement+          (66)P0115  8 
+ 1002 74000   3 454    8700000.          0.075000 0.012000           75184.0                     F.W.Pement+          (66)P0115  8 
+ 1002 74000   3 454    1.0000+7          0.171000 0.028000           75184.0                     F.W.Pement+          (66)P0115  8 
+ 1002 74000   3 454    1.1500+7          0.249000 0.041000           75184.0                     F.W.Pement+          (66)P0115  8 
+ 1002 74000   3 454    1.2900+7          0.413000 0.068000           75184.0                     F.W.Pement+          (66)P0115  8 
+ 1002 74000   3 454    1.4100+7          0.456000 0.075000           75184.0                     F.W.Pement+          (66)P0115  8 
+#/DATA      6
+#/DATASET

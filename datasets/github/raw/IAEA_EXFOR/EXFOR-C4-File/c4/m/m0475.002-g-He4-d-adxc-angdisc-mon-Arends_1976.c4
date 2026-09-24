@@ -1,0 +1,68 @@
+#ENTRY      M0475
+#AUTHOR1    J.Arends+
+#YEAR       1976
+#INSTITUTE  (2GERBON)
+#TITLE      Experimental investigation    of    the    He-4(g,d)d
+#+          reaction.
+#AUTHOR(S)  J.Arends, J.Eyink, T.Hegerath, H.Hartmann, B.Mecking, G.Noldeke, 
+#+          H.Rost
+#REF-CODE   (J,PL/B,62,411,1976)
+#REFERENCE  Phys.Lett.B 62 (1976) 411 (doi:10.1016/0370-2693(76)90671-7)
+#DATASETS   0
+#
+#DATASET    M0475002 
+#DATE       20160426
+#REACTION   2-HE-4(G,D)1-H-2,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         104
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2004   4 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 104  C 2.1300+8          2.200-10 4.000-11 0.694658                              J.Arends+            (76)M0475  2 
+    0  2004   4 104  C 2.1300+8          3.500-10 9.000-11 0.484810                              J.Arends+            (76)M0475  2 
+    0  2004   4 104  C 2.1300+8          4.100-10 9.000-11 0.292372                              J.Arends+            (76)M0475  2 
+    0  2004   4 104  C 2.1300+8          5.400-10 1.000-10 0.052336                              J.Arends+            (76)M0475  2 
+#/DATA      4
+#/DATASET
+#
+#DATASET    M0475002 
+#DATE       20160426
+#REACTION   2-HE-4(G,D)1-H-2,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         104
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2004   4 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 104  C 2.5800+8          8.000-11 3.000-11 0.694658                              J.Arends+            (76)M0475  2 
+    0  2004   4 104  C 2.5800+8          2.300-10 8.000-11 0.484810                              J.Arends+            (76)M0475  2 
+    0  2004   4 104  C 2.5800+8          1.600-10 7.000-11 0.292372                              J.Arends+            (76)M0475  2 
+    0  2004   4 104  C 2.5800+8          2.500-10 7.000-11 0.052336                              J.Arends+            (76)M0475  2 
+#/DATA      4
+#/DATASET
+#
+#DATASET    M0475002 
+#DATE       20160426
+#REACTION   2-HE-4(G,D)1-H-2,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         104
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2004   4 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 104  C 3.3000+8          1.400-10 3.000-11 0.694658                              J.Arends+            (76)M0475  2 
+    0  2004   4 104  C 3.3000+8          1.600-10 5.000-11 0.484810                              J.Arends+            (76)M0475  2 
+    0  2004   4 104  C 3.3000+8          7.000-11 5.000-11 0.292372                              J.Arends+            (76)M0475  2 
+    0  2004   4 104  C 3.3000+8          1.900-10 5.000-11 0.052336                              J.Arends+            (76)M0475  2 
+#/DATA      4
+#/DATASET

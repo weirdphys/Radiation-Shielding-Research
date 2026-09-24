@@ -1,0 +1,29 @@
+#ENTRY      M0921
+#AUTHOR1    A.El Sioufi+
+#YEAR       1957
+#INSTITUTE  (2SWTETH)
+#TITLE      (gamma,np)- Process in Mo-92 and Zn-66.
+#AUTHOR(S)  A.El Sioufi, P.Erdos, P.Stoll
+#REF-CODE   (J,HPA,30,264,1957)
+#REFERENCE  Helv.Phys.Acta 30 (1957) 264
+#DATASETS   0
+#
+#DATASET    M0921002 
+#DATE       20140312
+#REACTION   30-ZN-68(G,P)29-CU-67,,SIG,,BRS
+#PROJ       0
+#TARG       30068
+#MF         3
+#MT         103
+#PRODUCT    29-CU-67
+#C4BEGIN    [    0 30068   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 30068   3 103    1.5000+7          1.0600-3 4.2000-4                                       A.El Sioufi+         (57)M0921  2 
+    0 30068   3 103    1.8350+7          5.3400-3 9.3000-4                                       A.El Sioufi+         (57)M0921  2 
+    0 30068   3 103    2.1960+7          0.011760 5.9000-4                                       A.El Sioufi+         (57)M0921  2 
+    0 30068   3 103    2.4310+7          7.9300-3 7.9000-4                                       A.El Sioufi+         (57)M0921  2 
+    0 30068   3 103    2.7050+7          2.1100-3 2.1000-3                                       A.El Sioufi+         (57)M0921  2 
+#/DATA      5
+#/DATASET

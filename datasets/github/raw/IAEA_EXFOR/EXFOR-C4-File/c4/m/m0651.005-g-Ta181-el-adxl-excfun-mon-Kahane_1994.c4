@@ -1,0 +1,26 @@
+#ENTRY      M0651
+#AUTHOR1    S.Kahane+
+#YEAR       1994
+#INSTITUTE  (3ISLNEG)
+#TITLE      Elastic scattering cross sections of 11.4  MeV
+#+          photons from 206,207,208Pb, 209Bi, and 181Ta.
+#AUTHOR(S)  S.Kahane, R.Moreh
+#REF-CODE   (J,PR/C,50,2000,1994)
+#REFERENCE  Phys.Rev.C 50 (1994) 2000 (doi:10.1103/PhysRevC.50.2000)
+#DATASETS   0
+#
+#DATASET    M0651005 
+#DATE       20050221
+#REACTION   73-TA-181(G,EL)73-TA-181,,DA
+#PROJ       0
+#TARG       73181
+#MF         4
+#MT         2
+#PRODUCT    73-TA-181
+#C4BEGIN    [    0 73181   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 73181   4   2    1.1400+7          7.9000-5          6.123-17                              S.Kahane+            (94)M0651  5 
+#/DATA      1
+#/DATASET

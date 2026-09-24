@@ -1,0 +1,2 @@
+curve,observable,ensemble_group,individual_MI_delay_samples,individual_MI_delay_coordinate,selection_method,common_delay_coordinate,applied_delay_samples,applied_delay_coordinate,relative_feedback_rms,roughness_ratio,variance_ratio,correlation_original_controlled
+PDD,pdd_percent,PDD,2,1.0,first local minimum,1.0,2,1.0,0.008082158910991614,0.9165534314362459,0.99202312309906,0.9998077999411779

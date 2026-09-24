@@ -1,0 +1,45 @@
+#ENTRY      B0086
+#AUTHOR1    D.C.Aumann+
+#YEAR       1977
+#INSTITUTE  (2GERMUN)
+#TITLE      Absolute Cross Sections and Isomeric Cross-Section
+#+          Ratios For the Nd-148(D,2N), Nd-148(P,N), and
+#+          Nd-146(A,PN) Reactions Producing the Isomeric Pair
+#+          Pm-148-M,-G
+#AUTHOR(S)  D.C.Aumann, W.Gueckel
+#REF-CODE   (J,PR/C,16,160,1977)
+#REFERENCE  Phys.Rev.C 16 (1977) 160 (doi:10.1103/PhysRevC.16.160)
+#DATASETS   0
+#
+#DATASET    B0086002G
+#DATE       20020111
+#REACTION   60-ND-148(P,N)61-PM-148-G,,SIG,,,EXP
+#PROJ       1001
+#TARG       60148
+#MF         3
+#MT         4
+#PRODUCT    61-PM-148-G
+#C4BEGIN    [ 1001 60148   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 60148   3   4G   9000000.          0.079800 0.012000                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   1.3300+7 1300000. 0.021100 3.2000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   1.4300+7          0.018000 2.7000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   1.6800+7          0.014500 2.2000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   1.9800+7          0.015100 2.3000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   2.2900+7          0.013000 2.0000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   2.4800+7          0.011200 1.7000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   2.8000+7 1000000. 8.7000-3 1.3000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   3.0100+7          8.5000-3 1.3000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   3.2000+7          7.3000-3 1.1000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   3.3100+7          7.0000-3 1.1000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   3.4900+7          6.5000-3 1.0000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   3.5500+7          6.7000-3 1.0000-3                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   3.8800+7          6.1000-3 9.0000-4                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   4.0400+7          5.9000-3 9.0000-4                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   4.3400+7 600000.0 5.2000-3 8.0000-4                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   4.4900+7          5.2000-3 8.0000-4                                       D.C.Aumann+          (77)B0086  2G
+ 1001 60148   3   4G   4.4900+7          4.7000-3 7.0000-4                                       D.C.Aumann+          (77)B0086  2G
+#/DATA      18
+#/DATASET

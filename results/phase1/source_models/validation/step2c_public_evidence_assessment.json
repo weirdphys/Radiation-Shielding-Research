@@ -1,0 +1,32 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "generated_at_utc": "2026-09-24T15:05:13.271522+00:00",
+  "required_source_model_ids": [
+    "PROJECT_10MV_40x40",
+    "PROJECT_15MV_40x40",
+    "PROJECT_16MV_40x40",
+    "PROJECT_18MV_40x40",
+    "PROJECT_6MV_40x40"
+  ],
+  "direct_public_evidence_publication_identified_for": [
+    "PROJECT_10MV_40x40",
+    "PROJECT_15MV_40x40",
+    "PROJECT_16MV_40x40",
+    "PROJECT_18MV_40x40",
+    "PROJECT_6MV_40x40"
+  ],
+  "publication_identification_count": 5,
+  "numeric_reference_verified_for": [
+    "PROJECT_10MV_40x40",
+    "PROJECT_15MV_40x40",
+    "PROJECT_16MV_40x40",
+    "PROJECT_18MV_40x40",
+    "PROJECT_6MV_40x40"
+  ],
+  "numeric_reference_verified_count": 5,
+  "strict_shape_gate_eligible_reference_count": 0,
+  "step2c_can_be_promoted_from_registry_alone": false,
+  "policy": "Bibliographic/figure evidence never flips the gate. Only a directly public, independent numerical spectrum with matching declared SHA-256 is appended to the automatic measured_source_spectrum evaluator.",
+  "current_status": "NUMERIC_REFERENCES_READY_FOR_SEMANTICS_SUPPORT_AND_COMPARABILITY_EVALUATION",
+  "geant4_rerun_required": false
+}

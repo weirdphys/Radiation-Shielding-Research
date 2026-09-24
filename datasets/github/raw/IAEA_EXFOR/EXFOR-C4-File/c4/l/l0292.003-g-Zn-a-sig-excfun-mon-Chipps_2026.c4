@@ -1,0 +1,38 @@
+#ENTRY      L0292
+#AUTHOR1    K.A.Chipps+
+#YEAR       2026
+#INSTITUTE  (1USAORL)
+#TITLE      Measurement of gamma-induced reactions between 10 and
+#+          19 MeV on natural zinc with potential application to
+#+          67Cu production
+#AUTHOR(S)  K.A.Chipps, S.D.Pain, C.Matei, H.I.Garland, M.M.Grinder, 
+#+          T.T.King, B.Sudarsan, E.Torres
+#REF-CODE   (J,ARI,229,112422,2026)
+#REFERENCE  Appl.Radiat.Isot. 229 (2026) 112422 (doi:10.1016/j.apradiso.2026.112422)
+#DATASETS   0
+#
+#DATASET    L0292003 
+#DATE       20260423
+#REACTION   30-ZN-0(G,A),,SIG
+#PROJ       0
+#TARG       30000
+#MF         3
+#MT         107
+#C4BEGIN    [    0 30000   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 30000   3 107    1.0000+7          1.0200-3 1.3000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.0200+7          1.1500-3 1.5000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.0600+7          1.4800-3 1.9000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.1200+7          1.2200-3 1.6000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.2000+7          1.3500-3 1.7000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.3000+7          1.5400-3 2.0000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.4000+7          2.5400-3 3.3000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.5000+7          3.9700-3 5.1000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.6000+7          5.2400-3 6.7000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.7000+7          5.4200-3 6.9000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.8000+7          5.1600-3 6.6000-4                                       K.A.Chipps+          (26)L0292  3 
+    0 30000   3 107    1.9000+7          4.6800-3 5.9000-4                                       K.A.Chipps+          (26)L0292  3 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      B0079
+#AUTHOR1    E.A.Bryant+
+#YEAR       1963
+#INSTITUTE  (1USALAS)
+#TITLE      Excitation functions of reactions of 7- to 24-MeV He3
+#+          ions with Cu63 and Cu65
+#AUTHOR(S)  E.A.Bryant, D.R.F.Cochran, J.D.Knight
+#REF-CODE   (J,PR,130,1512,1963)
+#REFERENCE  Phys.Rev. 130 (1963) 1512 (doi:10.1103/PhysRev.130.1512)
+#DATASETS   0
+#
+#DATASET    B0079015 
+#DATE       20220316
+#REACTION   29-CU-65(HE3,X)28-NI-63,CUM,SIG
+#PROJ       2003
+#TARG       29065
+#MF         3
+#MT         459
+#PRODUCT    28-NI-63
+#C4BEGIN    [ 2003 29065   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 29065   3 459    1.1700+7          2.0000-3 7.2000-4           28063.9                     E.A.Bryant+          (63)B0079 15 
+ 2003 29065   3 459    1.3200+7          3.4000-3 1.2240-3           28063.9                     E.A.Bryant+          (63)B0079 15 
+ 2003 29065   3 459    1.4600+7          3.9000-3 1.4040-3           28063.9                     E.A.Bryant+          (63)B0079 15 
+ 2003 29065   3 459    1.6300+7          4.9000-3 1.7640-3           28063.9                     E.A.Bryant+          (63)B0079 15 
+ 2003 29065   3 459    1.9000+7          8.8000-3 3.1680-3           28063.9                     E.A.Bryant+          (63)B0079 15 
+ 2003 29065   3 459    1.9900+7          0.010100 3.6360-3           28063.9                     E.A.Bryant+          (63)B0079 15 
+ 2003 29065   3 459    2.1200+7          0.012200 4.3920-3           28063.9                     E.A.Bryant+          (63)B0079 15 
+ 2003 29065   3 459    2.2100+7          0.011400 4.1040-3           28063.9                     E.A.Bryant+          (63)B0079 15 
+ 2003 29065   3 459    2.2200+7          0.011700 4.2120-3           28063.9                     E.A.Bryant+          (63)B0079 15 
+ 2003 29065   3 459    2.4100+7          0.013800 4.9680-3           28063.9                     E.A.Bryant+          (63)B0079 15 
+#/DATA      10
+#/DATASET

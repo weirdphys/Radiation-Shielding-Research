@@ -1,0 +1,48 @@
+#ENTRY      M1004
+#AUTHOR1    O.V.Bogdankevich+
+#YEAR       1956
+#INSTITUTE  (4RUSLEB)
+#TITLE      Inelastic scattering of photons by indium-115 nuclei.
+#AUTHOR(S)  O.V.Bogdankevich, L.E.Lazareva, F.A.Nikolaev
+#REF-CODE   (J,ZET,31,405,1956)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 31 (1956) 405
+#DATASETS   0
+#
+#DATASET    M1004002 
+#DATE       20191126
+#REACTION   49-IN-115(G,INL)49-IN-115-M,,SIG,,BRS
+#PROJ       0
+#TARG       49115
+#MF         3
+#MT         102
+#PRODUCT    49-IN-115-M
+#C4BEGIN    [    0 49115   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 49115   3 102M   5000000.          1.7600-4                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   6000000.          2.3400-4                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   7000000.          3.9700-4                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   8000000.          1.8500-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   8500000.          1.9170-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   9000000.          1.7620-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   1.0000+7          9.5200-4                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   1.1000+7          6.5600-4                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   1.2000+7          5.9500-4                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   1.3000+7          5.6000-4                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   1.4000+7          5.7300-4                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   1.5000+7          7.2800-4                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   1.6000+7          1.1110-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   1.7000+7          1.1460-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   1.8000+7          1.5130-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   1.9000+7          2.0470-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   2.0000+7          2.8200-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   2.1000+7          3.7000-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   2.2000+7          4.5820-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   2.3000+7          5.7280-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   2.4000+7          7.1370-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   2.5000+7          9.2750-3                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   2.6000+7          0.014857                                                O.V.Bogdankevich+    (56)M1004  2 
+    0 49115   3 102M   2.6500+7          0.016742                                                O.V.Bogdankevich+    (56)M1004  2 
+#/DATA      24
+#/DATASET

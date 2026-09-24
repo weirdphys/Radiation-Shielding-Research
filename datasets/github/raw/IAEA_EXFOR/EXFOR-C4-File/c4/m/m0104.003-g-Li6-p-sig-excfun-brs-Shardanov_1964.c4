@@ -1,0 +1,54 @@
+#ENTRY      M0104
+#AUTHOR1    A.Kh.Shardanov+
+#YEAR       1964
+#INSTITUTE  (4RUSMOS)
+#TITLE      The investigation of the Li-6(gamma,p) reaction.
+#AUTHOR(S)  A.Kh.Shardanov, V.G.Shevchenko, B.A.Yur'ev
+#REF-CODE   (J,IZV,28,60,1964)
+#REFERENCE  Izv.Ross.AN,Fiz. 28 (1964) 60
+#DATASETS   0
+#
+#DATASET    M0104003 
+#DATE       20130530
+#REACTION   3-LI-6(G,P)2-HE-5,,SIG,,BRS
+#PROJ       0
+#TARG       3006
+#MF         3
+#MT         103
+#PRODUCT    2-HE-5
+#C4BEGIN    [    0  3006   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   3 103    5830000.          2.4000-3                                                A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    5910000.          4.7900-3                                                A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    6000000.          5.9500-3 7.5000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    6140000.          8.7400-3                                                A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    6250000.          0.015090 6.3000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    6480000.          0.021260 9.6000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    6620000.          0.015240 7.6000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    6730000.          0.033140 9.4000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    6980000.          0.019060 6.5000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    7100000.          0.019400 7.5000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    7240000.          0.011640                                                A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    7360000.          8.9900-3 6.2000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    7500000.          3.6500-3 6.4000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    7590000.          5.6200-3 5.4000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    7730000.          4.0000-3 5.7000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    7860000.          2.9400-3 3.5000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    7980000.          1.9000-3 2.3000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    8240000.          2.3500-3 2.4000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    8370000.          1.5100-3 3.1000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    8600000.          2.0100-3 3.7000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    8690000.          2.1100-3                                                A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    8860000.          1.5700-3 3.4000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    9020000.          2.3900-3 4.4000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    9160000.          1.6700-3                                                A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    9400000.          2.1100-3 4.4000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    9640000.          1.6200-3 4.6000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    9900000.          2.3600-3 5.5000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    1.0000+7          1.2900-3 4.6000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    1.0120+7          2.3000-3 5.9000-4                                       A.Kh.Shardanov+      (64)M0104  3 
+    0  3006   3 103    1.0370+7          2.7100-3                                                A.Kh.Shardanov+      (64)M0104  3 
+#/DATA      30
+#/DATASET

@@ -1,0 +1,61 @@
+
+
+00099:    17 JPIC=279 
+00100:       GO TO 20
+00101:    18 PRINT 19, JPIC
+00102:    19 FORMAT(I6,' is not an allowed ID number.')
+00103:       STOP 1 
+00104:    20 READ (4,REC=JPIC) MAT,MMAX,ZAG,POT,RHO,MZ,WT
+00105:       PRINT 25,POT
+00106:    25 FORMAT(' I-value from UCOMP file is = ',F6.1,' eV.')
+00107:       PRINT *, ' Is this value acceptable (1=yes,2=no): '
+00108:       READ *, IPOT
+00109:       IF(IPOT.EQ.1) GO TO 30 
+------------------------------------------------------------------------------
+00121:    40 ENGIN='ENG.ELE'
+00122:       GO TO 55  
+00123:    50 PRINT *,' Enter name of energy-list file: '
+00124:       READ 5, ENGIN
+00125:    55 OPEN (7,FILE=ENGIN)
+00126:       READ (7,*) IMAX
+00127:       READ (7,*) (T(I),I=1,IMAX)
+00128:       CLOSE (7)
+00129:    60 TMIN=1.0E12
+00130:       DO 61 I=1,IMAX
+00131:       IF(T(I).LT.TMIN) TMIN=T(I)
+------------------------------------------------------------------------------
+00122:       GO TO 55  
+00123:    50 PRINT *,' Enter name of energy-list file: '
+00124:       READ 5, ENGIN
+00125:    55 OPEN (7,FILE=ENGIN)
+00126:       READ (7,*) IMAX
+00127:       READ (7,*) (T(I),I=1,IMAX)
+00128:       CLOSE (7)
+00129:    60 TMIN=1.0E12
+00130:       DO 61 I=1,IMAX
+00131:       IF(T(I).LT.TMIN) TMIN=T(I)
+00132:    61 CONTINUE
+------------------------------------------------------------------------------
+00177:       NBAS=0
+00178:       DO 130 LK=1,LKMAX
+00179:   130 RLOST(LK)=0.0 
+00180:       DO 200 M=1,MMAX
+00181:       IZ=MZ(M)
+00182:       READ (3,REC=IZ) NMAX,LKIN,NC,BD,RLOS 
+00183:       IF(LKIN.NE.LKMAX) STOP 2
+00184:       DO 140 LK=1,LKMAX
+00185:   140 RLOST(LK)=RLOST(LK)+WT(M)*RLOS(LK)
+00186:       IF(NC(NMAX))150,170,170 
+00187:   150 NC(NMAX)=-NC(NMAX)
+------------------------------------------------------------------------------
+00492:   202 JPIC=279 
+00493:       GO TO 210
+00494:   203 PRINT 204, JPIC
+00495:   204 FORMAT(I6,' is not an allowed ID number.')
+00496:       STOP 4 
+00497:   210 READ (4,REC=JPIC) MAT1,MAX,ZAVIN1,POTIN1,RHO1,JZ1,WT1
+00498:       ZAV1(N)=ZAVIN1
+00499:       POT1(N)=POTIN1
+00500:   220 DO 250 M=1,MAX
+00501:       IN=JZ1(M)
+00502:       IF(LH(IN))230,230,240

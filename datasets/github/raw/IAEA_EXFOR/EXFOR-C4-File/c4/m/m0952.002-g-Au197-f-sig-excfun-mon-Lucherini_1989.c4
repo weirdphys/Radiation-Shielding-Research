@@ -1,0 +1,37 @@
+#ENTRY      M0952
+#AUTHOR1    V.Lucherini+
+#YEAR       1989
+#INSTITUTE  (2ITYFRA)
+#TITLE      Au photofission cross section by quasimonochromatic
+#+          photons in the intermediate energy region.
+#AUTHOR(S)  V.Lucherini, C.Guaraldo, E.De Sanctis, P.Levi Sandri, E.Polli, 
+#+          A.R.Reolon, A.S.Iljinov, S.Lo Nigro, S.Aiello, V.Bellini, 
+#+          V.Emma, C.Milone, G.S.Pappalardo, M.V.Mebel
+#REF-CODE   (J,PR/C,39,911,1989)
+#REFERENCE  Phys.Rev.C 39 (1989) 911 (doi:10.1103/PhysRevC.39.911)
+#DATASETS   0
+#
+#DATASET    M0952002 
+#DATE       20171121
+#REACTION   79-AU-197(G,F),,SIG
+#PROJ       0
+#TARG       79197
+#MF         3
+#MT         18
+#C4BEGIN    [    0 79197   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 79197   3  18    1.0000+8          3.2000-5 3.2000-5                                       V.Lucherini+         (89)M0952  2 
+    0 79197   3  18    1.1970+8          8.4000-5 2.3000-5                                       V.Lucherini+         (89)M0952  2 
+    0 79197   3  18    1.3941+8          1.3800-4 3.0000-5                                       V.Lucherini+         (89)M0952  2 
+    0 79197   3  18    1.5911+8          2.0200-4 2.7000-5                                       V.Lucherini+         (89)M0952  2 
+    0 79197   3  18    1.7947+8          3.1500-4 3.3000-5                                       V.Lucherini+         (89)M0952  2 
+    0 79197   3  18    2.0000+8          4.8700-4 2.9000-5                                       V.Lucherini+         (89)M0952  2 
+    0 79197   3  18    2.1954+8          6.7100-4 4.4000-5                                       V.Lucherini+         (89)M0952  2 
+    0 79197   3  18    2.3990+8          8.5100-4 4.9000-5                                       V.Lucherini+         (89)M0952  2 
+    0 79197   3  18    2.6092+8          1.0620-3 5.9000-5                                       V.Lucherini+         (89)M0952  2 
+    0 79197   3  18    2.8128+8          1.2350-3 4.2000-5                                       V.Lucherini+         (89)M0952  2 
+    0 79197   3  18    3.0020+8          1.3670-3 5.5000-5                                       V.Lucherini+         (89)M0952  2 
+#/DATA      11
+#/DATASET

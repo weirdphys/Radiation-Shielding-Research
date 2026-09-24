@@ -1,0 +1,33 @@
+#ENTRY      M0576
+#AUTHOR1    M.Kanazawa+
+#YEAR       1987
+#INSTITUTE  (2JPNTOK)
+#TITLE      The (gamma,p), (gamma,pn), and (gamma,pp) reactions on
+#+          light nuclei in the delta (1232) resonance region.
+#AUTHOR(S)  M.Kanazawa, S.Homma, M.Koike, Y.Murata, H.Okuno, F.Soga, 
+#+          N.Yoshikawa, A.Sasaki
+#REF-CODE   (J,PR/C,35,1828,1987)
+#REFERENCE  Phys.Rev.C 35 (1987) 1828 (doi:10.1103/PhysRevC.35.1828)
+#DATASETS   0
+#
+#DATASET    M0576005 
+#DATE       20190625
+#REACTION   4-BE-9(G,X)1-H-1,,DA
+#PROJ       0
+#TARG       4009
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  4009   4 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  4009   4 203    2.9700+8 1.0000+7 3.0560-4 1.6900-5 0.866025 0.034907                     M.Kanazawa+          (87)M0576  5 
+    0  4009   4 203    3.1700+8 1.0000+7 3.7710-4 1.3400-5 0.866025 0.034907                     M.Kanazawa+          (87)M0576  5 
+    0  4009   4 203    3.3700+8 1.0000+7 3.9950-4 8.7000-6 0.866025 0.034907                     M.Kanazawa+          (87)M0576  5 
+    0  4009   4 203    3.5700+8 1.0000+7 4.1560-4 6.8000-6 0.866025 0.034907                     M.Kanazawa+          (87)M0576  5 
+    0  4009   4 203    3.7700+8 1.0000+7 4.3230-4 6.6000-6 0.866025 0.034907                     M.Kanazawa+          (87)M0576  5 
+    0  4009   4 203    3.9700+8 1.0000+7 4.0440-4 5.6000-6 0.866025 0.034907                     M.Kanazawa+          (87)M0576  5 
+    0  4009   4 203    4.1700+8 1.0000+7 3.9160-4 5.4000-6 0.866025 0.034907                     M.Kanazawa+          (87)M0576  5 
+#/DATA      7
+#/DATASET

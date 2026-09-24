@@ -1,0 +1,32 @@
+#ENTRY      S0005
+#AUTHOR1    Jiang Chenglie+
+#YEAR       1972
+#INSTITUTE  (3CPRAEP)
+#TITLE      Study of Be-9(d,x) reactions
+#AUTHOR(S)  Jiang Chenglie, Zhao Kui, Wang Dachun, Li Weijiang, Zhou Enchen, 
+#+          Li Zhichang, Cai Dunjiu, Cheng Yehao, Lu Fubao, Han Shukui
+#REF-CODE   (C,72LANZH,,3,1972)
+#REFERENCE  Proceedings of Conf.on Low Energy Nucl.Phys.,Lanzhou,1972 page 3
+#DATASETS   0
+#
+#DATASET    S0005003 
+#DATE       20080311
+#REACTION   4-BE-9(D,P)4-BE-10,PAR,SIG
+#PROJ       1002
+#TARG       4009
+#MF         3
+#MT         600
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1002  4009   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   3 600    1480000.          0.033400 2.3380-3                   3368000.         LVLJiang Chenglie+      (72)S0005  3 
+ 1002  4009   3 600    1300000.          0.028100 1.9670-3                   3368000.         LVLJiang Chenglie+      (72)S0005  3 
+ 1002  4009   3 600    1010000.          0.029600 2.0720-3                   3368000.         LVLJiang Chenglie+      (72)S0005  3 
+ 1002  4009   3 600    706000.0          0.016600 1.1620-3                   3368000.         LVLJiang Chenglie+      (72)S0005  3 
+ 1002  4009   3 600    401000.0          4.3800-3 3.0660-4                   3368000.         LVLJiang Chenglie+      (72)S0005  3 
+ 1002  4009   3 600    220000.0          3.7000-4 2.5900-5                   3368000.         LVLJiang Chenglie+      (72)S0005  3 
+ 1002  4009   3 600    150000.0          6.9000-5 4.8300-6                   3368000.         LVLJiang Chenglie+      (72)S0005  3 
+#/DATA      7
+#/DATASET

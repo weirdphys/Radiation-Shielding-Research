@@ -1,0 +1,403 @@
+#ENTRY      M0594
+#AUTHOR1    K.Baba+
+#YEAR       1983
+#INSTITUTE  (2JPNHIR)
+#TITLE      Measurement of differential cross sections for
+#+          processes gamma+d -> pn, pi-0+d, and pX in the energy
+#+          range of dibaryon resonances.
+#AUTHOR(S)  K.Baba, I.Endo, H.Fukuma, K.Inoue, T.Kawamoto, T.Ohsugi, 
+#+          Y.Sumi, T.Takeshita, S.Uehara, Y.Yano, T.Maki
+#REF-CODE   (J,PR/C,28,286,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 286 (doi:10.1103/PhysRevC.28.286)
+#DATASETS   0
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    3.7300+8          3.800-13 3.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    3.7300+8          1.300-13 3.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    3.8300+8          5.500-13 5.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    3.8300+8          1.600-13 5.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    3.9300+8          7.300-13 5.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    3.9300+8          2.100-13 5.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    4.0300+8          1.120-12 7.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    4.0300+8          3.100-13 5.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    4.1300+8          1.270-12 9.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    4.1300+8          4.800-13 6.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    4.2300+8          1.490-12 7.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    4.2300+8          5.000-13 5.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    4.3300+8          1.490-12 8.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    4.3300+8          6.500-13 7.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    4.4300+8          1.610-12 9.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    4.4300+8          8.600-13 7.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    4.5300+8          1.630-12 1.000-13 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    4.5300+8          1.030-12 7.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    4.6300+8          1.440-12 7.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    4.6300+8          1.070-12 7.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    4.7300+8          1.450-12 9.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    4.7300+8          1.070-12 6.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    4.8300+8          1.130-12 7.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    4.8300+8          1.330-12 7.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    4.9300+8          1.270-12 7.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    4.9300+8          1.270-12 7.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.0300+8          1.190-12 6.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.0300+8          1.190-12 7.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.1300+8          9.700-13 6.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.1300+8          9.700-13 6.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.2300+8          1.010-12 6.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.2300+8          1.010-12 6.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.3300+8          9.100-13 5.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.3300+8          9.100-13 6.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.4300+8          8.100-13 6.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.4300+8          8.100-13 7.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.5300+8          7.700-13 5.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.5300+8          7.700-13 5.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.6300+8          7.500-13 6.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.6300+8          7.500-13 6.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.7300+8          7.000-13 5.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.7300+8          7.000-13 5.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.8300+8          6.400-13 5.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.8300+8          6.400-13 5.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.9300+8          5.400-13 5.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.9300+8          5.400-13 5.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET

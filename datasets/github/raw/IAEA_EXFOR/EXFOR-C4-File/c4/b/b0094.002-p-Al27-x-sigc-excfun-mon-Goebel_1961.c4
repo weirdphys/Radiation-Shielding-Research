@@ -1,0 +1,26 @@
+#ENTRY      B0094
+#AUTHOR1    K.Goebel+
+#YEAR       1961
+#INSTITUTE  (2ZZZCER)
+#TITLE      The C-12(P,PN)C-11 and Al-27(P,3PN)Na-24 cross sections
+#+          at 591 MeV.
+#AUTHOR(S)  K.Goebel, D.Harting, J.C.Kluyver, A.Kusumegi, H.Schultes
+#REF-CODE   (J,NP,24,28,1961)
+#REFERENCE  Nucl.Phys. 24 (1961) 28 (doi:10.1016/0029-5582(61)91013-6)
+#DATASETS   0
+#
+#DATASET    B0094002 
+#DATE       20011220
+#REACTION   13-AL-27(P,X)11-NA-24,CUM,SIG,,,EXP
+#PROJ       1001
+#TARG       13027
+#MF         3
+#MT         459
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 1001 13027   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   3 459    5.9100+8          0.011000 5.0000-4           11024.9                     K.Goebel+            (61)B0094  2 
+#/DATA      1
+#/DATASET

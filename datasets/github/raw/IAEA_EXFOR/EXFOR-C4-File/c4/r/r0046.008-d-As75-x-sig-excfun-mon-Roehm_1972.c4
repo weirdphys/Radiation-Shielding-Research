@@ -1,0 +1,30 @@
+#ENTRY      R0046
+#AUTHOR1    H.F.Roehm+
+#YEAR       1972
+#INSTITUTE  (2GERKFK)
+#TITLE      Excitation functions for deuteron reactions with 75As
+#AUTHOR(S)  H.F.Roehm, H.Muenzel
+#REF-CODE   (J,JIN,34,1773,1972)
+#REFERENCE  J.Inorg.Nucl.Chem. 34 (1972) 1773 (doi:10.1016/0022-1902(72)80523-2)
+#DATASETS   0
+#
+#DATASET    R0046008 
+#DATE       20241120
+#REACTION   33-AS-75(D,X)33-AS-73,,SIG
+#PROJ       1002
+#TARG       33075
+#MF         3
+#MT         454
+#PRODUCT    33-AS-73
+#C4BEGIN    [ 1002 33075   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 33075   3 454    3.3100+7          0.043000                    33073.9                     H.F.Roehm            (72)R0046  8 
+ 1002 33075   3 454    3.6400+7          0.216000                    33073.9                     H.F.Roehm            (72)R0046  8 
+ 1002 33075   3 454    3.9800+7          0.279000                    33073.9                     H.F.Roehm            (72)R0046  8 
+ 1002 33075   3 454    4.2700+7          0.421000                    33073.9                     H.F.Roehm            (72)R0046  8 
+ 1002 33075   3 454    4.6100+7          0.463000                    33073.9                     H.F.Roehm            (72)R0046  8 
+ 1002 33075   3 454    4.9400+7          0.462000                    33073.9                     H.F.Roehm            (72)R0046  8 
+#/DATA      6
+#/DATASET

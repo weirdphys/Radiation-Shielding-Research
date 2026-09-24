@@ -1,0 +1,31 @@
+#ENTRY      M0438
+#AUTHOR1    M.Fujishiro+
+#YEAR       1982
+#INSTITUTE  (2JPNOSP)
+#TITLE      Cross section  of   the   reaction   Be-9(g,n)   near
+#+          threshold.
+#AUTHOR(S)  M.Fujishiro, T.Tabata, K.Okamoto, T.Tsujimoto
+#REF-CODE   (J,CJP,60,1672,1982)
+#REFERENCE  Can.J.Phys. 60 (1982) 1672 (doi:10.1139/p82-224)
+#DATASETS   0
+#
+#DATASET    M0438002 
+#DATE       20160906
+#REACTION   4-BE-9(G,N)4-BE-8,,SIG
+#PROJ       0
+#TARG       4009
+#MF         3
+#MT         4
+#PRODUCT    4-BE-8
+#C4BEGIN    [    0  4009   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  4009   3   4    1674700.          8.8000-4 1.6000-4                                       M.Fujishiro+         (82)M0438  2 
+    0  4009   3   4    1705200.          1.3300-3 2.4000-4                                       M.Fujishiro+         (82)M0438  2 
+    0  4009   3   4    1724900.          1.1000-3 2.0000-4                                       M.Fujishiro+         (82)M0438  2 
+    0  4009   3   4    1778900.          7.3000-4 1.3000-4                                       M.Fujishiro+         (82)M0438  2 
+    0  4009   3   4    1836000.          4.7000-4 9.0000-5                                       M.Fujishiro+         (82)M0438  2 
+    0  4009   3   4    2167600.          1.8000-4 4.0000-5                                       M.Fujishiro+         (82)M0438  2 
+#/DATA      6
+#/DATASET

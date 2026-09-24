@@ -1,0 +1,399 @@
+run_number,path,shape,dtype,size,value,matching_attributes,role
+44712,raw_data_1/definition,"(1,)",|S6,1,[TOFRAW],url=b'http://definition.nexusformat.org/instruments/TOFRAW?version=1.0',early_empty_control
+44712,raw_data_1/definition_local,"(1,)",|S10,1,[ISISTOFRAW],url=b'http://svn.isis.rl.ac.uk/instruments/ISISTOFRAW?version=1.0',early_empty_control
+44712,raw_data_1/detector_1/counts,"(1, 196, 9729)",int32,1906884,,"axes=b'period_index,spectrum_index,time_of_flight' | target=b'/raw_data_1/instrument/detector_1/counts'",early_empty_control
+44712,raw_data_1/detector_1/period_index,"(1,)",int32,1,[1],,early_empty_control
+44712,raw_data_1/detector_1/spectrum_index,"(196,)",int32,196,,target=b'/raw_data_1/instrument/detector_1/spectrum_index',early_empty_control
+44712,raw_data_1/detector_1/time_of_flight,"(9730,)",float32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight',early_empty_control
+44712,raw_data_1/instrument/dae/detector_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/detector_dae3_00.dat],,early_empty_control
+44712,raw_data_1/instrument/dae/spectra_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/spectrum_dae3_00.dat],,early_empty_control
+44712,raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw,"(9730,)",int32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw',early_empty_control
+44712,raw_data_1/instrument/detector_1/delt,"(196,)",float32,196,,,early_empty_control
+44712,raw_data_1/instrument/detector_1/distance,"(196,)",float32,196,,,early_empty_control
+44712,raw_data_1/instrument/detector_1/polar_angle,"(196,)",float32,196,,,early_empty_control
+44712,raw_data_1/instrument/detector_1/source_detector_distance,"(1,)",float32,1,[0.0],,early_empty_control
+44712,raw_data_1/instrument/moderator/distance,"(1,)",float32,1,[-0.0],,early_empty_control
+44712,raw_data_1/isis_vms_compat/HDR,"(1,)",|S80,1,[VES44712Martellucci         Empty tank with GEM     08-MAY-2021 16:01:23   30.06],,early_empty_control
+44712,raw_data_1/isis_vms_compat/TITL,"(1,)",|S80,1,[Empty tank with GEM                                                             ],,early_empty_control
+44712,raw_data_1/monitor_1/data,"(1, 1, 9729)",int32,9729,,"axes=b'period_index,spectrum_index,time_of_flight'",early_empty_control
+44712,raw_data_1/monitor_1/monitor_number,"(1,)",int32,1,[1],,early_empty_control
+44712,raw_data_1/monitor_1/spectrum_index,"(1,)",int32,1,[1],,early_empty_control
+44712,raw_data_1/monitor_2/data,"(1, 1, 9729)",int32,9729,,"axes=b'period_index,spectrum_index,time_of_flight'",early_empty_control
+44712,raw_data_1/monitor_2/monitor_number,"(1,)",int32,1,[2],,early_empty_control
+44712,raw_data_1/monitor_2/spectrum_index,"(1,)",int32,1,[2],,early_empty_control
+44712,raw_data_1/monitor_events_not_saved,"(1,)",int64,1,[0],,early_empty_control
+44712,raw_data_1/runlog/icp_event/time,"(6,)",float32,6,"[-4.0, 0.0, 0.0, 0.0, 635.0, 635.0]",,early_empty_control
+44712,raw_data_1/runlog/icp_event/value,"(6, 1)",|S65,6,"[CHANGE_PERIOD 1                                                  , CHANGE_PERIOD 1                                                  , START_COLLECTION PERIOD 1 GF 0 RF 0 GUAH 0.000000                , BEGIN                                                            , STOP_COLLECTION PERIOD 1 GF 25381 RF 25381 GUAH 30.061893 DUR 635, END                                                              ]",,early_empty_control
+44712,raw_data_1/runlog/monitor_sum_1/time,"(111,)",float32,111,"[-2667.0, -2637.0, -2607.0, -2577.0, -2547.0, -2517.0, -2487.0, -2457.0, -2426.0, -2396.0, -2366.0, -2336.0, -2306.0, -2276.0, -2246.0, -2216.0, -2186.0, -2156.0, -2126.0, -2096.0, -2066.0, -2036.0, -2006.0, -1976.0, -1946.0, -1916.0, -1885.0, -1855.0, -1825.0, -1795.0, -1765.0, -1735.0, -1705.0, -1675.0, -1645.0, -1615.0, -1585.0, -1555.0, -1525.0, -1495.0, -1465.0, -1435.0, -1405.0, -1375.0, -1344.0, -1314.0, -1284.0, -1254.0, -1224.0, -1194.0, -1164.0, -1134.0, -1104.0, -1074.0, -1044.0, -1014.0, -984.0, -954.0, -924.0, -894.0, -864.0, -834.0, -803.0, -773.0, -743.0, -713.0, -683.0, -653.0, -623.0, -593.0, -563.0, -533.0, -503.0, -473.0, -443.0, -413.0, -383.0, -353.0, -323.0, -293.0, -262.0, -232.0, -202.0, -172.0, -142.0, -112.0, -82.0, -52.0, -22.0, 11.0, 41.0, 71.0, 101.0, 131.0, 161.0, 191.0, 221.0, 251.0, 281.0, 311.0, 341.0, 371.0, 401.0, 431.0, 461.0, 491.0, 521.0, 552.0, 582.0, 612.0, 637.0]",,early_empty_control
+44712,raw_data_1/runlog/monitor_sum_1/value,"(111,)",int32,111,"[919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 919331, 28820, 114969, 200714, 286295, 371799, 456685, 542246, 627894, 713162, 798425, 882814, 967601, 1053037, 1138365, 1224143, 1309696, 1395802, 1481779, 1567795, 1653991, 1740476, 1798033]",,early_empty_control
+44712,raw_data_1/sample/distance,"(1,)",float64,1,[0.0],,early_empty_control
+44712,raw_data_1/sample/height,"(1,)",float32,1,[0.0],,early_empty_control
+44712,raw_data_1/sample/id,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/sample/name,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/sample/shape,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/sample/thickness,"(1,)",float32,1,[0.0],,early_empty_control
+44712,raw_data_1/sample/type,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/sample/width,"(1,)",float32,1,[0.0],,early_empty_control
+44712,raw_data_1/selog/Sample/read_control,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/selog/Sample/set_control,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/selog/Sample/setpoint,"(1,)",float32,1,[0.0],,early_empty_control
+44712,raw_data_1/selog/Sample/setpoint_spread,"(1,)",float32,1,[0.0],,early_empty_control
+44712,raw_data_1/selog/Sample/value,"(1,)",float32,1,[829.4179],,early_empty_control
+44712,raw_data_1/selog/Sample/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,early_empty_control
+44712,raw_data_1/selog/Sample/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,early_empty_control
+44712,raw_data_1/selog/Sample/value_log/alarm_time,"(1,)",float32,1,[-878.0],,early_empty_control
+44712,raw_data_1/selog/Sample/value_log/name,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/selog/Sample/value_log/time,"(3,)",float32,3,"[-878.0, 3.0, 636.0]",,early_empty_control
+44712,raw_data_1/selog/Sample/value_log/value,"(3,)",float32,3,"[829.4179, 829.4179, 829.4179]",,early_empty_control
+44712,raw_data_1/selog/Sample/value_log/value_valid,"(3,)",int32,3,"[1, 1, 1]",,early_empty_control
+44712,raw_data_1/selog/Sample/value_spread,"(1,)",float32,1,[0.0],,early_empty_control
+44712,raw_data_1/selog/Sample/vi_name,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/read_control,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/set_control,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/setpoint,"(1,)",float32,1,[0.0],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/setpoint_spread,"(1,)",float32,1,[0.0],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/value,"(1,)",float32,1,[20.5],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_time,"(1,)",float32,1,[-1991.0],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/value_log/name,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/value_log/time,"(14,)",float32,14,"[-1991.0, -1269.0, -1245.0, -1211.0, -1179.0, -1154.0, -406.0, -340.0, -318.0, 3.0, 391.0, 511.0, 597.0, 636.0]",,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/value_log/value,"(14,)",float32,14,"[20.53, 20.52, 20.53, 20.52, 20.53, 20.52, 20.51, 20.52, 20.51, 20.51, 20.5, 20.51, 20.5, 20.5]",,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/value_log/value_valid,"(14,)",int32,14,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/value_spread,"(1,)",float32,1,[0.01],,early_empty_control
+44712,raw_data_1/selog/Water_Bath_Temp/vi_name,"(1,)",|S1,1,[ ],,early_empty_control
+44712,raw_data_1/title,"(1,)",|S19,1,[Empty tank with GEM],,early_empty_control
+44724,raw_data_1/definition,"(1,)",|S6,1,[TOFRAW],url=b'http://definition.nexusformat.org/instruments/TOFRAW?version=1.0',concrete_sample_1
+44724,raw_data_1/definition_local,"(1,)",|S10,1,[ISISTOFRAW],url=b'http://svn.isis.rl.ac.uk/instruments/ISISTOFRAW?version=1.0',concrete_sample_1
+44724,raw_data_1/detector_1/counts,"(1, 196, 9729)",int32,1906884,,"axes=b'period_index,spectrum_index,time_of_flight' | target=b'/raw_data_1/instrument/detector_1/counts'",concrete_sample_1
+44724,raw_data_1/detector_1/period_index,"(1,)",int32,1,[1],,concrete_sample_1
+44724,raw_data_1/detector_1/spectrum_index,"(196,)",int32,196,,target=b'/raw_data_1/instrument/detector_1/spectrum_index',concrete_sample_1
+44724,raw_data_1/detector_1/time_of_flight,"(9730,)",float32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight',concrete_sample_1
+44724,raw_data_1/instrument/dae/detector_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/detector_dae3_00.dat],,concrete_sample_1
+44724,raw_data_1/instrument/dae/spectra_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/spectrum_dae3_00.dat],,concrete_sample_1
+44724,raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw,"(9730,)",int32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw',concrete_sample_1
+44724,raw_data_1/instrument/detector_1/delt,"(196,)",float32,196,,,concrete_sample_1
+44724,raw_data_1/instrument/detector_1/distance,"(196,)",float32,196,,,concrete_sample_1
+44724,raw_data_1/instrument/detector_1/polar_angle,"(196,)",float32,196,,,concrete_sample_1
+44724,raw_data_1/instrument/detector_1/source_detector_distance,"(1,)",float32,1,[0.0],,concrete_sample_1
+44724,raw_data_1/instrument/moderator/distance,"(1,)",float32,1,[-0.0],,concrete_sample_1
+44724,raw_data_1/isis_vms_compat/HDR,"(1,)",|S80,1,[VES44724Martellucci         Concrete sample 1 (117.708-MAY-2021 18:43:18   30.06],,concrete_sample_1
+44724,raw_data_1/isis_vms_compat/TITL,"(1,)",|S80,1,[Concrete sample 1 (117.77g) in tank with GEM                                    ],,concrete_sample_1
+44724,raw_data_1/monitor_1/data,"(1, 1, 9729)",int32,9729,,"axes=b'period_index,spectrum_index,time_of_flight'",concrete_sample_1
+44724,raw_data_1/monitor_1/monitor_number,"(1,)",int32,1,[1],,concrete_sample_1
+44724,raw_data_1/monitor_1/spectrum_index,"(1,)",int32,1,[1],,concrete_sample_1
+44724,raw_data_1/monitor_2/data,"(1, 1, 9729)",int32,9729,,"axes=b'period_index,spectrum_index,time_of_flight'",concrete_sample_1
+44724,raw_data_1/monitor_2/monitor_number,"(1,)",int32,1,[2],,concrete_sample_1
+44724,raw_data_1/monitor_2/spectrum_index,"(1,)",int32,1,[2],,concrete_sample_1
+44724,raw_data_1/monitor_events_not_saved,"(1,)",int64,1,[0],,concrete_sample_1
+44724,raw_data_1/runlog/icp_event/time,"(18,)",float32,18,"[-310.0, -306.0, -306.0, -306.0, -95.0, -95.0, -68.0, -64.0, -64.0, -64.0, -22.0, -22.0, -4.0, 0.0, 0.0, 0.0, 635.0, 635.0]",,concrete_sample_1
+44724,raw_data_1/runlog/icp_event/value,"(18, 1)",|S65,18,"[CHANGE_PERIOD 1                                                  , CHANGE_PERIOD 1                                                  , START_COLLECTION PERIOD 1 GF 0 RF 0 GUAH 0.000000                , BEGIN                                                            , STOP_COLLECTION PERIOD 1 GF 8420 RF 8420 GUAH 9.958024 DUR 211   , ABORT                                                            , CHANGE_PERIOD 1                                                  , CHANGE_PERIOD 1                                                  , START_COLLECTION PERIOD 1 GF 0 RF 0 GUAH 0.000000                , BEGIN                                                            , STOP_COLLECTION PERIOD 1 GF 1657 RF 1657 GUAH 1.960971 DUR 42    , ABORT                                                            , CHANGE_PERIOD 1                                                  , CHANGE_PERIOD 1                                                  , START_COLLECTION PERIOD 1 GF 0 RF 0 GUAH 0.000000                , BEGIN                                                            , STOP_COLLECTION PERIOD 1 GF 25396 RF 25396 GUAH 30.058828 DUR 635, END                                                              ]",,concrete_sample_1
+44724,raw_data_1/runlog/monitor_sum_1/time,"(33,)",float32,33,"[-306.0, -275.0, -245.0, -215.0, -185.0, -155.0, -125.0, -95.0, -64.0, -34.0, 0.0, 30.0, 60.0, 90.0, 120.0, 150.0, 180.0, 210.0, 240.0, 270.0, 300.0, 330.0, 360.0, 391.0, 421.0, 451.0, 481.0, 511.0, 541.0, 571.0, 601.0, 631.0, 636.0]",,concrete_sample_1
+44724,raw_data_1/runlog/monitor_sum_1/value,"(33,)",int32,33,"[0, 89549, 178955, 268298, 357317, 447340, 537130, 626719, 0, 89791, 0, 89820, 179159, 268790, 358558, 448066, 537662, 628182, 718078, 807661, 896856, 986827, 1076648, 1166369, 1255787, 1345688, 1435098, 1525139, 1614899, 1704346, 1793940, 1883703, 1883703]",,concrete_sample_1
+44724,raw_data_1/sample/distance,"(1,)",float64,1,[0.0],,concrete_sample_1
+44724,raw_data_1/sample/height,"(1,)",float32,1,[0.0],,concrete_sample_1
+44724,raw_data_1/sample/id,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/sample/name,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/sample/shape,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/sample/thickness,"(1,)",float32,1,[0.0],,concrete_sample_1
+44724,raw_data_1/sample/type,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/sample/width,"(1,)",float32,1,[0.0],,concrete_sample_1
+44724,raw_data_1/selog/Sample/read_control,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/selog/Sample/set_control,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/selog/Sample/setpoint,"(1,)",float32,1,[0.0],,concrete_sample_1
+44724,raw_data_1/selog/Sample/setpoint_spread,"(1,)",float32,1,[0.0],,concrete_sample_1
+44724,raw_data_1/selog/Sample/value,"(1,)",float32,1,[829.4179],,concrete_sample_1
+44724,raw_data_1/selog/Sample/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,concrete_sample_1
+44724,raw_data_1/selog/Sample/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,concrete_sample_1
+44724,raw_data_1/selog/Sample/value_log/alarm_time,"(1,)",float32,1,[-304.0],,concrete_sample_1
+44724,raw_data_1/selog/Sample/value_log/name,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/selog/Sample/value_log/time,"(4,)",float32,4,"[-304.0, -61.0, 2.0, 636.0]",,concrete_sample_1
+44724,raw_data_1/selog/Sample/value_log/value,"(4,)",float32,4,"[829.4179, 829.4179, 829.4179, 829.4179]",,concrete_sample_1
+44724,raw_data_1/selog/Sample/value_log/value_valid,"(4,)",int32,4,"[1, 1, 1, 1]",,concrete_sample_1
+44724,raw_data_1/selog/Sample/value_spread,"(1,)",float32,1,[0.0],,concrete_sample_1
+44724,raw_data_1/selog/Sample/vi_name,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/read_control,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/set_control,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/setpoint,"(1,)",float32,1,[0.0],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/setpoint_spread,"(1,)",float32,1,[0.0],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/value,"(1,)",float32,1,[20.45],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_time,"(1,)",float32,1,[-304.0],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/value_log/name,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/value_log/time,"(14,)",float32,14,"[-304.0, -61.0, 2.0, 178.0, 182.0, 239.0, 268.0, 360.0, 363.0, 479.0, 502.0, 567.0, 598.0, 636.0]",,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/value_log/value,"(14,)",float32,14,"[20.45, 20.45, 20.45, 20.44, 20.45, 20.44, 20.45, 20.44, 20.45, 20.44, 20.45, 20.44, 20.45, 20.45]",,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/value_log/value_valid,"(14,)",int32,14,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/value_spread,"(1,)",float32,1,[0.0],,concrete_sample_1
+44724,raw_data_1/selog/Water_Bath_Temp/vi_name,"(1,)",|S1,1,[ ],,concrete_sample_1
+44724,raw_data_1/title,"(1,)",|S44,1,[Concrete sample 1 (117.77g) in tank with GEM],,concrete_sample_1
+44749,raw_data_1/definition,"(1,)",|S6,1,[TOFRAW],url=b'http://definition.nexusformat.org/instruments/TOFRAW?version=1.0',concrete_sample_3M
+44749,raw_data_1/definition_local,"(1,)",|S10,1,[ISISTOFRAW],url=b'http://svn.isis.rl.ac.uk/instruments/ISISTOFRAW?version=1.0',concrete_sample_3M
+44749,raw_data_1/detector_1/counts,"(1, 196, 9729)",int32,1906884,,"axes=b'period_index,spectrum_index,time_of_flight' | target=b'/raw_data_1/instrument/detector_1/counts'",concrete_sample_3M
+44749,raw_data_1/detector_1/period_index,"(1,)",int32,1,[1],,concrete_sample_3M
+44749,raw_data_1/detector_1/spectrum_index,"(196,)",int32,196,,target=b'/raw_data_1/instrument/detector_1/spectrum_index',concrete_sample_3M
+44749,raw_data_1/detector_1/time_of_flight,"(9730,)",float32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight',concrete_sample_3M
+44749,raw_data_1/instrument/dae/detector_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/detector_dae3_00.dat],,concrete_sample_3M
+44749,raw_data_1/instrument/dae/spectra_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/spectrum_dae3_00.dat],,concrete_sample_3M
+44749,raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw,"(9730,)",int32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw',concrete_sample_3M
+44749,raw_data_1/instrument/detector_1/delt,"(196,)",float32,196,,,concrete_sample_3M
+44749,raw_data_1/instrument/detector_1/distance,"(196,)",float32,196,,,concrete_sample_3M
+44749,raw_data_1/instrument/detector_1/polar_angle,"(196,)",float32,196,,,concrete_sample_3M
+44749,raw_data_1/instrument/detector_1/source_detector_distance,"(1,)",float32,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/instrument/moderator/distance,"(1,)",float32,1,[-0.0],,concrete_sample_3M
+44749,raw_data_1/isis_vms_compat/HDR,"(1,)",|S80,1,[VES44749Martellucci         Concrete sample 3M (163.09-MAY-2021 12:08:00   20.07],,concrete_sample_3M
+44749,raw_data_1/isis_vms_compat/TITL,"(1,)",|S80,1,[Concrete sample 3M (163.72g) in tank with GEM                                   ],,concrete_sample_3M
+44749,raw_data_1/monitor_1/data,"(1, 1, 9729)",int32,9729,,"axes=b'period_index,spectrum_index,time_of_flight'",concrete_sample_3M
+44749,raw_data_1/monitor_1/monitor_number,"(1,)",int32,1,[1],,concrete_sample_3M
+44749,raw_data_1/monitor_1/spectrum_index,"(1,)",int32,1,[1],,concrete_sample_3M
+44749,raw_data_1/monitor_2/data,"(1, 1, 9729)",int32,9729,,"axes=b'period_index,spectrum_index,time_of_flight'",concrete_sample_3M
+44749,raw_data_1/monitor_2/monitor_number,"(1,)",int32,1,[2],,concrete_sample_3M
+44749,raw_data_1/monitor_2/spectrum_index,"(1,)",int32,1,[2],,concrete_sample_3M
+44749,raw_data_1/monitor_events_not_saved,"(1,)",int64,1,[0],,concrete_sample_3M
+44749,raw_data_1/runlog/icp_event/time,"(6,)",float32,6,"[-62.0, 0.0, 0.0, 0.0, 426.0, 426.0]",,concrete_sample_3M
+44749,raw_data_1/runlog/icp_event/value,"(6, 1)",|S65,6,"[CHANGE_PERIOD 1                                                  , CHANGE_PERIOD 1                                                  , START_COLLECTION PERIOD 1 GF 0 RF 0 GUAH 0.000000                , BEGIN                                                            , STOP_COLLECTION PERIOD 1 GF 17016 RF 17016 GUAH 20.069492 DUR 426, END                                                              ]",,concrete_sample_3M
+44749,raw_data_1/runlog/monitor_sum_1/time,"(46,)",float32,46,"[-967.0, -937.0, -906.0, -876.0, -846.0, -816.0, -786.0, -756.0, -726.0, -696.0, -666.0, -636.0, -606.0, -576.0, -546.0, -516.0, -486.0, -456.0, -426.0, -395.0, -365.0, -335.0, -305.0, -275.0, -245.0, -215.0, -185.0, -155.0, -125.0, -95.0, -65.0, 25.0, 55.0, 86.0, 116.0, 146.0, 176.0, 206.0, 236.0, 266.0, 296.0, 326.0, 356.0, 386.0, 416.0, 427.0]",,concrete_sample_3M
+44749,raw_data_1/runlog/monitor_sum_1/value,"(46,)",int32,46,"[1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 1267549, 74817, 164123, 253561, 342948, 432815, 522305, 611865, 701343, 791243, 880848, 970270, 1059220, 1148337, 1238217, 1253238]",,concrete_sample_3M
+44749,raw_data_1/sample/distance,"(1,)",float64,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/sample/height,"(1,)",float32,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/sample/id,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/sample/name,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/sample/shape,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/sample/thickness,"(1,)",float32,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/sample/type,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/sample/width,"(1,)",float32,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/read_control,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/set_control,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/setpoint,"(1,)",float32,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/setpoint_spread,"(1,)",float32,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/value,"(1,)",float32,1,[829.4179],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/value_log/alarm_time,"(1,)",float32,1,[2.0],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/value_log/name,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/value_log/time,"(2,)",float32,2,"[2.0, 426.0]",,concrete_sample_3M
+44749,raw_data_1/selog/Sample/value_log/value,"(2,)",float32,2,"[829.4179, 829.4179]",,concrete_sample_3M
+44749,raw_data_1/selog/Sample/value_log/value_valid,"(2,)",int32,2,"[1, 1]",,concrete_sample_3M
+44749,raw_data_1/selog/Sample/value_spread,"(1,)",float32,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/selog/Sample/vi_name,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/read_control,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/set_control,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/setpoint,"(1,)",float32,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/setpoint_spread,"(1,)",float32,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/value,"(1,)",float32,1,[20.16],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_time,"(1,)",float32,1,[-584.0],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/value_log/name,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/value_log/time,"(8,)",float32,8,"[-584.0, -554.0, -532.0, -14.0, 2.0, 90.0, 111.0, 426.0]",,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/value_log/value,"(8,)",float32,8,"[20.15, 20.14, 20.15, 20.16, 20.16, 20.15, 20.16, 20.16]",,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/value_log/value_valid,"(8,)",int32,8,"[1, 1, 1, 1, 1, 1, 1, 1]",,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/value_spread,"(1,)",float32,1,[0.0],,concrete_sample_3M
+44749,raw_data_1/selog/Water_Bath_Temp/vi_name,"(1,)",|S1,1,[ ],,concrete_sample_3M
+44749,raw_data_1/title,"(1,)",|S45,1,[Concrete sample 3M (163.72g) in tank with GEM],,concrete_sample_3M
+44779,raw_data_1/definition,"(1,)",|S6,1,[TOFRAW],url=b'http://definition.nexusformat.org/instruments/TOFRAW?version=1.0',concrete_sample_5I
+44779,raw_data_1/definition_local,"(1,)",|S10,1,[ISISTOFRAW],url=b'http://svn.isis.rl.ac.uk/instruments/ISISTOFRAW?version=1.0',concrete_sample_5I
+44779,raw_data_1/detector_1/counts,"(1, 196, 9729)",int32,1906884,,"axes=b'period_index,spectrum_index,time_of_flight' | target=b'/raw_data_1/instrument/detector_1/counts'",concrete_sample_5I
+44779,raw_data_1/detector_1/period_index,"(1,)",int32,1,[1],,concrete_sample_5I
+44779,raw_data_1/detector_1/spectrum_index,"(196,)",int32,196,,target=b'/raw_data_1/instrument/detector_1/spectrum_index',concrete_sample_5I
+44779,raw_data_1/detector_1/time_of_flight,"(9730,)",float32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight',concrete_sample_5I
+44779,raw_data_1/instrument/dae/detector_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/detector_dae3_00.dat],,concrete_sample_5I
+44779,raw_data_1/instrument/dae/spectra_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/spectrum_dae3_00.dat],,concrete_sample_5I
+44779,raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw,"(9730,)",int32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw',concrete_sample_5I
+44779,raw_data_1/instrument/detector_1/delt,"(196,)",float32,196,,,concrete_sample_5I
+44779,raw_data_1/instrument/detector_1/distance,"(196,)",float32,196,,,concrete_sample_5I
+44779,raw_data_1/instrument/detector_1/polar_angle,"(196,)",float32,196,,,concrete_sample_5I
+44779,raw_data_1/instrument/detector_1/source_detector_distance,"(1,)",float32,1,[0.0],,concrete_sample_5I
+44779,raw_data_1/instrument/moderator/distance,"(1,)",float32,1,[-0.0],,concrete_sample_5I
+44779,raw_data_1/isis_vms_compat/HDR,"(1,)",|S80,1,[VES44779Martellucci         Concrete sample 5I (146.10-MAY-2021 12:50:09   20.07],,concrete_sample_5I
+44779,raw_data_1/isis_vms_compat/TITL,"(1,)",|S80,1,[Concrete sample 5I (146.51g) in tank with GEM                                   ],,concrete_sample_5I
+44779,raw_data_1/monitor_1/data,"(1, 1, 9729)",int32,9729,,"axes=b'period_index,spectrum_index,time_of_flight'",concrete_sample_5I
+44779,raw_data_1/monitor_1/monitor_number,"(1,)",int32,1,[1],,concrete_sample_5I
+44779,raw_data_1/monitor_1/spectrum_index,"(1,)",int32,1,[1],,concrete_sample_5I
+44779,raw_data_1/monitor_2/data,"(1, 1, 9729)",int32,9729,,"axes=b'period_index,spectrum_index,time_of_flight'",concrete_sample_5I
+44779,raw_data_1/monitor_2/monitor_number,"(1,)",int32,1,[2],,concrete_sample_5I
+44779,raw_data_1/monitor_2/spectrum_index,"(1,)",int32,1,[2],,concrete_sample_5I
+44779,raw_data_1/monitor_events_not_saved,"(1,)",int64,1,[0],,concrete_sample_5I
+44779,raw_data_1/runlog/icp_event/time,"(6,)",float32,6,"[-62.0, 0.0, 0.0, 0.0, 400.0, 400.0]",,concrete_sample_5I
+44779,raw_data_1/runlog/icp_event/value,"(6, 1)",|S65,6,"[CHANGE_PERIOD 1                                                  , CHANGE_PERIOD 1                                                  , START_COLLECTION PERIOD 1 GF 0 RF 0 GUAH 0.000000                , BEGIN                                                            , STOP_COLLECTION PERIOD 1 GF 15973 RF 15973 GUAH 20.069834 DUR 400, END                                                              ]",,concrete_sample_5I
+44779,raw_data_1/runlog/monitor_sum_1/time,"(57,)",float32,57,"[-1319.0, -1289.0, -1259.0, -1229.0, -1199.0, -1169.0, -1139.0, -1109.0, -1079.0, -1049.0, -1019.0, -988.0, -958.0, -928.0, -898.0, -868.0, -838.0, -808.0, -778.0, -748.0, -718.0, -688.0, -658.0, -628.0, -598.0, -568.0, -538.0, -508.0, -477.0, -447.0, -417.0, -387.0, -357.0, -327.0, -297.0, -267.0, -237.0, -207.0, -177.0, -147.0, -117.0, -87.0, 6.0, 36.0, 66.0, 96.0, 126.0, 156.0, 186.0, 216.0, 246.0, 276.0, 306.0, 336.0, 366.0, 396.0, 401.0]",,concrete_sample_5I
+44779,raw_data_1/runlog/monitor_sum_1/value,"(57,)",int32,57,"[7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 7520, 15615, 109684, 203441, 297554, 392430, 486771, 581010, 675331, 769745, 863869, 958356, 1052179, 1146635, 1240485, 1240485]",,concrete_sample_5I
+44779,raw_data_1/sample/distance,"(1,)",float64,1,[0.0],,concrete_sample_5I
+44779,raw_data_1/sample/height,"(1,)",float32,1,[0.0],,concrete_sample_5I
+44779,raw_data_1/sample/id,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/sample/name,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/sample/shape,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/sample/thickness,"(1,)",float32,1,[0.0],,concrete_sample_5I
+44779,raw_data_1/sample/type,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/sample/width,"(1,)",float32,1,[0.0],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/read_control,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/set_control,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/setpoint,"(1,)",float32,1,[0.0],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/setpoint_spread,"(1,)",float32,1,[0.0],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/value,"(1,)",float32,1,[829.4179],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/value_log/alarm_time,"(1,)",float32,1,[2.0],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/value_log/name,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/value_log/time,"(2,)",float32,2,"[2.0, 401.0]",,concrete_sample_5I
+44779,raw_data_1/selog/Sample/value_log/value,"(2,)",float32,2,"[829.4179, 829.4179]",,concrete_sample_5I
+44779,raw_data_1/selog/Sample/value_log/value_valid,"(2,)",int32,2,"[1, 1]",,concrete_sample_5I
+44779,raw_data_1/selog/Sample/value_spread,"(1,)",float32,1,[0.0],,concrete_sample_5I
+44779,raw_data_1/selog/Sample/vi_name,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/read_control,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/set_control,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/setpoint,"(1,)",float32,1,[0.0],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/setpoint_spread,"(1,)",float32,1,[0.0],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/value,"(1,)",float32,1,[21.08],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_time,"(1,)",float32,1,[-652.0],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/value_log/name,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/value_log/time,"(7,)",float32,7,"[-652.0, -647.0, -506.0, 2.0, 318.0, 387.0, 401.0]",,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/value_log/value,"(7,)",float32,7,"[21.09, 21.1, 21.09, 21.09, 21.08, 21.09, 21.08]",,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/value_log/value_valid,"(7,)",int32,7,"[1, 1, 1, 1, 1, 1, 1]",,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/value_spread,"(1,)",float32,1,[0.01],,concrete_sample_5I
+44779,raw_data_1/selog/Water_Bath_Temp/vi_name,"(1,)",|S1,1,[ ],,concrete_sample_5I
+44779,raw_data_1/title,"(1,)",|S45,1,[Concrete sample 5I (146.51g) in tank with GEM],,concrete_sample_5I
+44792,raw_data_1/definition,"(1,)",|S6,1,[TOFRAW],url=b'http://definition.nexusformat.org/instruments/TOFRAW?version=1.0',late_empty_control
+44792,raw_data_1/definition_local,"(1,)",|S10,1,[ISISTOFRAW],url=b'http://svn.isis.rl.ac.uk/instruments/ISISTOFRAW?version=1.0',late_empty_control
+44792,raw_data_1/detector_1/counts,"(1, 196, 9729)",int32,1906884,,"axes=b'period_index,spectrum_index,time_of_flight' | target=b'/raw_data_1/instrument/detector_1/counts'",late_empty_control
+44792,raw_data_1/detector_1/period_index,"(1,)",int32,1,[1],,late_empty_control
+44792,raw_data_1/detector_1/spectrum_index,"(196,)",int32,196,,target=b'/raw_data_1/instrument/detector_1/spectrum_index',late_empty_control
+44792,raw_data_1/detector_1/time_of_flight,"(9730,)",float32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight',late_empty_control
+44792,raw_data_1/instrument/dae/detector_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/detector_dae3_00.dat],,late_empty_control
+44792,raw_data_1/instrument/dae/spectra_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/spectrum_dae3_00.dat],,late_empty_control
+44792,raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw,"(9730,)",int32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw',late_empty_control
+44792,raw_data_1/instrument/detector_1/delt,"(196,)",float32,196,,,late_empty_control
+44792,raw_data_1/instrument/detector_1/distance,"(196,)",float32,196,,,late_empty_control
+44792,raw_data_1/instrument/detector_1/polar_angle,"(196,)",float32,196,,,late_empty_control
+44792,raw_data_1/instrument/detector_1/source_detector_distance,"(1,)",float32,1,[0.0],,late_empty_control
+44792,raw_data_1/instrument/moderator/distance,"(1,)",float32,1,[-0.0],,late_empty_control
+44792,raw_data_1/isis_vms_compat/HDR,"(1,)",|S80,1,[VES44792Martellucci         Empty tank with GEM     10-MAY-2021 17:40:37  180.07],,late_empty_control
+44792,raw_data_1/isis_vms_compat/TITL,"(1,)",|S80,1,[Empty tank with GEM                                                             ],,late_empty_control
+44792,raw_data_1/monitor_1/data,"(1, 1, 9729)",int32,9729,,"axes=b'period_index,spectrum_index,time_of_flight'",late_empty_control
+44792,raw_data_1/monitor_1/monitor_number,"(1,)",int32,1,[1],,late_empty_control
+44792,raw_data_1/monitor_1/spectrum_index,"(1,)",int32,1,[1],,late_empty_control
+44792,raw_data_1/monitor_2/data,"(1, 1, 9729)",int32,9729,,"axes=b'period_index,spectrum_index,time_of_flight'",late_empty_control
+44792,raw_data_1/monitor_2/monitor_number,"(1,)",int32,1,[2],,late_empty_control
+44792,raw_data_1/monitor_2/spectrum_index,"(1,)",int32,1,[2],,late_empty_control
+44792,raw_data_1/monitor_events_not_saved,"(1,)",int64,1,[0],,late_empty_control
+44792,raw_data_1/runlog/icp_event/time,"(6,)",float32,6,"[-4.0, 0.0, 0.0, 0.0, 3585.0, 3585.0]",,late_empty_control
+44792,raw_data_1/runlog/icp_event/value,"(6, 1)",|S69,6,"[CHANGE_PERIOD 1                                                      , CHANGE_PERIOD 1                                                      , START_COLLECTION PERIOD 1 GF 0 RF 0 GUAH 0.000000                    , BEGIN                                                                , STOP_COLLECTION PERIOD 1 GF 143406 RF 143406 GUAH 180.066971 DUR 3585, END                                                                  ]",,late_empty_control
+44792,raw_data_1/runlog/monitor_sum_1/time,"(270,)",float32,270,,,late_empty_control
+44792,raw_data_1/runlog/monitor_sum_1/value,"(270,)",int32,270,,,late_empty_control
+44792,raw_data_1/sample/distance,"(1,)",float64,1,[0.0],,late_empty_control
+44792,raw_data_1/sample/height,"(1,)",float32,1,[0.0],,late_empty_control
+44792,raw_data_1/sample/id,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/sample/name,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/sample/shape,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/sample/thickness,"(1,)",float32,1,[0.0],,late_empty_control
+44792,raw_data_1/sample/type,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/sample/width,"(1,)",float32,1,[0.0],,late_empty_control
+44792,raw_data_1/selog/Sample/read_control,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/selog/Sample/set_control,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/selog/Sample/setpoint,"(1,)",float32,1,[0.0],,late_empty_control
+44792,raw_data_1/selog/Sample/setpoint_spread,"(1,)",float32,1,[0.0],,late_empty_control
+44792,raw_data_1/selog/Sample/value,"(1,)",float32,1,[829.4179],,late_empty_control
+44792,raw_data_1/selog/Sample/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,late_empty_control
+44792,raw_data_1/selog/Sample/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,late_empty_control
+44792,raw_data_1/selog/Sample/value_log/alarm_time,"(1,)",float32,1,[-2702.0],,late_empty_control
+44792,raw_data_1/selog/Sample/value_log/name,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/selog/Sample/value_log/time,"(5,)",float32,5,"[-2702.0, -902.0, 2.0, 1801.0, 3586.0]",,late_empty_control
+44792,raw_data_1/selog/Sample/value_log/value,"(5,)",float32,5,"[829.4179, 829.4179, 829.4179, 829.4179, 829.4179]",,late_empty_control
+44792,raw_data_1/selog/Sample/value_log/value_valid,"(5,)",int32,5,"[1, 1, 1, 1, 1]",,late_empty_control
+44792,raw_data_1/selog/Sample/value_spread,"(1,)",float32,1,[0.0],,late_empty_control
+44792,raw_data_1/selog/Sample/vi_name,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/read_control,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/set_control,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/setpoint,"(1,)",float32,1,[0.0],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/setpoint_spread,"(1,)",float32,1,[0.0],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/value,"(1,)",float32,1,[20.99],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_time,"(1,)",float32,1,[-4489.0],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/value_log/name,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/value_log/time,"(32,)",float32,32,"[-4489.0, -2672.0, -872.0, 2.0, 389.0, 392.0, 840.0, 870.0, 1199.0, 1226.0, 1290.0, 1293.0, 1350.0, 1392.0, 1738.0, 1766.0, 1828.0, 1857.0, 1950.0, 2007.0, 2038.0, 2101.0, 2129.0, 2338.0, 2358.0, 2518.0, 2542.0, 2700.0, 2727.0, 2820.0, 2824.0, 3586.0]",,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/value_log/value,"(32,)",float32,32,"[21.0, 21.0, 21.0, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 21.0, 20.99, 20.99]",,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/value_log/value_valid,"(32,)",int32,32,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/value_spread,"(1,)",float32,1,[0.01],,late_empty_control
+44792,raw_data_1/selog/Water_Bath_Temp/vi_name,"(1,)",|S1,1,[ ],,late_empty_control
+44792,raw_data_1/title,"(1,)",|S19,1,[Empty tank with GEM],,late_empty_control
+45130,raw_data_1/definition,"(1,)",|S6,1,[TOFRAW],url=b'http://definition.nexusformat.org/instruments/TOFRAW?version=1.0',sample_1_RT_Cd_frame
+45130,raw_data_1/definition_local,"(1,)",|S10,1,[ISISTOFRAW],url=b'http://svn.isis.rl.ac.uk/instruments/ISISTOFRAW?version=1.0',sample_1_RT_Cd_frame
+45130,raw_data_1/detector_1/counts,"(6, 196, 9729)",int32,11441304,,"axes=b'period_index,spectrum_index,time_of_flight' | target=b'/raw_data_1/instrument/detector_1/counts'",sample_1_RT_Cd_frame
+45130,raw_data_1/detector_1/period_index,"(6,)",int32,6,"[1, 2, 3, 4, 5, 6]",,sample_1_RT_Cd_frame
+45130,raw_data_1/detector_1/spectrum_index,"(196,)",int32,196,,target=b'/raw_data_1/instrument/detector_1/spectrum_index',sample_1_RT_Cd_frame
+45130,raw_data_1/detector_1/time_of_flight,"(9730,)",float32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight',sample_1_RT_Cd_frame
+45130,raw_data_1/instrument/dae/detector_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/detector_dae3_00.dat],,sample_1_RT_Cd_frame
+45130,raw_data_1/instrument/dae/spectra_table_file,"(1,)",|S83,1,[C:/Instrument/Settings/config/NDXVESUVIO/configurations/tables/spectrum_dae3_00.dat],,sample_1_RT_Cd_frame
+45130,raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw,"(9730,)",int32,9730,,target=b'/raw_data_1/instrument/dae/time_channels_1/time_of_flight_raw',sample_1_RT_Cd_frame
+45130,raw_data_1/instrument/detector_1/delt,"(196,)",float32,196,,,sample_1_RT_Cd_frame
+45130,raw_data_1/instrument/detector_1/distance,"(196,)",float32,196,,,sample_1_RT_Cd_frame
+45130,raw_data_1/instrument/detector_1/polar_angle,"(196,)",float32,196,,,sample_1_RT_Cd_frame
+45130,raw_data_1/instrument/detector_1/source_detector_distance,"(1,)",float32,1,[0.0],,sample_1_RT_Cd_frame
+45130,raw_data_1/instrument/moderator/distance,"(1,)",float32,1,[-0.0],,sample_1_RT_Cd_frame
+45130,raw_data_1/isis_vms_compat/HDR,"(1,)",|S80,1,[VES45130Martellucci         Sample 1 on Al face with25-MAY-2021 11:02:02   90.07],,sample_1_RT_Cd_frame
+45130,raw_data_1/isis_vms_compat/TITL,"(1,)",|S80,1,[Sample 1 on Al face with Cd frame at RT                                         ],,sample_1_RT_Cd_frame
+45130,raw_data_1/monitor_1/data,"(6, 1, 9729)",int32,58374,,"axes=b'period_index,spectrum_index,time_of_flight'",sample_1_RT_Cd_frame
+45130,raw_data_1/monitor_1/monitor_number,"(1,)",int32,1,[1],,sample_1_RT_Cd_frame
+45130,raw_data_1/monitor_1/spectrum_index,"(1,)",int32,1,[1],,sample_1_RT_Cd_frame
+45130,raw_data_1/monitor_2/data,"(6, 1, 9729)",int32,58374,,"axes=b'period_index,spectrum_index,time_of_flight'",sample_1_RT_Cd_frame
+45130,raw_data_1/monitor_2/monitor_number,"(1,)",int32,1,[2],,sample_1_RT_Cd_frame
+45130,raw_data_1/monitor_2/spectrum_index,"(1,)",int32,1,[2],,sample_1_RT_Cd_frame
+45130,raw_data_1/monitor_events_not_saved,"(1,)",int64,1,[0],,sample_1_RT_Cd_frame
+45130,raw_data_1/runlog/icp_event/time,"(82,)",float32,82,"[-3033.0, -3029.0, -3029.0, -3029.0, -3024.0, -3024.0, -2944.0, -2944.0, -2944.0, -2650.0, -2650.0, -2643.0, -2643.0, -2643.0, -2344.0, -2344.0, -2303.0, -2303.0, -2303.0, -2004.0, -2004.0, -1998.0, -1998.0, -1998.0, -1698.0, -1698.0, -1658.0, -1657.0, -1657.0, -1358.0, -1358.0, -1352.0, -1352.0, -1352.0, -1052.0, -1052.0, -972.0, -972.0, -972.0, -673.0, -673.0, -666.0, -666.0, -666.0, -526.0, -526.0, -4.0, 0.0, 0.0, 0.0, 6.0, 6.0, 12.0, 12.0, 12.0, 306.0, 306.0, 312.0, 313.0, 313.0, 612.0, 612.0, 653.0, 653.0, 653.0, 952.0, 953.0, 959.0, 959.0, 959.0, 1258.0, 1258.0, 1299.0, 1299.0, 1299.0, 1599.0, 1599.0, 1605.0, 1605.0, 1605.0, 1905.0, 1905.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/runlog/icp_event/value,"(82, 1)",|S66,82,"[CHANGE_PERIOD 1                                                   , CHANGE_PERIOD 1                                                   , START_COLLECTION PERIOD 1 GF 0 RF 0 GUAH 0.000000                 , BEGIN                                                             , STOP_COLLECTION PERIOD 1 GF 222 RF 222 GUAH 0.277739 DUR 5        , PAUSE                                                             , CHANGE_PERIOD 1                                                   , RESUME                                                            , START_COLLECTION PERIOD 1 GF 224 RF 224 GUAH 0.280242             , STOP_COLLECTION PERIOD 1 GF 11990 RF 11990 GUAH 15.018934 DUR 294 , PAUSE                                                             , CHANGE_PERIOD 2                                                   , RESUME                                                            , START_COLLECTION PERIOD 2 GF 11992 RF 11992 GUAH 15.021437        , STOP_COLLECTION PERIOD 2 GF 23964 RF 23964 GUAH 30.013863 DUR 299 , PAUSE                                                             , CHANGE_PERIOD 3                                                   , RESUME                                                            , START_COLLECTION PERIOD 3 GF 23967 RF 23967 GUAH 30.017637        , STOP_COLLECTION PERIOD 3 GF 35924 RF 35924 GUAH 45.013512 DUR 299 , PAUSE                                                             , CHANGE_PERIOD 4                                                   , RESUME                                                            , START_COLLECTION PERIOD 4 GF 35926 RF 35926 GUAH 45.016014        , STOP_COLLECTION PERIOD 4 GF 47900 RF 47900 GUAH 60.013847 DUR 300 , PAUSE                                                             , CHANGE_PERIOD 5                                                   , RESUME                                                            , START_COLLECTION PERIOD 5 GF 47903 RF 47903 GUAH 60.017590        , STOP_COLLECTION PERIOD 5 GF 59882 RF 59882 GUAH 75.009842 DUR 299 , PAUSE                                                             , CHANGE_PERIOD 6                                                   , RESUME                                                            , START_COLLECTION PERIOD 6 GF 59884 RF 59884 GUAH 75.012360        , STOP_COLLECTION PERIOD 6 GF 71874 RF 71874 GUAH 90.015686 DUR 300 , PAUSE                                                             , CHANGE_PERIOD 1                                                   , RESUME                                                            , START_COLLECTION PERIOD 1 GF 71877 RF 71877 GUAH 90.019455        , STOP_COLLECTION PERIOD 1 GF 83854 RF 83854 GUAH 105.014809 DUR 299, PAUSE                                                             , CHANGE_PERIOD 2                                                   , RESUME                                                            , START_COLLECTION PERIOD 2 GF 83857 RF 83857 GUAH 105.018562       , STOP_COLLECTION PERIOD 2 GF 89452 RF 89452 GUAH 112.020393 DUR 140, ABORT                                                             , CHANGE_PERIOD 1                                                   , CHANGE_PERIOD 1                                                   , START_COLLECTION PERIOD 1 GF 0 RF 0 GUAH 0.000000                 , BEGIN                                                             , STOP_COLLECTION PERIOD 1 GF 224 RF 224 GUAH 0.280180 DUR 6        , PAUSE                                                             , CHANGE_PERIOD 1                                                   , RESUME                                                            , START_COLLECTION PERIOD 1 GF 226 RF 226 GUAH 0.282696             , STOP_COLLECTION PERIOD 1 GF 11990 RF 11990 GUAH 15.010883 DUR 294 , PAUSE                                                             , CHANGE_PERIOD 2                                                   , RESUME                                                            , START_COLLECTION PERIOD 2 GF 11992 RF 11992 GUAH 15.013387        , STOP_COLLECTION PERIOD 2 GF 23975 RF 23975 GUAH 30.013050 DUR 299 , PAUSE                                                             , CHANGE_PERIOD 3                                                   , RESUME                                                            , START_COLLECTION PERIOD 3 GF 23977 RF 23977 GUAH 30.015566        , STOP_COLLECTION PERIOD 3 GF 35955 RF 35955 GUAH 45.015465 DUR 299 , PAUSE                                                             , CHANGE_PERIOD 4                                                   , RESUME                                                            , START_COLLECTION PERIOD 4 GF 35957 RF 35957 GUAH 45.017967        , STOP_COLLECTION PERIOD 4 GF 47932 RF 47932 GUAH 60.014126 DUR 299 , PAUSE                                                             , CHANGE_PERIOD 5                                                   , RESUME                                                            , START_COLLECTION PERIOD 5 GF 47934 RF 47934 GUAH 60.016628        , STOP_COLLECTION PERIOD 5 GF 59904 RF 59904 GUAH 75.011978 DUR 300 , PAUSE                                                             , CHANGE_PERIOD 6                                                   , RESUME                                                            , START_COLLECTION PERIOD 6 GF 59907 RF 59907 GUAH 75.015724        , STOP_COLLECTION PERIOD 6 GF 71915 RF 71915 GUAH 90.070381 DUR 300 , END                                                               ]",,sample_1_RT_Cd_frame
+45130,raw_data_1/runlog/monitor_sum_1/time,"(193,)",float32,193,,,sample_1_RT_Cd_frame
+45130,raw_data_1/runlog/monitor_sum_1/value,"(193,)",int32,193,,,sample_1_RT_Cd_frame
+45130,raw_data_1/sample/distance,"(1,)",float64,1,[0.0],,sample_1_RT_Cd_frame
+45130,raw_data_1/sample/height,"(1,)",float32,1,[0.0],,sample_1_RT_Cd_frame
+45130,raw_data_1/sample/id,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/sample/name,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/sample/shape,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/sample/thickness,"(1,)",float32,1,[0.0],,sample_1_RT_Cd_frame
+45130,raw_data_1/sample/type,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/sample/width,"(1,)",float32,1,[0.0],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/read_control,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/set_control,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/setpoint,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/setpoint_spread,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/value,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/value_log/alarm_severity,"(1, 1)",|S7,1,[INVALID],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/value_log/alarm_status,"(1, 1)",|S10,1,[LINK_ALARM],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/value_log/alarm_time,"(1,)",float32,1,[-3028.0],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/value_log/name,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/value_log/time,"(5,)",float32,5,"[-3028.0, -1228.0, 2.0, 1801.0, 1906.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/value_log/value,"(5,)",float32,5,"[0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/value_log/value_valid,"(5,)",int32,5,"[0, 0, 0, 0, 0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/value_spread,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Rig_Pressure/vi_name,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/read_control,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/set_control,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/setpoint,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/setpoint_spread,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/value,"(6,)",float32,6,"[827.63525, 827.63525, 827.63525, 827.63525, 827.63525, 827.63525]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/value_log/alarm_severity,"(1, 1)",|S4,1,[NONE],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/value_log/alarm_status,"(1, 1)",|S8,1,[NO_ALARM],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/value_log/alarm_time,"(1,)",float32,1,[-3028.0],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/value_log/name,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/value_log/time,"(5,)",float32,5,"[-3028.0, -1228.0, 2.0, 1801.0, 1906.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/value_log/value,"(5,)",float32,5,"[827.63525, 827.63525, 827.63525, 827.63525, 827.63525]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/value_log/value_valid,"(5,)",int32,5,"[1, 1, 1, 1, 1]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/value_spread,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Sample/vi_name,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/read_control,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/set_control,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/setpoint,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/setpoint_spread,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/value,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_severity,"(1, 1)",|S7,1,[INVALID],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_status,"(1, 1)",|S11,1,[WRITE_ALARM],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/value_log/alarm_time,"(1,)",float32,1,[-3028.0],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/value_log/name,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/value_log/time,"(5,)",float32,5,"[-3028.0, -1228.0, 2.0, 1801.0, 1906.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/value_log/value,"(5,)",float32,5,"[0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/value_log/value_valid,"(5,)",int32,5,"[0, 0, 0, 0, 0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/value_spread,"(6,)",float32,6,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",,sample_1_RT_Cd_frame
+45130,raw_data_1/selog/Water_Bath_Temp/vi_name,"(1,)",|S1,1,[ ],,sample_1_RT_Cd_frame
+45130,raw_data_1/title,"(1,)",|S39,1,[Sample 1 on Al face with Cd frame at RT],,sample_1_RT_Cd_frame

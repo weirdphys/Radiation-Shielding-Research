@@ -1,0 +1,37 @@
+{
+  "dataset_id": "N003",
+  "object_id": "N003.TRAJ_E",
+  "coordinate_native": "neutron_energy_eV",
+  "coordinate_analysis": "log(neutron_energy_eV/E_ref)",
+  "coordinate_transform": "ln(x / dataset_min_positive_energy)",
+  "coordinate_reference": 0.0010012874348871,
+  "coordinate_unit": "dimensionless_log_energy",
+  "source_path": "data/processed/RB2000164/rb2000164_physics_ready_strict.csv.gz",
+  "n_curves_loaded": 18,
+  "max_curve_points": 9208,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "removal_samples": 9,
+    "transmission_samples": 9
+  },
+  "registry": {
+    "name": "ISIS RB2000164 barite-enriched concrete",
+    "particle": "neutron",
+    "evidence": "EXPERIMENTAL",
+    "role": "Experimental T(E) and grounded macroscopic removal cross section for 9 samples.",
+    "path": "processed_datasets/RB2000164/rb2000164_physics_ready_strict.parquet",
+    "richness": "VERY_RICH_FIELD",
+    "guardrail": "Grounded thickness permits Sigma_R; preserve sample traceability."
+  },
+  "state_group_shapes": {
+    "removal_samples": {
+      "n_coordinate_points": 3500,
+      "state_dimension": 9
+    },
+    "transmission_samples": {
+      "n_coordinate_points": 3500,
+      "state_dimension": 9
+    }
+  }
+}

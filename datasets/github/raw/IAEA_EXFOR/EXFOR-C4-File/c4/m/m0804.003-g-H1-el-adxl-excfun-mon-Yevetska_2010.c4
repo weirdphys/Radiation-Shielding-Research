@@ -1,0 +1,31 @@
+#ENTRY      M0804
+#AUTHOR1    O.Yevetska+
+#YEAR       2010
+#INSTITUTE  (2GERTHD)
+#TITLE      New experimental  method  for  investigation  of  the
+#+          nucleon polarizabilities.
+#AUTHOR(S)  O.Yevetska, S.Watzlawik, J.Ahrens, G.D.Alkhazov, V.P.Chizhov, 
+#+          E.M.Maev, P.Von Neumann-Cosel, E.M.Orischin, G.E.Petrov, 
+#+          J.-M.Porte, A.Richter, V.V.Sarantsev, G.Schrieder, Yu.V.Smirenin
+#REF-CODE   (J,NIM/A,618,160,2010)
+#REFERENCE  Nucl.Instrum.Meth.A 618 (2010) 160 (doi:10.1016/j.nima.2010.02.091)
+#DATASETS   0
+#
+#DATASET    M0804003 
+#DATE       20110224
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2    3.2430+7          1.4380-8 1.7800-9-0.642788                              O.Yevetska+          (10)M0804  3 
+    0  1001   4   2    3.7000+7          1.4260-8 1.8000-9-0.642788                              O.Yevetska+          (10)M0804  3 
+    0  1001   4   2    4.1100+7          1.4570-8 1.8200-9-0.642788                              O.Yevetska+          (10)M0804  3 
+    0  1001   4   2    5.1430+7          1.3000-8 1.5300-9-0.642788                              O.Yevetska+          (10)M0804  3 
+#/DATA      4
+#/DATASET

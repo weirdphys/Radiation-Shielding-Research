@@ -1,0 +1,49 @@
+#ENTRY      T0122
+#AUTHOR1    C.H.Johnson+
+#YEAR       1958
+#INSTITUTE  (1USAORL)
+#TITLE      Proton Strength Functions from (p,n) Cross Sections
+#AUTHOR(S)  C.H.Johnson, A.Galonsky, J.P.Ulrich
+#REF-CODE   (J,PR,109,1243,1958)
+#REFERENCE  Phys.Rev. 109 (1958) 1243 (doi:10.1103/PhysRev.109.1243)
+#DATASETS   0
+#
+#DATASET    T0122009 
+#DATE       20240405
+#REACTION   31-GA-71(P,N)32-GE-71,,SIG
+#PROJ       1001
+#TARG       31071
+#MF         3
+#MT         4
+#PRODUCT    32-GE-71
+#C4BEGIN    [ 1001 31071   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 31071   3   4 C  1038000.          6.4000-8 4.0000-9                                       C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1050000.          7.7000-8 5.0000-9                                       C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1072000.          1.2000-7                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1092000.          1.8000-7                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1112000.          2.3000-7                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1131000.          3.3000-7                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1152000.          5.1000-7                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1172000.          6.5000-7                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1192000.          8.0000-7                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1212000.          1.7000-6                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1233000.          2.8000-6                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1252000.          3.4000-6                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1274000.          4.7000-6                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1299000.          5.8000-6                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1319000.          7.2000-6                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1339000.          9.1000-6                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1362000.          1.1000-5                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1382000.          1.3000-5                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1406000.          1.6000-5                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1425000.          2.1000-5                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1448000.          2.6000-5                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1468000.          2.9000-5                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1494000.          3.3000-5                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1513000.          4.6000-5                                                C.H.Johnson+         (58)T0122  9 
+ 1001 31071   3   4 C  1535000.          5.2000-5                                                C.H.Johnson+         (58)T0122  9 
+#/DATA      25
+#/DATASET

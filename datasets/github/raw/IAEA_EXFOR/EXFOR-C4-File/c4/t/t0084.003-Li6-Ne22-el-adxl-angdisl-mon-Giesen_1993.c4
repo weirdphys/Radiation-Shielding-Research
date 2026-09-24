@@ -1,0 +1,39 @@
+#ENTRY      T0084
+#AUTHOR1    U.Giesen+
+#YEAR       1993
+#INSTITUTE  (1USANOT)
+#TITLE      The astrophysical implications of low-energy
+#+          resonances in 22Ne+alpha
+#AUTHOR(S)  U.Giesen, C.P.Browne, J.Gorres, S.Graff, C.Iliadis, H.P.Trautvetter, 
+#+          M.Wiescher, W.Harms, K.L.Kratz, B.Pfeiffer, R.E.Azuma, M.Buckby, 
+#+          J.D.King
+#REF-CODE   (J,NP/A,561,95,1993)
+#REFERENCE  Nucl.Phys.A 561 (1993) 95 (doi:10.1016/0375-9474(93)90167-V)
+#DATASETS   0
+#
+#DATASET    T0084003 
+#DATE       20010201
+#REACTION   10-NE-22(3-LI-6,EL)10-NE-22,,DA,,RTH
+#PROJ       3006
+#TARG       10022
+#MF         4
+#MT         2
+#PRODUCT    10-NE-22
+#C4BEGIN    [ 3006 10022   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 10022   4   2    3.1400+7          2.740138 0.344619 0.976296                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          1.248752 0.150501 0.965926                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          0.509262 0.061729 0.953717                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          0.084751 0.010594 0.923880                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          0.067231 8.0677-3 0.906308                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          0.030691 3.6977-3 0.887011                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          5.5794-3 6.9261-4 0.843391                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          6.7789-3 8.2212-4 0.819152                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          3.6440-3 4.5274-4 0.793353                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          4.9823-3 7.5075-5 0.737277                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          7.6831-4 9.8782-5 0.707107                              U.Giesen+            (93)T0084  3 
+ 3006 10022   4   2    3.1400+7          8.0462-4 1.1622-4 0.675590                              U.Giesen+            (93)T0084  3 
+#/DATA      12
+#/DATASET

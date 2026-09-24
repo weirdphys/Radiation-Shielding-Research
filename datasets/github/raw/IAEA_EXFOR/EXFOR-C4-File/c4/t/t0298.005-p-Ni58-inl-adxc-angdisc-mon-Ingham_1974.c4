@@ -1,0 +1,69 @@
+#ENTRY      T0298
+#AUTHOR1    D.Ingham+
+#YEAR       1974
+#INSTITUTE  (1USAUSA)
+#TITLE      Small-angle inelastic scattering of 40 MeV protons by
+#+          12C, 40Ca, 56Fe and 58Ni.
+#AUTHOR(S)  D.Ingham, R.Eisberg, M.Makino, C.Waddell
+#REF-CODE   (J,NIM,114,5,1974)
+#REFERENCE  Nucl.Intrum.Meth. 114 (1974) 5 (doi:10.1016/0029-554X(74)90321-8)
+#DATASETS   0
+#
+#DATASET    T0298005 
+#DATE       20040802
+#REACTION   28-NI-58(P,INL)28-NI-58,PAR,DA
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         601
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1001 28058   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4 601  C 4.0000+7          0.023700 2.5000-3 0.993961          1450000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          0.022100 2.2000-3 0.989272          1450000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          0.013700          0.983885          1450000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          0.010600          0.969016          1450000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          9.4300-3          0.936672          1450000.         LVLD.Ingham+            (74)T0298  5 
+#/DATA      5
+#/DATASET
+#
+#DATASET    T0298005 
+#DATE       20040802
+#REACTION   28-NI-58(P,INL)28-NI-58,PAR,DA
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         601
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1001 28058   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4 601  C 4.0000+7          3.0300-3 1.7600-3 0.990024          2450000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          1.2000-3 1.9000-4 0.984196          2450000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          7.8800-4          0.976296          2450000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          1.0000-3 2.7000-4 0.969016          2450000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          7.8300-4          0.969016          2450000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          7.5500-4          0.936672          2450000.         LVLD.Ingham+            (74)T0298  5 
+#/DATA      6
+#/DATASET
+#
+#DATASET    T0298005 
+#DATE       20040802
+#REACTION   28-NI-58(P,INL)28-NI-58,PAR,DA
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         601
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1001 28058   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4 601  C 4.0000+7          6.0400-3 3.4300-3 0.989526          4500000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          4.3100-3 8.3000-4 0.983571          4500000.         LVLD.Ingham+            (74)T0298  5 
+ 1001 28058   4 601  C 4.0000+7          6.6000-3 4.9000-4 0.968583          4500000.         LVLD.Ingham+            (74)T0298  5 
+#/DATA      3
+#/DATASET

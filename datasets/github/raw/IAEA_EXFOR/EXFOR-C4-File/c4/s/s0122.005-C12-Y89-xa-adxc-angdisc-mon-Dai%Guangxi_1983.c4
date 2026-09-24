@@ -1,0 +1,39 @@
+#ENTRY      S0122
+#AUTHOR1    Dai Guangxi+
+#YEAR       1983
+#INSTITUTE  (3CPRIMP)
+#TITLE      The measurement of light particle emission from 12C +
+#+          159Tb, Ag and 89Y reactions
+#AUTHOR(S)  Dai Guangxi, Jin Genming, Yuan Shuangqui, Guo Zhongyan, 
+#+          Zeng Wenbing, Chen Jusheng, Li Zuyu, Wang Dayan, Xu Guojun
+#REF-CODE   (J,PHE,7,86,1983)
+#REFERENCE  High En.Nucl.Phy.Ch. 7 (1983) 86
+#DATASETS   0
+#
+#DATASET    S0122005 
+#DATE       20151009
+#REACTION   39-Y-89(6-C-12,X)2-HE-4,,DA
+#PROJ       6012
+#TARG       39089
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012 39089   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 39089   4 207  C 7.1500+7          0.213120 0.014950 0.759839                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.262670 0.026480 0.707970                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.150560 0.014240 0.611941                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.079510 5.8200-3 0.535974                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.060110 3.8500-3 0.363414                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.039680 3.0200-3 0.185324                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.037190 2.9500-3-9.9482-3                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.034850 2.1300-3-0.186181                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.022810 1.6700-3-0.646524                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.021320 1.5000-3-0.751494                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.025400 2.2500-3-0.837242                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.021870 1.0100-3-0.914042                              Dai Guangxi+         (83)S0122  5 
+ 6012 39089   4 207  C 7.1500+7          0.019040 1.0500-3-0.962975                              Dai Guangxi+         (83)S0122  5 
+#/DATA      13
+#/DATASET

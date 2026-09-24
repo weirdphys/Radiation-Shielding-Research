@@ -1,0 +1,26 @@
+#ENTRY      M0271
+#AUTHOR1    S.Yasumi+
+#YEAR       1960
+#INSTITUTE  (2JPNKTO)
+#TITLE      Absolute cross section of the reaction
+#+          63Cu(gamma,n)62Cu for Lithium gamma rays.
+#AUTHOR(S)  S.Yasumi, M.Yata, K.Takamatsu, A.Masaike, Y.Masuda
+#REF-CODE   (J,JPJ,15,1913,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 1913 (doi:10.1143/JPSJ.15.1913)
+#DATASETS   0
+#
+#DATASET    M0271003 
+#DATE       20240329
+#REACTION   29-CU-63(G,N)29-CU-62,,SIG
+#PROJ       0
+#TARG       29063
+#MF         3
+#MT         4
+#PRODUCT    29-CU-62
+#C4BEGIN    [    0 29063   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 29063   3   4    1.7600+7          0.076000 5.0000-3                                       S.Yasumi+            (60)M0271  3 
+#/DATA      1
+#/DATASET

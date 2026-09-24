@@ -1,0 +1,42 @@
+#ENTRY      M0930
+#AUTHOR1    P.F.Yergin+
+#YEAR       1956
+#INSTITUTE  (1USAPEN)
+#TITLE      (gamma,n)  cross  sections  of nuclides near neutron
+#+          number 50.
+#AUTHOR(S)  P.F.Yergin, B.P.Fabricand
+#REF-CODE   (J,PR,104,1334,1956)
+#REFERENCE  Phys.Rev. 104 (1956) 1334 (doi:10.1103/PhysRev.104.1334)
+#DATASETS   0
+#
+#DATASET    M0930007 
+#DATE       20170313
+#REACTION   40-ZR-91(G,X)0-NN-1,,SIG,,BRS
+#PROJ       0
+#TARG       40091
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 40091   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 40091   3 201    8000000.          6.6800-3                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    9000000.          8.6900-3                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    1.0000+7          0.011360                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    1.1000+7          0.016710                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    1.2000+7          0.030750                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    1.3000+7          0.056140                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    1.4000+7          0.094920                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    1.5000+7          0.151070                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    1.6000+7          0.193850                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    1.7000+7          0.197860                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    1.8000+7          0.168450                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    1.9000+7          0.112300                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    2.0000+7          0.078870                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    2.1000+7          0.056150                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    2.2000+7          0.042790                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    2.3000+7          0.034090                                                P.F.Yergin+          (56)M0930  7 
+    0 40091   3 201    2.3500+7          0.030750                                                P.F.Yergin+          (56)M0930  7 
+#/DATA      17
+#/DATASET

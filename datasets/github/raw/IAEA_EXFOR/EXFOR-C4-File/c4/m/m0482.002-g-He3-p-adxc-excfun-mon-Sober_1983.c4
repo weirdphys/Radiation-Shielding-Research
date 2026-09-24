@@ -1,0 +1,331 @@
+#ENTRY      M0482
+#AUTHOR1    D.I.Sober+
+#YEAR       1983
+#INSTITUTE  (1USAMIT)
+#TITLE      Two-body photodosintegration of He-3 between 150
+#+          and 350 MeV.
+#AUTHOR(S)  D.I.Sober, H.Crannell, B.M.K.Nefkens, W.J.Briscoe, D.H.Fitzgerald, 
+#+          R.Goloskie, W.W.Sapp Jr
+#REF-CODE   (J,PR/C,28,2234,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 2234 (doi:10.1103/PhysRevC.28.2234)
+#DATASETS   0
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 1.5500+8          1.2770-6 3.9000-8 0.438371                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 1.6500+8          1.1520-6 4.0000-8 0.444635                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 1.7500+8          1.0100-6 3.8000-8 0.450878                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 1.8500+8          8.8500-7 2.5000-8 0.455545                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 1.9500+8          8.3500-7 2.1000-8 0.461749                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 2.0500+8          7.6700-7 3.2000-8 0.466387                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 2.1500+8          7.1300-7 2.4000-8 0.471012                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 2.2500+8          5.9900-7 2.8000-8 0.475624                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 2.3500+8          5.7000-7 2.3000-8 0.480223                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 2.4500+8          5.6300-7 1.8000-8 0.484810                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 2.5500+8          5.0700-7 2.2000-8 0.489382                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 2.6500+8          5.1000-7 1.8000-8 0.493942                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 2.7500+8          4.5900-7 2.1000-8 0.498488                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 2.8500+8          3.9600-7 1.7000-8 0.503020                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 2.9500+8          3.6000-7 2.0000-8 0.506034                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 3.0500+8          3.1800-7 3.1000-8 0.510543                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 3.1500+8          2.8300-7 2.1000-8 0.515038                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 3.2500+8          2.8500-7 2.3000-8 0.518027                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 3.3500+8          2.7800-7 2.2000-8 0.522499                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0482002 
+#DATE       20160220
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 3.4500+8          2.4200-7 2.2000-8 0.525472                              D.I.Sober+           (83)M0482  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,26 @@
+============================================================
+PHASE I v12.17.0 ROUTE-C PAIRED CAMPAIGN
+============================================================
+Repository: /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research
+Notebook:   /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/notebooks/phase1/01_Phase1_Complete.ipynb
+Histories:  100000000 per beam (not permitted below 100000000)
+Threads:    16 (frozen in notebook/runner)
+Started:    2026-09-19T21:48:12-03:00
+
+NOTE: Five 100M-history photon transports can take a long time.
+The notebook is resumable: already verified Route-C beam outputs are reused.
+
+[NbConvertApp] Converting notebook /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/notebooks/phase1/01_Phase1_Complete.ipynb to notebook
+/home/a/miniconda3/lib/python3.13/site-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[NbConvertApp] Writing 1768736 bytes to /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/notebooks/phase1/01_Phase1_Complete.ipynb
+
+Notebook execution exit code: 0
+Finished: 2026-09-19T22:33:12-03:00
+
+Verification bundle:
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/releases/phase1/Phase1_v12_17_0_verification_bundle.zip
+2eaf88bb882b7b40ec1fb581e773dab4a6f1d8aa134c66915e1a3b42cc86974d  /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/releases/phase1/Phase1_v12_17_0_verification_bundle.zip
+Bundle hash record:
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/releases/phase1/Phase1_v12_17_0_verification_bundle_sha256.json

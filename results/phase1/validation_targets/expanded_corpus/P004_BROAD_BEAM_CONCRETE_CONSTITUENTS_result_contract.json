@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "P004_BROAD_BEAM_CONCRETE_CONSTITUENTS",
+  "expected_result_file": "P004_broad_beam_geant4.csv",
+  "observable": "mass_attenuation_coefficient",
+  "join_keys": "material,energy_MeV",
+  "reference_column": "mass_attenuation_cm2_g",
+  "reference_uncertainty_column": "mass_attenuation_uncertainty_cm2_g",
+  "mc_column": "mc_mass_attenuation_cm2_g",
+  "mc_uncertainty_column": "mc_uncertainty_cm2_g",
+  "comparison_ready": false,
+  "required_for_phase1_exit_when_ready": true,
+  "blocker": "Exact constituent material composition contract not encoded."
+}

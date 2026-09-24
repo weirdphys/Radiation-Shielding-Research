@@ -1,0 +1,607 @@
+COMMAND: /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/build/phase1_geant4_runner neutron /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_templates/run_configs/N001_JAERI_TIARA_43MEV__TRANS__JAERI_43MEV_BC501A_T025_FE040.ini
+
+--- STDOUT ---
+
+**************************************************************
+ Geant4 version Name: geant4-11-04-patch-02 [MT]   (12-June-2026)
+  << in Multi-threaded mode >> 
+                       Copyright : Geant4 Collaboration
+                      References : NIM A 506 (2003), 250-303
+                                 : IEEE-TNS 53 (2006), 270-278
+                                 : NIM A 835 (2016), 186-225
+                             WWW : http://geant4.org/
+**************************************************************
+
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+Phase I native C++ neutron runner; worker threads=16
+
+ hInelastic Shielding : threshold between BERT and FTFP is over the interval 
+ for pions :   3 to 6 GeV
+ for kaons :   3 to 6 GeV
+ for proton :  3 to 6 GeV
+ for neutron : 3 to 6 GeV
+
+@@@ G4ParticleHPInelasticData instantiated for particle neutron data directory variable is G4NEUTRONHPDATA pointing to /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1
+/run/physicsModified
+======================================================================
+======          Radioactive Decay Physics Parameters           =======
+======================================================================
+min MeanLife (from G4NuclideTable)                1 ns 
+Max life time (from G4DeexPrecoParameters)        1000 ps 
+Internal e- conversion flag                       1
+Stored internal conversion coefficients           1
+Enabled atomic relaxation mode                    1
+Enable correlated gamma emission                  0
+Max 2J for sampling of angular correlations       10
+Atomic de-excitation enabled                      1
+Auger electron emission enabled                   1
+Check EM cuts disabled for atomic de-excitation   1
+Use Bearden atomic level energies                 0
+Use ANSTO fluorescence model                      0
+Threshold for very long decay time at rest        1 y  
+======================================================================
+
+Neutron HP Thermal Scattering: Following material-element pairs or elements are registered.
+
+
+====================================================================
+                  HADRONIC PROCESSES SUMMARY (verbose level 1)
+-----------------------------------------------------------------------
+                           Hadronic Processes for B-
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+  Process: B-Inelastic
+        Model:                      FTFP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for D-
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+  Process: D-Inelastic
+        Model:                      FTFP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for GenericIon
+  Process: ionElastic
+        Model:          NNDiffuseElastic: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 25.6 PeV
+  Process: ionInelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 110 MeV/n
+        Model:                  QMDModel: 100 MeV/n ---> 6 GeV/n
+        Model:                      FTFP: 5.99 GeV/n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 25.6 PeV
+  Process: RadioactiveDecay
+-----------------------------------------------------------------------
+                           Hadronic Processes for He3
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 25.6 PeV
+  Process: He3Inelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 110 MeV/n
+        Model:                  QMDModel: 100 MeV/n ---> 6 GeV/n
+        Model:                      FTFP: 5.99 GeV/n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 25.6 PeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for alpha
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 25.6 PeV
+  Process: alphaInelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 110 MeV/n
+        Model:                  QMDModel: 100 MeV/n ---> 6 GeV/n
+        Model:                      FTFP: 5.99 GeV/n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 25.6 PeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for anti_He3
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100.1 MeV/n
+        Model:              AntiAElastic: 100 MeV/n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: anti_He3Inelastic
+        Model:                      FTFP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: hFritiofCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for anti_alpha
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100.1 MeV/n
+        Model:              AntiAElastic: 100 MeV/n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: anti_alphaInelastic
+        Model:                      FTFP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: hFritiofCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for anti_deuteron
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100.1 MeV/n
+        Model:              AntiAElastic: 100 MeV/n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: anti_deuteronInelastic
+        Model:                      FTFP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: hFritiofCaptureAtRest
+-------------------------------------------------------------------------
+                           Hadronic Processes for anti_hypertriton
+  Process: hFritiofCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for anti_lambda
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+  Process: anti_lambdaInelastic
+        Model:                      FTFP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+  Process: hFritiofCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for anti_neutron
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100.1 MeV
+        Model:              AntiAElastic: 100 MeV ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: anti_neutronInelastic
+        Model:                      FTFP: 0 eV  ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: hFritiofCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for anti_proton
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100.1 MeV
+        Model:              AntiAElastic: 100 MeV ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: anti_protonInelastic
+        Model:                      FTFP: 0 eV  ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: hFritiofCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for anti_triton
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100.1 MeV/n
+        Model:              AntiAElastic: 100 MeV/n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: anti_tritonInelastic
+        Model:                      FTFP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 25.6 PeV
+  Process: hFritiofCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for deuteron
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 25.6 PeV
+  Process: dInelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 110 MeV/n
+        Model:                  QMDModel: 100 MeV/n ---> 6 GeV/n
+        Model:                      FTFP: 5.99 GeV/n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 25.6 PeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for e+
+  Process: positronNuclear
+        Model:   G4ElectroVDNuclearModel: 0 eV  ---> 1 PeV
+     Cr_sctns:          ElectroNuclearXS: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for e-
+  Process: electronNuclear
+        Model:   G4ElectroVDNuclearModel: 0 eV  ---> 1 PeV
+     Cr_sctns:          ElectroNuclearXS: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for gamma
+  Process: photonNuclear
+        Model:               GammaNPreco: 0 eV  ---> 200 MeV
+        Model:            BertiniCascade: 199 MeV ---> 6 GeV
+        Model:           TheoFSGenerator: 3 GeV ---> 100 TeV
+     Cr_sctns:            GammaNuclearXS: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for kaon+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+  Process: kaon+Inelastic
+        Model:                      FTFP: 3 GeV ---> 100 TeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for kaon-
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+  Process: kaon-Inelastic
+        Model:                      FTFP: 3 GeV ---> 100 TeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+  Process: hBertiniCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for lambda
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+  Process: lambdaInelastic
+        Model:                      FTFP: 3 GeV ---> 100 TeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for mu+
+  Process: muonNuclear
+        Model:      G4MuonVDNuclearModel: 0 eV  ---> 1 PeV
+     Cr_sctns:     KokoulinMuonNuclearXS: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for mu-
+  Process: muonNuclear
+        Model:      G4MuonVDNuclearModel: 0 eV  ---> 1 PeV
+     Cr_sctns:     KokoulinMuonNuclearXS: 0 eV  ---> 100 TeV
+  Process: muMinusCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for neutron
+  Process: hadElastic
+        Model:             hElasticCHIPS: 19.5 MeV ---> 100 TeV
+        Model:          NeutronHPElastic: 4 eV  ---> 20 MeV
+        Model: NeutronHPThermalScattering: 0 eV  ---> 4 eV 
+     Cr_sctns: NeutronHPThermalScatteringData: 0 eV  ---> 4 eV 
+     Cr_sctns:        NeutronHPElasticXS: 0 eV  ---> 20 MeV
+     Cr_sctns:        G4NeutronElasticXS: 0 eV  ---> 100 TeV
+  Process: neutronInelastic
+        Model:                      FTFP: 3 GeV ---> 100 TeV
+        Model:            BertiniCascade: 19.9 MeV ---> 6 GeV
+        Model:        NeutronHPInelastic: 0 eV  ---> 20 MeV
+     Cr_sctns:      NeutronHPInelasticXS: 0 eV  ---> 20 MeV
+     Cr_sctns: JENDLHEInelasticCrossSection: 0 eV  ---> 100 TeV
+     Cr_sctns:      G4NeutronInelasticXS: 0 eV  ---> 100 TeV
+  Process: nCapture
+        Model:             nRadCaptureHP: 0 eV  ---> 20 MeV
+        Model:               nRadCapture: 19.9 MeV ---> 100 TeV
+     Cr_sctns:        NeutronHPCaptureXS: 0 eV  ---> 100 TeV
+     Cr_sctns:        G4NeutronCaptureXS: 0 eV  ---> 100 TeV
+  Process: nFission
+        Model:          NeutronHPFission: 0 eV  ---> 20 MeV
+        Model:                G4LFission: 19.9 MeV ---> 100 TeV
+     Cr_sctns:        NeutronHPFissionXS: 0 eV  ---> 20 MeV
+     Cr_sctns:                    ZeroXS: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for pi+
+  Process: hadElastic
+        Model:           hElasticGlauber: 0 eV  ---> 100 TeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+  Process: pi+Inelastic
+        Model:                      FTFP: 3 GeV ---> 100 TeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for pi-
+  Process: hadElastic
+        Model:           hElasticGlauber: 0 eV  ---> 100 TeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+  Process: pi-Inelastic
+        Model:                      FTFP: 3 GeV ---> 100 TeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+  Process: hBertiniCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for proton
+  Process: hadElastic
+        Model:             hElasticCHIPS: 0 eV  ---> 100 TeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+  Process: protonInelastic
+        Model:                      FTFP: 3 GeV ---> 100 TeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+-----------------------------------------------------------------------
+                           Hadronic Processes for sigma-
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+  Process: sigma-Inelastic
+        Model:                      FTFP: 3 GeV ---> 100 TeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+  Process: hBertiniCaptureAtRest
+-----------------------------------------------------------------------
+                           Hadronic Processes for triton
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 25.6 PeV
+  Process: tInelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 110 MeV/n
+        Model:                  QMDModel: 100 MeV/n ---> 6 GeV/n
+        Model:                      FTFP: 5.99 GeV/n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 25.6 PeV
+  Process: RadioactiveDecay
+=======================================================================
+======       Geant4 Native Pre-compound Model Parameters       ========
+=======================================================================
+Type of pre-compound model                          0
+Type of pre-compound inverse x-section              1
+Pre-compound model active                           1
+Pre-compound excitation low energy                  0.1 MeV 
+Pre-compound excitation high energy                 15 MeV 
+Angular generator for pre-compound model            1
+Use NeverGoBack option for pre-compound model       0
+Use SoftCutOff option for pre-compound model        0
+Use CEM transitions for pre-compound model          1
+Use GNASH transitions for pre-compound model        0
+Use HETC submodel for pre-compound model            0
+=======================================================================
+======       Nuclear De-excitation Module Parameters           ========
+=======================================================================
+Type of de-excitation inverse x-section             3
+Type of de-excitation factory                       Evaporation+GEM
+Number of de-excitation channels                    68
+Type of Fermi BreakUp model                         ModelVI
+Min excitation energy                               0.01 keV 
+Min energy per nucleon for multifragmentation       2e+05 MeV
+Level density (1/MeV)                               0.075
+Use simple level density model                      1
+Use discrete excitation energy of the residual      0
+Time limit for long lived isomeres                  1 ns 
+Isomer production flag                              1
+Internal e- conversion flag                         1
+Store e- internal conversion data                   1
+Correlated gamma emission flag                      0
+Max 2J for sampling of angular correlations         10
+=======================================================================
+
+=======================================================================
+--> G4MTRunManager::CreateAndStartWorkers() --> Initializing workers...
+=======================================================================
+
+G4WT14 > /run/verbose 1
+G4WT9 > /run/verbose 1
+G4WT12 > /run/verbose 1
+G4WT10 > /run/verbose 1
+G4WT4 > /run/verbose 1
+G4WT12 > /event/verbose 0
+G4WT8 > /run/verbose 1
+G4WT4 > /event/verbose 0
+G4WT2 > /run/verbose 1
+G4WT6 > /run/verbose 1
+G4WT8 > /event/verbose 0
+G4WT14 > /event/verbose 0
+G4WT13 > /run/verbose 1
+G4WT14 > /tracking/verbose 0
+G4WT7 > /run/verbose 1
+G4WT14 > /run/physicsModified 
+G4WT1 > /run/verbose 1
+G4WT5 > /run/verbose 1
+G4WT3 > /run/verbose 1
+G4WT10 > /event/verbose 0
+G4WT3 > /event/verbose 0
+G4WT0 > /run/verbose 1
+G4WT4 > /tracking/verbose 0
+G4WT4 > /run/physicsModified 
+G4WT2 > /event/verbose 0
+G4WT6 > /event/verbose 0
+G4WT8 > /tracking/verbose 0
+G4WT6 > /tracking/verbose 0
+G4WT11 > /run/verbose 1
+G4WT6 > /run/physicsModified 
+G4WT7 > /event/verbose 0
+G4WT11 > /event/verbose 0
+G4WT7 > /tracking/verbose 0
+G4WT11 > /tracking/verbose 0
+G4WT12 > /tracking/verbose 0
+G4WT12 > /run/physicsModified 
+G4WT0 > /event/verbose 0
+G4WT0 > /tracking/verbose 0
+G4WT15 > /run/verbose 1
+G4WT0 > /run/physicsModified 
+G4WT2 > /tracking/verbose 0
+G4WT15 > /event/verbose 0
+G4WT2 > /run/physicsModified 
+G4WT15 > /tracking/verbose 0
+G4WT8 > /run/physicsModified 
+G4WT9 > /event/verbose 0
+G4WT9 > /tracking/verbose 0
+G4WT9 > /run/physicsModified 
+G4WT7 > /run/physicsModified 
+G4WT10 > /tracking/verbose 0
+G4WT11 > /run/physicsModified 
+G4WT10 > /run/physicsModified 
+G4WT3 > /tracking/verbose 0
+G4WT13 > /event/verbose 0
+G4WT13 > /tracking/verbose 0
+G4WT15 > /run/physicsModified 
+G4WT13 > /run/physicsModified 
+G4WT1 > /event/verbose 0
+G4WT1 > /tracking/verbose 0
+G4WT1 > /run/physicsModified 
+G4WT5 > /event/verbose 0
+G4WT3 > /run/physicsModified 
+G4WT5 > /tracking/verbose 0
+G4WT5 > /run/physicsModified 
+
+========= Table of registered couples ============================
+
+Index : 0     used in the geometry : Yes
+ Material : G4_Galactic
+ Range cuts        :  gamma  700 um     e-  700 um     e+  700 um  proton 0 fm 
+ Energy thresholds :  gamma  990 eV     e-  990 eV     e+  990 eV  proton 0 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 1     used in the geometry : Yes
+ Material : G4_Fe
+ Range cuts        :  gamma  700 um     e-  700 um     e+  700 um  proton 0 fm 
+ Energy thresholds :  gamma  17.2487 keV    e-  954.642 keV    e+  906.513 keV proton 0 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 2     used in the geometry : Yes
+ Material : JAERI_TIARA_CONCRETE
+ Range cuts        :  gamma  700 um     e-  700 um     e+  700 um  proton 0 fm 
+ Energy thresholds :  gamma  5.34147 keV    e-  431.276 keV    e+  417.002 keV proton 0 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 3     used in the geometry : Yes
+ Material : BC501A_LIQUID_SCINTILLATOR
+ Range cuts        :  gamma  700 um     e-  700 um     e+  700 um  proton 0 fm 
+ Energy thresholds :  gamma  1.96466 keV    e-  254.64 keV    e+  248.8 keV proton 0 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+==================================================================
+
+### Run 0 starts.
+G4WT11 > ### Run 0 starts on worker thread 11.
+G4WT7 > ### Run 0 starts on worker thread 7.
+G4WT3 > ### Run 0 starts on worker thread 3.
+G4WT1 > ### Run 0 starts on worker thread 1.
+G4WT12 > ### Run 0 starts on worker thread 12.
+G4WT8 > ### Run 0 starts on worker thread 8.
+G4WT6 > ### Run 0 starts on worker thread 6.
+G4WT9 > ### Run 0 starts on worker thread 9.
+G4WT5 > ### Run 0 starts on worker thread 5.
+G4WT10 > ### Run 0 starts on worker thread 10.
+G4WT4 > ### Run 0 starts on worker thread 4.
+G4WT13 > ### Run 0 starts on worker thread 13.
+G4WT14 > ### Run 0 starts on worker thread 14.
+G4WT15 > ### Run 0 starts on worker thread 15.
+G4WT2 > ### Run 0 starts on worker thread 2.
+G4WT0 > ### Run 0 starts on worker thread 0.
+G4WT14 > Thread-local run terminated.
+G4WT14 > Run Summary
+G4WT14 >   Number of events processed : 60000
+G4WT14 >   User=3248.070000s Real=203.057955s Sys=0.150000s [Cpu=1599.7%]
+G4WT0 > Thread-local run terminated.
+G4WT0 > Run Summary
+G4WT0 >   Number of events processed : 64000
+G4WT0 >   User=3248.470000s Real=203.083989s Sys=0.150000s [Cpu=1599.6%]
+G4WT13 > Thread-local run terminated.
+G4WT13 > Run Summary
+G4WT13 >   Number of events processed : 63000
+G4WT13 >   User=3249.080000s Real=203.127813s Sys=0.150000s [Cpu=1599.6%]
+G4WT7 > Thread-local run terminated.
+G4WT7 > Run Summary
+G4WT7 >   Number of events processed : 62000
+G4WT7 >   User=3252.170000s Real=203.366249s Sys=0.150000s [Cpu=1599.2%]
+G4WT9 > Thread-local run terminated.
+G4WT9 > Run Summary
+G4WT9 >   Number of events processed : 62500
+G4WT9 >   User=3252.590000s Real=203.401136s Sys=0.150000s [Cpu=1599.2%]
+G4WT12 > Thread-local run terminated.
+G4WT12 > Run Summary
+G4WT12 >   Number of events processed : 63000
+G4WT12 >   User=3252.630000s Real=203.403851s Sys=0.150000s [Cpu=1599.2%]
+G4WT2 > Thread-local run terminated.
+G4WT2 > Run Summary
+G4WT2 >   Number of events processed : 64000
+G4WT2 >   User=3253.170000s Real=203.458157s Sys=0.150000s [Cpu=1599.0%]
+G4WT4 > Thread-local run terminated.
+G4WT4 > Run Summary
+G4WT4 >   Number of events processed : 63500
+G4WT4 >   User=3253.300000s Real=203.473527s Sys=0.150000s [Cpu=1599.0%]
+G4WT11 > Thread-local run terminated.
+G4WT11 > Run Summary
+G4WT11 >   Number of events processed : 58500
+G4WT11 >   User=3253.970000s Real=203.555846s Sys=0.150000s [Cpu=1598.6%]
+G4WT8 > Thread-local run terminated.
+G4WT8 > Run Summary
+G4WT8 >   Number of events processed : 62250
+G4WT8 >   User=3254.020000s Real=203.563602s Sys=0.150000s [Cpu=1598.6%]
+G4WT1 > Thread-local run terminated.
+G4WT1 > Run Summary
+G4WT1 >   Number of events processed : 64250
+G4WT1 >   User=3254.100000s Real=203.577426s Sys=0.150000s [Cpu=1598.5%]
+G4WT10 > Thread-local run terminated.
+G4WT10 > Run Summary
+G4WT10 >   Number of events processed : 60250
+G4WT10 >   User=3254.490000s Real=203.655050s Sys=0.150000s [Cpu=1598.1%]
+G4WT6 > Thread-local run terminated.
+G4WT6 > Run Summary
+G4WT6 >   Number of events processed : 64250
+G4WT6 >   User=3254.630000s Real=203.691299s Sys=0.150000s [Cpu=1597.9%]
+G4WT5 > Thread-local run terminated.
+G4WT5 > Run Summary
+G4WT5 >   Number of events processed : 63000
+G4WT5 >   User=3254.800000s Real=203.746406s Sys=0.150000s [Cpu=1597.5%]
+G4WT15 > Thread-local run terminated.
+G4WT15 > Run Summary
+G4WT15 >   Number of events processed : 63750
+G4WT15 >   User=3254.850000s Real=203.771926s Sys=0.150000s [Cpu=1597.4%]
+G4WT3 > Thread-local run terminated.
+G4WT3 > Run Summary
+G4WT3 >   Number of events processed : 61750
+G4WT3 >   User=3255.090000s Real=204.006140s Sys=0.150000s [Cpu=1595.7%]
+ Run terminated.
+Run Summary
+  Number of events processed : 1000000
+  User=3255.090000s Real=204.006838s Sys=0.150000s [Cpu=1595.7%]
+NEUTRON_TRANSPORT_RUNTIME_SECONDS=204.0071039
+NEUTRON_HISTORIES_PER_SECOND=4901.790089
+NEUTRON_SCORING_IMPLEMENTATION=SPARSE_ZERO_EQUIVALENT_V1
+NEUTRON_SOURCE_CONE_REFERENCE=ROTARY_SHUTTER_EXIT
+NEUTRON_SOURCE_CONE_REFERENCE_DISTANCE_CM=400
+NEUTRON_SOURCE_TO_SHIELD_FRONT_CM=440
+NEUTRON_ADDITIONAL_IRON_TRANSPORT=EXPLICIT_DOWNSTREAM_HOLLOW_IRON
+G4WT10 > ================== Deleting memory pools ===================
+G4WT10 > Number of memory pools allocated: 11; of which, static: 0
+G4WT10 > Dynamic pools deleted: 11 / Total memory freed: 0.35 MB
+G4WT10 > ============================================================
+G4WT12 > ================== Deleting memory pools ===================
+G4WT12 > Number of memory pools allocated: 11; of which, static: 0
+G4WT6 > ================== Deleting memory pools ===================
+G4WT12 > Dynamic pools deleted: 11 / Total memory freed: 0.37 MB
+G4WT12 > ============================================================
+G4WT6 > Number of memory pools allocated: 11; of which, static: 0
+G4WT6 > Dynamic pools deleted: 11 / Total memory freed: 0.36 MB
+G4WT6 > ============================================================
+G4WT15 > ================== Deleting memory pools ===================
+G4WT15 > Number of memory pools allocated: 11; of which, static: 0
+G4WT15 > Dynamic pools deleted: 11 / Total memory freed: 0.37 MB
+G4WT15 > ============================================================
+G4WT5 > ================== Deleting memory pools ===================
+G4WT5 > Number of memory pools allocated: 11; of which, static: 0
+G4WT5 > Dynamic pools deleted: 11 / Total memory freed: 0.36 MB
+G4WT5 > ============================================================
+G4WT4 > ================== Deleting memory pools ===================
+G4WT4 > Number of memory pools allocated: 11; of which, static: 0
+G4WT4 > Dynamic pools deleted: 11 / Total memory freed: 0.36 MB
+G4WT4 > ============================================================
+G4WT8 > ================== Deleting memory pools ===================
+G4WT8 > Number of memory pools allocated: 11; of which, static: 0
+G4WT8 > Dynamic pools deleted: 11 / Total memory freed: 0.37 MB
+G4WT8 > ============================================================
+G4WT11 > ================== Deleting memory pools ===================
+G4WT11 > Number of memory pools allocated: 11; of which, static: 0
+G4WT11 > Dynamic pools deleted: 11 / Total memory freed: 0.53 MB
+G4WT11 > ============================================================
+G4WT14 > ================== Deleting memory pools ===================
+G4WT14 > Number of memory pools allocated: 11; of which, static: 0
+G4WT14 > Dynamic pools deleted: 11 / Total memory freed: 0.38 MB
+G4WT14 > ============================================================
+G4WT13 > ================== Deleting memory pools ===================
+G4WT13 > Number of memory pools allocated: 11; of which, static: 0
+G4WT13 > Dynamic pools deleted: 11 / Total memory freed: 0.4 MB
+G4WT13 > ============================================================
+G4WT1 > ================== Deleting memory pools ===================
+G4WT1 > Number of memory pools allocated: 11; of which, static: 0
+G4WT1 > Dynamic pools deleted: 11 / Total memory freed: 0.38 MB
+G4WT1 > ============================================================
+G4WT0 > ================== Deleting memory pools ===================
+G4WT0 > Number of memory pools allocated: 11; of which, static: 0
+G4WT0 > Dynamic pools deleted: 11 / Total memory freed: 0.37 MB
+G4WT0 > ============================================================
+G4WT2 > ================== Deleting memory pools ===================
+G4WT2 > Number of memory pools allocated: 11; of which, static: 0
+G4WT2 > Dynamic pools deleted: 11 / Total memory freed: 0.39 MB
+G4WT2 > ============================================================
+G4WT7 > ================== Deleting memory pools ===================
+G4WT7 > Number of memory pools allocated: 11; of which, static: 0
+G4WT7 > Dynamic pools deleted: 11 / Total memory freed: 0.39 MB
+G4WT7 > ============================================================
+G4WT9 > ================== Deleting memory pools ===================
+G4WT9 > Number of memory pools allocated: 11; of which, static: 0
+G4WT9 > Dynamic pools deleted: 11 / Total memory freed: 0.41 MB
+G4WT9 > ============================================================
+G4WT3 > ================== Deleting memory pools ===================
+G4WT3 > Number of memory pools allocated: 11; of which, static: 0
+G4WT3 > Dynamic pools deleted: 11 / Total memory freed: 0.37 MB
+G4WT3 > ============================================================
+================== Deleting memory pools ===================
+Number of memory pools allocated: 4; of which, static: 0
+Dynamic pools deleted: 4 / Total memory freed: 0.0058 MB
+============================================================
+
+--- STDERR ---

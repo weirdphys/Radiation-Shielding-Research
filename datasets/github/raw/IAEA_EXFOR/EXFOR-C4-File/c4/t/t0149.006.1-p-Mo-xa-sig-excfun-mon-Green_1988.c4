@@ -1,0 +1,27 @@
+#ENTRY      T0149
+#AUTHOR1    S.L.Green+
+#YEAR       1988
+#INSTITUTE  (2SWTWUR)
+#TITLE      Production of Helium by Medium Energy (600 and 800 MeV)
+#+          Protons.
+#AUTHOR(S)  S.L.Green, W.V.Green, F.H.Hegedus, M.Victoria, W.F.Sommer, 
+#+          B.M.Oliver
+#REF-CODE   (J,JNM,155-157,1350,1988)
+#REFERENCE  J.Nucl.Mater. 155-157 (1988) 1350 (doi:10.1016/0022-3115(88)90525-9)
+#DATASETS   0
+#
+#DATASET    T01490061
+#DATE       20010209
+#REACTION   42-MO-0(P,X)2-HE-4,,SIG
+#PROJ       1001
+#TARG       42000
+#MF         3
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 42000   3 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42000   3 207    7.5000+8          0.578000                                                S.L.Green+           (88)T0149  61
+#/DATA      1
+#/DATASET

@@ -1,0 +1,105 @@
+{
+  "schema": "STEP2F_BENHDECH_MEASURED_PATH_MAP_V1",
+  "freeze_id": "STEP2F_BENHDECH_MEASURED_PATH_MAP_V1_20260919",
+  "generated_utc": "2026-09-19T23:55:47.013848+00:00",
+  "status": "FROZEN_AFTER_PATH_IDENTIFICATION_BEFORE_AXIS_CALIBRATION",
+  "source": {
+    "paper": "Ben Hdech 2011",
+    "figure": "Figure 62",
+    "source_svg": "BenHdech_Figure62_FROZEN_SOURCE.svg",
+    "source_svg_sha256": "7246aa82015f25bbbb948e210e4750a25fe4acd4e9d8db1338c0c42815f62839",
+    "experimental_series": "BLACK",
+    "published_mc_series": "RED"
+  },
+  "measured_path_map": {
+    "6MV_PDD": {
+      "path_indices": [
+        255
+      ],
+      "field": "40x40 cm2",
+      "selection_basis": "Figure-62 source labels plus candidate-path overlay; lowest displayed 40x40 PDD family."
+    },
+    "6MV_PROFILE": {
+      "path_indices": [
+        467
+      ],
+      "field": "40x40 cm2",
+      "depth_cm": 10,
+      "selection_basis": "Figure-62 source labels plus candidate-path overlay; outermost/widest 40x40 profile."
+    },
+    "16MV_PDD": {
+      "path_indices": [
+        716,
+        717,
+        718,
+        719
+      ],
+      "field": "40x40 cm2",
+      "fragment_policy": "Four source SVG path fragments retained in original order.",
+      "continuity": "All three adjacent joins are exactly zero distance in rendered SVG user coordinates.",
+      "selection_basis": "All-black spatial search discovered paths 716-718 preceding provisional path 719; their x-ranges tile the full 40x40 experimental PDD curve and all fragment joins are exact."
+    },
+    "16MV_PROFILE": {
+      "path_indices": [
+        942,
+        943
+      ],
+      "field": "40x40 cm2",
+      "depth_cm": 10,
+      "fragment_policy": "Preserve the two original SVG fragments separately. Do not snap, interpolate, translate, or alter either endpoint.",
+      "rendered_svg_endpoint_gap": 0.20559,
+      "endpoint_gap_units": "SVG user units only; NOT mm or cm.",
+      "selection_basis": "Candidate overlay identifies paths 942+943 as the outermost/widest 40x40 measured profile; endpoint audit supports near-contiguous source fragmentation."
+    },
+    "18MV_PDD": {
+      "path_indices": [
+        1187
+      ],
+      "field": "40x40 cm2",
+      "selection_basis": "Figure-62 source labels plus candidate-path overlay; lowest displayed 40x40 PDD family."
+    },
+    "18MV_PROFILE": {
+      "path_indices": [
+        1399
+      ],
+      "field": "40x40 cm2",
+      "depth_cm": 10,
+      "selection_basis": "Figure-62 source labels plus candidate-path overlay; outermost/widest 40x40 profile."
+    }
+  },
+  "display_scaling": {
+    "40x40_k": 0.4,
+    "pdd_future_rule": "k=0.4 must be undone only after physical coordinate calibration and before final independent dmax normalization according to the frozen v1.1 contract.",
+    "profile_future_rule": "k=0.4 is multiplicative and will cancel under the frozen independent CAX=100% normalization."
+  },
+  "prohibited_operations_at_this_freeze": [
+    "physical axis calibration",
+    "conversion of SVG coordinates to cm",
+    "conversion of SVG coordinates to dose",
+    "normalization",
+    "smoothing",
+    "symmetrization",
+    "endpoint snapping",
+    "gap filling",
+    "post-hoc horizontal translation",
+    "project prediction viewing",
+    "acceptance testing",
+    "production source mutation"
+  ],
+  "safety_state": {
+    "measured_path_identity_frozen": true,
+    "raw_svg_path_geometry_retained": true,
+    "physical_axis_calibration_performed": false,
+    "physical_curve_coordinates_created": false,
+    "normalization_performed": false,
+    "smoothing_performed": false,
+    "symmetrization_performed": false,
+    "endpoint_snapping_performed": false,
+    "profile_translation_performed": false,
+    "project_prediction_viewed": false,
+    "geant4_run_performed": false,
+    "acceptance_testing_performed": false,
+    "production_source_mutated": false
+  },
+  "next_stage": "Freeze graphical axis calibration for each Ben Hdech PDD/profile panel. Only after calibration is fixed may selected raw SVG geometry be converted into physical depth/distance/dose coordinates."
+}

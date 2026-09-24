@@ -1,0 +1,30 @@
+#ENTRY      M0115
+#AUTHOR1    V.P.Denisov+
+#YEAR       1974
+#INSTITUTE  (4RUSFTI)
+#TITLE      Channels of the reaction Li-7(gamma,p)He-6.
+#AUTHOR(S)  V.P.Denisov, I.Ya.Chubukov
+#REF-CODE   (J,YF,20,(6),1106,1974)
+#REFERENCE  Yad.Fiz. 20 No.6 (1974) 1106
+#DATASETS   0
+#
+#DATASET    M0115006 
+#DATE       20121101
+#REACTION   3-LI-7(G,P)2-HE-6,PAR,DA,,BRS
+#PROJ       0
+#TARG       3007
+#MF         4
+#MT         600
+#PRODUCT    2-HE-6
+#C4BEGIN    [    0  3007   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3007   4 600    2.0600+7 1200000. 8.7000-5 5.1000-5 6.123-17          6700000. 1000000.LVLV.P.Denisov+         (74)M0115  6 
+    0  3007   4 600    2.3000+7 1200000. 5.1000-5 2.9000-5 6.123-17          6700000. 1000000.LVLV.P.Denisov+         (74)M0115  6 
+    0  3007   4 600    2.5400+7 1200000. 2.3000-5 2.6000-5 6.123-17          6700000. 1000000.LVLV.P.Denisov+         (74)M0115  6 
+    0  3007   4 600    2.7700+7 1200000. 4.0000-6 2.9000-5 6.123-17          6700000. 1000000.LVLV.P.Denisov+         (74)M0115  6 
+    0  3007   4 600    3.2500+7 1200000. 1.2000-5 3.0000-5 6.123-17          6700000. 1000000.LVLV.P.Denisov+         (74)M0115  6 
+    0  3007   4 600    3.5500+7 1800000. 9.0000-6 2.7000-5 6.123-17          6700000. 1000000.LVLV.P.Denisov+         (74)M0115  6 
+#/DATA      6
+#/DATASET

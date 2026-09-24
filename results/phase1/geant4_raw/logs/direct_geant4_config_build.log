@@ -1,0 +1,172 @@
+COMMAND: /home/a/miniconda3/envs/neutron-g4-native/bin/x86_64-conda-linux-gnu-c++ -std=c++17 -O3 -DNDEBUG -pthread -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -fno-merge-constants -isystem /home/a/miniconda3/envs/neutron-g4-native/include -fdebug-prefix-map=/home/conda/feedstock_root/build_artifacts/geant4_1781788887011/work=/usr/local/src/conda/geant4-11.4.2 -fdebug-prefix-map=/home/a/miniconda3/envs/neutron-g4-native=/usr/local/src/conda-prefix -W -Wall -pedantic -Wno-non-virtual-dtor -Wno-long-long -Wwrite-strings -Wpointer-arith -Woverloaded-virtual -Wno-variadic-macros -Wshadow -pipe -pthread -ftls-model=global-dynamic -std=c++17 -I/home/a/miniconda3/envs/neutron-g4-native/include/Geant4 -I/home/a/miniconda3/envs/neutron-g4-native/include -I/home/a/miniconda3/envs/neutron-g4-native/include /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp -o /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/build/phase1_geant4_runner -L/home/a/miniconda3/envs/neutron-g4-native/lib -lG4gdml -lG4interfaces -lG4geomtext -lG4mctruth -lG4analysis -lG4error_propagation -lG4readout -lG4physicslists -lG4run -lG4event -lG4tracking -lG4parmodels -lG4processes_hadronic -lG4processes_core -lG4digits_hits -lG4track -lG4particles -lG4geometry -lG4materials -lG4graphics_reps -lG4intercoms -lG4global -L/home/a/miniconda3/envs/neutron-g4-native/lib -lCLHEP-2.4.7.2 -lG4ptl
+
+--- STDOUT ---
+
+--- STDERR ---
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In function 'std::string trim(std::string)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:65:37: warning: declaration of 's' shadows a global declaration [-Wshadow]
+   65 | static std::string trim(std::string s) {
+      |                         ~~~~~~~~~~~~^
+In file included from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/PhysicalConstants.h:45,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Vector/RotationX.icc:11,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Vector/RotationX.h:281,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Vector/Rotation.h:26,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Geometry/Transform3D.icc:6,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Geometry/Transform3D.h:837,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/Geant4/G4Transform3D.hh:31,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/Geant4/HepPolyhedron.h:210,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/Geant4/G4Polyhedron.hh:129,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/Geant4/G4Box.hh:50,
+                 from /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:1:
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In function 'std::vector<std::__cxx11::basic_string<char> > split(const std::string&, char)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:72:58: warning: declaration of 's' shadows a global declaration [-Wshadow]
+   72 | static std::vector<std::string> split(const std::string& s, char delim=',') {
+      |                                       ~~~~~~~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In static member function 'static SourceSpectrum SourceSpectrum::load(const std::filesystem::__cxx11::path&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:135:47: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  135 |         CsvTable t=readCsv(p); SourceSpectrum s; double cum=0;
+      |                                               ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In function 'G4Material* makeJaeriConcrete()':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:208:11: warning: declaration of 'm' shadows a global declaration [-Wshadow]
+  208 |     auto* m=new G4Material("JAERI_TIARA_CONCRETE",2.31*g/cm3,9);
+      |           ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:113:27: note: shadowed declaration is here
+  113 |   static constexpr double m  = meter;
+      |                           ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In function 'G4Material* makeBC501A()':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:235:11: warning: declaration of 'm' shadows a global declaration [-Wshadow]
+  235 |     auto* m=new G4Material("BC501A_LIQUID_SCINTILLATOR",0.874*g/cm3,2,kStateLiquid);
+      |           ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:113:27: note: shadowed declaration is here
+  113 |   static constexpr double m  = meter;
+      |                           ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In function 'G4Material* makeNistConcrete()':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:242:46: warning: declaration of 'm' shadows a global declaration [-Wshadow]
+  242 |     auto* n=G4NistManager::Instance(); auto* m=new G4Material("NIST_ORDINARY_CONCRETE",2.30*g/cm3,10);
+      |                                              ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:113:27: note: shadowed declaration is here
+  113 |   static constexpr double m  = meter;
+      |                           ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In constructor 'WorkerRunAction::WorkerRunAction(SharedTallies&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:370:40: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  370 | public: WorkerRunAction(SharedTallies& s):shared_(s),bins_(s.bins.size()){}
+      |                         ~~~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In function 'double icrp21Coeff(double)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:387:5: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+  387 |     if(e<=E.front()) return H.front(); if(e>=E.back()) return H.back();
+      |     ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:387:40: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+  387 |     if(e<=E.front()) return H.front(); if(e>=E.back()) return H.back();
+      |                                        ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In constructor 'PrimaryAction::PrimaryAction(Config, SourceSpectrum)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:395:47: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  395 | public: PrimaryAction(Config c,SourceSpectrum s):cfg_(std::move(c)),src_(std::move(s)),distanceCm_(cfg_.sourceDistanceBaseCm+cfg_.extraIronCm) {
+      |                                ~~~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In static member function 'static bool StepAction::crosses(const G4Step*, double, G4ThreeVector&, double&, double&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:428:9: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+  428 |         if(!(z0<z && z1>=z)) return false; double f=(z-z0)/(z1-z0); pos=pre->GetPosition()+f*(post->GetPosition()-pre->GetPosition());
+      |         ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:428:44: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+  428 |         if(!(z0<z && z1>=z)) return false; double f=(z-z0)/(z1-z0); pos=pre->GetPosition()+f*(post->GetPosition()-pre->GetPosition());
+      |                                            ^~~~~~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In constructor 'Actions::Actions(Config, SourceSpectrum, std::vector<EnergyBin>, SharedTallies&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:488:41: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  488 | public: Actions(Config c,SourceSpectrum s,std::vector<EnergyBin> b,SharedTallies& sh):cfg_(std::move(c)),src_(std::move(s)),bins_(std::move(b)),shared_(sh){}
+      |                          ~~~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In function 'std::pair<double, double> meanSem(const Accum&, long long int)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:494:5: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+  494 |     if(N<=0) return {0,0}; double mean=a.sum/N; if(N<=1) return {mean,0}; double var=(a.sumsq-N*mean*mean)/(N-1); var=std::max(0.0,var); return {mean,std::sqrt(var/N)};
+      |     ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:494:28: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+  494 |     if(N<=0) return {0,0}; double mean=a.sum/N; if(N<=1) return {mean,0}; double var=(a.sumsq-N*mean*mean)/(N-1); var=std::max(0.0,var); return {mean,std::sqrt(var/N)};
+      |                            ^~~~~~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In function 'void writeNeutronOutputs(const Config&, const SourceSpectrum&, const std::vector<EnergyBin>&, const SharedTallies&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:503:15: warning: declaration of 'm' shadows a global declaration [-Wshadow]
+  503 |         auto [m,s]=meanSem(sh.dose,cfg.histories); out<<"run_id,shield_thickness_cm,mc_icrp21_dose_equivalent_uSv_per_uC,mc_sigma_icrp21_dose_equivalent_uSv_per_uC\n";
+      |               ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:113:27: note: shadowed declaration is here
+  113 |   static constexpr double m  = meter;
+      |                           ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:503:17: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  503 |         auto [m,s]=meanSem(sh.dose,cfg.histories); out<<"run_id,shield_thickness_cm,mc_icrp21_dose_equivalent_uSv_per_uC,mc_sigma_icrp21_dose_equivalent_uSv_per_uC\n";
+      |                 ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:507:93: warning: declaration of 'm' shadows a global declaration [-Wshadow]
+  507 |         for(size_t d=0;d<cfg.offAxisCm.size();++d) for(size_t k=0;k<bins.size();++k) {auto [m,s]=meanSem(sh.bins[d*bins.size()+k],cfg.histories); out<<cfg.runId<<","<<cfg.offAxisCm[d]<<","<<bins[k].low<<","<<bins[k].high<<","<<m*physicalSourceNeutronsPerUC<<","<<s*physicalSourceNeutronsPerUC<<"\n";}
+      |                                                                                             ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:113:27: note: shadowed declaration is here
+  113 |   static constexpr double m  = meter;
+      |                           ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:507:95: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  507 |         for(size_t d=0;d<cfg.offAxisCm.size();++d) for(size_t k=0;k<bins.size();++k) {auto [m,s]=meanSem(sh.bins[d*bins.size()+k],cfg.histories); out<<cfg.runId<<","<<cfg.offAxisCm[d]<<","<<bins[k].low<<","<<bins[k].high<<","<<m*physicalSourceNeutronsPerUC<<","<<s*physicalSourceNeutronsPerUC<<"\n";}
+      |                                                                                               ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:509:75: warning: declaration of 'nm' shadows a global declaration [-Wshadow]
+  509 |     std::ofstream no(cfg.normOutputCsv); no<<std::setprecision(17); auto [nm,ns]=meanSem(sh.norm,cfg.histories);
+      |                                                                           ^~
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:96:27: note: shadowed declaration is here
+   96 |   static constexpr double nm  = nanometer;
+      |                           ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:509:78: warning: declaration of 'ns' shadows a global declaration [-Wshadow]
+  509 |     std::ofstream no(cfg.normOutputCsv); no<<std::setprecision(17); auto [nm,ns]=meanSem(sh.norm,cfg.histories);
+      |                                                                              ^~
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:157:27: note: shadowed declaration is here
+  157 |   static constexpr double ns = nanosecond;
+      |                           ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In member function 'virtual G4VPhysicalVolume* PddDetector::Construct()':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:575:15: warning: declaration of 'ps' shadows a global declaration [-Wshadow]
+  575 |         auto* ps=new G4Box("pdd_water",cfg_.waterHalfXYCm*cm,cfg_.waterHalfXYCm*cm,0.5*cfg_.waterDepthCm*cm);
+      |               ^~
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:161:27: note: shadowed declaration is here
+  161 |   static constexpr double ps = picosecond;
+      |                           ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In constructor 'PddRunAction::PddRunAction(PddSharedTallies&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:617:45: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  617 |     explicit PddRunAction(PddSharedTallies& s):shared_(s),dose_(s.dose.size()),crossWithNormSum_(s.dose.size(),0.0){}
+      |                           ~~~~~~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In constructor 'PddPrimaryAction::PddPrimaryAction(PddConfig, SourceSpectrum)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:633:49: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  633 |     PddPrimaryAction(PddConfig c,SourceSpectrum s):cfg_(std::move(c)),src_(std::move(s)) {
+      |                                  ~~~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In constructor 'PddActions::PddActions(PddConfig, SourceSpectrum, std::vector<DepthBin>, PddSharedTallies&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:676:43: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  676 |     PddActions(PddConfig c,SourceSpectrum s,std::vector<DepthBin> b,PddSharedTallies& sh):cfg_(std::move(c)),src_(std::move(s)),bins_(std::move(b)),shared_(sh){}
+      |                            ~~~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp: In function 'int runPhotonPdd(const std::filesystem::__cxx11::path&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/main.cpp:732:14: warning: declaration of 'ms' shadows a global declaration [-Wshadow]
+  732 |         auto ms=meanSem(shared.dose[i],cfg.histories);
+      |              ^~
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:159:27: note: shadowed declaration is here
+  159 |   static constexpr double ms = millisecond;
+      |                           ^~

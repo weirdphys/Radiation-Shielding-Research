@@ -1,0 +1,33 @@
+#ENTRY      M0690
+#AUTHOR1    S.Goko+
+#YEAR       2006
+#INSTITUTE  (2JPNKON)
+#TITLE      Partial photoneutron cross sections for  the  isomeric
+#+          state 180Ta-m.
+#AUTHOR(S)  S.Goko, H.Utsunomiya, S.Goriely, A.Makinaga, T.Kaihori, 
+#+          S.Hohara, H.Akimune, T.Yamagata, Y.-W.Lui, H.Toyokawa, A.J.Koning, 
+#+          S.Hilaire
+#REF-CODE   (J,PRL,96,192501,2006)
+#REFERENCE  Phys.Rev.Lett. 96 (2006) 192501 (doi:10.1103/PhysRevLett.96.192501)
+#DATASETS   0
+#
+#DATASET    M0690002G
+#DATE       20210620
+#REACTION   73-TA-181(G,N)73-TA-180-G,,SIG
+#PROJ       0
+#TARG       73181
+#MF         3
+#MT         4
+#PRODUCT    73-TA-180-G
+#C4BEGIN    [    0 73181   3   4GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 73181   3   4GA  9200000.          0.045000 3.1000-3                                       S.Goko+              (06)M0690  2G
+    0 73181   3   4GA  9700000.          0.066000 3.8000-3                                       S.Goko+              (06)M0690  2G
+    0 73181   3   4GA  1.0500+7          0.103000 2.6000-3                                       S.Goko+              (06)M0690  2G
+    0 73181   3   4GA  1.0900+7          0.130000 3.7000-3                                       S.Goko+              (06)M0690  2G
+    0 73181   3   4GA  1.1500+7          0.219000 4.9000-3                                       S.Goko+              (06)M0690  2G
+    0 73181   3   4GA  1.2300+7          0.329000 0.010000                                       S.Goko+              (06)M0690  2G
+#/DATA      6
+#/DATASET

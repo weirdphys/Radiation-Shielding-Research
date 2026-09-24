@@ -1,0 +1,28 @@
+#ENTRY      B0015
+#AUTHOR1    H.Gauvin+
+#YEAR       1974
+#INSTITUTE  (2FR PAR)
+#TITLE      Nuclear Reactions of Sn-118, Sb-121, and J-127 with
+#+          Argon Ions
+#AUTHOR(S)  H.Gauvin, Y.Le Beyec, N.T.Porile
+#REF-CODE   (J,NP/A,223,103,1974)
+#REFERENCE  Nucl.Phys.A 223 (1974) 103 (doi:10.1016/0375-9474(74)90279-6)
+#DATASETS   0
+#
+#DATASET    B0015005 
+#DATE       20011220
+#REACTION   51-SB-121(18-AR-40,8N)69-TM-153-G,,SIG,,,EXP
+#PROJ       18040
+#TARG       51121
+#MF         3
+#MT         161
+#PRODUCT    69-TM-153-G
+#C4BEGIN    [18040 51121   3 161G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 51121   3 161G   2.3300+8          0.014800                                                H.Gauvin+            (74)B0015  5 
+18040 51121   3 161G   2.5200+8          0.022200                                                H.Gauvin+            (74)B0015  5 
+18040 51121   3 161G   2.6400+8          0.012200                                                H.Gauvin+            (74)B0015  5 
+#/DATA      3
+#/DATASET

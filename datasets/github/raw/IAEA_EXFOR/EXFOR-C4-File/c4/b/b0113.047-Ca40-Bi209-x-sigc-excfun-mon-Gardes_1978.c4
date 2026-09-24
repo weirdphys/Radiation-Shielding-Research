@@ -1,0 +1,37 @@
+#ENTRY      B0113
+#AUTHOR1    D.Gardes+
+#YEAR       1978
+#INSTITUTE  (2FR PAR)
+#TITLE      Excitation functions for quasielastic transfer
+#+          reactions induced with heavy ions in bismuth
+#AUTHOR(S)  D.Gardes, R.Bimbot, J.Maison, L.De Relihac, M.F.Rivet, A.Fleury, 
+#+          F.Hubert, Y.Llabador
+#REF-CODE   (J,PR/C,18,1298,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 1298 (doi:10.1103/PhysRevC.18.1298)
+#DATASETS   0
+#
+#DATASET    B0113047 
+#DATE       20190123
+#REACTION   83-BI-209(20-CA-40,X)84-PO-210,CUM,SIG
+#PROJ       20040
+#TARG       83209
+#MF         3
+#MT         459
+#PRODUCT    84-PO-210
+#C4BEGIN    [20040 83209   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20040 83209   3 459    1.8700+8 7000000. 2.1400-3 2.0000-4           84210.9                     D.Gardes+            (78)B0113 47 
+20040 83209   3 459    1.9500+8 8000000. 0.010800 2.0000-3           84210.9                     D.Gardes+            (78)B0113 47 
+20040 83209   3 459    1.9600+8 300000.0 0.010500 2.0000-3           84210.9                     D.Gardes+            (78)B0113 47 
+20040 83209   3 459    1.9600+8 300000.0 9.5000-3 1.0000-3           84210.9                     D.Gardes+            (78)B0113 47 
+20040 83209   3 459    2.0500+8 7000000. 0.045600 5.0000-3           84210.9                     D.Gardes+            (78)B0113 47 
+20040 83209   3 459    2.1400+8 4000000. 0.051000 5.0000-3           84210.9                     D.Gardes+            (78)B0113 47 
+20040 83209   3 459    2.1800+8 1.3000+7 0.069000 7.0000-3           84210.9                     D.Gardes+            (78)B0113 47 
+20040 83209   3 459    2.2500+8 4000000. 0.069000 7.0000-3           84210.9                     D.Gardes+            (78)B0113 47 
+20040 83209   3 459    2.2600+8 4000000. 0.079000 8.0000-3           84210.9                     D.Gardes+            (78)B0113 47 
+20040 83209   3 459    2.4900+8 5000000. 0.083000 8.0000-3           84210.9                     D.Gardes+            (78)B0113 47 
+20040 83209   3 459    2.7500+8 5000000. 0.092000 0.010000           84210.9                     D.Gardes+            (78)B0113 47 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      P0119
+#AUTHOR1    K.Otozai+
+#YEAR       1968
+#INSTITUTE  (2JPNOSA)
+#TITLE      Excitation functions for deuteron-induced reactions
+#AUTHOR(S)  K.Otozai, S.Kuze, H.Okamura, A.Mito, T.Nishi, I.Fujiwara
+#REF-CODE   (J,NP/A,107,427,1968)
+#REFERENCE  Nucl.Phys.A 107 (1968) 427 (doi:10.1016/0375-9474(68)90630-1)
+#DATASETS   0
+#
+#DATASET    P0119012 
+#DATE       20150512
+#REACTION   52-TE-130(D,2N)53-I-130,,SIG
+#PROJ       1002
+#TARG       52130
+#MF         3
+#MT         16
+#PRODUCT    53-I-130
+#C4BEGIN    [ 1002 52130   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 52130   3  16    6600952.          0.101000 3.0000-3                                       K.Otozai+            (68)P0119 12 
+ 1002 52130   3  16    8327412.          0.310000                                                K.Otozai+            (68)P0119 12 
+ 1002 52130   3  16    1.0359+7          0.640000 0.050000                                       K.Otozai+            (68)P0119 12 
+ 1002 52130   3  16    1.2187+7          0.770000                                                K.Otozai+            (68)P0119 12 
+ 1002 52130   3  16    1.4319+7          0.660000 0.020000                                       K.Otozai+            (68)P0119 12 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      K2005
+#AUTHOR1    S.Naito+
+#YEAR       2006
+#INSTITUTE  (2JPNOSA)
+#TITLE      New data for 3He(gamma,p)D and 3He(gamma,pp)n cross
+#+          sections compared to current theory
+#AUTHOR(S)  S.Naito, Y.Nagai, T.Shima, H.Makii, K.Mishima, K.Tamura, 
+#+          H.Toyokawa, H.Ohgaki, J.Golak, R.Skibinski, H.Witala, W.Glockle, 
+#+          A.Nogga, H.Kamada
+#REF-CODE   (J,PR/C,73,(3),034003,200603)
+#REFERENCE  Phys.Rev.C 73 No.3 (2006) 034003 (doi:10.1103/PhysRevC.73.034003)
+#DATASETS   0
+#
+#DATASET    K2005003 
+#DATE       20070310
+#REACTION   2-HE-3(G,N+P)1-H-1,,SIG
+#PROJ       0
+#TARG       2003
+#MF         3
+#MT         28
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  2003   3  28 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   3  28 A  1.0200+7 175000.0 1.5000-4 5.0000-5                                       S.Naito+             (06)K2005  3 
+    0  2003   3  28 A  1.6000+7 430000.0 9.1000-4 6.0000-5                                       S.Naito+             (06)K2005  3 
+#/DATA      2
+#/DATASET

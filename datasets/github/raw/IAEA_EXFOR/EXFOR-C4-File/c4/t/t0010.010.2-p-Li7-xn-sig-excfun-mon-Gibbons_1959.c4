@@ -1,0 +1,40 @@
+#ENTRY      T0010
+#AUTHOR1    J.H.Gibbons+
+#YEAR       1959
+#INSTITUTE  (1USAORL)
+#TITLE      Total neutron yields from light elements under proton
+#+          and alpha bombardment
+#AUTHOR(S)  J.H.Gibbons, R.L.Macklin
+#REF-CODE   (J,PR,114,571,1959)
+#REFERENCE  Phys.Rev. 114 (1959) 571 (doi:10.1103/PhysRev.114.571)
+#DATASETS   0
+#
+#DATASET    T00100102
+#DATE       20250611
+#REACTION   3-LI-7(P,X)0-NN-1,,SIG
+#PROJ       1001
+#TARG       3007
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001  3007   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   3 201    2387000.          0.378000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    2594000.          0.292000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    2808000.          0.287000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    3032000.          0.291000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    3264000.          0.287000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    3504000.          0.290000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    3752000.          0.289000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    4009000.          0.298000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    4274000.          0.322000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    4548000.          0.369000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    4829000.          0.408000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    4973000.          0.432000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    5119000.          0.428000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    5267000.          0.395000                                                J.H.Gibbons+         (59)T0010 102
+ 1001  3007   3 201    5418000.          0.402000                                                J.H.Gibbons+         (59)T0010 102
+#/DATA      15
+#/DATASET

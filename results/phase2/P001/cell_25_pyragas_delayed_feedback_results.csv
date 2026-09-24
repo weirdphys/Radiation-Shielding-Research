@@ -1,0 +1,3 @@
+curve,observable,ensemble_group,individual_MI_delay_samples,individual_MI_delay_coordinate,selection_method,common_delay_coordinate,applied_delay_samples,applied_delay_coordinate,relative_feedback_rms,roughness_ratio,variance_ratio,correlation_original_controlled
+mu_en_over_rho_cm2_g,mu_en_over_rho_cm2_g,attenuation_state,7,1.5405425081722872,first local minimum,1.7606200093397568,8,1.7606200093397568,0.1837322771221237,0.905600464245845,1.1164453318043546,0.9880291408410153
+mu_over_rho_cm2_g,mu_over_rho_cm2_g,attenuation_state,9,1.9806975105072264,global minimum in allowed range,1.7606200093397568,8,1.7606200093397568,0.1828048319768623,0.9056651029465508,1.1166011016471666,0.9881708323186171

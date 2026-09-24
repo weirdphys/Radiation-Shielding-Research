@@ -1,0 +1,42 @@
+#ENTRY      B0043
+#AUTHOR1    S.Tanaka+
+#YEAR       1959
+#INSTITUTE  (2JPNTOK)
+#TITLE      Excitation Functions For (P,N) Reactions with Titanium,
+#+          Vanadium, Chromium, Iron and Nickel Up to 14 MeV
+#AUTHOR(S)  S.Tanaka, M.Furukawa
+#REF-CODE   (J,JPJ,14,1269,1959)
+#REFERENCE  J.Phys.Soc.Jpn. 14 (1959) 1269 (doi:10.1143/JPSJ.14.1269)
+#DATASETS   0
+#
+#DATASET    B0043006 
+#DATE       20011220
+#REACTION   26-FE-56(P,N)27-CO-56,,SIG,,,EXP
+#PROJ       1001
+#TARG       26056
+#MF         3
+#MT         4
+#PRODUCT    27-CO-56
+#C4BEGIN    [ 1001 26056   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   3   4    6000000.          0.062000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    7000000.          0.175000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    8000000.          0.254000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    8500000.          0.329000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    8600000.          0.336000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    9400000.          0.349000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.0100+7          0.410000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.0500+7          0.433000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.0800+7          0.409000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.1500+7          0.462000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.1600+7          0.418000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.2100+7          0.483000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.2200+7          0.418000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.2800+7          0.480000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.3000+7          0.412000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.3500+7          0.448000                                                S.Tanaka+            (59)B0043  6 
+ 1001 26056   3   4    1.3700+7          0.405000                                                S.Tanaka+            (59)B0043  6 
+#/DATA      17
+#/DATASET

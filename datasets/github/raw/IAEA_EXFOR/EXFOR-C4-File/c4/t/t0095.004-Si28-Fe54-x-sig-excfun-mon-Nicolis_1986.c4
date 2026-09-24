@@ -1,0 +1,39 @@
+#ENTRY      T0095
+#AUTHOR1    N.G.Nicolis+
+#YEAR       1986
+#INSTITUTE  (1USAROC)
+#TITLE      Angular-momentum limitations in the high-spin gamma-
+#+          decay of medium-mass evaporation residues.
+#AUTHOR(S)  N.G.Nicolis, T.M.Cormier, P.M.Stwertka, M.G.Herman
+#REF-CODE   (J,PL/B,178,339,198610)
+#REFERENCE  Phys.Lett.B 178 (1986) 339 (doi:10.1016/0370-2693(86)91390-0)
+#DATASETS   0
+#
+#DATASET    T0095004 
+#DATE       20020215
+#REACTION   26-FE-54(14-SI-28,X)38-SR-78,,SIG
+#PROJ       14028
+#TARG       26054
+#MF         3
+#MT         454
+#PRODUCT    38-SR-78
+#C4BEGIN    [14028 26054   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+14028 26054   3 454 A  8.7800+7          4.8000-3 1.2000-3           38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  8.9600+7          9.9000-3 2.6000-3           38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  9.2400+7          0.015300 2.4000-3           38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  9.4800+7          0.020200 4.4000-3           38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  9.7100+7          0.025000 4.0000-3           38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  1.0070+8          0.030000 6.0000-3           38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  1.0280+8          0.033000 5.0000-3           38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  1.0560+8          0.035700                    38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  1.0780+8          0.039500                    38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  1.0980+8          0.045000                    38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  1.1470+8          0.046900                    38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  1.1970+8          0.035000 5.0000-3           38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  1.2470+8          0.023000 3.5000-3           38078.9                     N.G.Nicolis+         (86)T0095  4 
+14028 26054   3 454 A  1.3000+8          0.019000 5.0000-3           38078.9                     N.G.Nicolis+         (86)T0095  4 
+#/DATA      14
+#/DATASET

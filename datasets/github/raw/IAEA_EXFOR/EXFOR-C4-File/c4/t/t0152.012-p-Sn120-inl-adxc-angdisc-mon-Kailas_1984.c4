@@ -1,0 +1,56 @@
+#ENTRY      T0152
+#AUTHOR1    S.Kailas+
+#YEAR       1984
+#INSTITUTE  (3INDTRM)
+#TITLE      Excitation of low-lying levels and giant multipole
+#+          resonances in 92Zr, 120Sn and 208Pb by inelastic
+#+          scattering of 104 MeV polarized protons.
+#AUTHOR(S)  S.Kailas, P.P.Singh, D.L.Friesel, C.C.Foster, P.Schwandt, 
+#+          J.Wiggins
+#REF-CODE   (J,PR/C,29,2075,198406)
+#REFERENCE  Phys.Rev.C 29 (1984) 2075 (doi:10.1103/PhysRevC.29.2075)
+#DATASETS   0
+#
+#DATASET    T0152012 
+#DATE       20010430
+#REACTION   50-SN-120(P,INL)50-SN-120,PAR,DA
+#PROJ       1001
+#TARG       50120
+#MF         4
+#MT         601
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 1001 50120   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   4 601  C 1.0350+8          8.8000-3 1.4080-3 0.973499          1.3300+7 100000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          5.7000-3          0.965336          1.3300+7 100000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          2.6000-3 4.9400-4 0.944262          1.3300+7 100000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          2.3500-3          0.932765          1.3300+7 100000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          2.2000-3 3.9600-4 0.919958          1.3300+7 100000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          1.7910-3          0.904083          1.3300+7 100000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          1.2000-3 2.0400-4 0.884744          1.3300+7 100000.0LVLS.Kailas+            (84)T0152 12 
+#/DATA      7
+#/DATASET
+#
+#DATASET    T0152012 
+#DATE       20010430
+#REACTION   50-SN-120(P,INL)50-SN-120,PAR,DA
+#PROJ       1001
+#TARG       50120
+#MF         4
+#MT         601
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 1001 50120   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   4 601  C 1.0350+8          5.5000-3 1.1000-3 0.971797          1.6000+7 300000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          4.0100-3          0.963537          1.6000+7 300000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          2.7000-3 5.1300-4 0.942291          1.6000+7 300000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          2.0200-3          0.929390          1.6000+7 300000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          2.2000-3 3.9600-4 0.916363          1.6000+7 300000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          1.6090-3          0.900622          1.6000+7 300000.0LVLS.Kailas+            (84)T0152 12 
+ 1001 50120   4 601  C 1.0350+8          1.2600-3 2.3940-4 0.879980          1.6000+7 300000.0LVLS.Kailas+            (84)T0152 12 
+#/DATA      7
+#/DATASET

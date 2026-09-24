@@ -1,0 +1,31 @@
+#ENTRY      T0298
+#AUTHOR1    D.Ingham+
+#YEAR       1974
+#INSTITUTE  (1USAUSA)
+#TITLE      Small-angle inelastic scattering of 40 MeV protons by
+#+          12C, 40Ca, 56Fe and 58Ni.
+#AUTHOR(S)  D.Ingham, R.Eisberg, M.Makino, C.Waddell
+#REF-CODE   (J,NIM,114,5,1974)
+#REFERENCE  Nucl.Intrum.Meth. 114 (1974) 5 (doi:10.1016/0029-554X(74)90321-8)
+#DATASETS   0
+#
+#DATASET    T0298003 
+#DATE       20040802
+#REACTION   20-CA-40(P,INL)20-CA-40,PAR,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         601
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 601  C 4.0000+7          9.1000-3 8.0000-4 0.994151          3730000.         LVLD.Ingham+            (74)T0298  3 
+ 1001 20040   4 601  C 4.0000+7          0.010700 1.6000-3 0.989526          3730000.         LVLD.Ingham+            (74)T0298  3 
+ 1001 20040   4 601  C 4.0000+7          0.011300          0.983885          3730000.         LVLD.Ingham+            (74)T0298  3 
+ 1001 20040   4 601  C 4.0000+7          0.013300          0.977046          3730000.         LVLD.Ingham+            (74)T0298  3 
+ 1001 20040   4 601  C 4.0000+7          0.013100          0.968583          3730000.         LVLD.Ingham+            (74)T0298  3 
+ 1001 20040   4 601  C 4.0000+7          0.013300          0.958820          3730000.         LVLD.Ingham+            (74)T0298  3 
+#/DATA      6
+#/DATASET

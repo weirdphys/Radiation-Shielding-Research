@@ -1,0 +1,34 @@
+#ENTRY      K2199
+#AUTHOR1    F.Kitatani+
+#YEAR       2010
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurement of the 80Se(g,n) cross section using
+#+          laser-Compton scattering gamma-rays
+#AUTHOR(S)  F.Kitatani, H.Harada, S.Goko, H.Utsunomiya, H.Akimune, T.Kaihori, 
+#+          H.Toyokawa, K.Yamada
+#REF-CODE   (J,NST,47,367,2010)
+#REFERENCE  J.Nucl.Sci.Technol. 47 (2010) 367 (doi:10.1080/18811248.2010.9711967)
+#DATASETS   0
+#
+#DATASET    K2199003 
+#DATE       20260228
+#REACTION   79-AU-197(G,N)79-AU-196,,SIG
+#PROJ       0
+#TARG       79197
+#MF         3
+#MT         4
+#PRODUCT    79-AU-196
+#C4BEGIN    [    0 79197   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 79197   3   4 C  1.0000+7 50000.00 0.069900 5.1027-3                                       F.Kitatani+          (10)K2199  3 
+    0 79197   3   4 C  1.1300+7 33900.00 0.186800 9.5268-3                                       F.Kitatani+          (10)K2199  3 
+    0 79197   3   4 C  1.1700+7 35100.00 0.266000 0.013034                                       F.Kitatani+          (10)K2199  3 
+    0 79197   3   4 C  1.2100+7 36300.00 0.345200 0.017260                                       F.Kitatani+          (10)K2199  3 
+    0 79197   3   4 C  1.2700+7 50800.00 0.450600 0.022079                                       F.Kitatani+          (10)K2199  3 
+    0 79197   3   4 C  1.2900+7 51600.00 0.467800 0.023390                                       F.Kitatani+          (10)K2199  3 
+    0 79197   3   4 C  1.3500+7 54000.00 0.532100 0.027137                                       F.Kitatani+          (10)K2199  3 
+    0 79197   3   4 C  1.4600+7 73000.00 0.511400 0.025570                                       F.Kitatani+          (10)K2199  3 
+#/DATA      8
+#/DATASET

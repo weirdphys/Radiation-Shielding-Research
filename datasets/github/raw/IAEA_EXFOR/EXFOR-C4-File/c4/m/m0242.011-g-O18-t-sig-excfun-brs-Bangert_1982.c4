@@ -1,0 +1,41 @@
+#ENTRY      M0242
+#AUTHOR1    K.Bangert+
+#YEAR       1982
+#INSTITUTE  (2GERJLU)
+#TITLE      Charged photoparticles from the O-18 giant resonance.
+#AUTHOR(S)  K.Bangert, U.E.P.Berg, G.Junghans, R.Stock, K.Wienhard
+#REF-CODE   (J,NP/A,376,15,1982)
+#REFERENCE  Nucl.Phys.A 376 (1982) 15 (doi:10.1016/0375-9474(82)90530-9)
+#DATASETS   0
+#
+#DATASET    M0242011 
+#DATE       20130611
+#REACTION   8-O-18(G,T)7-N-15,PAR,SIG,,BRS
+#PROJ       0
+#TARG       8018
+#MF         3
+#MT         700
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8018   3 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8018   3 700    2.0890+7          3.6130-4                            0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.1140+7          3.1500-4 1.5000-5                   0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.1420+7          2.6020-4 1.7000-5                   0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.1710+7          2.0750-4 1.6000-5                   0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.1980+7          2.1290-4 1.8000-5                   0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.2260+7          1.2580-4 1.5000-5                   0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.2540+7          1.0970-4 1.6000-5                   0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.2830+7          1.2690-4 1.2000-5                   0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.3110+7          1.2900-4                            0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.3380+7          1.0540-4                            0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.3950+7          7.4190-5                            0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.4240+7          6.2360-5                            0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.4520+7          5.6980-5                            0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.4790+7          2.9030-5                            0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.5070+7          2.6880-5                            0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.5360+7          1.3980-5                            0.000000         LVLK.Bangert+           (82)M0242 11 
+    0  8018   3 700    2.5640+7          1.0750-5                            0.000000         LVLK.Bangert+           (82)M0242 11 
+#/DATA      17
+#/DATASET

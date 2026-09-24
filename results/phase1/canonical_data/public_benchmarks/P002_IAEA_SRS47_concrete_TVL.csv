@@ -1,0 +1,9 @@
+beam_label,nominal_beam_MV,primary_beam_TVL_mm,leakage_90deg_TVL_mm,material,material_density_g_cm3,benchmark_id,source_reference,source_url
+Co-60,,218,218,concrete,2.35,P002_IAEA_SRS47_BROAD_BEAM_TVL,"IAEA Safety Reports Series No. 47 (2006), Table 4",https://www.iaea.org/publications/7197/radiation-protection-in-the-design-of-radiotherapy-facilities
+4 MV,4.0,290,254,concrete,2.35,P002_IAEA_SRS47_BROAD_BEAM_TVL,"IAEA Safety Reports Series No. 47 (2006), Table 4",https://www.iaea.org/publications/7197/radiation-protection-in-the-design-of-radiotherapy-facilities
+6 MV,6.0,343,279,concrete,2.35,P002_IAEA_SRS47_BROAD_BEAM_TVL,"IAEA Safety Reports Series No. 47 (2006), Table 4",https://www.iaea.org/publications/7197/radiation-protection-in-the-design-of-radiotherapy-facilities
+10 MV,10.0,389,305,concrete,2.35,P002_IAEA_SRS47_BROAD_BEAM_TVL,"IAEA Safety Reports Series No. 47 (2006), Table 4",https://www.iaea.org/publications/7197/radiation-protection-in-the-design-of-radiotherapy-facilities
+15 MV,15.0,432,330,concrete,2.35,P002_IAEA_SRS47_BROAD_BEAM_TVL,"IAEA Safety Reports Series No. 47 (2006), Table 4",https://www.iaea.org/publications/7197/radiation-protection-in-the-design-of-radiotherapy-facilities
+18 MV,18.0,445,330,concrete,2.35,P002_IAEA_SRS47_BROAD_BEAM_TVL,"IAEA Safety Reports Series No. 47 (2006), Table 4",https://www.iaea.org/publications/7197/radiation-protection-in-the-design-of-radiotherapy-facilities
+20 MV,20.0,457,343,concrete,2.35,P002_IAEA_SRS47_BROAD_BEAM_TVL,"IAEA Safety Reports Series No. 47 (2006), Table 4",https://www.iaea.org/publications/7197/radiation-protection-in-the-design-of-radiotherapy-facilities
+24 MV,24.0,470,356,concrete,2.35,P002_IAEA_SRS47_BROAD_BEAM_TVL,"IAEA Safety Reports Series No. 47 (2006), Table 4",https://www.iaea.org/publications/7197/radiation-protection-in-the-design-of-radiotherapy-facilities

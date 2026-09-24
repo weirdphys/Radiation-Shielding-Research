@@ -1,0 +1,26 @@
+#ENTRY      M0411
+#AUTHOR1    N.K.Sherman+
+#YEAR       1985
+#INSTITUTE  (1CANOTC)
+#TITLE      Electron-pair creation on the uranium nucleus.
+#AUTHOR(S)  N.K.Sherman, W.F.Davidson, A.Nowak, M.Kosaki, J.Roy, W.Delbianco, 
+#+          G.Kajrys
+#REF-CODE   (J,PRL,54,1649,1985)
+#REFERENCE  Phys.Rev.Lett. 54 (1985) 1649 (doi:10.1103/PhysRevLett.54.1649)
+#DATASETS   0
+#
+#DATASET    M0411002 
+#DATE       20100127
+#REACTION   92-U-238(G,ABS),,SIG
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         27
+#C4BEGIN    [    0 92238   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  27    1.0000+7 129000.0 0.021023 6.2000-5                                       N.K.Sherman+         (85)M0411  2 
+    0 92238   3  27    2.0000+7 338000.0 0.026036 6.8000-5                                       N.K.Sherman+         (85)M0411  2 
+#/DATA      2
+#/DATASET

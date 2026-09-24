@@ -1,0 +1,35 @@
+#ENTRY      S0135
+#AUTHOR1    Zhang Li+
+#YEAR       1986
+#INSTITUTE  (3CPRIMP)
+#TITLE      Analysis for energy spectra of light particles emitted
+#+          from 12C + 64Ni reaction
+#AUTHOR(S)  Zhang Li, Jin Genming, Wang Dayan, Zhang Baoguo, Wang Ximing
+#REF-CODE   (J,PHE,10,583,1986)
+#REFERENCE  High En.Nucl.Phy.Ch. 10 (1986) 583
+#DATASETS   0
+#
+#DATASET    S0135013 
+#DATE       20151009
+#REACTION   28-NI-64(6-C-12,X)1-H-3,,DA
+#PROJ       6012
+#TARG       28064
+#MF         4
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 6012 28064   4 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 28064   4 205  C 6.9000+7          3.2500-3 4.9000-4 0.946705                              Zhang Li+            (86)S0135 13 
+ 6012 28064   4 205  C 6.9000+7          3.1100-3 4.9000-4 0.907484                              Zhang Li+            (86)S0135 13 
+ 6012 28064   4 205  C 6.9000+7          2.4600-3 3.9000-4 0.856537                              Zhang Li+            (86)S0135 13 
+ 6012 28064   4 205  C 6.9000+7          2.2200-3 3.6000-4 0.786288                              Zhang Li+            (86)S0135 13 
+ 6012 28064   4 205  C 6.9000+7          1.5300-3 2.5000-4 0.577003                              Zhang Li+            (86)S0135 13 
+ 6012 28064   4 205  C 6.9000+7          1.2400-3 1.9000-4 0.508741                              Zhang Li+            (86)S0135 13 
+ 6012 28064   4 205  C 6.9000+7          1.0700-3 2.1000-4 0.143838                              Zhang Li+            (86)S0135 13 
+ 6012 28064   4 205  C 6.9000+7          7.4000-4 1.7000-4-0.051813                              Zhang Li+            (86)S0135 13 
+ 6012 28064   4 205  C 6.9000+7          7.2000-4 1.3000-4-0.189438                              Zhang Li+            (86)S0135 13 
+ 6012 28064   4 205  C 6.9000+7          8.6000-4 1.4000-4-0.642386                              Zhang Li+            (86)S0135 13 
+#/DATA      10
+#/DATASET

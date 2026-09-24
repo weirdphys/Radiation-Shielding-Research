@@ -1,0 +1,60 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "mode": "audit",
+  "reference_corpus_ready": true,
+  "paired_mc_complete": true,
+  "route_c_validation_gate": false,
+  "status": "ROUTE_C_MULTI_OBSERVABLE_EVALUATED_WITH_FAILURES; factorized surrogate only; does not replace Step-2C spectral/provenance qualification.",
+  "transport_contract": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/STEP2_ROUTE_C_TRANSPORT_CONTRACT_v1.json",
+  "cpp_source_sha256": "d53a1d762f6470a8a88d380180dac0d07c21ac5fcb0c74096829dbe73c0d8730",
+  "run_manifest": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_run_manifest.csv",
+  "beam_results": [
+    {
+      "source_model_id": "PROJECT_6MV_40x40",
+      "pdd_pass": true,
+      "profile_pass": false,
+      "beam_pass": false,
+      "evaluation_status": "EVALUATED",
+      "detail": ""
+    },
+    {
+      "source_model_id": "PROJECT_10MV_40x40",
+      "pdd_pass": true,
+      "profile_pass": false,
+      "beam_pass": false,
+      "evaluation_status": "EVALUATED",
+      "detail": ""
+    },
+    {
+      "source_model_id": "PROJECT_15MV_40x40",
+      "pdd_pass": true,
+      "profile_pass": false,
+      "beam_pass": false,
+      "evaluation_status": "EVALUATED",
+      "detail": ""
+    },
+    {
+      "source_model_id": "PROJECT_16MV_40x40",
+      "pdd_pass": false,
+      "profile_pass": false,
+      "beam_pass": false,
+      "evaluation_status": "EVALUATED",
+      "detail": ""
+    },
+    {
+      "source_model_id": "PROJECT_18MV_40x40",
+      "pdd_pass": true,
+      "profile_pass": false,
+      "beam_pass": false,
+      "evaluation_status": "EVALUATED",
+      "detail": ""
+    }
+  ],
+  "scope_note": "Independent PDD/profile holdouts validate only the frozen factorized Route-C surrogate; they do not uniquely validate complete clinical phase space and do not replace Step-2C spectral/provenance qualification.",
+  "corrective_audit": {
+    "pdd_duplicate_policy": "collapse only identical-dose duplicate depth rows from vector-fragment joins",
+    "profile_crossing_policy": "outermost crossing away from CAX independently on left and right",
+    "acceptance_thresholds_changed": false,
+    "production_spectra_changed": false
+  }
+}

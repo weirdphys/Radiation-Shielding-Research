@@ -1,0 +1,55 @@
+#ENTRY      T0408
+#AUTHOR1    J.Kallne+
+#YEAR       1980
+#INSTITUTE  (1USAVIR)
+#TITLE      Some dynamical aspects of pick up reactions studied in
+#+          13C(p,d)12C at 200-500 MeV
+#AUTHOR(S)  J.Kallne, A.N.Anderson, J.L.Beveridge, J.Rogers, D.A.Hutcheon, 
+#+          W.J.McDonald
+#REF-CODE   (J,PR/C,21,675,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 675 (doi:10.1103/PhysRevC.21.675)
+#DATASETS   0
+#
+#DATASET    T0408002 
+#DATE       20050406
+#REACTION   6-C-13(P,D)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         650
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6013   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4 650    2.0000+8          2.5330-5 2.4860-6 0.923880          0.000000         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    2.5000+8          8.0650-6 7.9160-7 0.923880          0.000000         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    3.0000+8          2.6500-6 5.1250-7 0.923880          0.000000         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    3.5000+8          1.0830-6 3.2160-7 0.923880          0.000000         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    4.0000+8          1.9660-7 1.0770-7 0.923880          0.000000         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    4.5000+8          2.4980-7 1.1340-7 0.923880          0.000000         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    5.0000+8          1.0000-7 5.1600-8 0.923880          0.000000         LVLJ.Kallne+            (80)T0408  2 
+#/DATA      7
+#/DATASET
+#
+#DATASET    T0408002 
+#DATE       20050406
+#REACTION   6-C-13(P,D)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         650
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6013   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4 650    2.0000+8          6.5230-5 9.7845-6 0.923880          4440000.         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    2.5000+8          2.6080-5 2.2660-6 0.923880          4440000.         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    3.0000+8          8.2900-6 1.0060-6 0.923880          4440000.         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    3.5000+8          4.8220-6 6.4220-7 0.923880          4440000.         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    4.0000+8          2.0310-6 3.4350-7 0.923880          4440000.         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    4.5000+8          1.3250-6 2.5670-7 0.923880          4440000.         LVLJ.Kallne+            (80)T0408  2 
+ 1001  6013   4 650    5.0000+8          5.9400-7 1.4520-7 0.923880          4440000.         LVLJ.Kallne+            (80)T0408  2 
+#/DATA      7
+#/DATASET

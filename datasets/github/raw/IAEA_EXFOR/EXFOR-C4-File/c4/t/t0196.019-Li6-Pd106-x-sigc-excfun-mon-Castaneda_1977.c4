@@ -1,0 +1,28 @@
+#ENTRY      T0196
+#AUTHOR1    C.M.Castaneda+
+#YEAR       1977
+#INSTITUTE  (1USAINU)
+#TITLE      Investigation of 6Li-induced reactions from 54 to 99
+#+          MeV on Pd targets
+#AUTHOR(S)  C.M.Castaneda, H.A.Smith Jr, T.E.Ward, T.R.Nees
+#REF-CODE   (J,PR/C,16,1437,1977)
+#REFERENCE  Phys.Rev.C 16 (1977) 1437 (doi:10.1103/PhysRevC.16.1437)
+#DATASETS   0
+#
+#DATASET    T0196019 
+#DATE       20020104
+#REACTION   46-PD-106(3-LI-6,6N)49-IN-106-G,M+,SIG
+#PROJ       3006
+#TARG       46106
+#MF         3
+#MT         459
+#PRODUCT    49-IN-106-G
+#C4BEGIN    [ 3006 46106   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 46106   3 459    6.6000+7          0.045000 0.011250           49106.0                     C.M.Castaneda+       (77)T0196 19 
+ 3006 46106   3 459    7.7000+7          0.031000 7.7500-3           49106.0                     C.M.Castaneda+       (77)T0196 19 
+ 3006 46106   3 459    9.1000+7          0.019000 4.7500-3           49106.0                     C.M.Castaneda+       (77)T0196 19 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      T0298
+#AUTHOR1    D.Ingham+
+#YEAR       1974
+#INSTITUTE  (1USAUSA)
+#TITLE      Small-angle inelastic scattering of 40 MeV protons by
+#+          12C, 40Ca, 56Fe and 58Ni.
+#AUTHOR(S)  D.Ingham, R.Eisberg, M.Makino, C.Waddell
+#REF-CODE   (J,NIM,114,5,1974)
+#REFERENCE  Nucl.Intrum.Meth. 114 (1974) 5 (doi:10.1016/0029-554X(74)90321-8)
+#DATASETS   0
+#
+#DATASET    T0298002 
+#DATE       20040802
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 4.0000+7          0.021200          0.997314          4430000.         LVLD.Ingham+            (74)T0298  2 
+ 1001  6012   4 601  C 4.0000+7          0.021600          0.995562          4430000.         LVLD.Ingham+            (74)T0298  2 
+ 1001  6012   4 601  C 4.0000+7          0.020800          0.993768          4430000.         LVLD.Ingham+            (74)T0298  2 
+ 1001  6012   4 601  C 4.0000+7          0.020300          0.991445          4430000.         LVLD.Ingham+            (74)T0298  2 
+ 1001  6012   4 601  C 4.0000+7          0.021600          0.988494          4430000.         LVLD.Ingham+            (74)T0298  2 
+ 1001  6012   4 601  C 4.0000+7          0.020200          0.982287          4430000.         LVLD.Ingham+            (74)T0298  2 
+ 1001  6012   4 601  C 4.0000+7          0.019200          0.973976          4430000.         LVLD.Ingham+            (74)T0298  2 
+ 1001  6012   4 601  C 4.0000+7          0.020300          0.964557          4430000.         LVLD.Ingham+            (74)T0298  2 
+ 1001  6012   4 601  C 4.0000+7          0.016600          0.954240          4430000.         LVLD.Ingham+            (74)T0298  2 
+ 1001  6012   4 601  C 4.0000+7          0.016800          0.929133          4430000.         LVLD.Ingham+            (74)T0298  2 
+#/DATA      10
+#/DATASET

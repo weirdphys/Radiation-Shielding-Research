@@ -1,0 +1,26 @@
+#ENTRY      B0021
+#AUTHOR1    Y.Eyal+
+#YEAR       1973
+#INSTITUTE  (1USACOL)
+#TITLE      Behavior of the particles transferred in the 16O+197Au
+#+          and 12C+197Au reactions
+#AUTHOR(S)  Y.Eyal, K.Beg, D.Logan, J.Miller, A.Zebelman
+#REF-CODE   (J,PR/C,8,1109,1973)
+#REFERENCE  Phys.Rev.C 8 (1973) 1109 (doi:10.1103/PhysRevC.8.1109)
+#DATASETS   0
+#
+#DATASET    B0021050 
+#DATE       20220321
+#REACTION   79-AU-197(6-C-12,X)81-TL-196-M,,SIG
+#PROJ       6012
+#TARG       79197
+#MF         3
+#MT         454
+#PRODUCT    81-TL-196-M
+#C4BEGIN    [ 6012 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 79197   3 454    1.2500+8          0.015300 9.0000-4           81196.7                     Y.Eyal+              (73)B0021 50 
+#/DATA      1
+#/DATASET

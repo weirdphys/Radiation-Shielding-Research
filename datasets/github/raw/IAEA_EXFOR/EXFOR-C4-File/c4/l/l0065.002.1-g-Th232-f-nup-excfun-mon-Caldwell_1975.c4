@@ -1,0 +1,29 @@
+#ENTRY      L0065
+#AUTHOR1    J.T.Caldwell+
+#YEAR       1975
+#INSTITUTE  (1USALAS)
+#TITLE      Experimental determination of photofission neutron
+#+          multiplicities for eight isotopes in the mass range
+#+          232<A<239
+#AUTHOR(S)  J.T.Caldwell, E.J.Dowdy
+#REF-CODE   (J,NSE,56,179,1975)
+#REFERENCE  Nucl.Sci.Eng. 56 (1975) 179 (doi:10.13182/NSE75-A26656)
+#DATASETS   0
+#
+#DATASET    L00650021
+#DATE       20050420
+#REACTION   90-TH-232(G,F),PR,NU
+#PROJ       0
+#TARG       90232
+#MF         1
+#MT         456
+#C4BEGIN    [    0 90232   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   1 456    6440000.          1.960000 0.110000                                       J.T.Caldwell+        (75)L0065  21
+    0 90232   1 456    7020000.          1.890000 0.110000                                       J.T.Caldwell+        (75)L0065  21
+    0 90232   1 456    7100000.          1.890000 0.110000                                       J.T.Caldwell+        (75)L0065  21
+    0 90232   1 456    8060000.          2.080000 0.110000                                       J.T.Caldwell+        (75)L0065  21
+#/DATA      4
+#/DATASET

@@ -1,0 +1,20 @@
+curve,observable,ensemble_group,lag_samples,lag_coordinate,mutual_information
+Active NNS (He-3 current-mode),neutron_fluence_rate,spectrometers,1,0.5001786178479555,1.0977692737576856
+Active NNS (He-3 current-mode),neutron_fluence_rate,spectrometers,2,1.000357235695911,0.7140818022557416
+Active NNS (He-3 current-mode),neutron_fluence_rate,spectrometers,3,1.5005358535438664,0.26935186135448275
+Active NNS (He-3 current-mode),neutron_fluence_rate,spectrometers,4,2.000714471391822,0.2031615008534846
+Active NNS (He-3 current-mode),neutron_fluence_rate,spectrometers,5,2.5008930892397774,0.15817266090812288
+Active NNS (He-3 current-mode),neutron_fluence_rate,spectrometers,6,3.001071707087733,0.10762274628643409
+Active NNS (He-3 current-mode),neutron_fluence_rate,spectrometers,7,3.5012503249356883,0.1451709648823365
+Active NNS (He-3 current-mode),neutron_fluence_rate,spectrometers,8,4.001428942783644,0.2012459370234363
+Active NNS (He-3 current-mode),neutron_fluence_rate,spectrometers,9,4.5016075606316,0.2542007451742174
+Passive NNS (gold-foil),neutron_fluence_rate,spectrometers,1,0.4737137045330577,1.3614214598835288
+Passive NNS (gold-foil),neutron_fluence_rate,spectrometers,2,0.9474274090661154,0.9006660972233578
+Passive NNS (gold-foil),neutron_fluence_rate,spectrometers,3,1.4211411135991732,0.6057823620928384
+Passive NNS (gold-foil),neutron_fluence_rate,spectrometers,4,1.894854818132231,0.5831079001117867
+Passive NNS (gold-foil),neutron_fluence_rate,spectrometers,5,2.3685685226652886,0.48254671404635197
+Passive NNS (gold-foil),neutron_fluence_rate,spectrometers,6,2.8422822271983463,0.3697183430107456
+Passive NNS (gold-foil),neutron_fluence_rate,spectrometers,7,3.315995931731404,0.42058275626459185
+Passive NNS (gold-foil),neutron_fluence_rate,spectrometers,8,3.789709636264462,0.49017354786558665
+Passive NNS (gold-foil),neutron_fluence_rate,spectrometers,9,4.2634233407975195,0.46213517880773924
+Passive NNS (gold-foil),neutron_fluence_rate,spectrometers,10,4.737137045330577,0.4851259558025518

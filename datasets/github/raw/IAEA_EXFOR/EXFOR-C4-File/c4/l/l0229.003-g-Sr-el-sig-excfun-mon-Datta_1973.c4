@@ -1,0 +1,37 @@
+#ENTRY      L0229
+#AUTHOR1    S.Datta+
+#YEAR       1973
+#INSTITUTE  (1USAUI)
+#TITLE      Photon Scattering Cross Sections of 88Sr in the
+#+          Energy Region 8.6 to 12 MeV
+#AUTHOR(S)  S.Datta, J.S.Allen
+#REF-CODE   (J,PR/C,8,1421,1973)
+#REFERENCE  Phys.Rev.C 8 (1973) 1421 (doi:10.1103/PhysRevC.8.1421)
+#DATASETS   0
+#
+#DATASET    L0229003 
+#DATE       20180226
+#REACTION   38-SR-0(G,EL)38-SR-0,,SIG
+#PROJ       0
+#TARG       38000
+#MF         3
+#MT         2
+#PRODUCT    38-SR-0
+#C4BEGIN    [    0 38000   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 38000   3   2    9278000.          3.5390-3 3.0600-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    9362000.          4.8640-3 3.8300-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    9426000.          6.0610-3 3.5700-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    9516000.          8.3550-3 4.0800-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    9584000.          4.9600-3 3.3200-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    9660000.          3.5300-3 3.0600-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    9761000.          5.5420-3 3.3200-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    9841000.          3.5250-3 3.3200-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    9931000.          5.6150-3 3.5700-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    1.0012+7          4.3370-3 3.8300-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    1.0078+7          3.0850-3 3.3200-4                                       S.Datta+             (73)L0229  3 
+    0 38000   3   2    1.0156+7          3.7980-3 3.5800-4                                       S.Datta+             (73)L0229  3 
+#/DATA      12
+#/DATASET

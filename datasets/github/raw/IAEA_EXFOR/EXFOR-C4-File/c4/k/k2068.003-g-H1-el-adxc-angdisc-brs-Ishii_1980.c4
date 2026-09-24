@@ -1,0 +1,491 @@
+#ENTRY      K2068
+#AUTHOR1    T.Ishii+
+#YEAR       1980
+#INSTITUTE  (2JPNKTO)
+#TITLE      Differential cross sections of proton Compton
+#+          scattering in the resonance region
+#AUTHOR(S)  T.Ishii, K.Egawa, S.Kato, T.Miyachi, K.Sugano, K.Toshioka, 
+#+          K.Ukai, M.Chiba, K.Joh, T.Shinohara, Y.Yoribayashi, Y.Wada
+#REF-CODE   (J,NP/B,165,(2),189,198003)
+#REFERENCE  Nucl.Phys.B 165 No.2 (1980) 189 (doi:10.1016/0550-3213(80)90084-X)
+#DATASETS   0
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 4.2500+8 1.2500+7 1.1500-7 2.8000-8-0.272280 0.050382                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 4.5000+8 1.2500+7 8.1000-8 1.8000-8-0.252069 0.050669                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 4.7500+8 1.2500+7 9.2000-8 1.2000-8-0.248690 0.050715                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 5.0000+8 1.2500+7 8.3000-8 1.0000-8-0.236838 0.050870                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 5.2500+8 1.2500+7 8.3000-8 9.0000-9-0.226651 0.050997                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 5.5000+8 1.2500+7 7.8000-8 7.0000-9-0.223250 0.051038                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 5.7500+8 1.2500+7 6.7000-8 8.0000-9-0.219846 0.051079                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 6.0000+8 1.2500+7 8.5000-8 8.0000-9-0.214735 0.051138                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 6.2500+8 1.2500+7 8.1000-8 1.1000-8-0.216440 0.051119                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 6.5000+8 1.2500+7 7.8000-8 9.0000-9-0.218143 0.051099                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 6.7500+8 1.2500+7 8.2000-8 9.0000-9-0.209619 0.051197                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 7.0000+8 1.2500+7 8.1000-8 9.0000-9-0.201078 0.051290                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 7.2500+8 1.2500+7 9.2000-8 1.2000-8-0.216440 0.051119                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 7.5000+8 1.2500+7 9.4000-8 1.1000-8-0.213030 0.051158                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 7.7500+8 1.2500+7 6.3000-8 8.0000-9-0.206204 0.051235                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 8.0000+8 1.2500+7 6.9000-8 7.0000-9-0.207912 0.051216                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 8.2500+8 1.2500+7 5.9000-8 7.0000-9-0.214735 0.051138                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 8.5000+8 1.2500+7 6.6000-8 6.0000-9-0.207912 0.051216                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 8.7500+8 1.2500+7 6.0000-8 6.0000-9-0.199368 0.051309                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 9.0000+8 1.2500+7 6.8000-8 5.0000-9-0.199368 0.051309                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 9.2500+8 1.2500+7 6.2000-8 6.0000-9-0.199368 0.051309                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 9.5000+8 1.2500+7 6.3000-8 6.0000-9-0.194234 0.051363                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 9.7500+8 1.2500+7 6.4000-8 5.0000-9-0.189095 0.051415                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 1.0000+9 1.2500+7 5.7000-8 5.0000-9-0.183951 0.051466                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 1.0250+9 1.2500+7 5.4000-8 6.0000-9-0.185667 0.051449                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 1.0500+9 1.2500+7 4.3000-8 6.0000-9-0.182236 0.051483                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 1.0750+9 1.2500+7 4.8000-8 6.0000-9-0.178802 0.051516                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 1.1000+9 1.2500+7 2.5000-8 5.0000-9-0.177085 0.051532                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 1.1250+9 1.2500+7 1.9000-8 5.0000-9-0.171929 0.051580                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 1.1500+9 1.2500+7 1.3000-8 3.0000-9-0.170209 0.051596                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET

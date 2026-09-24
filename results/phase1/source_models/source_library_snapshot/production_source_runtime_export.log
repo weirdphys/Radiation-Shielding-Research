@@ -1,0 +1,30 @@
+RUNTIME EXPORT FAILED:
+Isolated production-source export failed with code 17: beam_mev_input: 0.0
+source_energy_mev_internal: 4.075246628276189
+Photon core build: 2026-08-05-native-photon-adapter-v2-safe-half-cpu-mt
+Native photon worker runner: /home/a/projects/particle-accelerator-shielding-simulator/geant4sim/GUI/geant4GUI/photon_neutron_bpe_app/native_photon_worker/run_native_photon_worker.sh
+Photon transport backend: native C++ Geant4; full Geant4 report retained
+Photon CPU policy: 16 Geant4 worker threads from 32 available logical CPUs (safe half-CPU default)
+ERROR: Could not locate conda.sh for the native Geant4 environment.
+PHASE1_PRODUCTION_SOURCE_EXPORT_ERROR=Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/a/projects/particle-accelerator-shielding-simulator/geant4sim/GUI/geant4GUI/photon_neutron_bpe_app/photon_wall_simulation_core.py", line 10813, in <module>
+    results = run_simulation(
+  File "/home/a/projects/particle-accelerator-shielding-simulator/geant4sim/GUI/geant4GUI/photon_neutron_bpe_app/photon_wall_simulation_core.py", line 10481, in run_simulation
+    results = _v73k12e11_previous_run_simulation(cfg)
+  File "/home/a/projects/particle-accelerator-shielding-simulator/geant4sim/GUI/geant4GUI/photon_neutron_bpe_app/photon_wall_simulation_core.py", line 10142, in run_simulation
+    results = _v73k12e10_previous_run_simulation(cfg)
+  File "/home/a/projects/particle-accelerator-shielding-simulator/geant4sim/GUI/geant4GUI/photon_neutron_bpe_app/photon_wall_simulation_core.py", line 9489, in run_simulation
+    return _v73k_previous_run_simulation(cfg)
+  File "/home/a/projects/particle-accelerator-shielding-simulator/geant4sim/GUI/geant4GUI/photon_neutron_bpe_app/photon_wall_simulation_core.py", line 9181, in run_simulation
+    return _v73f_native_photon_run(cfg)
+  File "/home/a/projects/particle-accelerator-shielding-simulator/geant4sim/GUI/geant4GUI/photon_neutron_bpe_app/photon_wall_simulation_core.py", line 10475, in capturing_native
+    native_result = original_native(point_cfg)
+  File "/home/a/projects/particle-accelerator-shielding-simulator/geant4sim/GUI/geant4GUI/photon_neutron_bpe_app/photon_wall_simulation_core.py", line 8460, in run_simulation
+    raise RuntimeError(
+RuntimeError: Native photon worker exited with status 1
+
+
+

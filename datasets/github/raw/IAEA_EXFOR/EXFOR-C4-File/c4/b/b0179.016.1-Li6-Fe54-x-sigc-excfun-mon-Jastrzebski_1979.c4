@@ -1,0 +1,37 @@
+#ENTRY      B0179
+#AUTHOR1    J.Jastrzebski+
+#YEAR       1979
+#INSTITUTE  (1USAINU)
+#TITLE      Fusion and Nonfusion Processes in Reactions Induced
+#+          By 10-100 MeV Li-6 Ions with Fe Targets.
+#AUTHOR(S)  J.Jastrzebski, H.Karwowski, M.Sadler, P.P.Singh
+#REF-CODE   (J,PR/C,19,724,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 724 (doi:10.1103/PhysRevC.19.724)
+#DATASETS   0
+#
+#DATASET    B01790161
+#DATE       20011220
+#REACTION   26-FE-54(3-LI-6,X)28-NI-57,CUM,SIG,,,EXP
+#PROJ       3006
+#TARG       26054
+#MF         3
+#MT         459
+#PRODUCT    28-NI-57
+#C4BEGIN    [ 3006 26054   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 26054   3 459    9800000.          4.0000-4 2.0000-4           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    1.6800+7          0.011000 1.0000-3           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    2.5600+7          0.055000 5.0000-3           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    3.0900+7          0.079000 5.0000-3           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    3.9000+7          0.061000 5.0000-3           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    4.4600+7          0.034000 4.0000-3           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    5.1400+7          0.015000 2.0000-3           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    5.5500+7          0.012000 2.0000-3           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    6.2400+7          7.7000-3 8.0000-4           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    7.0400+7          4.7000-3 4.0000-4           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    8.3000+7          2.6000-3 7.0000-4           28057.9                     J.Jastrzebski+       (79)B0179 161
+ 3006 26054   3 459    9.4000+7          1.5000-3 5.0000-4           28057.9                     J.Jastrzebski+       (79)B0179 161
+#/DATA      12
+#/DATASET

@@ -1,0 +1,45 @@
+#ENTRY      M0892
+#AUTHOR1    A.D.Antonov+
+#YEAR       1990
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Studies  of  photonuclear reactions  with emission of
+#+          a alpha particles in the region  of the  giant
+#+          dipole resonance.
+#AUTHOR(S)  A.D.Antonov, N.P.Balabanov, Yu.P.Gangrsky, F.G.Kondev, S.G.Marinova, 
+#+          Kh.G.Khristov
+#REF-CODE   (J,SNP,51,193,1990)
+#REFERENCE  Sov.J.Nucl.Phys. 51 (1990) 193
+#DATASETS   0
+#
+#DATASET    M0892011 
+#DATE       20250423
+#REACTION   68-ER-170(G,A)66-DY-166,,SIG,,BRS
+#PROJ       0
+#TARG       68170
+#MF         3
+#MT         107
+#PRODUCT    66-DY-166
+#C4BEGIN    [    0 68170   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 68170   3 107    1.8968+7          5.1000-6                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    1.9362+7          6.1000-6                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    1.9653+7          7.0000-6                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    1.9944+7          8.0000-6                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.0235+7          9.0000-6                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.0509+7          1.0100-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.0800+7          1.1300-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.1074+7          1.2700-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.1399+7          1.4100-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.1690+7          1.6000-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.2015+7          1.7800-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.2408+7          1.9900-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.2768+7          2.2300-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.3127+7          2.4600-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.3504+7          2.7300-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.3983+7          3.0600-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.4274+7          3.2400-5                                                A.D.Antonov+         (90)M0892 11 
+    0 68170   3 107    2.4684+7          3.4000-5                                                A.D.Antonov+         (90)M0892 11 
+#/DATA      18
+#/DATASET

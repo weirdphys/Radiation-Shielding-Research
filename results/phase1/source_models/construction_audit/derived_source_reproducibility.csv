@@ -1,0 +1,4 @@
+source_model_id,claimed_derivation,candidate_tested,weight,max_abs_difference,l1_difference,cosine_similarity,machine_precision_reproduced,status,candidate_selected_as_new_builder
+PROJECT_10MV_40x40,E10=E6*(10/6) probability-conserving center rebin,exact implemented v7.3k.12 transform,,6.938893903907228e-18,1.78256389683773e-16,1.0000000000000002,True,EXACTLY_REPRODUCIBLE,False
+PROJECT_15MV_40x40,linear between 6MV and 18MV same-field anchors,direct per-bin probability interpolation on current common grid,0.75,0.008053267955807377,0.40481962497680496,0.9342877489449498,False,DERIVATION_PROVENANCE_NOT_REPRODUCIBLE,False
+PROJECT_16MV_40x40,linear between 6MV and 18MV same-field anchors,direct per-bin probability interpolation on current common grid,0.8333333333333334,0.0048283846079723615,0.1853215120309695,0.981831669517174,False,DERIVATION_PROVENANCE_NOT_REPRODUCIBLE,False

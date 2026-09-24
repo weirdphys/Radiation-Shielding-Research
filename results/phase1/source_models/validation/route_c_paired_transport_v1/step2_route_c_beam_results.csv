@@ -1,0 +1,6 @@
+source_model_id,pdd_pass,profile_pass,beam_pass,evaluation_status,detail
+PROJECT_6MV_40x40,True,False,False,EVALUATED,
+PROJECT_10MV_40x40,True,False,False,EVALUATED,
+PROJECT_15MV_40x40,True,False,False,EVALUATED,
+PROJECT_16MV_40x40,False,False,False,EVALUATED,
+PROJECT_18MV_40x40,True,False,False,EVALUATED,

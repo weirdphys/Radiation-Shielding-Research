@@ -1,0 +1,27 @@
+#ENTRY      M0390
+#AUTHOR1    M.L.Terranova+
+#YEAR       1996
+#INSTITUTE  (4RUSSIB)
+#TITLE      Fissility of Bi, Pb, Au, Pt, W, Ta, V, and Ti nuclei
+#+          mesured with 100 MeV Compton backscattering photons.
+#AUTHOR(S)  M.L.Terranova, O.A.P.Tavares, G.Ya.Kezerashvili, V.A.Kiselev, 
+#+          A.M.Milov, N.Yu.Muchnoi, A.I.Naumenkov, V.V.Petrov, I.Ya.Protopopov, 
+#+          E.A.Simonov, E.De Paiva, E.L.Moreira
+#REF-CODE   (J,JP/G,22,511,1996)
+#REFERENCE  J.Phys.G 22 (1996) 511 (doi:10.1088/0954-3899/22/4/012)
+#DATASETS   0
+#
+#DATASET    M0390005 
+#DATE       20161222
+#REACTION   82-PB-0(G,F),,SIG
+#PROJ       0
+#TARG       82000
+#MF         3
+#MT         18
+#C4BEGIN    [    0 82000   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82000   3  18    1.0000+8 9000000. 2.1000-4 5.0000-5                                       M.L.Terranova+       (96)M0390  5 
+#/DATA      1
+#/DATASET

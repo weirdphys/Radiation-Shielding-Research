@@ -1,0 +1,2 @@
+result_file,required_columns,rule
+controlled_neutron_thickness_sweep.csv,"controlled_geometry_family_id,source_normalization_id,source_proton_MeV,shield_thickness_cm,energy_lower_MeV,energy_upper_MeV,response_value,response_sigma,response_unit","Only shield_thickness_cm may vary as the intended sweep coordinate; geometry family, source normalization, source proton energy, response unit and energy grid must remain fixed."

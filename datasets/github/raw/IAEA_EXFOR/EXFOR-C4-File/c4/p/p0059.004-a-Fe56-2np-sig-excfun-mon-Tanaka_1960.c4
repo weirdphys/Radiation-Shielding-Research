@@ -1,0 +1,36 @@
+#ENTRY      P0059
+#AUTHOR1    S.Tanaka+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Excitation Functions for Alpha-particle Reaction in
+#+          Fe56 and Fe57
+#AUTHOR(S)  S.Tanaka, M.Furukawa, S.Iwata, M.Yagi, H.Amano, T.Mikumo
+#REF-CODE   (J,JPJ,15,2125,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 2125 (doi:10.1143/JPSJ.15.2125)
+#DATASETS   0
+#
+#DATASET    P0059004 
+#DATE       20000817
+#REACTION   26-FE-56(A,2N+P)27-CO-57,,SIG
+#PROJ       2004
+#TARG       26056
+#MF         3
+#MT         41
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 2004 26056   3  41  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26056   3  41    2.8800+7 540000.0 0.018900 2.9100-3                                       S.Tanaka+            (60)P0059  4 
+ 2004 26056   3  41    2.9400+7          0.034800                                                S.Tanaka+            (60)P0059  4 
+ 2004 26056   3  41    2.9400+7          0.026500                                                S.Tanaka+            (60)P0059  4 
+ 2004 26056   3  41    3.0800+7          0.078700                                                S.Tanaka+            (60)P0059  4 
+ 2004 26056   3  41    3.1500+7          0.089500                                                S.Tanaka+            (60)P0059  4 
+ 2004 26056   3  41    3.1500+7          0.113000                                                S.Tanaka+            (60)P0059  4 
+ 2004 26056   3  41    3.2700+7 465000.0 0.167000 0.023900                                       S.Tanaka+            (60)P0059  4 
+ 2004 26056   3  41    3.4500+7          0.268000                                                S.Tanaka+            (60)P0059  4 
+ 2004 26056   3  41    3.6500+7 450000.0 0.377000 0.036200                                       S.Tanaka+            (60)P0059  4 
+ 2004 26056   3  41    3.8100+7          0.445000                                                S.Tanaka+            (60)P0059  4 
+ 2004 26056   3  41    3.9700+7          0.494000                                                S.Tanaka+            (60)P0059  4 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      K2004
+#AUTHOR1    K.Sumiyoshi+
+#YEAR       2002
+#INSTITUTE  (2JPNJPN)
+#TITLE      Astrophysical reaction rate for alpha (alpha n,
+#+          gamma)9Be by photodisintegration
+#AUTHOR(S)  K.Sumiyoshi, H.Utsunomiya, S.Goko, T.Kajino
+#REF-CODE   (J,NP/A,709,467,2002)
+#REFERENCE  Nucl.Phys.A 709 (2002) 467 (doi:10.1016/S0375-9474(02)01058-8)
+#DATASETS   0
+#
+#DATASET    K2004003 
+#DATE       20190114
+#REACTION   4-BE-9(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       4009
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0  4009   3 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  4009   3 201 A  1740000.          9.2000-4 3.0000-5                                       K.Sumiyoshi+         (02)K2004  3 
+    0  4009   3 201 A  1760000.          7.5000-4 3.0000-5                                       K.Sumiyoshi+         (02)K2004  3 
+    0  4009   3 201 A  1770000.          7.0000-4 3.0000-5                                       K.Sumiyoshi+         (02)K2004  3 
+    0  4009   3 201 A  1810000.          6.8000-4 3.0000-5                                       K.Sumiyoshi+         (02)K2004  3 
+    0  4009   3 201 A  1820000.          7.0000-4 3.0000-5                                       K.Sumiyoshi+         (02)K2004  3 
+    0  4009   3 201 A  1850000.          4.7000-4 2.0000-5                                       K.Sumiyoshi+         (02)K2004  3 
+    0  4009   3 201 A  1860000.          5.5000-4 3.0000-5                                       K.Sumiyoshi+         (02)K2004  3 
+    0  4009   3 201 A  2060000.          2.1000-4 3.0000-5                                       K.Sumiyoshi+         (02)K2004  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      K2180
+#AUTHOR1    B.Arakatsu+
+#YEAR       1951
+#INSTITUTE  (2JPNKTO)
+#TITLE      The photo-disintegration of Be by the high energy
+#+          gamma-rays
+#AUTHOR(S)  B.Arakatsu, M.Sonoda, Y.Uemura, S.Yasumi, Y.Saji
+#REF-CODE   (J,JPJ,6,(1),66,195101)
+#REFERENCE  J.Phys.Soc.Jpn. 6 No.1 (1951) 66 (doi:10.1143/JPSJ.6.66)
+#DATASETS   0
+#
+#DATASET    K2180003 
+#DATE       20101108
+#REACTION   4-BE-9(G,N)4-BE-8,PAR,SIG
+#PROJ       0
+#TARG       4009
+#MF         3
+#MT         50
+#PRODUCT    4-BE-8
+#C4BEGIN    [    0  4009   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  4009   3  50    6130000.          1.6200-3                            0.000000         LVLB.Arakatsu+          (51)K2180  3 
+    0  4009   3  50    1.7600+7          0.051000                            0.000000         LVLB.Arakatsu+          (51)K2180  3 
+#/DATA      2
+#/DATASET

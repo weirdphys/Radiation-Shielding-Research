@@ -1,0 +1,28 @@
+#ENTRY      M0875
+#AUTHOR1    M.Ludwig+
+#YEAR       1992
+#INSTITUTE  (2GERGOE)
+#TITLE      Electromagnetic polarizabilities of nucleons bound in
+#+          12C and 16O.
+#AUTHOR(S)  M.Ludwig, B.-E.Andersson, A.Baumann, K.I.Blomquist, K.Fuhrberg, 
+#+          E.Hayward, G.Muller, D.Nilsson, A.Sandell, B.Schroder, M.Schumacher
+#REF-CODE   (J,PL/B,274,275,1992)
+#REFERENCE  Phys.Lett.B 274 (1992) 275 (doi:10.1016/0370-2693(92)91986-J)
+#DATASETS   0
+#
+#DATASET    M0875002 
+#DATE       20140515
+#REACTION   6-C-12(G,EL)6-C-12,,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4   2    6.1000+7          5.2300-7 1.6000-8 6.123-17                              M.Ludwig+            (92)M0875  2 
+    0  6012   4   2    7.7000+7          3.3200-7 1.2000-8 6.123-17                              M.Ludwig+            (92)M0875  2 
+#/DATA      2
+#/DATASET

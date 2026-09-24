@@ -1,0 +1,133 @@
+#ENTRY      M0416
+#AUTHOR1    P.Rullhusen+
+#YEAR       1982
+#INSTITUTE  (2GERJUL)
+#TITLE      Coulomb correction effect in delbruck scattering  and
+#+          nuclear  resonance  fluorescence  of  2  to  10  MeV
+#+          photons on U-238.
+#AUTHOR(S)  P.Rullhusen, U.Zurmuhl, W.Muckenheim, F.Smend, M.Schumacher, 
+#+          H.G.Borner
+#REF-CODE   (J,NP/A,382,79,1982)
+#REFERENCE  Nucl.Phys.A 382 (1982) 79 (doi:10.1016/0375-9474(82)90442-0)
+#DATASETS   0
+#
+#DATASET    M0416002 
+#DATE       20160905
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    8998000.          1.2000-4 1.9000-7 0.707107                              P.Rullhusen+         (82)M0416  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0416002 
+#DATE       20160905
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    2752300.          7.3000-5 6.0000-6 0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    8998000.          5.5000-5 8.0000-7 0.500000                              P.Rullhusen+         (82)M0416  2 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M0416002 
+#DATE       20160905
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    8998000.          3.2000-5 5.0000-7 0.258819                              P.Rullhusen+         (82)M0416  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0416002 
+#DATE       20160905
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    2752300.          4.7600-5 3.1000-6 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    3229400.          4.8800-5 1.9600-5 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    3381300.          5.7000-5 1.7500-5 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    3809000.          3.9900-3 7.2000-4 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4086500.          2.3200-5 1.0400-5 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4295500.          2.6400-5 5.0000-6 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4462100.          3.3300-5 1.2800-5 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4495000.          1.9500-4 5.4000-5 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4592000.          4.8000-4 2.5000-4 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4806600.          1.2220-4 8.8000-6 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    5140000.          2.9000-5 1.0000-5 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    5206000.          6.8600-4 1.2000-4 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    5666000.          2.6000-5 7.0000-6 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    5843000.          3.5000-5 1.3000-5 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    8553000.          1.7000-5 9.0000-6 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    8884000.          2.5000-5 6.0000-6 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    8998000.          3.0000-5 3.0000-6 6.123-17                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    9720000.          7.3000-5 1.1000-5 6.123-17                              P.Rullhusen+         (82)M0416  2 
+#/DATA      18
+#/DATASET
+#
+#DATASET    M0416002 
+#DATE       20160905
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    2752300.          5.0500-5 4.1000-6-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    3229400.          5.9900-5 2.3000-5-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    3381300.          3.7800-5 2.1000-5-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4086500.          2.7800-5 1.6000-5-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4295500.          1.7400-5 7.8000-6-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4462100.          3.6700-5 2.3000-5-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4806600.          1.3440-4 1.5200-5-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    8998000.          2.7000-5 5.0000-7-0.500000                              P.Rullhusen+         (82)M0416  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    M0416002 
+#DATE       20160905
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    8998000.          3.5000-5 6.0000-7-0.766044                              P.Rullhusen+         (82)M0416  2 
+#/DATA      1
+#/DATASET

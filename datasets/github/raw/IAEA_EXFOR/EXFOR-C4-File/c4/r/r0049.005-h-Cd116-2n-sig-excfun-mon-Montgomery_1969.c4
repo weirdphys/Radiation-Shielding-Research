@@ -1,0 +1,34 @@
+#ENTRY      R0049
+#AUTHOR1    D.M.Montgomery+
+#YEAR       1969
+#INSTITUTE  (1USAPUR)
+#TITLE      Reactions of 116Cd with intermediate energy 3He and
+#+          4He ions
+#AUTHOR(S)  D.M.Montgomery, N.T.Porile
+#REF-CODE   (J,NP/A,130,65,1969)
+#REFERENCE  Nucl.Phys.A 130 (1969) 65 (doi:10.1016/0375-9474(69)90960-9)
+#DATASETS   0
+#
+#DATASET    R0049005 
+#DATE       20241120
+#REACTION   48-CD-116(HE3,2N)50-SN-117-M,,SIG
+#PROJ       2003
+#TARG       48116
+#MF         3
+#MT         16
+#PRODUCT    50-SN-117-M
+#C4BEGIN    [ 2003 48116   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 48116   3  16M   3.3500+7          0.012000                                                D.M.Montgomery+      (69)R0049  5 
+ 2003 48116   3  16M   3.0300+7          0.013000                                                D.M.Montgomery+      (69)R0049  5 
+ 2003 48116   3  16M   2.7200+7          0.014000                                                D.M.Montgomery+      (69)R0049  5 
+ 2003 48116   3  16M   2.4500+7          0.018000                                                D.M.Montgomery+      (69)R0049  5 
+ 2003 48116   3  16M   2.1400+7          0.021000                                                D.M.Montgomery+      (69)R0049  5 
+ 2003 48116   3  16M   1.9400+7          0.028000                                                D.M.Montgomery+      (69)R0049  5 
+ 2003 48116   3  16M   1.8000+7          0.020000                                                D.M.Montgomery+      (69)R0049  5 
+ 2003 48116   3  16M   1.5800+7          0.019000                                                D.M.Montgomery+      (69)R0049  5 
+ 2003 48116   3  16M   1.3200+7          3.4000-3                                                D.M.Montgomery+      (69)R0049  5 
+#/DATA      9
+#/DATASET

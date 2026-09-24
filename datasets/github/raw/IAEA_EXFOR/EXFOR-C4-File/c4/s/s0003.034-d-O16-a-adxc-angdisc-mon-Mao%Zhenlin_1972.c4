@@ -1,0 +1,42 @@
+#ENTRY      S0003
+#AUTHOR1    Mao Zhenlin+
+#YEAR       1972
+#INSTITUTE  (3CPRAEP)
+#TITLE      Nuclear reactions induced by 5.03 MeV deuteron beam
+#+          on Li-6,Li-7,C-12 and O-16 nuclei.
+#AUTHOR(S)  Mao Zhenlin, Zhuang Youxiang, Sun Zuxun, Zhang Peihua, Wang Zhifu, 
+#+          Yuan Jian, Yuan Rongfang, Wen Keling
+#REF-CODE   (C,72LANZH,,3,1972)
+#REFERENCE  Proceedings of Conf.on Low Energy Nucl.Phys.,Lanzhou,1972 page 3
+#DATASETS   0
+#
+#DATASET    S0003034 
+#DATE       20080311
+#REACTION   8-O-16(D,A)7-N-14,PAR,DA
+#PROJ       1002
+#TARG       8016
+#MF         4
+#MT         800
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1002  8016   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8016   4 800  C 5030000. 150000.0 1.1000-4          0.917755          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 2.2000-4          0.819152          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 2.7000-4          0.758134          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 2.5000-4          0.689620          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 3.2000-4          0.614285          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 2.7000-4          0.534352          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 3.0000-4          0.363251          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 2.1000-4          0.183951          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 1.9000-4          1.7453-3          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 1.3000-4         -0.173648          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 1.3000-4         -0.340380          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 1.6000-4         -0.490904          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 1.9000-4         -0.625243          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 2.1000-4         -0.739631          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 2.2000-4         -0.832921          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+ 1002  8016   4 800  C 5030000. 150000.0 2.6000-4         -0.906308          2311000.         LVLMao Zhenlin+         (72)S0003 34 
+#/DATA      16
+#/DATASET

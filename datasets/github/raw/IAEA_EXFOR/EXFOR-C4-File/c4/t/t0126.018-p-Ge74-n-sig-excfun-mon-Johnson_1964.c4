@@ -1,0 +1,43 @@
+#ENTRY      T0126
+#AUTHOR1    C.H.Johnson+
+#YEAR       1964
+#INSTITUTE  (1USAORL)
+#TITLE      Thresholds for (p,n) reactions on 26 intermediate-
+#+          weight nuclei
+#AUTHOR(S)  C.H.Johnson, C.C.Trail, A.Galonsky
+#REF-CODE   (J,PR,136,B1719,1964)
+#REFERENCE  Phys.Rev. 136 (1964) B1719 (doi:10.1103/PhysRev.136.B1719)
+#DATASETS   0
+#
+#DATASET    T0126018 
+#DATE       20150115
+#REACTION   32-GE-74(P,N)33-AS-74,,SIG
+#PROJ       1001
+#TARG       32074
+#MF         3
+#MT         4
+#PRODUCT    33-AS-74
+#C4BEGIN    [ 1001 32074   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32074   3   4 A  3425000.          3.0600-3                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  3545000.          9.1600-3                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  3665000.          0.018400                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  3800000.          0.029200                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  3935000.          0.029800                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  4070000.          0.041900                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  4200000.          0.047000                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  4335000.          0.056200                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  4470000.          0.078300                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  4615000.          0.067000                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  4755000.          0.078700                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  4885000.          0.089900                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  5035000.          0.109000                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  5200000.          0.105000                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  5355000.          0.129000                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  5510000.          0.135000                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  5670000.          0.164000                                                C.H.Johnson+         (64)T0126 18 
+ 1001 32074   3   4 A  5830000.          0.167000                                                C.H.Johnson+         (64)T0126 18 
+#/DATA      18
+#/DATASET

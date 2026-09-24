@@ -1,0 +1,28 @@
+#ENTRY      M0442
+#AUTHOR1    W.John+
+#YEAR       1962
+#INSTITUTE  (1USALRL)
+#TITLE      Photodisintegration cross section of beryllium
+#+          near threshold.
+#AUTHOR(S)  W.John, J.M.Prosser
+#REF-CODE   (J,PR,127,231,1962)
+#REFERENCE  Phys.Rev. 127 (1962) 231 (doi:10.1103/PhysRev.127.231)
+#DATASETS   0
+#
+#DATASET    M0442002 
+#DATE       20160121
+#REACTION   4-BE-9(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       4009
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0  4009   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  4009   3 201    1692000.          1.3100-3 8.0000-5                                       W.John+              (62)M0442  2 
+    0  4009   3 201    1720000.          1.2200-3 1.1000-4                                       W.John+              (62)M0442  2 
+    0  4009   3 201    1780000.          8.8000-4 6.0000-5                                       W.John+              (62)M0442  2 
+#/DATA      3
+#/DATASET

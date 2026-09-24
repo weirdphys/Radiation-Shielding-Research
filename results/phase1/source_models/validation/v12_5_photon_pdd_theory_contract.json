@@ -1,0 +1,18 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "source_plane": "water_surface_factorized",
+  "source_plane_offset_cm": 0.001,
+  "ssd_role": "virtual_source_distance_for_surface_direction_only",
+  "phase_space_model": "aggregate_energy_uniform_xy_virtual_source_divergence",
+  "phase_space_complete": false,
+  "missing_correlations": [
+    "x_energy",
+    "y_energy",
+    "position_direction",
+    "position_fluence_nonuniformity"
+  ],
+  "pdd_role": "quantitative_post_dmax_diagnostic_only",
+  "qualifies_for_direct_source_validation": false,
+  "uncertainty_method": "event_level_delta_method_with_covariance",
+  "reason": "A clinical PDD is not uniquely identifiable from a 1-D aggregate photon energy spectrum when lateral fluence and x/y/energy/angle correlations are unavailable."
+}

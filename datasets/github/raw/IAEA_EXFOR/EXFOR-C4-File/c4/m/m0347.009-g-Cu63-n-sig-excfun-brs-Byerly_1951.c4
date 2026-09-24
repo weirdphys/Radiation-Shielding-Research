@@ -1,0 +1,37 @@
+#ENTRY      M0347
+#AUTHOR1    P.R.Byerly Jr+
+#YEAR       1951
+#INSTITUTE  (1USAPEN)
+#TITLE      Photodisintegration of copper.
+#AUTHOR(S)  P.R.Byerly Jr, W.E.Stephens
+#REF-CODE   (J,PR,83,54,1951)
+#REFERENCE  Phys.Rev. 83 (1951) 54 (doi:10.1103/PhysRev.83.54)
+#DATASETS   0
+#
+#DATASET    M0347009 
+#DATE       20250117
+#REACTION   29-CU-63(G,N)29-CU-62,,SIG,,BRS
+#PROJ       0
+#TARG       29063
+#MF         3
+#MT         4
+#PRODUCT    29-CU-62
+#C4BEGIN    [    0 29063   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 29063   3   4    1.2000+7          8.0000-3                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    1.3000+7          0.017000                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    1.4000+7          0.032000                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    1.5000+7          0.046000                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    1.6000+7          0.069000                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    1.7000+7          0.095000                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    1.8000+7          0.091000                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    1.9000+7          0.087000                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    2.0000+7          0.065000                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    2.1000+7          0.021000                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    2.2000+7          0.037000                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    2.3000+7          8.0000-3                                                P.R.Byerly+          (51)M0347  9 
+    0 29063   3   4    2.4000+7          0.030000                                                P.R.Byerly+          (51)M0347  9 
+#/DATA      13
+#/DATASET

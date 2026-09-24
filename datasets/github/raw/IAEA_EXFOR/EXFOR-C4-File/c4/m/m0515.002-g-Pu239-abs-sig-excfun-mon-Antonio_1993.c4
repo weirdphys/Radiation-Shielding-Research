@@ -1,0 +1,33 @@
+#ENTRY      M0515
+#AUTHOR1    M.Antonio+
+#YEAR       1993
+#INSTITUTE  (3BZLIPE)
+#TITLE      Photonuclear cross sections of Pu-239 using neutron
+#+          capture gamma rays, near threshold.
+#AUTHOR(S)  M.Antonio, P.V.de Moraes, M.F.Cesar
+#REF-CODE   (J,PS,47,519,1993)
+#REFERENCE  Phys.Scr. 47 (1993) 519 (doi:10.1088/0031-8949/47/4/008)
+#DATASETS   0
+#
+#DATASET    M0515002 
+#DATE       20220817
+#REACTION   94-PU-239(G,ABS),,SIG
+#PROJ       0
+#TARG       94239
+#MF         3
+#MT         27
+#C4BEGIN    [    0 94239   3  27 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 94239   3  27 D  6730000.          0.033500 9.2000-3                                       M.Antonio+           (93)M0515  2 
+    0 94239   3  27 D  7230000.          0.041000 8.0000-3                                       M.Antonio+           (93)M0515  2 
+    0 94239   3  27 D  7380000.          0.045600 0.010700                                       M.Antonio+           (93)M0515  2 
+    0 94239   3  27 D  7640000.          0.057100 0.012200                                       M.Antonio+           (93)M0515  2 
+    0 94239   3  27 D  7720000.          0.058400 0.010300                                       M.Antonio+           (93)M0515  2 
+    0 94239   3  27 D  7880000.          0.058100 0.011900                                       M.Antonio+           (93)M0515  2 
+    0 94239   3  27 D  7910000.          0.047300 0.013800                                       M.Antonio+           (93)M0515  2 
+    0 94239   3  27 D  9000000.          0.124000 0.017700                                       M.Antonio+           (93)M0515  2 
+    0 94239   3  27 D  9720000.          0.211800 0.054800                                       M.Antonio+           (93)M0515  2 
+#/DATA      9
+#/DATASET

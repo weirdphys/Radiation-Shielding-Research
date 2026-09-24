@@ -1,0 +1,22 @@
+dataset_id,check,pass,detail
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,row_count>=50,True,70
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,PDD normalization contains ~100 at dmax,True,1.5
+PVAL_6MV_TRUEBEAM_40x40_LANDAUER,crossplane_rows>=400,True,445
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,row_count>=50,True,71
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,PDD normalization contains ~100 at dmax,True,2.4
+PVAL_10MV_TRUEBEAM_40x40_LANDAUER,crossplane_rows>=400,True,445
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,row_count>=50,True,70
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,PDD normalization contains ~100 at dmax,True,3.0
+PVAL_15MV_TRUEBEAM_40x40_LANDAUER,crossplane_rows>=400,True,445
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,31 integer-depth points 0..30,True,31
+PVAL_16MV_CLINAC21IX_40x40_PACYNIAK,peak near 100%,True,100.849206
+PVAL_18MV_ONCOR_40x40_SAWKEY,PDD10 reproduces reported 78.8% within 0.2 percentage point,True,78.79065846031904
+PVAL_18MV_ONCOR_40x40_SAWKEY,0..40 cm half-cm grid,True,81
+NVAL_15MV_TRUEBEAM_STX_MATHEW,digitized spectrum reconstructs Active NNS (He-3 current-mode) published total within 1%,True,0.9994282257631335
+NVAL_15MV_TRUEBEAM_STX_MATHEW,digitized spectrum reconstructs Passive NNS (gold-foil) published total within 1%,True,0.9943563470816374
+NVAL_15MV_TRUEBEAM_STX_MATHEW,8 moderator configurations captured,True,8
+NVAL_15MV_ZAMORANO_THERMAL,10 experimental thermal-fluence points,True,10
+NVAL_15MV_ZAMORANO_THERMAL,replication PDD includes measured and simulated series,True,381
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,200 spectrum points,True,200
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,raw probability sum close to 1,True,1.00001754538
+NVAL_15MV_ZAMORANO_PHITS_SOURCE,renormalized probability sums to 1,True,1.0

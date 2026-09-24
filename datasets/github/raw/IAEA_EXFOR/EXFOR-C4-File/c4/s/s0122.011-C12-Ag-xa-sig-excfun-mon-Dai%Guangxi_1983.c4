@@ -1,0 +1,27 @@
+#ENTRY      S0122
+#AUTHOR1    Dai Guangxi+
+#YEAR       1983
+#INSTITUTE  (3CPRIMP)
+#TITLE      The measurement of light particle emission from 12C +
+#+          159Tb, Ag and 89Y reactions
+#AUTHOR(S)  Dai Guangxi, Jin Genming, Yuan Shuangqui, Guo Zhongyan, 
+#+          Zeng Wenbing, Chen Jusheng, Li Zuyu, Wang Dayan, Xu Guojun
+#REF-CODE   (J,PHE,7,86,1983)
+#REFERENCE  High En.Nucl.Phy.Ch. 7 (1983) 86
+#DATASETS   0
+#
+#DATASET    S0122011 
+#DATE       20151009
+#REACTION   47-AG-0(6-C-12,X)2-HE-4,,SIG
+#PROJ       6012
+#TARG       47000
+#MF         3
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012 47000   3 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 47000   3 207    7.1500+7          0.232000 0.022000                                       Dai Guangxi+         (83)S0122 11 
+#/DATA      1
+#/DATASET

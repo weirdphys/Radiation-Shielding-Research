@@ -1,0 +1,64 @@
+#ENTRY      T0298
+#AUTHOR1    D.Ingham+
+#YEAR       1974
+#INSTITUTE  (1USAUSA)
+#TITLE      Small-angle inelastic scattering of 40 MeV protons by
+#+          12C, 40Ca, 56Fe and 58Ni.
+#AUTHOR(S)  D.Ingham, R.Eisberg, M.Makino, C.Waddell
+#REF-CODE   (J,NIM,114,5,1974)
+#REFERENCE  Nucl.Intrum.Meth. 114 (1974) 5 (doi:10.1016/0029-554X(74)90321-8)
+#DATASETS   0
+#
+#DATASET    T0298004 
+#DATE       20040802
+#REACTION   26-FE-56(P,INL)26-FE-56,PAR,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         601
+#PRODUCT    26-FE-56
+#C4BEGIN    [ 1001 26056   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4 601  C 4.0000+7          0.015800 3.8000-3 0.993961          850000.0         LVLD.Ingham+            (74)T0298  4 
+ 1001 26056   4 601  C 4.0000+7          0.013400 8.0000-4 0.983885          850000.0         LVLD.Ingham+            (74)T0298  4 
+ 1001 26056   4 601  C 4.0000+7          7.7600-3          0.936672          850000.0         LVLD.Ingham+            (74)T0298  4 
+#/DATA      3
+#/DATASET
+#
+#DATASET    T0298004 
+#DATE       20040802
+#REACTION   26-FE-56(P,INL)26-FE-56,PAR,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         601
+#PRODUCT    26-FE-56
+#C4BEGIN    [ 1001 26056   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4 601  C 4.0000+7          3.4800-3 8.4000-4 0.994338          2660000.         LVLD.Ingham+            (74)T0298  4 
+ 1001 26056   4 601  C 4.0000+7          2.1000-3 2.0000-4 0.983885          2660000.         LVLD.Ingham+            (74)T0298  4 
+ 1001 26056   4 601  C 4.0000+7          7.0800-4 1.1900-4 0.936672          2660000.         LVLD.Ingham+            (74)T0298  4 
+#/DATA      3
+#/DATASET
+#
+#DATASET    T0298004 
+#DATE       20040802
+#REACTION   26-FE-56(P,INL)26-FE-56,PAR,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         601
+#PRODUCT    26-FE-56
+#C4BEGIN    [ 1001 26056   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4 601  C 4.0000+7          2.9700-3 6.1000-4 0.994151          4500000.         LVLD.Ingham+            (74)T0298  4 
+ 1001 26056   4 601  C 4.0000+7          3.9300-3          0.984196          4500000.         LVLD.Ingham+            (74)T0298  4 
+ 1001 26056   4 601  C 4.0000+7          3.5200-3 2.5000-4 0.936672          4500000.         LVLD.Ingham+            (74)T0298  4 
+#/DATA      3
+#/DATASET

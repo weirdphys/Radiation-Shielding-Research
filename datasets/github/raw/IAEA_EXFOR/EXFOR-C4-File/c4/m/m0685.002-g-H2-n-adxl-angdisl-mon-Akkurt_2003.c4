@@ -1,0 +1,26 @@
+#ENTRY      M0685
+#AUTHOR1    I.Akkurt+
+#YEAR       2003
+#INSTITUTE  (2TUKTUK)
+#TITLE      The 2H(g,n) reaction at 10 - 70 MeV.
+#AUTHOR(S)  I.Akkurt
+#REF-CODE   (J,CHP,41,111,2003)
+#REFERENCE  Chin.J.Phys. 41 (2003) 111
+#DATASETS   0
+#
+#DATASET    M0685002 
+#DATE       20060320
+#REACTION   1-H-2(G,N)1-H-1,,DA
+#PROJ       0
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   4   4    6.0000+7 3000000. 7.3500-6 1.4900-6 0.707107                              I.Akkurt             (03)M0685  2 
+    0  1002   4   4    6.0000+7 3000000. 1.1530-5 2.3100-6-0.258819                              I.Akkurt             (03)M0685  2 
+#/DATA      2
+#/DATASET

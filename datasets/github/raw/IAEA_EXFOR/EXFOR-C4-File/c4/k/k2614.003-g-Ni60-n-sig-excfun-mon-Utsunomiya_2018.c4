@@ -1,0 +1,48 @@
+#ENTRY      K2614
+#AUTHOR1    H.Utsunomiya+
+#YEAR       2018
+#INSTITUTE  (2JPNKON)
+#TITLE      Photoneutron cross sections for Ni isotopes: Toward
+#+          understanding (n,g) cross sections relevant to weak
+#+          s-process nucleosynthesis
+#AUTHOR(S)  H.Utsunomiya, T.Renstrom, G.M.Tveten, S.Goriely, S.Katayama, 
+#+          T.Ari-izumi, D.Takenaka, D.Symochko, B.V.Kheswa, V.W.Ingeberg, 
+#+          T.Glodariu, Y.-W.Lui, S.Miyamoto, A.C.Larsen, J.E.Midtbo, 
+#+          A.Goergen, S.Siem, L.Crespo Campo, M.Guttormsen, S.Hilaire, 
+#+          S.Peru, A.J.Koning
+#REF-CODE   (J,PR/C,98,054619,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 054619 (doi:10.1103/PhysRevC.98.054619)
+#DATASETS   0
+#
+#DATASET    K2614003 
+#DATE       20190925
+#REACTION   28-NI-60(G,N)28-NI-59,,SIG
+#PROJ       0
+#TARG       28060
+#MF         3
+#MT         4
+#PRODUCT    28-NI-59
+#C4BEGIN    [    0 28060   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 28060   3   4    1.1510+7          4.4300-3 1.7000-4                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.2000+7          0.010970 3.9000-4                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.2490+7          0.012790 5.8000-4                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.3000+7          0.014380 6.5000-4                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.3510+7          0.015790 7.4000-4                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.4000+7          0.021480 9.7000-4                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.4490+7          0.027920 1.2700-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.5030+7          0.034820 1.5700-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.5500+7          0.047690 2.1800-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.6020+7          0.059950 2.6700-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.6500+7          0.074840 3.3200-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.6940+7          0.076870 3.4400-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.7500+7          0.069410 3.1400-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.8020+7          0.067270 3.0600-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.8510+7          0.070070 3.1600-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.9010+7          0.057650 2.6100-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    1.9480+7          0.052590 2.4000-3                                       H.Utsunomiya+        (18)K2614  3 
+    0 28060   3   4    2.0000+7          0.045940 2.0500-3                                       H.Utsunomiya+        (18)K2614  3 
+#/DATA      18
+#/DATASET

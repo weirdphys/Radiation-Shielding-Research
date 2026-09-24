@@ -1,0 +1,50 @@
+#ENTRY      G0102
+#AUTHOR1    Hao Liang+
+#YEAR       2026
+#INSTITUTE  (3CPRIMP)
+#TITLE      Direct measurement of the 103Rh(n,g) and 103Rh(g,n)
+#+          cross section up to stellar temperatures at the CSNS
+#+          Back-n and SSRF SLEGS
+#AUTHOR(S)  Hao Liang, Zhen-Dong An, Wei Jiang, Zi-Rui Hao, Chen-Chen Guo, 
+#+          Yu-Gang Ma, Jie Ren, Xi-Chao Ruan, Jing-Yu Tang, Rui-Rui Fan, 
+#+          Gong-Tao Fan, Hong-Wei Wang, Wen-Qing Shen, Yu-Bing Li, 
+#+          Jun-Heng Hu, Di Sun, Ting Liu, Zi-Jun Liu, Yi Sui
+#REF-CODE   (J,PL/B,872,140105,2026)
+#REFERENCE  Phys.Lett.B 872 (2026) 140105 (doi:10.1016/j.physletb.2025.140105)
+#DATASETS   0
+#
+#DATASET    G0102002 
+#DATE       20251215
+#REACTION   45-RH-103(G,N)45-RH-102,,SIG
+#PROJ       0
+#TARG       45103
+#MF         3
+#MT         4
+#PRODUCT    45-RH-102
+#C4BEGIN    [    0 45103   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 45103   3   4 A  9570000.          6.3500-3 8.7000-4                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  9950000.          0.014720 7.7000-4                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.0330+7          0.019130 8.8000-4                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.0710+7          0.022400 1.0000-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.1090+7          0.026520 1.2200-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.1470+7          0.032710 1.3600-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.1850+7          0.041560 1.6600-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.2220+7          0.053160 1.9100-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.2600+7          0.067190 2.3800-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.2970+7          0.083060 2.6800-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.3340+7          0.099980 3.2500-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.3710+7          0.117130 3.9400-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.4070+7          0.133630 4.7200-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.4430+7          0.148710 5.6700-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.4790+7          0.161680 6.6100-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.5140+7          0.172040 6.9000-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.5480+7          0.179410 7.3800-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.5820+7          0.183610 7.9600-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.6160+7          0.184630 8.2800-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.6490+7          0.182580 8.3500-3                                       Hao Liang+           (26)G0102  2 
+    0 45103   3   4 A  1.6810+7          0.177750 8.5500-3                                       Hao Liang+           (26)G0102  2 
+#/DATA      21
+#/DATASET

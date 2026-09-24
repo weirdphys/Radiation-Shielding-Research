@@ -1,0 +1,13 @@
+{
+  "notebook_revision": "v12_13_step2c_public_spectrum_evidence_integration",
+  "purpose": "Integrate direct-public Step 2C spectrum evidence without changing validated transport physics.",
+  "geant4_transport_change_relative_to_v12_12": "NONE",
+  "p001_change_relative_to_v12_12": "NONE",
+  "neutron_change_relative_to_v12_12": "NONE",
+  "photon_pdd_change_relative_to_v12_12": "NONE",
+  "agreement_threshold_changes": "NONE",
+  "history_floor_changes": "NONE",
+  "step2c_change": "Add public-evidence registry plus fail-closed hash-verified numerical-spectrum bridge.",
+  "bibliographic_evidence_can_pass_gate": false,
+  "figure_only_evidence_can_pass_gate": false
+}

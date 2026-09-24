@@ -1,0 +1,32 @@
+#ENTRY      P0058
+#AUTHOR1    F.S.Houck+
+#YEAR       1961
+#INSTITUTE  (1USACOL)
+#TITLE      Reactions of Alpha Particles with Iron-54 and Nickel-58
+#AUTHOR(S)  F.S.Houck, J.M.Miller
+#REF-CODE   (J,PR,123,231,196107)
+#REFERENCE  Phys.Rev. 123 (1961) 231 (doi:10.1103/PhysRev.123.231)
+#DATASETS   0
+#
+#DATASET    P0058012 
+#DATE       20000817
+#REACTION   26-FE-54(A,2N+P)27-CO-55,,SIG
+#PROJ       2004
+#TARG       26054
+#MF         3
+#MT         41
+#PRODUCT    27-CO-55
+#C4BEGIN    [ 2004 26054   3  41  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26054   3  41    2.1600+7          2.2400-4                                                F.S.Houck+           (61)P0058 12 
+ 2004 26054   3  41    2.3800+7          5.1300-4                                                F.S.Houck+           (61)P0058 12 
+ 2004 26054   3  41    2.7700+7          2.1900-3                                                F.S.Houck+           (61)P0058 12 
+ 2004 26054   3  41    2.9500+7          4.2500-3                                                F.S.Houck+           (61)P0058 12 
+ 2004 26054   3  41    3.2800+7          0.019400                                                F.S.Houck+           (61)P0058 12 
+ 2004 26054   3  41    3.6100+7          0.044500                                                F.S.Houck+           (61)P0058 12 
+ 2004 26054   3  41    3.9200+7          0.083900                                                F.S.Houck+           (61)P0058 12 
+ 2004 26054   3  41    4.0700+7          0.111000                                                F.S.Houck+           (61)P0058 12 
+#/DATA      8
+#/DATASET

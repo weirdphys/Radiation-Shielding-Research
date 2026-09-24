@@ -1,0 +1,36 @@
+#ENTRY      L0199
+#AUTHOR1    R.Massarczyk+
+#YEAR       2014
+#INSTITUTE  (2GERZFK)
+#TITLE      Magnetic dipole strength in 128Xe and 134Xe in the
+#+          spin-flip resonance region
+#AUTHOR(S)  R.Massarczyk, G.Rusev, R.Schwengner, F.Donau, C.Bhatia, 
+#+          M.E.Gooden, J.H.Kelley, A.P.Tonchev, W.Tornow
+#REF-CODE   (J,PR/C,90,054310,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 054310 (doi:10.1103/PhysRevC.90.054310)
+#DATASETS   0
+#
+#DATASET    L0199009 
+#DATE       20211102
+#REACTION   54-XE-134(G,EL)54-XE-134,,SIG,,AV
+#PROJ       0
+#TARG       54134
+#MF         3
+#MT         2
+#PRODUCT    54-XE-134
+#C4BEGIN    [    0 54134   3   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 54134   3   2 A  6000000. 150000.0 9.5000-4 3.2000-4                                       R.Massarczyk+        (14)L0199  9 
+    0 54134   3   2 A  6300000. 150000.0 3.1800-3 8.3000-4                                       R.Massarczyk+        (14)L0199  9 
+    0 54134   3   2 A  6600000. 150000.0 5.3400-3 1.3500-3                                       R.Massarczyk+        (14)L0199  9 
+    0 54134   3   2 A  6900000. 150000.0 7.9400-3 2.2700-3                                       R.Massarczyk+        (14)L0199  9 
+    0 54134   3   2 A  7200000. 150000.0 8.6300-3 2.2800-3                                       R.Massarczyk+        (14)L0199  9 
+    0 54134   3   2 A  7500000. 150000.0 7.3500-3 1.7100-3                                       R.Massarczyk+        (14)L0199  9 
+    0 54134   3   2 A  7800000. 150000.0 8.9400-3 3.1100-3                                       R.Massarczyk+        (14)L0199  9 
+    0 54134   3   2 A  8100000. 150000.0 6.5900-3 3.2400-3                                       R.Massarczyk+        (14)L0199  9 
+    0 54134   3   2 A  8400000. 150000.0 6.2700-3 2.8300-3                                       R.Massarczyk+        (14)L0199  9 
+    0 54134   3   2 A  8700000. 150000.0 5.4300-3 1.8500-3                                       R.Massarczyk+        (14)L0199  9 
+#/DATA      10
+#/DATASET

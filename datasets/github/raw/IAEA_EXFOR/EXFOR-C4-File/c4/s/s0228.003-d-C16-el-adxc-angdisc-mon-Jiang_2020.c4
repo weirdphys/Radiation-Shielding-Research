@@ -1,0 +1,40 @@
+#ENTRY      S0228
+#AUTHOR1    Y.Jiang+
+#YEAR       2020
+#INSTITUTE  (3CPRBJG)
+#TITLE      Quadrupole deformation of 16C studied by proton and
+#+          deuteron inelastic scattering
+#AUTHOR(S)  Y.Jiang, J.L.Lou, Y.L.Ye, Y.Liu, Z.W.Tan, W.Liu, B.Yang, 
+#+          L.C.Tao, K.Ma, Z.H.Li, Q.T.Li, X.F.Yang, J.Y.Xu, H.Z.Yu, 
+#+          J.X.Han, S.W.Bai, S.W.Huang, G.Li, H.Y.Wu, H.L.Zang, J.Feng, 
+#+          Z.Q.Chen, Y.D.Chen, Q.Yuan, J.G.Li, B.S.Hu, F.R.Xu, J.S.Wang, 
+#+          Y.Y.Yang, P.Ma, Q.Hu, Z.Bai, Z.H.Gao, F.F.Duan, L.Y.Hu, 
+#+          J.H.Tan, S.Q.Sun, Y.S.Song, H.J.Ong, D.T.Tran, D.Y.Pang, 
+#+          C.X.Yuan
+#REF-CODE   (J,PR/C,101,024601,2020)
+#REFERENCE  Phys.Rev.C 101 (2020) 024601 (doi:10.1103/PhysRevC.101.024601)
+#DATASETS   0
+#
+#DATASET    S0228003 
+#DATE       20201225
+#REACTION   (1-H-2(6-C-16,EL)1-H-2,,DA,,RTH)=(6-C-16(D,EL)6-C-16,,DA,,RTH)
+#PROJ       1002
+#TARG       6016
+#MF         4
+#MT         2
+#PRODUCT    6-C-16
+#C4BEGIN    [ 1002  6016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6016   4   2  C 4.8000+7          0.013012 1.3146-3 0.628235                              Y.Jiang+             (20)S0228  3 
+ 1002  6016   4   2  C 4.8000+7          0.020912 1.9705-3 0.680465                              Y.Jiang+             (20)S0228  3 
+ 1002  6016   4   2  C 4.8000+7          0.024860 2.3057-3 0.728969                              Y.Jiang+             (20)S0228  3 
+ 1002  6016   4   2  C 4.8000+7          0.029068 2.6919-3 0.773951                              Y.Jiang+             (20)S0228  3 
+ 1002  6016   4   2  C 4.8000+7          0.046578 4.0556-3 0.815835                              Y.Jiang+             (20)S0228  3 
+ 1002  6016   4   2  C 4.8000+7          0.091805 7.5423-3 0.853823                              Y.Jiang+             (20)S0228  3 
+ 1002  6016   4   2  C 4.8000+7          0.119448 9.7178-3 0.887413                              Y.Jiang+             (20)S0228  3 
+ 1002  6016   4   2  C 4.8000+7          0.093974 7.8559-3 0.916781                              Y.Jiang+             (20)S0228  3 
+ 1002  6016   4   2  C 4.8000+7          0.034106 3.6542-3 0.941940                              Y.Jiang+             (20)S0228  3 
+#/DATA      9
+#/DATASET

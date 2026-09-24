@@ -1,0 +1,39 @@
+#ENTRY      B0143
+#AUTHOR1    R.Weinreich+
+#YEAR       1974
+#INSTITUTE  (2GERJUL)
+#TITLE      Production of I-123 Via the I-127(D,6N)Xe-123(BETA+,EC)
+#+          I-123 Process.
+#AUTHOR(S)  R.Weinreich, O.Schult, G.Stoecklin
+#REF-CODE   (J,ARI,25,535,1974)
+#REFERENCE  Appl.Radiat.Isot. 25 (1974) 535 (doi:10.1016/0020-708X(74)90080-5)
+#DATASETS   0
+#
+#DATASET    B0143011 
+#DATE       20011220
+#REACTION   53-I-127(D,X)53-I-123,,SIG,,,EXP
+#PROJ       1002
+#TARG       53127
+#MF         3
+#MT         454
+#PRODUCT    53-I-123
+#C4BEGIN    [ 1002 53127   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 53127   3 454    5.4800+7          4.2000-3                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    5.6400+7          8.1000-3                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    5.8400+7          9.6000-3                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    6.0400+7          0.018000                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    6.2500+7          0.026000                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    6.4400+7          0.044000                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    6.6600+7          0.065000                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    6.8400+7          0.077000                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    7.1900+7          0.120000                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    7.7200+7          0.120000                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    7.8600+7          0.120000                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    7.9900+7          0.120000                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    8.1900+7          0.120000                    53123.9                     R.Weinreich+         (74)B0143 11 
+ 1002 53127   3 454    8.7000+7          0.120000                    53123.9                     R.Weinreich+         (74)B0143 11 
+#/DATA      14
+#/DATASET

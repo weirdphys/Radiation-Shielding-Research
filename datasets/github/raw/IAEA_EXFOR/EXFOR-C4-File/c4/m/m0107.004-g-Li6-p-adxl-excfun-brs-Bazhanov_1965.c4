@@ -1,0 +1,31 @@
+#ENTRY      M0107
+#AUTHOR1    E.B.Bazhanov+
+#YEAR       1965
+#INSTITUTE  (4RUSFTI)
+#TITLE      LI-6 Photodisintegration.
+#AUTHOR(S)  E.B.Bazhanov, A.P.Komar, A.V.Kulikov, E.D.Makhnovskiy
+#REF-CODE   (J,NP,68,191,1965)
+#REFERENCE  Nucl.Phys. 68 (1965) 191 (doi:10.1016/0029-5582(65)90379-2)
+#DATASETS   0
+#
+#DATASET    M0107004 
+#DATE       20130531
+#REACTION   3-LI-6(G,P)2-HE-5,PAR,DA,,4PI/BRS
+#PROJ       0
+#TARG       3006
+#MF         4
+#MT         600
+#PRODUCT    2-HE-5
+#C4BEGIN    [    0  3006   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   4 600    1.2200+7          4.5359-5 3.9789-6 6.123-17 0.698132 0.000000         LVLE.B.Bazhanov+        (65)M0107  4 
+    0  3006   4 600    1.3380+7          4.3768-5 3.9789-6 6.123-17 0.698132 0.000000         LVLE.B.Bazhanov+        (65)M0107  4 
+    0  3006   4 600    1.4600+7          3.6606-5 3.9789-6 6.123-17 0.698132 0.000000         LVLE.B.Bazhanov+        (65)M0107  4 
+    0  3006   4 600    1.5800+7          3.1831-5 3.9789-6 6.123-17 0.698132 0.000000         LVLE.B.Bazhanov+        (65)M0107  4 
+    0  3006   4 600    1.7000+7          3.0239-5 3.9789-6 6.123-17 0.698132 0.000000         LVLE.B.Bazhanov+        (65)M0107  4 
+    0  3006   4 600    1.8200+7          1.9894-5 3.9789-6 6.123-17 0.698132 0.000000         LVLE.B.Bazhanov+        (65)M0107  4 
+    0  3006   4 600    1.9400+7          4.7746-6 2.3873-6 6.123-17 0.698132 0.000000         LVLE.B.Bazhanov+        (65)M0107  4 
+#/DATA      7
+#/DATASET

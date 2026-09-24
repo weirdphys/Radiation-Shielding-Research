@@ -1,0 +1,81 @@
+{
+  "benchmark_id": "N002_JAERI_TIARA_68MEV",
+  "phase": 1,
+  "particle": "neutron",
+  "source": {
+    "organization": "Japan Atomic Energy Research Institute",
+    "report": "JAERI-Data/Code 97-020",
+    "proton_energy_MeV": 68,
+    "production_reaction": "7Li(p,n)",
+    "source_spectrum": "measured"
+  },
+  "material": {
+    "density_g_cm3": 2.31,
+    "composition_basis": "atomic_density_1e22_cm3",
+    "composition": [
+      {
+        "atomic_number": 1,
+        "element": "Hydrogen",
+        "atomic_density_1e22_cm3": 1.498
+      },
+      {
+        "atomic_number": 8,
+        "element": "Oxygen",
+        "atomic_density_1e22_cm3": 4.188
+      },
+      {
+        "atomic_number": 11,
+        "element": "Sodium",
+        "atomic_density_1e22_cm3": 0.123
+      },
+      {
+        "atomic_number": 12,
+        "element": "Magnesium",
+        "atomic_density_1e22_cm3": 0.062
+      },
+      {
+        "atomic_number": 13,
+        "element": "Aluminum",
+        "atomic_density_1e22_cm3": 0.312
+      },
+      {
+        "atomic_number": 14,
+        "element": "Silicon",
+        "atomic_density_1e22_cm3": 1.11
+      },
+      {
+        "atomic_number": 19,
+        "element": "Potassium",
+        "atomic_density_1e22_cm3": 0.038
+      },
+      {
+        "atomic_number": 20,
+        "element": "Calcium",
+        "atomic_density_1e22_cm3": 0.43
+      },
+      {
+        "atomic_number": 26,
+        "element": "Iron",
+        "atomic_density_1e22_cm3": 0.141
+      }
+    ]
+  },
+  "shield_thicknesses_cm": [
+    25,
+    50,
+    100,
+    150,
+    200
+  ],
+  "primary_detector": "BC501A",
+  "primary_observable": "lethargy_flux_n_cm2_per_uC",
+  "secondary_observable": "measured_rem_counter_dose_equivalent_uSv_per_uC",
+  "working_files": [
+    "jaeri_tiara_source_spectra.csv",
+    "jaeri_tiara_bc501a_transmission_spectra.csv",
+    "jaeri_tiara_concrete_composition.csv",
+    "jaeri_tiara_experiment_setup.csv",
+    "jaeri_tiara_dose_equivalent.csv"
+  ],
+  "audit_passed": true
+}

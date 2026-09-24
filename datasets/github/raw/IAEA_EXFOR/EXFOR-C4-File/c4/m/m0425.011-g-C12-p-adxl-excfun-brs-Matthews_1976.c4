@@ -1,0 +1,26 @@
+#ENTRY      M0425
+#AUTHOR1    J.L.Matthews+
+#YEAR       1976
+#INSTITUTE  (2UK GLS)
+#TITLE      High energy photoprotons from light nuclei.
+#AUTHOR(S)  J.L.Matthews, D.J.S.Findlay, S.N.Gardiner, R.O.Owens
+#REF-CODE   (J,NP/A,267,51,1976)
+#REFERENCE  Nucl.Phys.A 267 (1976) 51 (doi:10.1016/0375-9474(76)90643-6)
+#DATASETS   0
+#
+#DATASET    M0425011 
+#DATE       20130621
+#REACTION   6-C-12(G,P)5-B-11,PAR,DA,,4PI/BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 600    6.0000+7 1000000. 0.018947 9.3106-4-0.011344 1.044512 4400000. 2300000.LVLJ.L.Matthews+        (76)M0425 11 
+    0  6012   4 600    8.0000+7 1000000. 5.2044-3 3.1035-4-0.011344 1.044512 4400000. 2300000.LVLJ.L.Matthews+        (76)M0425 11 
+#/DATA      2
+#/DATASET

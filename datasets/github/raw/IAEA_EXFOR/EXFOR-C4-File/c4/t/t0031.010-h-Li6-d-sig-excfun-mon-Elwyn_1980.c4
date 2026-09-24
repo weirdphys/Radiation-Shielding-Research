@@ -1,0 +1,30 @@
+#ENTRY      T0031
+#AUTHOR1    A.J.Elwyn+
+#YEAR       1980
+#INSTITUTE  (1USAANL)
+#TITLE      Cross sections for the 6Li(3He,p) reaction at energies
+#+          below 2 MeV
+#AUTHOR(S)  A.J.Elwyn, R.E.Holland, C.N.Davids, J.E.Monahan, F.P.Mooring, 
+#+          W.Ray Jr
+#REF-CODE   (J,PR/C,22,1406,198010)
+#REFERENCE  Phys.Rev.C 22 (1980) 1406 (doi:10.1103/PhysRevC.22.1406)
+#DATASETS   0
+#
+#DATASET    T0031010 
+#DATE       19990729
+#REACTION   3-LI-6(HE3,D)4-BE-7,,SIG
+#PROJ       2003
+#TARG       3006
+#MF         3
+#MT         104
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2003  3006   3 104 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3006   3 104 A  1291000. 10000.00 0.209500                                                A.J.Elwyn+           (80)T0031 10 
+ 2003  3006   3 104 A  1384000. 10000.00 0.241400                                                A.J.Elwyn+           (80)T0031 10 
+ 2003  3006   3 104 A  1494000. 10000.00 0.244900                                                A.J.Elwyn+           (80)T0031 10 
+ 2003  3006   3 104 A  1602000. 10000.00 0.219000                                                A.J.Elwyn+           (80)T0031 10 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,19 @@
+curve,observable,group,delay,method,relative_feedback_rms,roughness_ratio
+A__Sigma_R_cm_inv,Sigma_R_cm_inv,removal_samples,0.07892418122067646,first local minimum,0.01229184737845618,0.8995221016416659
+B__Sigma_R_cm_inv,Sigma_R_cm_inv,removal_samples,0.1026014355868794,first local minimum,0.020783157237260097,0.8991375952462397
+C__Sigma_R_cm_inv,Sigma_R_cm_inv,removal_samples,0.1026014355868794,first local minimum,0.015563920389484379,0.9079811016417964
+D__Sigma_R_cm_inv,Sigma_R_cm_inv,removal_samples,0.11049385370894704,first local minimum,0.02160169779598556,0.8998229703140272
+R__Sigma_R_cm_inv,Sigma_R_cm_inv,removal_samples,0.13417110807514998,first local minimum,0.024092794364047737,0.9038459177264806
+S__Sigma_R_cm_inv,Sigma_R_cm_inv,removal_samples,0.1026014355868794,first local minimum,0.027056931746966724,0.9044838231909791
+T__Sigma_R_cm_inv,Sigma_R_cm_inv,removal_samples,0.0868165993427441,first local minimum,0.025832888740129824,0.9140336837540082
+U__Sigma_R_cm_inv,Sigma_R_cm_inv,removal_samples,0.16574078056342056,first local minimum,0.025824106983279003,0.9066158284500316
+V__Sigma_R_cm_inv,Sigma_R_cm_inv,removal_samples,0.11049385370894704,first local minimum,0.01652495297406959,0.9053422189238404
+A__transmission,transmission,transmission_samples,0.07892418122067646,first local minimum,0.006053033279730161,0.9055616072008046
+B__transmission,transmission,transmission_samples,0.1026014355868794,first local minimum,0.007557149959615951,0.9026262224933116
+C__transmission,transmission,transmission_samples,0.14206352619721763,first local minimum,0.00710988820870861,0.9025236810845845
+D__transmission,transmission,transmission_samples,0.11049385370894704,first local minimum,0.007448801667288709,0.9021810647166276
+R__transmission,transmission,transmission_samples,0.13417110807514998,first local minimum,0.008170805631114346,0.9072427765181063
+S__transmission,transmission,transmission_samples,0.1026014355868794,first local minimum,0.009523409965572677,0.9036589765908373
+T__transmission,transmission,transmission_samples,0.0868165993427441,first local minimum,0.009124356867786043,0.9091721710635671
+U__transmission,transmission,transmission_samples,0.07892418122067646,first local minimum,0.008248468692210015,0.9007447393122788
+V__transmission,transmission,transmission_samples,0.11049385370894704,first local minimum,0.005570960756388335,0.9050358272009306

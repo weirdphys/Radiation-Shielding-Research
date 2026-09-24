@@ -1,0 +1,35 @@
+#ENTRY      M0954
+#AUTHOR1    E.Van Camp+
+#YEAR       1984
+#INSTITUTE  (2BLGGHT)
+#TITLE      Isospin splitting of the giant  dipole  resonance  in
+#+          89Y.
+#AUTHOR(S)  E.Van Camp, D.Ryckbosch, R.Van De Vyver, E.Kerkhove, P.Van Otten, 
+#+          P.Berkvens
+#REF-CODE   (J,PR/C,30,1182,1984)
+#REFERENCE  Phys.Rev.C 30 (1984) 1182 (doi:10.1103/PhysRevC.30.1182)
+#DATASETS   0
+#
+#DATASET    M0954005 
+#DATE       20171124
+#REACTION   39-Y-89(G,P)38-SR-88,PAR,SIG
+#PROJ       0
+#TARG       39089
+#MF         3
+#MT         600
+#PRODUCT    38-SR-88
+#C4BEGIN    [    0 39089   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 39089   3 600    1.5800+7          7.4770-3 1.0530-3                   3425000. 205000.0LVLE.Van Camp+          (84)M0954  5 
+    0 39089   3 600    1.6800+7          0.013570 1.2370-3                   3425000. 205000.0LVLE.Van Camp+          (84)M0954  5 
+    0 39089   3 600    1.7800+7          9.9560-3 8.8700-4                   3425000. 205000.0LVLE.Van Camp+          (84)M0954  5 
+    0 39089   3 600    1.8800+7          7.2810-3 7.0500-4                   3425000. 205000.0LVLE.Van Camp+          (84)M0954  5 
+    0 39089   3 600    1.9800+7          6.3480-3 7.5200-4                   3425000. 205000.0LVLE.Van Camp+          (84)M0954  5 
+    0 39089   3 600    2.0800+7          6.5460-3 4.4200-4                   3425000. 205000.0LVLE.Van Camp+          (84)M0954  5 
+    0 39089   3 600    2.1800+7          5.8190-3 3.9200-4                   3425000. 205000.0LVLE.Van Camp+          (84)M0954  5 
+    0 39089   3 600    2.2800+7          4.7920-3 4.4700-4                   3425000. 205000.0LVLE.Van Camp+          (84)M0954  5 
+    0 39089   3 600    2.3800+7          4.0240-3 3.3000-4                   3425000. 205000.0LVLE.Van Camp+          (84)M0954  5 
+#/DATA      9
+#/DATASET

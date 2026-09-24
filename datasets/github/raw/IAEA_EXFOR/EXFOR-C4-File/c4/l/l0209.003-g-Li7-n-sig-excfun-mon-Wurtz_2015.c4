@@ -1,0 +1,27 @@
+#ENTRY      L0209
+#AUTHOR1    W.A.Wurtz+
+#YEAR       2015
+#INSTITUTE  (1CANSAS)
+#TITLE      Photodisintegration of 7Li with progeny nuclei in
+#+          excited states
+#AUTHOR(S)  W.A.Wurtz, R.E.Pywell, B.E.Norum, S.Kucuker, B.D.Sawatzky, 
+#+          H.R.Weller, S.Stave, M.W.Ahmed
+#REF-CODE   (J,PR/C,92,044603,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 044603 (doi:10.1103/PhysRevC.92.044603)
+#DATASETS   0
+#
+#DATASET    L0209003 
+#DATE       20151106
+#REACTION   3-LI-7(G,N)3-LI-6,PAR,SIG
+#PROJ       0
+#TARG       3007
+#MF         3
+#MT         50
+#PRODUCT    3-LI-6
+#C4BEGIN    [    0  3007   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3007   3  50    1.5000+7          1.2400-4 4.0000-6                   3560000.         LVLW.A.Wurtz+           (15)L0209  3 
+#/DATA      1
+#/DATASET

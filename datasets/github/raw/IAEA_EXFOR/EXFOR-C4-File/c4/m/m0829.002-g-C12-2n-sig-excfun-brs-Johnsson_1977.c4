@@ -1,0 +1,37 @@
+#ENTRY      M0829
+#AUTHOR1    B.Johnsson+
+#YEAR       1977
+#INSTITUTE  (2SWDLND)
+#TITLE      The (gamma,2n)   reaction   in   12C   and   16O   at
+#+          intermediate energies.
+#AUTHOR(S)  B.Johnsson, M.Nilsson, K.Lindgren
+#REF-CODE   (J,NP/A,278,365,1977)
+#REFERENCE  Nucl.Phys.A 278 (1977) 365 (doi:10.1016/0375-9474(77)90087-2)
+#DATASETS   0
+#
+#DATASET    M0829002 
+#DATE       20111005
+#REACTION   6-C-12(G,2N)6-C-10,,SIG,,BRS
+#PROJ       0
+#TARG       6012
+#MF         3
+#MT         16
+#PRODUCT    6-C-10
+#C4BEGIN    [    0  6012   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   3  16    1.5000+8          2.6300-6 5.0000-7                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    2.0000+8          8.8600-6 2.0000-6                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    2.5000+8          2.2000-5 8.0000-6                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    3.0000+8          3.2320-5 7.5000-6                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    3.5000+8          3.6970-5 8.9000-6                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    4.0000+8          3.5350-5 9.0900-6                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    4.5000+8          3.1820-5 7.7800-6                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    5.0000+8          3.7330-5 6.7500-6                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    5.5000+8          2.3870-5 5.8500-6                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    6.0000+8          2.2500-5 4.1100-6                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    6.5000+8          2.5500-5 6.0000-6                                       B.Johnsson+          (77)M0829  2 
+    0  6012   3  16    6.9000+8          3.0300-5 6.9200-6                                       B.Johnsson+          (77)M0829  2 
+#/DATA      12
+#/DATASET

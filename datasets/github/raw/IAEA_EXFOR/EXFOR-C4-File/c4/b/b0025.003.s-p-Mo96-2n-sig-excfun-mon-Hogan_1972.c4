@@ -1,0 +1,34 @@
+#ENTRY      B0025
+#AUTHOR1    J.J.Hogan+
+#YEAR       1972
+#INSTITUTE  (1CANMCG)
+#TITLE      Mo-96(P,XN)Reaction from 10 to 80 MeV.
+#AUTHOR(S)  J.J.Hogan
+#REF-CODE   (J,PR/C,6,810,1972)
+#REFERENCE  Phys.Rev.C 6 (1972) 810 (doi:10.1103/PhysRevC.6.810)
+#DATASETS   0
+#
+#DATASET    B0025003S
+#DATE       20011220
+#REACTION   42-MO-96(P,2N)43-TC-95,,SIG,,,EXP
+#PROJ       1001
+#TARG       42096
+#MF         3
+#MT         16
+#PRODUCT    43-TC-95
+#C4BEGIN    [ 1001 42096   3  16 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42096   3  16 D  1.5000+7          0.341000 6.0000-3                                       J.J.Hogan            (72)B0025  3S
+ 1001 42096   3  16 D  2.0000+7          1.507000 0.048000                                       J.J.Hogan            (72)B0025  3S
+ 1001 42096   3  16 D  2.5000+7          1.205000 0.017000                                       J.J.Hogan            (72)B0025  3S
+ 1001 42096   3  16 D  3.0000+7          0.568000 7.0000-3                                       J.J.Hogan            (72)B0025  3S
+ 1001 42096   3  16 D  3.5000+7          0.144000 2.0000-3                                       J.J.Hogan            (72)B0025  3S
+ 1001 42096   3  16 D  4.0000+7          0.103000 6.0000-3                                       J.J.Hogan            (72)B0025  3S
+ 1001 42096   3  16 D  4.5000+7          0.084000 2.0000-3                                       J.J.Hogan            (72)B0025  3S
+ 1001 42096   3  16 D  5.0000+7          0.078000 2.0000-3                                       J.J.Hogan            (72)B0025  3S
+ 1001 42096   3  16 D  6.5000+7          0.057000 2.0000-3                                       J.J.Hogan            (72)B0025  3S
+ 1001 42096   3  16 D  8.0000+7          0.051000 2.0000-3                                       J.J.Hogan            (72)B0025  3S
+#/DATA      10
+#/DATASET

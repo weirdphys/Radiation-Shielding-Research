@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "PN003_IAEA_EXFOR_EXPERIMENTAL",
+  "expected_result_file": "PN003_exfor_photonuclear_geant4.csv",
+  "observable": "experimental_photonuclear_cross_section",
+  "join_keys": "target_Z,target_A,MT,incident_energy_MeV",
+  "reference_column": "data_value",
+  "reference_uncertainty_column": "data_uncertainty",
+  "mc_column": "mc_cross_section_barn",
+  "mc_uncertainty_column": "",
+  "comparison_ready": false,
+  "required_for_phase1_exit_when_ready": true,
+  "blocker": "Exact EXFOR/PD-2019/Geant4 reaction quantity mapping and ENDF interpolation semantics must be implemented before direct acceptance residuals. Correlated/dependent EXFOR rows require group-aware statistics."
+}

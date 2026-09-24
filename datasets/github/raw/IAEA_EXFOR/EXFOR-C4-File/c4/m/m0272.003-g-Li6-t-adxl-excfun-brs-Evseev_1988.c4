@@ -1,0 +1,38 @@
+#ENTRY      M0272
+#AUTHOR1    I.G.Evseev+
+#YEAR       1988
+#INSTITUTE  (4UKRKFT)
+#TITLE      The cross section measurement of the 6Li(gamma,t)3He
+#+          reaction.
+#AUTHOR(S)  I.G.Evseev, V.P.Likhachev, S.A.Pashchuk, V.M.Khvastunov, 
+#+          Yu.V.Vladimirov, S.N.Dyukov, G.A.Savitskiy, V.A.Fartushnyy
+#REF-CODE   (J,VAT/O,,(1/41),22,1988)
+#REFERENCE  Vopr.At.Nauk.Ob.  No.1/41 (1988) 22
+#DATASETS   0
+#
+#DATASET    M0272003 
+#DATE       20190527
+#REACTION   3-LI-6(G,T)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       3006
+#MF         4
+#MT         105
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  3006   4 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   4 105    4.6000+7          1.4500-5          6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    4.9000+7          9.3000-6          6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    5.2000+7          7.0000-6          6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    5.6000+7          4.6000-6          6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    5.9000+7          3.5000-6          6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    6.2000+7          3.0000-6 2.2000-7 6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    6.6000+7          2.4000-6 2.5000-7 6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    6.9000+7          2.2000-6 2.5000-7 6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    7.4000+7          2.2000-6 2.3000-7 6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    7.8000+7          2.0000-6 2.1000-7 6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    8.1000+7          2.1000-6 2.3000-7 6.123-17                              I.G.Evseev+          (88)M0272  3 
+    0  3006   4 105    8.8000+7          1.9000-6 1.8000-7 6.123-17                              I.G.Evseev+          (88)M0272  3 
+#/DATA      12
+#/DATASET

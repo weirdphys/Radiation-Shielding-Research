@@ -1,0 +1,39 @@
+#ENTRY      P0134
+#AUTHOR1    J.B.J.Read+
+#YEAR       1962
+#INSTITUTE  (1USAYAL)
+#TITLE      Compound Nucleus Formation Mechanisms in Reaction of
+#+          Heavy Ions with Medium-Mass Elements
+#AUTHOR(S)  J.B.J.Read, I.M.Ladenbauer-Bellis, R.Wolfgang
+#REF-CODE   (J,PR,127,1722,1962)
+#REFERENCE  Phys.Rev. 127 (1962) 1722 (doi:10.1103/PhysRev.127.1722)
+#DATASETS   0
+#
+#DATASET    P0134003 
+#DATE       20000815
+#REACTION   27-CO-59(6-C-12,X)31-GA-67,CUM,SIG
+#PROJ       6012
+#TARG       27059
+#MF         3
+#MT         459
+#PRODUCT    31-GA-67
+#C4BEGIN    [ 6012 27059   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 27059   3 459    2.0400+7          8.0000-5                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    2.1900+7          2.9000-4                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    3.9600+7          1.1200-3                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    4.0200+7          2.3200-3                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    6.3500+7          0.089500                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    6.4100+7          0.112000                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    8.2600+7          0.042000                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    8.2600+7          0.054500                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    9.9000+7          9.2500-3                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    9.9000+7          0.012600                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    1.1300+8          3.7300-3                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    1.1300+8          3.6000-3                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    1.2600+8          6.5000-4                    31067.9                     J.B.J.Read+          (62)P0134  3 
+ 6012 27059   3 459    1.2600+8          1.2500-3                    31067.9                     J.B.J.Read+          (62)P0134  3 
+#/DATA      14
+#/DATASET

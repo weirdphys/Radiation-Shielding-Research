@@ -1,0 +1,43 @@
+#ENTRY      S0256
+#AUTHOR1    Su Yi+
+#YEAR       2018
+#INSTITUTE  (3CPRAEP)
+#TITLE      Study of the Ea = 470 keV Resonance in 22Ne via
+#+          18O(6Li,d)22Ne Reaction
+#AUTHOR(S)  Su Yi, Zeng Sheng, Li Yunju, Wang Youbao, Li Zhihong, Guo Bing, 
+#+          Su Jun, Yan Shengquan, Fan Qiwen, Gan Lin, Han Zhiyu, Li Xinyue, 
+#+          Lian Gang, Liu Jiancheng, Ma Tianli, Shen Yangping, Zhou Yong, 
+#+          Liu Weiping
+#REF-CODE   (J,CNPR,35,450,2018)
+#REFERENCE  Nucl.Phys.Rev. 35 (2018) 450
+#DATASETS   0
+#
+#DATASET    S0256002 
+#DATE       20251021
+#REACTION   8-O-18(3-LI-6,EL)8-O-18,,DA
+#PROJ       3006
+#TARG       8018
+#MF         4
+#MT         2
+#PRODUCT    8-O-18
+#C4BEGIN    [ 3006  8018   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  8018   4   2  C 2.4000+7          0.081839          0.894154                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          0.062648          0.883602                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          0.040852          0.872922                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          0.022392          0.861806                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          0.016249          0.849525                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          0.013122          0.837528                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          0.010455          0.824324                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          0.010317          0.811472                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          0.010180          0.798636                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          0.010045          0.784560                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          8.5570-3          0.770068                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          6.5500-3          0.755625                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          5.9650-3          0.740922                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          4.2710-3          0.725254                              Su Yi+               (18)S0256  2 
+ 3006  8018   4   2  C 2.4000+7          3.0180-3          0.709694                              Su Yi+               (18)S0256  2 
+#/DATA      15
+#/DATASET

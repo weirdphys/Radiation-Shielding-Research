@@ -1,0 +1,23 @@
+{
+  "registry_gate": true,
+  "semantic_gate": true,
+  "sha256": "92c06368ac283043775548fb958c23965486245adbb9b19b28f489104d09e551",
+  "semantic_checks": {
+    "rows": 66683,
+    "MF3_only": true,
+    "photon_only": true,
+    "strict_only": true,
+    "positive_energy": true,
+    "nonnegative_cross_section": true,
+    "forbidden_status_rows": 0,
+    "energy_min_MeV": 0.262,
+    "energy_max_MeV": 3779.0,
+    "unique_entries": 578,
+    "unique_subentries": 1498,
+    "unique_reaction_strings": 896,
+    "correlated_rows": 507,
+    "dependent_rows": 4771,
+    "preliminary_rows": 37
+  },
+  "important_statistical_rule": "C=correlated and D=dependent EXFOR rows are not independent replicates by default."
+}

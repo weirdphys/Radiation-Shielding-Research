@@ -1,0 +1,33 @@
+#ENTRY      T0223
+#AUTHOR1    B.Fernandez+
+#YEAR       1970
+#INSTITUTE  (1USAWAU)
+#TITLE      Elastic scattering of alpha particles by intermediate-
+#+          mass nuclei
+#AUTHOR(S)  B.Fernandez, J.S.Blair
+#REF-CODE   (J,PR/C,1,523,197004)
+#REFERENCE  Phys.Rev.C 1 (1970) 523 (doi:10.1103/PhysRevC.1.523)
+#DATASETS   0
+#
+#DATASET    T0223014 
+#DATE       20030424
+#REACTION   28-NI-62(A,EL)28-NI-62,,DA
+#PROJ       2004
+#TARG       28062
+#MF         4
+#MT         2
+#PRODUCT    28-NI-62
+#C4BEGIN    [ 2004 28062   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28062   4   2  C 4.2000+7 40000.00 0.014760 9.7170-4 0.854640                              B.Fernandez+         (70)T0223 14 
+ 2004 28062   4   2  C 4.2000+7 40000.00 0.013190 1.0250-3 0.850352                              B.Fernandez+         (70)T0223 14 
+ 2004 28062   4   2  C 4.2000+7 40000.00 0.012000 8.1270-4 0.846472                              B.Fernandez+         (70)T0223 14 
+ 2004 28062   4   2  C 4.2000+7 40000.00 0.011390 5.3890-4 0.844515                              B.Fernandez+         (70)T0223 14 
+ 2004 28062   4   2  C 4.2000+7 40000.00 0.014150 7.1560-4 0.842546                              B.Fernandez+         (70)T0223 14 
+ 2004 28062   4   2  C 4.2000+7 40000.00 0.013820 7.7740-4 0.840472                              B.Fernandez+         (70)T0223 14 
+ 2004 28062   4   2  C 4.2000+7 40000.00 0.017070 6.1840-4 0.837623                              B.Fernandez+         (70)T0223 14 
+ 2004 28062   4   2  C 4.2000+7 40000.00 0.019100 7.4200-4 0.836669                              B.Fernandez+         (70)T0223 14 
+#/DATA      8
+#/DATASET

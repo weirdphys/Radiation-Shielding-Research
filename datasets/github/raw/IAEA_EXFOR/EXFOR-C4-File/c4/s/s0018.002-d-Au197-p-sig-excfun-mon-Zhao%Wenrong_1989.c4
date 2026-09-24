@@ -1,0 +1,32 @@
+#ENTRY      S0018
+#AUTHOR1    Zhao Wenrong+
+#YEAR       1989
+#INSTITUTE  (3CPRAEP)
+#TITLE      Measurements of cross sections for 197Au(d,x) reaction
+#AUTHOR(S)  Zhao Wenrong, Lu Hanlin
+#REF-CODE   (J,CNP,11,(2),83,1989)
+#REFERENCE  Chin.J.Nucl.Phys. 11 No.2 (1989) 83
+#DATASETS   0
+#
+#DATASET    S0018002 
+#DATE       20211102
+#REACTION   79-AU-197(D,P)79-AU-198-G,,SIG
+#PROJ       1002
+#TARG       79197
+#MF         3
+#MT         103
+#PRODUCT    79-AU-198-G
+#C4BEGIN    [ 1002 79197   3 103G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 79197   3 103G   1.2800+7 200000.0 0.253400 0.014200                                       Zhao Wenrong+        (89)S0018  2 
+ 1002 79197   3 103G   1.1700+7 200000.0 0.242300 0.014500                                       Zhao Wenrong+        (89)S0018  2 
+ 1002 79197   3 103G   1.0800+7 200000.0 0.195400 0.011700                                       Zhao Wenrong+        (89)S0018  2 
+ 1002 79197   3 103G   9700000. 200000.0 0.112500 6.8000-3                                       Zhao Wenrong+        (89)S0018  2 
+ 1002 79197   3 103G   8400000. 200000.0 0.048100 2.9000-3                                       Zhao Wenrong+        (89)S0018  2 
+ 1002 79197   3 103G   7900000. 200000.0 0.022000 1.2000-3                                       Zhao Wenrong+        (89)S0018  2 
+ 1002 79197   3 103G   7700000. 200000.0 0.011400 7.0000-4                                       Zhao Wenrong+        (89)S0018  2 
+ 1002 79197   3 103G   6400000. 100000.0 1.4000-3 1.0000-4                                       Zhao Wenrong+        (89)S0018  2 
+#/DATA      8
+#/DATASET

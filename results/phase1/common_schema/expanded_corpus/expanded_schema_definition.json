@@ -1,0 +1,28 @@
+{
+  "contract": "D(p,E_in,E_out,x,M,O,S,U,evidence)",
+  "columns": [
+    "benchmark_id",
+    "dataset_id",
+    "particle",
+    "evidence_type",
+    "material",
+    "sample_id",
+    "target_Z",
+    "target_A",
+    "reaction_MT",
+    "energy_in_MeV",
+    "energy_out_MeV",
+    "depth",
+    "depth_unit",
+    "thickness_cm",
+    "observable",
+    "value",
+    "uncertainty",
+    "unit",
+    "geometry",
+    "source"
+  ],
+  "PSSD_policy": "Retain 5.17M-row canonical semantic PSSD table in place; do not duplicate and do not treat as experimental truth.",
+  "RB2000209_policy": "Transmission only. No Sigma because sample thickness is not grounded. Not a GEM product.",
+  "canonical_source_policy": "Strict long-form canonical Parquet remains scientific source of truth. Resampled matrices are derived."
+}

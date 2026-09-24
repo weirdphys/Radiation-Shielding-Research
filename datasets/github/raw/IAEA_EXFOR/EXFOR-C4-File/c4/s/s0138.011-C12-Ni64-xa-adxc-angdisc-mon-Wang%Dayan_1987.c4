@@ -1,0 +1,38 @@
+#ENTRY      S0138
+#AUTHOR1    Wang Dayan+
+#YEAR       1987
+#INSTITUTE  (3CPRIMP)
+#TITLE      Dependence of the mechanism and cross section of the
+#+          alpha particles emitted from 12C + 64Ni reaction on
+#+          incident energy
+#AUTHOR(S)  Wang Dayan, Jin Genming, Zhang Li, Wang Ximing, Yue Haikui, 
+#+          Zhang Baoguo
+#REF-CODE   (J,PHE,11,92,1987)
+#REFERENCE  High En.Nucl.Phy.Ch. 11 (1987) 92
+#DATASETS   0
+#
+#DATASET    S0138011 
+#DATE       20151009
+#REACTION   28-NI-64(6-C-12,X)2-HE-4,,DA
+#PROJ       6012
+#TARG       28064
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012 28064   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 28064   4 207  C 6.4500+7          0.246490 0.030606 0.956407                              Wang Dayan+          (87)S0138 11 
+ 6012 28064   4 207  C 6.4500+7          0.186280          0.876978                              Wang Dayan+          (87)S0138 11 
+ 6012 28064   4 207  C 6.4500+7          0.136150 0.015631 0.752875                              Wang Dayan+          (87)S0138 11 
+ 6012 28064   4 207  C 6.4500+7          0.107730          0.601118                              Wang Dayan+          (87)S0138 11 
+ 6012 28064   4 207  C 6.4500+7          0.099094 0.011839 0.514140                              Wang Dayan+          (87)S0138 11 
+ 6012 28064   4 207  C 6.4500+7          0.084540          0.340380                              Wang Dayan+          (87)S0138 11 
+ 6012 28064   4 207  C 6.4500+7          0.074889 8.2495-3 0.149018                              Wang Dayan+          (87)S0138 11 
+ 6012 28064   4 207  C 6.4500+7          0.070044         -0.028445                              Wang Dayan+          (87)S0138 11 
+ 6012 28064   4 207  C 6.4500+7          0.066896 6.7508-3-0.209960                              Wang Dayan+          (87)S0138 11 
+ 6012 28064   4 207  C 6.4500+7          0.065787         -0.576147                              Wang Dayan+          (87)S0138 11 
+ 6012 28064   4 207  C 6.4500+7          0.069461 7.6516-3-0.838575                              Wang Dayan+          (87)S0138 11 
+#/DATA      11
+#/DATASET

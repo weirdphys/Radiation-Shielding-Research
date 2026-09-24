@@ -1,0 +1,48 @@
+#ENTRY      S0079
+#AUTHOR1    J.S.Wang+
+#YEAR       2013
+#INSTITUTE  (3CPRIMP)
+#TITLE      7Be, 8B+208Pb elastic scattering at above-barrier
+#+          energies
+#AUTHOR(S)  J.S.Wang, Y.Y.Yang, Q.Wang, L.Jin, J.B.Ma, M.R.Huang, J.L.Han, 
+#+          P.Ma, S.L.Jin, Z.Bai, Q.Hu, J.B.Chen, R.Wada, Z.Y.Sun, R.F.Chen, 
+#+          X.Y.Zhang, Z.G.Hu, X.H.Yuan, X.G.Cao, Z.G.Xu, S.W.Xu, C.Zhen, 
+#+          Z.Q.Chen, Z.Chen, S.Z.Chen, C.M.Du, L.M.Duan, F.Fu, B.X.Gou, 
+#+          J.Hu, J.J.He, X.G.Lei, S.L.Li, Y.Li, Q.Y.Lin, L.X.Liu, F.D.Shi, 
+#+          S.W.Tang, G.Xu, L.Y.Zhang, X.H.Zhang, W.Zhang, M.H.Zhao, 
+#+          Y.H.Zhang, H.S.Xu, G.Q.Xiao, S.Mukhejee, N.Keeley, K.Rusek, 
+#+          D.Y.Pang
+#REF-CODE   (J,JP/CS,420,012075,2013)
+#REFERENCE  J.Phys.Conf.Ser. 420 (2013) 012075 (doi:10.1088/1742-6596/420/1/012075)
+#DATASETS   0
+#
+#DATASET    S0079003 
+#DATE       20161015
+#REACTION   82-PB-208(5-B-8,EL)82-PB-208,,DA,,RTH
+#PROJ       5008
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 5008 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5008 82208   4   2  C 1.7040+8          3038.067 282.5402 0.996676                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          1261.426 95.86842 0.995036                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          664.7278 45.20149 0.993071                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          383.5434 24.93032 0.990776                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          241.7292 15.71239 0.988159                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          148.7262 10.26210 0.985217                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          95.60750 7.361778 0.981952                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          69.11270 5.874580 0.978368                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          58.01659 5.221493 0.974460                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          46.70195 4.530089 0.970237                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          30.49813 3.507285 0.965691                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          18.16847 2.598092 0.960832                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          12.67824 2.117266 0.955659                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          6.356495 1.017039 0.947317                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          2.160363 0.652430 0.935110                              J.S.Wang+            (13)S0079  3 
+ 5008 82208   4   2  C 1.7040+8          0.754815 0.337402 0.921687                              J.S.Wang+            (13)S0079  3 
+#/DATA      16
+#/DATASET

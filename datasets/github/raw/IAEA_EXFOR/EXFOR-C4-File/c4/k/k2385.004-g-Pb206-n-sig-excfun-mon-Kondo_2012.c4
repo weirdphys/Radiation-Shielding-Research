@@ -1,0 +1,38 @@
+#ENTRY      K2385
+#AUTHOR1    T.Kondo+
+#YEAR       2012
+#INSTITUTE  (2JPNKON)
+#TITLE      Total and partial photoneutron cross sections for Pb
+#+          isotopes
+#AUTHOR(S)  T.Kondo, H.Utsunomiya, S.Goriely, I.Daoutidis, C.Iwamoto, 
+#+          H.Akimune, A.Okamoto, T.Yamagata, M.Kamata, O.Itoh, H.Toyokawa, 
+#+          Y.-W.Lui, H.Harada, F.Kitatani, S.Hilaire, A.J.Koning
+#REF-CODE   (J,PR/C,86,014316,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 014316 (doi:10.1103/PhysRevC.86.014316)
+#DATASETS   0
+#
+#DATASET    K2385004 
+#DATE       20130906
+#REACTION   82-PB-206(G,N)82-PB-205,,SIG
+#PROJ       0
+#TARG       82206
+#MF         3
+#MT         4
+#PRODUCT    82-PB-205
+#C4BEGIN    [    0 82206   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82206   3   4    8140000.          0.024880 1.9800-3                                       T.Kondo+             (12)K2385  4 
+    0 82206   3   4    8450000.          0.023490 5.6000-4                                       T.Kondo+             (12)K2385  4 
+    0 82206   3   4    8740000.          0.037710 1.4000-3                                       T.Kondo+             (12)K2385  4 
+    0 82206   3   4    9070000.          0.048100 1.0000-3                                       T.Kondo+             (12)K2385  4 
+    0 82206   3   4    9460000.          0.066510 1.4000-3                                       T.Kondo+             (12)K2385  4 
+    0 82206   3   4    9940000.          0.086750 3.2800-3                                       T.Kondo+             (12)K2385  4 
+    0 82206   3   4    1.0110+7          0.100880 4.8300-3                                       T.Kondo+             (12)K2385  4 
+    0 82206   3   4    1.0650+7          0.171650 7.7300-3                                       T.Kondo+             (12)K2385  4 
+    0 82206   3   4    1.1170+7          0.228150 9.1100-3                                       T.Kondo+             (12)K2385  4 
+    0 82206   3   4    1.1620+7          0.275530 0.011180                                       T.Kondo+             (12)K2385  4 
+    0 82206   3   4    1.2240+7          0.408420 0.017670                                       T.Kondo+             (12)K2385  4 
+#/DATA      11
+#/DATASET

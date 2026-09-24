@@ -1,0 +1,86 @@
+#ENTRY      G0045
+#AUTHOR1    L.S.Myers+
+#YEAR       2014
+#INSTITUTE  (1USAUI)
+#TITLE      Measurement of Compton scattering from the deuteron
+#+          and an improved extraction of the neutron
+#+          electromagnetic polarizabilities
+#AUTHOR(S)  L.S.Myers, J.R.M.Annand, J.Brudvik, G.Feldman, K.G.Fissum, 
+#+          H.W.Grieshammer, K.Hansen, S.S.Henshaw, L.Isaksson, R.Jebali, 
+#+          M.A.Kovash, M.Lundin, J.A.McGovern, D.G.Middleton, A.M.Nathan, 
+#+          D.R.Phillips, B.Schroder, S.C.Stave
+#REF-CODE   (J,PRL,113,262506,2014)
+#REFERENCE  Phys.Rev.Lett. 113 (2014) 262506 (doi:10.1103/PhysRevLett.113.262506)
+#DATASETS   0
+#
+#DATASET    G0045003 
+#DATE       20150105
+#REACTION   1-H-2(G,EL)1-H-2,,DA
+#PROJ       0
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  1002   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   4   2 C  8.5800+7          1.3800-8 1.7000-9 0.500000                              L.S.Myers+           (14)G0045  3 
+    0  1002   4   2 C  8.5800+7          1.3500-8 1.000-09-0.500000                              L.S.Myers+           (14)G0045  3 
+    0  1002   4   2 C  8.5800+7          1.6800-8 2.1000-9-0.866025                              L.S.Myers+           (14)G0045  3 
+#/DATA      3
+#/DATASET
+#
+#DATASET    G0045003 
+#DATE       20150105
+#REACTION   1-H-2(G,EL)1-H-2,,DA
+#PROJ       0
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  1002   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   4   2 C  9.4800+7          1.5400-8 1.5000-9 0.500000                              L.S.Myers+           (14)G0045  3 
+    0  1002   4   2 C  9.4800+7          1.4100-8 8.000-10-0.500000                              L.S.Myers+           (14)G0045  3 
+    0  1002   4   2 C  9.4800+7          1.5100-8 1.7000-9-0.866025                              L.S.Myers+           (14)G0045  3 
+#/DATA      3
+#/DATASET
+#
+#DATASET    G0045003 
+#DATE       20150105
+#REACTION   1-H-2(G,EL)1-H-2,,DA
+#PROJ       0
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  1002   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   4   2 C  1.0380+8          1.1900-8 1.1000-9 0.500000                              L.S.Myers+           (14)G0045  3 
+    0  1002   4   2 C  1.0380+8          1.1800-8 7.000-10-0.500000                              L.S.Myers+           (14)G0045  3 
+    0  1002   4   2 C  1.0380+8          1.5700-8 1.6000-9-0.866025                              L.S.Myers+           (14)G0045  3 
+#/DATA      3
+#/DATASET
+#
+#DATASET    G0045003 
+#DATE       20150105
+#REACTION   1-H-2(G,EL)1-H-2,,DA
+#PROJ       0
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  1002   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   4   2 C  1.1210+8          8.8000-9 1.000-09 0.500000                              L.S.Myers+           (14)G0045  3 
+    0  1002   4   2 C  1.1210+8          9.8000-9 7.000-10-0.500000                              L.S.Myers+           (14)G0045  3 
+    0  1002   4   2 C  1.1210+8          1.3000-8 1.5000-9-0.866025                              L.S.Myers+           (14)G0045  3 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      T0120
+#AUTHOR1    N.W.Golchert+
+#YEAR       1970
+#INSTITUTE  (1USAANL)
+#TITLE      Excitation Functions For 3He Induced Nuclear
+#+          Reactions in Cu
+#AUTHOR(S)  N.W.Golchert, J.Sedlet, D.G.Gardner
+#REF-CODE   (J,NP/A,152,419,1970)
+#REFERENCE  Nucl.Phys.A 152 (1970) 419 (doi:10.1016/0375-9474(70)90842-0)
+#DATASETS   0
+#
+#DATASET    T0120017 
+#DATE       20010131
+#REACTION   29-CU-63(HE3,X)24-CR-51,CUM,SIG
+#PROJ       2003
+#TARG       29063
+#MF         3
+#MT         459
+#PRODUCT    24-CR-51
+#C4BEGIN    [ 2003 29063   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 29063   3 459    5.4650+7          5.2700-5 5.7970-6           24051.9                     N.W.Golchert+        (70)T0120 17 
+ 2003 29063   3 459    5.6800+7          5.6300-5 6.1930-6           24051.9                     N.W.Golchert+        (70)T0120 17 
+ 2003 29063   3 459    5.7750+7          1.0500-4 1.1550-5           24051.9                     N.W.Golchert+        (70)T0120 17 
+ 2003 29063   3 459    5.9800+7          9.4900-5 1.0439-5           24051.9                     N.W.Golchert+        (70)T0120 17 
+ 2003 29063   3 459    6.0850+7          8.3500-5 9.1850-6           24051.9                     N.W.Golchert+        (70)T0120 17 
+ 2003 29063   3 459    6.2600+7          1.3400-4 1.4740-5           24051.9                     N.W.Golchert+        (70)T0120 17 
+ 2003 29063   3 459    6.3550+7          1.7700-4 1.9470-5           24051.9                     N.W.Golchert+        (70)T0120 17 
+ 2003 29063   3 459    6.5400+7          2.2500-4 2.4750-5           24051.9                     N.W.Golchert+        (70)T0120 17 
+ 2003 29063   3 459    6.6300+7          2.6200-4 2.8820-5           24051.9                     N.W.Golchert+        (70)T0120 17 
+ 2003 29063   3 459    6.8200+7          3.1200-4 3.4320-5           24051.9                     N.W.Golchert+        (70)T0120 17 
+ 2003 29063   3 459    6.9400+7          3.5600-4 3.9160-5           24051.9                     N.W.Golchert+        (70)T0120 17 
+#/DATA      11
+#/DATASET

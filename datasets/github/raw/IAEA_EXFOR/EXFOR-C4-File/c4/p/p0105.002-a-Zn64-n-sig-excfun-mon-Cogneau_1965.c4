@@ -1,0 +1,42 @@
+#ENTRY      P0105
+#AUTHOR1    M.Cogneau+
+#YEAR       1965
+#INSTITUTE  (2BLGLVN)
+#TITLE      Absolute cross-sections and excitation functions for
+#+          alpha-particle induced reactions on Zn between 11 and
+#+          24 MeV
+#AUTHOR(S)  M.Cogneau, L.J.Gilly
+#REF-CODE   (J,NP,73,122,1965)
+#REFERENCE  Nucl.Phys. 73 (1965) 122 (doi:10.1016/0029-5582(65)90159-8)
+#DATASETS   0
+#
+#DATASET    P0105002 
+#DATE       20000815
+#REACTION   30-ZN-64(A,N)32-GE-67,,SIG
+#PROJ       2004
+#TARG       30064
+#MF         3
+#MT         4
+#PRODUCT    32-GE-67
+#C4BEGIN    [ 2004 30064   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30064   3   4    1.3200+7          0.066700                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    1.4200+7          0.134000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    1.5000+7          0.210000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    1.5800+7          0.345000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    1.6600+7          0.387000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    1.7200+7          0.453000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    1.7900+7          0.562000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    1.8600+7          0.692000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    1.9400+7          0.766000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    2.0100+7          1.000000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    2.0800+7          0.867000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    2.1400+7          0.741000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    2.2100+7          0.552000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    2.2700+7          0.404000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    2.3400+7          0.279000                                                M.Cogneau+           (65)P0105  2 
+ 2004 30064   3   4    2.3900+7          0.425000                                                M.Cogneau+           (65)P0105  2 
+#/DATA      16
+#/DATASET

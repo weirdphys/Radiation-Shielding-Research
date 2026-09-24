@@ -1,0 +1,30 @@
+#ENTRY      K2183
+#AUTHOR1    T.Tohei+
+#YEAR       1961
+#INSTITUTE  (2JPNTOH)
+#TITLE      Nuclear elastic scattering of photons near the
+#+          particle threshold energy (I)
+#AUTHOR(S)  T.Tohei, M.Sugawara, S.Mori, M.Kimura
+#REF-CODE   (J,JPJ,16,(9),1657,196109)
+#REFERENCE  J.Phys.Soc.Jpn. 16 No.9 (1961) 1657 (doi:10.1143/JPSJ.16.1657)
+#DATASETS   0
+#
+#DATASET    K2183006 
+#DATE       20101108
+#REACTION   20-CA-0(G,EL)20-CA-0,,DA,,4PI
+#PROJ       0
+#TARG       20000
+#MF         4
+#MT         2
+#PRODUCT    20-CA-0
+#C4BEGIN    [    0 20000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 20000   4   2    7000000. 1000000. 2.1008-4 7.8782-5-0.500000                              T.Tohei+             (61)K2183  6 
+    0 20000   4   2    8000000. 1000000. 2.2918-4 8.8331-5-0.500000                              T.Tohei+             (61)K2183  6 
+    0 20000   4   2    9000000. 1000000. 1.5040-4 7.0028-5-0.500000                              T.Tohei+             (61)K2183  6 
+    0 20000   4   2    1.0000+7 1000000. 3.2627-5 3.1035-5-0.500000                              T.Tohei+             (61)K2183  6 
+    0 20000   4   2    1.2000+7 1000000. 4.7746-5 2.7852-5-0.500000                              T.Tohei+             (61)K2183  6 
+#/DATA      5
+#/DATASET

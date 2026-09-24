@@ -1,0 +1,36 @@
+#ENTRY      P0028
+#AUTHOR1    G.R.Choppin+
+#YEAR       1963
+#INSTITUTE  (1USAFSU)
+#TITLE      Low-Energy Charged-Particle-Induced Fission
+#AUTHOR(S)  G.R.Choppin, J.R.Meriwether, J.D.Fox
+#REF-CODE   (J,PR,131,2149,1963)
+#REFERENCE  Phys.Rev. 131 (1963) 2149 (doi:10.1103/PhysRev.131.2149)
+#DATASETS   0
+#
+#DATASET    P0028004 
+#DATE       20250611
+#REACTION   90-TH-232(D,F),,SIG
+#PROJ       1002
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [ 1002 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 90232   3  18    6034000. 3000.000 2.3590-5                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    6546000. 3000.000 9.0230-5                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    7028000. 3000.000 2.8340-4                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    7510000. 3000.000 1.0090-3                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    7991000. 3000.000 2.7960-3                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    8533000. 3000.000 6.9610-3                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    9015000. 3000.000 0.015020                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    9527000. 3000.000 0.029110                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    1.0039+7 3000.000 0.048030                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    1.0551+7 3000.000 0.079250                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    1.1032+7 3000.000 0.121700                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    1.1544+7 3000.000 0.177200                                                G.R.Choppin+         (63)P0028  4 
+ 1002 90232   3  18    1.2056+7 3000.000 0.240200                                                G.R.Choppin+         (63)P0028  4 
+#/DATA      13
+#/DATASET

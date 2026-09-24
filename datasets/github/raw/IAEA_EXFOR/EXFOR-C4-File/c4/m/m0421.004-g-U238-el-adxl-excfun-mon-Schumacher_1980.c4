@@ -1,0 +1,34 @@
+#ENTRY      M0421
+#AUTHOR1    M.Schumacher+
+#YEAR       1980
+#INSTITUTE  (2FR ILL)
+#TITLE      The energy dependence of Delbruck scattering
+#+          investigated at Z = 73, 82, and 92.
+#AUTHOR(S)  M.Schumacher, P.Rujjhusen, F.Smend, W.Muckenheim, H.G.Borner
+#REF-CODE   (J,NP/A,346,418,1980)
+#REFERENCE  Nucl.Phys.A 346 (1980) 418 (doi:10.1016/0375-9474(80)90477-7)
+#DATASETS   0
+#
+#DATASET    M0421004 
+#DATE       20160906
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    279000.0          5.2700-5 1.5000-6-0.500000                              M.Schumacher+        (80)M0421  4 
+    0 92238   4   2    412000.0          2.0200-5 5.0000-7-0.500000                              M.Schumacher+        (80)M0421  4 
+    0 92238   4   2    662000.0          3.6300-6 7.0000-8-0.500000                              M.Schumacher+        (80)M0421  4 
+    0 92238   4   2    889000.0          1.0400-6 3.0000-8-0.500000                              M.Schumacher+        (80)M0421  4 
+    0 92238   4   2    1121000.          3.7800-7 1.0000-8-0.500000                              M.Schumacher+        (80)M0421  4 
+    0 92238   4   2    1173000.          3.3400-7 1.2000-8-0.500000                              M.Schumacher+        (80)M0421  4 
+    0 92238   4   2    1332000.          2.0700-7 8.0000-9-0.500000                              M.Schumacher+        (80)M0421  4 
+    0 92238   4   2    4291000.          2.6800-5 5.7000-6-0.500000                              M.Schumacher+        (80)M0421  4 
+    0 92238   4   2    4767000.          2.0400-5 3.6000-6-0.500000                              M.Schumacher+        (80)M0421  4 
+#/DATA      9
+#/DATASET

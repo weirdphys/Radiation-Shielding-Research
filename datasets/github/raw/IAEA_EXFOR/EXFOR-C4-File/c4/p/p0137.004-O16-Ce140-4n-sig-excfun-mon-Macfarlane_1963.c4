@@ -1,0 +1,35 @@
+#ENTRY      P0137
+#AUTHOR1    R.D.Macfarlane+
+#YEAR       1963
+#INSTITUTE  (1USABRK)
+#TITLE      Alpha Decay Properties of some Holmium Isotopes near
+#+          the 82-Neutron Closed Shell
+#AUTHOR(S)  R.D.Macfarlane, R.D.Griffioen
+#REF-CODE   (J,PR,130,1491,1963)
+#REFERENCE  Phys.Rev. 130 (1963) 1491 (doi:10.1103/PhysRev.130.1491)
+#DATASETS   0
+#
+#DATASET    P0137004 
+#DATE       20000815
+#REACTION   58-CE-140(8-O-16,4N)66-DY-152,,SIG
+#PROJ       8016
+#TARG       58140
+#MF         3
+#MT         37
+#PRODUCT    66-DY-152
+#C4BEGIN    [ 8016 58140   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 58140   3  37    7.4600+7          0.041400                                                R.D.Macfarlane+      (63)P0137  4 
+ 8016 58140   3  37    7.5900+7          0.066600                                                R.D.Macfarlane+      (63)P0137  4 
+ 8016 58140   3  37    8.0600+7          0.128000                                                R.D.Macfarlane+      (63)P0137  4 
+ 8016 58140   3  37    8.2700+7          0.191000                                                R.D.Macfarlane+      (63)P0137  4 
+ 8016 58140   3  37    9.2600+7          0.081000                                                R.D.Macfarlane+      (63)P0137  4 
+ 8016 58140   3  37    1.0000+8          0.036000                                                R.D.Macfarlane+      (63)P0137  4 
+ 8016 58140   3  37    1.1100+8          7.2000-3                                                R.D.Macfarlane+      (63)P0137  4 
+ 8016 58140   3  37    1.2000+8          6.6000-3                                                R.D.Macfarlane+      (63)P0137  4 
+ 8016 58140   3  37    1.2900+8          6.6000-3                                                R.D.Macfarlane+      (63)P0137  4 
+ 8016 58140   3  37    1.3700+8          6.6000-3                                                R.D.Macfarlane+      (63)P0137  4 
+#/DATA      10
+#/DATASET

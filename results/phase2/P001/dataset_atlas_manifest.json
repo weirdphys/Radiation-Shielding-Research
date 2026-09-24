@@ -1,0 +1,32 @@
+{
+  "dataset_id": "P001",
+  "object_id": "P001.TRAJ_E",
+  "coordinate_native": "photon_energy_MeV",
+  "coordinate_analysis": "log(photon_energy_MeV/E_ref)",
+  "coordinate_transform": "ln(x / dataset_min_positive_energy)",
+  "coordinate_reference": 0.001,
+  "coordinate_unit": "dimensionless_log_energy",
+  "source_path": "data/benchmarks/photon/nist_ordinary_concrete_attenuation.csv",
+  "n_curves_loaded": 2,
+  "max_curve_points": 46,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "attenuation_state": 2
+  },
+  "registry": {
+    "name": "NIST XCOM ordinary concrete",
+    "particle": "photon",
+    "evidence": "EVALUATED/REFERENCE",
+    "role": "Mass attenuation and mass energy-absorption coefficients for ordinary concrete.",
+    "path": "radiation_benchmark_data/photon/nist_ordinary_concrete_attenuation.csv (+ composition companion)",
+    "richness": "RICH_1D",
+    "guardrail": "Keep attenuation physics separate from photonuclear MF=3 reaction data."
+  },
+  "state_group_shapes": {
+    "attenuation_state": {
+      "n_coordinate_points": 46,
+      "state_dimension": 2
+    }
+  }
+}

@@ -1,0 +1,4 @@
+observable,embedding_dimension,n,LLE_median,LLE_trimmed_mean,LLE_MAD,KS_proxy_median,KY_median,positive_count_median
+pdd_percent,2,1,-0.02686504259443562,-0.02686504259443562,,0.0,0.0,0.0
+pdd_percent,3,1,-0.05578133608502216,-0.05578133608502216,,0.0,0.0,0.0
+pdd_percent,4,1,-0.08465627096009389,-0.08465627096009389,,0.0,0.0,0.0

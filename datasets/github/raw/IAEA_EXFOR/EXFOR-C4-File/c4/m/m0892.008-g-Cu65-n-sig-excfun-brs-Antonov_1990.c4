@@ -1,0 +1,59 @@
+#ENTRY      M0892
+#AUTHOR1    A.D.Antonov+
+#YEAR       1990
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Studies  of  photonuclear reactions  with emission of
+#+          a alpha particles in the region  of the  giant
+#+          dipole resonance.
+#AUTHOR(S)  A.D.Antonov, N.P.Balabanov, Yu.P.Gangrsky, F.G.Kondev, S.G.Marinova, 
+#+          Kh.G.Khristov
+#REF-CODE   (J,SNP,51,193,1990)
+#REFERENCE  Sov.J.Nucl.Phys. 51 (1990) 193
+#DATASETS   0
+#
+#DATASET    M0892008 
+#DATE       20250423
+#REACTION   29-CU-65(G,N)29-CU-64,,SIG,,BRS
+#PROJ       0
+#TARG       29065
+#MF         3
+#MT         4
+#PRODUCT    29-CU-64
+#C4BEGIN    [    0 29065   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 29065   3   4    1.4689+7          0.013510                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.4930+7          0.018001                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.5153+7          0.023755                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.5376+7          0.030462                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.5633+7          0.037954                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.5856+7          0.048205                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.6062+7          0.058926                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.6285+7          0.072030                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.6542+7          0.088891                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.6834+7          0.106589                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.7074+7          0.124200                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.7348+7          0.146106                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.7724+7          0.170218                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.8067+7          0.190866                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.8460+7          0.202059                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.8904+7          0.201954                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.9297+7          0.186978                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    1.9741+7          0.165011                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.0100+7          0.140167                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.0407+7          0.121372                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.0748+7          0.103100                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.1021+7          0.090138                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.1328+7          0.080326                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.1618+7          0.072273                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.1926+7          0.065651                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.2267+7          0.057944                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.2660+7          0.051140                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.3035+7          0.044279                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.3394+7          0.039457                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.3821+7          0.034161                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.4230+7          0.030149                                                A.D.Antonov+         (90)M0892  8 
+    0 29065   3   4    2.4555+7          0.027386                                                A.D.Antonov+         (90)M0892  8 
+#/DATA      32
+#/DATASET

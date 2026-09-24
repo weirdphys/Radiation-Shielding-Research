@@ -1,0 +1,27 @@
+#ENTRY      M0501
+#AUTHOR1    B.-E.Andersson+
+#YEAR       1995
+#INSTITUTE  (2SWDLND)
+#TITLE      16O(gamma,n) reaction at intermediate energy.
+#AUTHOR(S)  B.-E.Andersson, J.-O.Adler, S.A.Bulychjev, L.Isaksson, H.Ruijter, 
+#+          B.Schroder, J.R.M.Annand, G.I.Crawford, P.D.Harty, J.C.McGeorge, 
+#+          G.J.Miller, J.Ryckebusch
+#REF-CODE   (J,PR/C,51,2553,1995)
+#REFERENCE  Phys.Rev.C 51 (1995) 2553 (doi:10.1103/PhysRevC.51.2553)
+#DATASETS   0
+#
+#DATASET    M0501004 
+#DATE       20170330
+#REACTION   8-O-16(G,N)8-O-15,PAR,DA
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    8-O-15
+#C4BEGIN    [    0  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4  50  C 5.8000+7 174000.0 5.6000-6 2.1000-6 0.500000          5200000.         LVLB.-E.Andersson+      (95)M0501  4 
+#/DATA      1
+#/DATASET

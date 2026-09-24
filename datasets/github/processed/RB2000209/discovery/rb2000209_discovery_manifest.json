@@ -1,0 +1,21 @@
+{
+  "dataset": "ISIS RB2000209",
+  "status": "DETECTOR_RECONNAISSANCE_COMPLETE",
+  "representative_runs": {
+    "44712": "early_empty_control",
+    "44724": "concrete_sample_1",
+    "44749": "concrete_sample_3M",
+    "44779": "concrete_sample_5I",
+    "44792": "late_empty_control",
+    "45130": "sample_1_RT_Cd_frame"
+  },
+  "files_total": 721,
+  "gem_named_files": 0,
+  "nexus_keyword_hits": 398,
+  "nexus_explicit_gem_hits": 12,
+  "text_keyword_hits": 2221,
+  "mantid_workspace_rows": 11,
+  "mantid_explicit_gem_detector_rows": 0,
+  "transmission_reduction_performed": false,
+  "reason": "RB2000209 used a VESUVIO configuration explicitly described as including GEM. Detector encoding, sample thickness and control strategy must be established before computing T(E) or Sigma(E)."
+}

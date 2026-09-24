@@ -1,0 +1,26 @@
+#ENTRY      L0264
+#AUTHOR1    O.Chamberlain+
+#YEAR       1942
+#INSTITUTE  (1USABRK)
+#TITLE      Fission Cross-Section of U235 for Intermediate
+#+          Velocity Neutrons
+#AUTHOR(S)  O.Chamberlain, J.W.Kennedy, E.Segre
+#REF-CODE   (R,CF-403,1942)
+#REFERENCE  Report CF-403, 1942
+#DATASETS   0
+#
+#DATASET    L0264002 
+#DATE       20201208
+#REACTION   1-H-2(G,N)1-H-1,,SIG
+#PROJ       0
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   3   4    3030000.          1.5000-3                                                O.Chamberlain+       (42)L0264  2 
+#/DATA      1
+#/DATASET

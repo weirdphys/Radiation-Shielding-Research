@@ -1,0 +1,32 @@
+#ENTRY      L0259
+#AUTHOR1    X.Li+
+#YEAR       2020
+#INSTITUTE  (1USADKE)
+#TITLE      Compton scattering from 4He at the TUNL HIgS facility
+#AUTHOR(S)  X.Li, M.W.Ahmed, A.Banu, C.Bartram, B.Crowe, E.J.Downie, 
+#+          M.Emamian, G.Feldman, H.Gao, D.Godagama, H.W.Griesshammer, 
+#+          C.R.Howell, H.J.Karwowski, D.P.Kendellen, M.A.Kovash, K.K.H.Leung, 
+#+          D.Markoff, S.Mikhailov, R.E.Pywell, M.H.Sikora, J.A.Silano, 
+#+          R.S.Sosa, M.C.Spraker, G.Swift, P.Wallace, H.R.Weller, C.S.Whisnant, 
+#+          Y.K.Wu, Z.W.Zhao
+#REF-CODE   (J,PR/C,101,034618,2020)
+#REFERENCE  Phys.Rev.C 101 (2020) 034618 (doi:10.1103/PhysRevC.101.034618)
+#DATASETS   0
+#
+#DATASET    L0259002 
+#DATE       20200701
+#REACTION   2-HE-4(G,EL)2-HE-4,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [    0  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   2    8.1300+7          7.8000-8 1.9000-9 0.573576                              X.Li+                (20)L0259  2 
+    0  2004   4   2    8.1300+7          6.1900-8 1.3000-9 6.123-17                              X.Li+                (20)L0259  2 
+    0  2004   4   2    8.1300+7          9.7000-8 1.5000-9-0.573576                              X.Li+                (20)L0259  2 
+#/DATA      3
+#/DATASET

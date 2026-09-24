@@ -1,0 +1,30 @@
+#ENTRY      M0591
+#AUTHOR1    P.E.Argan+
+#YEAR       1975
+#INSTITUTE  (2FR SAC)
+#TITLE      Two-body photodisintegration of 3He and 4He in the
+#+          delta (1236) region.
+#AUTHOR(S)  P.E.Argan, G.Audit, N.De Botton, J.-L.Faure, J.-M.Laget, 
+#+          J.Martin, C.G.Schuhl, G.Tamas
+#REF-CODE   (J,NP/A,237,447,1975)
+#REFERENCE  Nucl.Phys.A 237 (1975) 447 (doi:10.1016/0375-9474(75)90411-X)
+#DATASETS   0
+#
+#DATASET    M0591006 
+#DATE       20120928
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 3.5780+8 1.4300+7 5.9400-8 8.1000-9 6.123-17                              P.E.Argan+           (75)M0591  6 
+    0  2004   4   4  C 3.6910+8 1.3800+7 4.9800-8 3.6000-9 6.123-17                              P.E.Argan+           (75)M0591  6 
+    0  2004   4   4  C 3.8520+8 1.3300+7 4.3000-8 3.2000-9 6.123-17                              P.E.Argan+           (75)M0591  6 
+    0  2004   4   4  C 4.0300+8 1.2600+7 2.8800-8 4.4000-9 6.123-17                              P.E.Argan+           (75)M0591  6 
+#/DATA      4
+#/DATASET

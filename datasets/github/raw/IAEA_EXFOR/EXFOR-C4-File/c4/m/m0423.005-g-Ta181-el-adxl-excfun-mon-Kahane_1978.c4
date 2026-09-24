@@ -1,0 +1,30 @@
+#ENTRY      M0423
+#AUTHOR1    S.Kahane+
+#YEAR       1978
+#INSTITUTE  (3ISLNEG)
+#TITLE      Evidence for   destructive    interference    between
+#+          Rayleigh  and Delbruck scattering for 6.8 - 11.4 MeV
+#+          photons.
+#AUTHOR(S)  S.Kahane, R.Moreh, O.Shahal
+#REF-CODE   (J,PR/C,18,1217,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 1217 (doi:10.1103/PhysRevC.18.1217)
+#DATASETS   0
+#
+#DATASET    M0423005 
+#DATE       20160906
+#REACTION   73-TA-181(G,EL)73-TA-181,,DA
+#PROJ       0
+#TARG       73181
+#MF         4
+#MT         2
+#PRODUCT    73-TA-181
+#C4BEGIN    [    0 73181   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 73181   4   2    6837000.          0.349000 0.037000 0.999657 1.5991-4                     S.Kahane+            (78)M0423  5 
+    0 73181   4   2    8533000.          0.171000 0.017000 0.999657 1.5991-4                     S.Kahane+            (78)M0423  5 
+    0 73181   4   2    8999000.          0.136000 0.015000 0.999657 1.5991-4                     S.Kahane+            (78)M0423  5 
+    0 73181   4   2    1.1388+7          0.153000 0.054000 0.999657 1.5991-4                     S.Kahane+            (78)M0423  5 
+#/DATA      4
+#/DATASET

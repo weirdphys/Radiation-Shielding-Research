@@ -1,0 +1,28 @@
+#ENTRY      M0444
+#AUTHOR1    R.D.Edge+
+#YEAR       1956
+#INSTITUTE  (3AULCBR)
+#TITLE      The (gamma,n) reaction in Be-9 at intermediate energies
+#AUTHOR(S)  R.D.Edge
+#REF-CODE   (J,NP,2,485,1956)
+#REFERENCE  Nucl.Phys. 2 (1956) 485 (doi:10.1016/0029-5582(56)90036-0)
+#DATASETS   0
+#
+#DATASET    M0444002 
+#DATE       20160412
+#REACTION   4-BE-9(G,N)4-BE-8,,SIG
+#PROJ       0
+#TARG       4009
+#MF         3
+#MT         4
+#PRODUCT    4-BE-8
+#C4BEGIN    [    0  4009   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  4009   3   4    2610000.          3.7700-5 2.0000-5                                       R.D.Edge             (56)M0444  2 
+    0  4009   3   4    4400000.          1.8600-4 3.6000-4                                       R.D.Edge             (56)M0444  2 
+    0  4009   3   4    6200000.          1.1400-3 1.0000-4                                       R.D.Edge             (56)M0444  2 
+    0  4009   3   4    8100000.          1.3800-3 1.6000-4                                       R.D.Edge             (56)M0444  2 
+#/DATA      4
+#/DATASET

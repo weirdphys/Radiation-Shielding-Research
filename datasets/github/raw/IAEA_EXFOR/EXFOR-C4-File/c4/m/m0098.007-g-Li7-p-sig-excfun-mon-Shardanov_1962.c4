@@ -1,0 +1,27 @@
+#ENTRY      M0098
+#AUTHOR1    A.Kh.Shardanov+
+#YEAR       1962
+#INSTITUTE  (4RUSMOS)
+#TITLE      Investigation of the Li-7(g,p)He-6 reaction
+#AUTHOR(S)  A.Kh.Shardanov, V.G.Shevchenko
+#REF-CODE   (J,JET,15,996,1962)
+#REFERENCE  J.Exp.Theor.Phys. 15 (1962) 996
+#DATASETS   0
+#
+#DATASET    M0098007 
+#DATE       20220818
+#REACTION   3-LI-7(G,P)2-HE-6,,SIG
+#PROJ       0
+#TARG       3007
+#MF         3
+#MT         103
+#PRODUCT    2-HE-6
+#C4BEGIN    [    0  3007   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3007   3 103    1.2540+7          1.2000-3 5.0000-4                                       A.Kh.Shardanov+      (62)M0098  7 
+    0  3007   3 103    1.3540+7          5.0000-5 2.5000-5                                       A.Kh.Shardanov+      (62)M0098  7 
+    0  3007   3 103    1.4300+7          4.0000-5 2.0000-5                                       A.Kh.Shardanov+      (62)M0098  7 
+#/DATA      3
+#/DATASET

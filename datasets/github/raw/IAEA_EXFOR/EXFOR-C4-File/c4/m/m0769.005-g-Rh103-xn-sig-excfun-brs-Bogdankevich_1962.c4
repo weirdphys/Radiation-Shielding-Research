@@ -1,0 +1,50 @@
+#ENTRY      M0769
+#AUTHOR1    O.V.Bogdankevich+
+#YEAR       1962
+#INSTITUTE  (4RUSLEB)
+#TITLE      Splitting of the giant resonance in
+#+          medium-heavy nuclei.
+#AUTHOR(S)  O.V.Bogdankevich, B.I.Goryachev, V.A.Zapevalov
+#REF-CODE   (J,JET,15,1044,1962)
+#REFERENCE  J.Exp.Theor.Phys. 15 (1962) 1044
+#DATASETS   0
+#
+#DATASET    M0769005 
+#DATE       20240425
+#REACTION   45-RH-103(G,X)0-NN-1,,SIG,,BRS
+#PROJ       0
+#TARG       45103
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 45103   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 45103   3 201    1.0000+7          0.018280 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.0500+7          0.023160 5.6400-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.1000+7          0.028130 8.4600-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.1500+7          0.039840 9.3800-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.2000+7          0.065630 0.011740                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.2500+7          0.089060 0.013600                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.3000+7          0.119770 0.015000                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.3500+7          0.150000 0.016410                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.4000+7          0.182820 0.018750                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.4500+7          0.201570 0.021090                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.5000+7          0.194720 0.022520                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.5500+7          0.169220 0.025550                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.6000+7          0.182240 0.028130                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.6500+7          0.243750 0.031640                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.7000+7          0.283600 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.7500+7          0.312470 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.8000+7          0.283600 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.8500+7          0.265130 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.9000+7          0.250080 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    1.9500+7          0.229690 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    2.0000+7          0.210930 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    2.0500+7          0.176860 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    2.1000+7          0.128910 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    2.1500+7          0.142170 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+    0 45103   3 201    2.2000+7          0.093750 3.5000-3                                       O.V.Bogdankevich+    (62)M0769  5 
+#/DATA      25
+#/DATASET

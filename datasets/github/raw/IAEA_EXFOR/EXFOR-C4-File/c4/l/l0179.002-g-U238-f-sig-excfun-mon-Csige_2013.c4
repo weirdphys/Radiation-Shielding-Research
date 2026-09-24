@@ -1,0 +1,41 @@
+#ENTRY      L0179
+#AUTHOR1    L.Csige+
+#YEAR       2013
+#INSTITUTE  (2GERLMU)
+#TITLE      Exploring the multihumped fission barrier of 238U via
+#+          sub-barrier photofission
+#AUTHOR(S)  L.Csige, D.M.Filipescu, T.Glodariu, J.Gulyas, M.M.Gunther, 
+#+          D.Habs, H.J.Karwowski, A.Krasznahorkay, G.C.Rich, M.Sin, 
+#+          L.Stroe, O.Tesileanu, P.G.Thirolf
+#REF-CODE   (J,PR/C,87,044321,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 044321 (doi:10.1103/PhysRevC.87.044321)
+#DATASETS   0
+#
+#DATASET    L0179002 
+#DATE       20210831
+#REACTION   92-U-238(G,F),,SIG
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  18    4796000. 148000.0 1.0720-5 2.7680-6                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    4895000. 145000.0 1.6980-5 4.3840-6                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5000000. 195000.0 3.0370-5 4.7170-6                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5062000. 157000.0 4.9370-5 7.5960-6                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5149000. 145000.0 6.6990-5 9.9320-6                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5291000. 152000.0 2.4060-4 1.8530-5                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5441000. 164000.0 6.3360-4 2.7260-5                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5612000. 145000.0 2.4080-3 8.0590-5                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5743000. 139000.0 2.6790-3 7.6090-5                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5806000. 169000.0 3.0180-3 1.0730-4                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5857000. 168000.0 3.6440-3 1.2430-4                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5900000. 164000.0 4.3640-3 1.3930-4                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    5988000. 168000.0 6.2920-3 1.8720-4                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    6097000. 168000.0 8.8120-3 1.8290-4                                       L.Csige+             (13)L0179  2 
+    0 92238   3  18    6111000. 164000.0 9.4600-3 2.0470-4                                       L.Csige+             (13)L0179  2 
+#/DATA      15
+#/DATASET

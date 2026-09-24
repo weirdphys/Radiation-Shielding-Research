@@ -1,0 +1,36 @@
+#ENTRY      P0031
+#AUTHOR1    P.J.Locard+
+#YEAR       1967
+#INSTITUTE  (1USAMSU)
+#TITLE      Effective interaction and the reactions 7Li(p,p')7Li
+#+          (478 keV) and 7Li(p,n)7Be (431 keV)
+#AUTHOR(S)  P.J.Locard, S.M.Austin, W.Benenson
+#REF-CODE   (J,PRL,19,1141,1967)
+#REFERENCE  Phys.Rev.Lett. 19 (1967) 1141 (doi:10.1103/PhysRevLett.19.1141)
+#DATASETS   0
+#
+#DATASET    P0031002 
+#DATE       20000811
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,SIG
+#PROJ       1001
+#TARG       3007
+#MF         3
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   3  50    2.2500+7          8.5500-3 5.5000-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+ 1001  3007   3  50    2.4400+7          6.9500-3 5.0000-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+ 1001  3007   3  50    2.7300+7          6.1500-3 4.7500-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+ 1001  3007   3  50    3.0400+7          5.8500-3 5.7500-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+ 1001  3007   3  50    3.3600+7          5.0500-3 5.5000-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+ 1001  3007   3  50    3.6500+7          4.6500-3 4.5000-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+ 1001  3007   3  50    3.9600+7          4.5500-3 5.0000-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+ 1001  3007   3  50    4.1700+7          4.5500-3 6.0000-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+ 1001  3007   3  50    4.4800+7          4.3000-3 6.0000-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+ 1001  3007   3  50    4.7800+7          3.6500-3 5.2500-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+ 1001  3007   3  50    5.1800+7          3.2000-3 4.0000-4                   432000.0         LVLP.J.Locard+          (67)P0031  2 
+#/DATA      11
+#/DATASET

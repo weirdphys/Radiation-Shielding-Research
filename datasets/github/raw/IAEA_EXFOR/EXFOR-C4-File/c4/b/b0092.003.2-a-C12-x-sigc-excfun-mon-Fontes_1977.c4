@@ -1,0 +1,27 @@
+#ENTRY      B0092
+#AUTHOR1    P.Fontes+
+#YEAR       1977
+#INSTITUTE  (2FR CSN)
+#TITLE      B-10 and B-11 production cross sections in C-12
+#+          spallation by protons and alpha particles.
+#+          Application to cosmic ray propagation
+#AUTHOR(S)  P.Fontes
+#REF-CODE   (J,PR/C,15,2159,1977)
+#REFERENCE  Phys.Rev.C 15 (1977) 2159 (doi:10.1103/PhysRevC.15.2159)
+#DATASETS   0
+#
+#DATASET    B00920032
+#DATE       20190120
+#REACTION   6-C-12(A,X)5-B-10,CUM,SIG
+#PROJ       2004
+#TARG       6012
+#MF         3
+#MT         459
+#PRODUCT    5-B-10
+#C4BEGIN    [ 2004  6012   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6012   3 459    1.3000+8 3.0000+7 0.038000 7.0000-3            5010.9                     P.Fontes             (77)B0092  32
+#/DATA      1
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      P0010
+#AUTHOR1    P.J.Daly+
+#YEAR       1964
+#INSTITUTE  (2UK OXF)
+#TITLE      Radiative proton capture cross-sections in heavy nuclei
+#AUTHOR(S)  P.J.Daly, P.F.D.Shaw
+#REF-CODE   (J,NP,56,322,1964)
+#REFERENCE  Nucl.Phys. 56 (1964) 322 (doi:10.1016/0029-5582(64)90484-5)
+#DATASETS   0
+#
+#DATASET    P0010003 
+#DATE       20000808
+#REACTION   52-TE-130(P,G)53-I-131,,SIG
+#PROJ       1001
+#TARG       52130
+#MF         3
+#MT         102
+#PRODUCT    53-I-131
+#C4BEGIN    [ 1001 52130   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 52130   3 102    6420000.          3.0000-5                                                P.J.Daly+            (64)P0010  3 
+ 1001 52130   3 102    7530000.          1.9600-4                                                P.J.Daly+            (64)P0010  3 
+ 1001 52130   3 102    8980000.          4.7800-4                                                P.J.Daly+            (64)P0010  3 
+ 1001 52130   3 102    1.1500+7          7.6400-4                                                P.J.Daly+            (64)P0010  3 
+ 1001 52130   3 102    1.3000+7          8.4600-4                                                P.J.Daly+            (64)P0010  3 
+ 1001 52130   3 102    1.4200+7          6.8600-4                                                P.J.Daly+            (64)P0010  3 
+ 1001 52130   3 102    1.5400+7          4.6800-4                                                P.J.Daly+            (64)P0010  3 
+ 1001 52130   3 102    1.7200+7          4.4200-4                                                P.J.Daly+            (64)P0010  3 
+ 1001 52130   3 102    1.8400+7          3.1600-4                                                P.J.Daly+            (64)P0010  3 
+ 1001 52130   3 102    1.9800+7          2.8000-4                                                P.J.Daly+            (64)P0010  3 
+#/DATA      10
+#/DATASET

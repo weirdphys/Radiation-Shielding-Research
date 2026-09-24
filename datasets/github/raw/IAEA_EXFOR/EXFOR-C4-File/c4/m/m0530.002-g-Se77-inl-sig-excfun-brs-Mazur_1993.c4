@@ -1,0 +1,41 @@
+#ENTRY      M0530
+#AUTHOR1    V.M.Mazur+
+#YEAR       1993
+#INSTITUTE  (4UKRIJD)
+#TITLE      Nuclear isomer excitation cross section in
+#+          (gamma,gamma')-m reactions at 4 - 15 MeV.
+#AUTHOR(S)  V.M.Mazur, I.V.Sokolyuk, Z.M.Bigan, I.Yu.Kobal
+#REF-CODE   (J,YF,56,(1),20,1993)
+#REFERENCE  Yad.Fiz. 56 No.1 (1993) 20
+#DATASETS   0
+#
+#DATASET    M0530002 
+#DATE       20121104
+#REACTION   34-SE-77(G,INL)34-SE-77-M,,SIG,,BRS
+#PROJ       0
+#TARG       34077
+#MF         3
+#MT         102
+#PRODUCT    34-SE-77-M
+#C4BEGIN    [    0 34077   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 34077   3 102M   4500000.          1.0600-4 3.2000-5                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   5000000.          1.6500-4 4.1000-5                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   5500000.          3.2600-4 5.0000-5                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   6000000.          5.3200-4 6.0000-5                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   6500000.          7.2900-4 4.6000-5                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   7000000.          9.3600-4 6.7000-5                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   7500000.          1.0230-3 7.8000-5                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   8000000.          1.0050-3 1.0100-4                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   8500000.          8.9000-4 1.0100-4                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   9000000.          6.8300-4 1.3800-4                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   9500000.          3.9000-4 1.6000-4                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   1.0000+7          1.3800-4 1.7900-4                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   1.0500+7          5.0000-5                                                V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   1.1000+7          1.3800-4 1.8300-4                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   1.1500+7          2.9800-4 2.4800-4                                       V.M.Mazur+           (93)M0530  2 
+    0 34077   3 102M   1.2000+7          4.1700-4 3.0300-4                                       V.M.Mazur+           (93)M0530  2 
+#/DATA      16
+#/DATASET

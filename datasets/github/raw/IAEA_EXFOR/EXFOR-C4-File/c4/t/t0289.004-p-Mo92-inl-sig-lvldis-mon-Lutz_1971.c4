@@ -1,0 +1,31 @@
+#ENTRY      T0289
+#AUTHOR1    H.F.Lutz+
+#YEAR       1971
+#INSTITUTE  (1USALRL)
+#TITLE      Proton Inelastic Scattering from the Five Stable,Even-
+#+          Mass Isotopes of Molybdenum.
+#AUTHOR(S)  H.F.Lutz, D.W.Heikkinen, W.Bartolini
+#REF-CODE   (J,PR/C,4,934,1971)
+#REFERENCE  Phys.Rev.C 4 (1971) 934 (doi:10.1103/PhysRevC.4.934)
+#DATASETS   0
+#
+#DATASET    T0289004 
+#DATE       20040129
+#REACTION   42-MO-92(P,INL)42-MO-92,PAR,SIG
+#PROJ       1001
+#TARG       42092
+#MF         3
+#MT         601
+#PRODUCT    42-MO-92
+#C4BEGIN    [ 1001 42092   3 601 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42092   3 601 D  1.5000+7 25000.00 7.2000-3                            1510000.         LVLH.F.Lutz+            (71)T0289  4 
+ 1001 42092   3 601 D  1.5000+7 25000.00 3.1000-3                            2283000.         LVLH.F.Lutz+            (71)T0289  4 
+ 1001 42092   3 601 D  1.5000+7 25000.00 3.1000-3                            2527000.         LVLH.F.Lutz+            (71)T0289  4 
+ 1001 42092   3 601 D  1.5000+7 25000.00 1.2000-3                            2613000.         LVLH.F.Lutz+            (71)T0289  4 
+ 1001 42092   3 601 D  1.5000+7 25000.00 0.011100                            2850000.         LVLH.F.Lutz+            (71)T0289  4 
+ 1001 42092   3 601 D  1.5000+7 25000.00 3.1000-3                            3110000.         LVLH.F.Lutz+            (71)T0289  4 
+#/DATA      6
+#/DATASET

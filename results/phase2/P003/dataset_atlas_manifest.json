@@ -1,0 +1,32 @@
+{
+  "dataset_id": "P003",
+  "object_id": "P003.TRAJ_BUILD",
+  "coordinate_native": "penetration_MFP",
+  "coordinate_analysis": "penetration_MFP",
+  "coordinate_transform": "identity",
+  "coordinate_reference": NaN,
+  "coordinate_unit": "MFP",
+  "source_path": "results/phase1/canonical_data/public_benchmarks/P003_concrete_exposure_buildup_FLUKA.csv",
+  "n_curves_loaded": 5,
+  "max_curve_points": 15,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "buildup_energy_channels": 5
+  },
+  "registry": {
+    "name": "Published FLUKA concrete buildup benchmark",
+    "particle": "photon",
+    "evidence": "INDEPENDENT SIMULATION/PUBLISHED",
+    "role": "Independent buildup-factor/reference comparison.",
+    "path": "results/phase1/canonical_data/public_benchmarks/P003_concrete_exposure_buildup_FLUKA.csv",
+    "richness": "RICH_FIELD",
+    "guardrail": "Independent simulation, not experimental truth."
+  },
+  "state_group_shapes": {
+    "buildup_energy_channels": {
+      "n_coordinate_points": 15,
+      "state_dimension": 5
+    }
+  }
+}

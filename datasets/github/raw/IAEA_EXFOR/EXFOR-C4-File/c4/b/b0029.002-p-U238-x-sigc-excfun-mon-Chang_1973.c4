@@ -1,0 +1,26 @@
+#ENTRY      B0029
+#AUTHOR1    S.K.Chang+
+#YEAR       1973
+#INSTITUTE  (1USACHI)
+#TITLE      Cross Section and Recoil Properties of Copper Isotopes
+#+          From Uranium Bombarded with 11.5-GeV Protons
+#AUTHOR(S)  S.K.Chang, N.Sugarman
+#REF-CODE   (J,PR/C,8,775,1973)
+#REFERENCE  Phys.Rev.C 8 (1973) 775 (doi:10.1103/PhysRevC.8.775)
+#DATASETS   0
+#
+#DATASET    B0029002 
+#DATE       20011220
+#REACTION   92-U-238(P,X)29-CU-61,CUM,SIG,,,EXP
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         459
+#PRODUCT    29-CU-61
+#C4BEGIN    [ 1001 92238   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3 459    1.150+10          3.7000-4 7.0000-5           29061.9                     S.K.Chang+           (73)B0029  2 
+#/DATA      1
+#/DATASET

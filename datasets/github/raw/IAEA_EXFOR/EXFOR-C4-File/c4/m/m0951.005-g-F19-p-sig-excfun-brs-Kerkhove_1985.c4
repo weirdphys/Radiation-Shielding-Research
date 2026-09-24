@@ -1,0 +1,37 @@
+#ENTRY      M0951
+#AUTHOR1    E.Kerkhove+
+#YEAR       1985
+#INSTITUTE  (2BLGGHT)
+#TITLE      Photoproton decay of the E1 giant resonance in 19F.
+#AUTHOR(S)  E.Kerkhove, R.Van De Vyver, H.Ferdinande, D.Ryckbosch, P.Van Otten, 
+#+          P.Berkvens, E.Van Camp
+#REF-CODE   (J,PR/C,32,368,1985)
+#REFERENCE  Phys.Rev.C 32 (1985) 368 (doi:10.1103/PhysRevC.32.368)
+#DATASETS   0
+#
+#DATASET    M0951005 
+#DATE       20171120
+#REACTION   9-F-19(G,P)8-O-18,PAR,SIG,,BRS
+#PROJ       0
+#TARG       9019
+#MF         3
+#MT         600
+#PRODUCT    8-O-18
+#C4BEGIN    [    0  9019   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  9019   3 600    1.6900+7          1.2160-3 2.6700-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    1.7600+7          1.0000-3 1.7900-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    1.8500+7          1.0670-3 2.3900-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    1.9300+7          1.1970-3 2.6300-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    2.0100+7          1.4670-3 2.5400-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    2.0800+7          1.8570-3 2.0100-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    2.1500+7          1.8440-3 1.2700-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    2.2300+7          1.4900-4 2.4000-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    2.3000+7          1.4700-4 2.0000-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    2.3700+7          1.2900-4 3.3300-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    2.4300+7          1.0000-3 1.9300-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+    0  9019   3 600    2.5100+7          1.3330-3 2.0000-4                   3635000.         LVLE.Kerkhove+          (85)M0951  5 
+#/DATA      12
+#/DATASET

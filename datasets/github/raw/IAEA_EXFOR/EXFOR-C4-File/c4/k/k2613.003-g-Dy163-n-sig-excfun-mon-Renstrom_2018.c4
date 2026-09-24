@@ -1,0 +1,42 @@
+#ENTRY      K2613
+#AUTHOR1    T.Renstrom+
+#YEAR       2018
+#INSTITUTE  (2NOROSL)
+#TITLE      Verification of detailed balance for gamma absorption
+#+          and emission in Dy isotopes
+#AUTHOR(S)  T.Renstrom, H.Utsunomiya, H.T.Nyhus, A.C.Larsen, M.Guttormsen, 
+#+          G.M.Tveten, D.M.Filipescu, I.Gheorghe, S.Goriely, S.Hilaire, 
+#+          Y.-W.Lui, J.E.Midtbo, S.Peru, T.Shima, S.Siem, O.Tesileanu
+#REF-CODE   (J,PR/C,98,054310,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 054310 (doi:10.1103/PhysRevC.98.054310)
+#DATASETS   0
+#
+#DATASET    K2613003 
+#DATE       20190707
+#REACTION   66-DY-163(G,N)66-DY-162,,SIG
+#PROJ       0
+#TARG       66163
+#MF         3
+#MT         4
+#PRODUCT    66-DY-162
+#C4BEGIN    [    0 66163   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 66163   3   4    6480000.          6.1300-3 1.6000-4                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    6740000.          0.013100 3.2000-4                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    7010000.          0.016210 4.1000-4                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    7280000.          0.015080 4.3000-4                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    7550000.          0.018950 5.4000-4                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    7830000.          0.020840 6.1000-4                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    8280000.          0.027590 7.6000-4                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    8730000.          0.033670 9.5000-4                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    9200000.          0.046940 1.3900-3                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    9820000.          0.069230 1.9500-3                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    1.0460+7          0.095560 2.8400-3                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    1.1120+7          0.149620 4.3900-3                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    1.1800+7          0.258440 6.9600-3                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    1.2490+7          0.295000 9.0200-3                                       T.Renstrom+          (18)K2613  3 
+    0 66163   3   4    1.3210+7          0.225600 8.8900-3                                       T.Renstrom+          (18)K2613  3 
+#/DATA      15
+#/DATASET

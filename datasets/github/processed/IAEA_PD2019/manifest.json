@@ -1,0 +1,21 @@
+{
+  "dataset": "IAEA/PD-2019",
+  "evidence_type": "EVALUATED",
+  "archive": "/home/a/Downloads/split_for_chatgpt/iaea-pd2019.tar.gz",
+  "candidate_endf_files": 219,
+  "successfully_parsed_files": 219,
+  "failed_files": 0,
+  "mf3_cross_section_rows": 178635,
+  "mf6_sections": 1210,
+  "mf33_sections": 0,
+  "primary_output": "pd2019_mf3_cross_sections.parquet",
+  "notes": [
+    "MF=3 native pointwise cross sections are preserved without interpolation.",
+    "Incident ENDF energies are converted from eV to MeV in an additional column.",
+    "Cross sections remain in barns.",
+    "MF=6 and MF=33 are inventoried separately rather than flattened incorrectly."
+  ],
+  "processing_notes": [
+    "g_74-W-184_7437.endf contained legacy non-UTF-8 characters in textual reference metadata. The original file was preserved and a Latin-1-decoded UTF-8 working copy was used for parsing."
+  ]
+}

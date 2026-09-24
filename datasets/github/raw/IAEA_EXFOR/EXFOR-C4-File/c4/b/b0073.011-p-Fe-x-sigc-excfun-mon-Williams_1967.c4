@@ -1,0 +1,39 @@
+#ENTRY      B0073
+#AUTHOR1    I.R.Williams+
+#YEAR       1967
+#INSTITUTE  (1USAORL)
+#TITLE      Excitation functions for radioactive isotopes produced
+#+          by protons below 60 MeV on Al, Fe, and Cu
+#AUTHOR(S)  I.R.Williams, C.B.Fulmer
+#REF-CODE   (J,PR,162,1055,1967)
+#REFERENCE  Phys.Rev. 162 (1967) 1055 (doi:10.1103/PhysRev.162.1055)
+#DATASETS   0
+#
+#DATASET    B0073011 
+#DATE       20011220
+#REACTION   26-FE-0(P,X)24-CR-51,CUM,SIG,,,EXP
+#PROJ       1001
+#TARG       26000
+#MF         3
+#MT         459
+#PRODUCT    24-CR-51
+#C4BEGIN    [ 1001 26000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26000   3 459    3.1900+7          2.6000-3 7.8000-4           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    3.3300+7          4.1000-3 1.2300-3           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    3.5100+7          7.0000-3 2.1000-3           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    3.7700+7          0.014000 4.2000-3           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    4.0700+7          0.027000 8.1000-3           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    4.4500+7          0.046000 0.013800           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    4.5900+7          0.051000 0.015300           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    4.7100+7          0.054000 0.016200           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    4.8300+7          0.056000 0.016800           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    5.0100+7          0.053000 0.015900           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    5.1900+7          0.047000 0.014100           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    5.5300+7          0.040000 0.012000           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    5.9100+7          0.032000 9.6000-3           24051.9                     I.R.Williams+        (67)B0073 11 
+ 1001 26000   3 459    6.3100+7          0.027000 8.1000-3           24051.9                     I.R.Williams+        (67)B0073 11 
+#/DATA      14
+#/DATASET

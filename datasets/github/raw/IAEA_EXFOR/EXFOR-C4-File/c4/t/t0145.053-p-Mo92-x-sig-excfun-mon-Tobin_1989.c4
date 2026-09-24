@@ -1,0 +1,26 @@
+#ENTRY      T0145
+#AUTHOR1    M.J.Tobin+
+#YEAR       1989
+#INSTITUTE  (1USAPUP)
+#TITLE      Isobaric yield curves at A=72 from the spallation of
+#+          medium mass isotopes by intermediate energy protons.
+#AUTHOR(S)  M.J.Tobin, P.J.Karol
+#REF-CODE   (J,PR/C,39,2330,1989)
+#REFERENCE  Phys.Rev.C 39 (1989) 2330 (doi:10.1103/PhysRevC.39.2330)
+#DATASETS   0
+#
+#DATASET    T0145053 
+#DATE       20010213
+#REACTION   42-MO-92(P,X)33-AS-76,,SIG
+#PROJ       1001
+#TARG       42092
+#MF         3
+#MT         454
+#PRODUCT    33-AS-76
+#C4BEGIN    [ 1001 42092   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42092   3 454    8.0000+8          1.6000-4 4.0000-5           33076.9                     M.J.Tobin+           (89)T0145 53 
+#/DATA      1
+#/DATASET

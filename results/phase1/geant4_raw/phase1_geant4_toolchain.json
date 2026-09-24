@@ -1,0 +1,19 @@
+{
+  "status": "resolved",
+  "geant4_config": "/home/a/miniconda3/envs/neutron-g4-native/bin/geant4-config",
+  "geant4_prefix": "/home/a/miniconda3/envs/neutron-g4-native",
+  "geant4_version": "11.4.2",
+  "geant4_cxxstd": "17",
+  "geant4_multithreading_feature": "yes",
+  "environment_source": "geant4-config --sh",
+  "cxx": "/home/a/miniconda3/envs/neutron-g4-native/bin/x86_64-conda-linux-gnu-c++",
+  "cmake": "/home/a/miniconda3/envs/neutron-g4-native/bin/cmake",
+  "Geant4_DIR": "/home/a/miniconda3/envs/neutron-g4-native/lib/cmake/Geant4",
+  "datasets": "G4NDL G4NEUTRONHPDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1\nG4EMLOW G4LEDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8\nPhotonEvaporation G4LEVELGAMMADATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2\nRadioactiveDecay G4RADIOACTIVEDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2\nG4PARTICLEXS G4PARTICLEXSDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2\nG4PII G4PIIDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3\nRealSurface G4REALSURFACEDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2\nG4SAIDDATA G4SAIDXSDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0\nG4ABLA G4ABLADATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3\nG4INCL G4INCLDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3\nG4ENSDFSTATE G4ENSDFSTATEDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0\nG4CHANNELING G4CHANNELINGDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0",
+  "dataset_check": "G4NDL INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1\nG4EMLOW INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8\nPhotonEvaporation INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2\nRadioactiveDecay INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2\nG4PARTICLEXS INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2\nG4PII INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3\nRealSurface INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2\nG4SAIDDATA INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0\nG4ABLA INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3\nG4INCL INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3\nG4ENSDFSTATE INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0\nG4CHANNELING INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0",
+  "available_build_backends": [
+    "geant4-config-direct",
+    "cmake"
+  ],
+  "attempts": []
+}

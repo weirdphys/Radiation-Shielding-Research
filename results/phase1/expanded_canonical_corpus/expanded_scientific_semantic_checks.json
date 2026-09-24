@@ -1,0 +1,12 @@
+{
+  "RB2000164_all_T_physical": true,
+  "RB2000164_all_sigma_nonnegative": true,
+  "RB2000209_all_T_physical": true,
+  "RB2000209_no_Sigma_column": true,
+  "RB2000209_no_GEM_claim": true,
+  "ESTAR_81_rows": true,
+  "ESTAR_energy_10keV_to_1GeV": true,
+  "BROAD_BEAM_35_rows": true,
+  "PD2019_nonempty": true,
+  "PSSD_canonical_exists": true
+}

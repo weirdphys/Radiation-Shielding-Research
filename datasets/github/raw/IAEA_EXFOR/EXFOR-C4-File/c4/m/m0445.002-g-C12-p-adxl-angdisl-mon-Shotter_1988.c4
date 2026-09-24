@@ -1,0 +1,91 @@
+#ENTRY      M0445
+#AUTHOR1    A.C.Shotter+
+#YEAR       1988
+#INSTITUTE  (2UK EDG)
+#TITLE      C-12(gamma,p) reaction at Eg = 60 MeV.
+#AUTHOR(S)  A.C.Shotter, S.Springham, D.Branford, J.Yorkston, J.C.McGeorge, 
+#+          B.Schoch, P.Jennewein
+#REF-CODE   (J,PR/C,37,1354,1988)
+#REFERENCE  Phys.Rev.C 37 (1988) 1354 (doi:10.1103/PhysRevC.37.1354)
+#DATASETS   0
+#
+#DATASET    M0445002 
+#DATE       20160412
+#REACTION   6-C-12(G,P)5-B-11,PAR,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 600    6.0000+7          1.9000-5 2.0000-6 0.438371          0.000000         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          1.9000-5 1.0000-6 0.342020          0.000000         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          1.4600-5 7.0000-7 0.190809          0.000000         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          1.0000-5 5.0000-7 6.123-17          0.000000         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          6.6000-6 2.5000-7-0.190809          0.000000         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          2.6000-6 3.0000-7-0.422618          0.000000         LVLA.C.Shotter+         (88)M0445  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    M0445002 
+#DATE       20160412
+#REACTION   6-C-12(G,P)5-B-11,PAR,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 600    6.0000+7          4.6000-6 4.0000-7 0.342020          2120000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          4.5000-6 3.0000-7 0.190809          2120000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          2.2000-6 1.0000-7 6.123-17          2120000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          1.4000-6 7.0000-8-0.190809          2120000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          1.2000-6 5.0000-8-0.422618          2120000.         LVLA.C.Shotter+         (88)M0445  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    M0445002 
+#DATE       20160412
+#REACTION   6-C-12(G,P)5-B-11,PAR,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 600    6.0000+7          2.4000-6 1.0000-7 0.342020          5020000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          2.5000-6 7.0000-8 0.190809          5020000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          1.9000-6 5.0000-8 6.123-17          5020000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          1.6000-6 3.0000-8-0.190809          5020000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          1.1000-6 2.0000-8-0.422618          5020000.         LVLA.C.Shotter+         (88)M0445  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    M0445002 
+#DATE       20160412
+#REACTION   6-C-12(G,P)5-B-11,PAR,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 600    6.0000+7          5.1000-6 5.0000-7 0.342020          6790000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          4.5000-6 3.0000-7 0.190809          6790000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          4.3000-6 2.0000-7 6.123-17          6790000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          3.2000-6 1.0000-7-0.190809          6790000.         LVLA.C.Shotter+         (88)M0445  2 
+    0  6012   4 600    6.0000+7          2.8000-6 1.0000-7-0.422618          6790000.         LVLA.C.Shotter+         (88)M0445  2 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,7 @@
+curve,observable,ensemble_group,lag_samples,lag_coordinate,mutual_information
+PDD,pdd_percent,PDD,1,1.0,1.4768922492225685
+PDD,pdd_percent,PDD,2,2.0,1.4105931280986637
+PDD,pdd_percent,PDD,3,3.0,1.3245573369096646
+PDD,pdd_percent,PDD,4,4.0,1.2715597626851567
+PDD,pdd_percent,PDD,5,5.0,1.2715779696006744
+PDD,pdd_percent,PDD,6,6.0,1.2350128453081743

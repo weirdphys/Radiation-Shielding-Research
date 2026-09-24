@@ -1,0 +1,30 @@
+#ENTRY      P0064
+#AUTHOR1    S.J.Iwata+
+#YEAR       1962
+#INSTITUTE  (2JPNKTO)
+#TITLE      Isomeric Cross Section Ratios in Alpha-Particle
+#+          Reactions
+#AUTHOR(S)  S.J.Iwata
+#REF-CODE   (J,JPJ,17,1323,1962)
+#REFERENCE  J.Phys.Soc.Jpn. 17 (1962) 1323 (doi:10.1143/JPSJ.17.1323)
+#DATASETS   0
+#
+#DATASET    P0064010 
+#DATE       20000817
+#REACTION   37-RB-85(A,3N)39-Y-86,,SIG
+#PROJ       2004
+#TARG       37085
+#MF         3
+#MT         17
+#PRODUCT    39-Y-86
+#C4BEGIN    [ 2004 37085   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 37085   3  17    3.0000+7          0.091600                                                S.J.Iwata            (62)P0064 10 
+ 2004 37085   3  17    3.2200+7          0.302000                                                S.J.Iwata            (62)P0064 10 
+ 2004 37085   3  17    3.4300+7          0.402000                                                S.J.Iwata            (62)P0064 10 
+ 2004 37085   3  17    3.6200+7          0.640000                                                S.J.Iwata            (62)P0064 10 
+ 2004 37085   3  17    3.8700+7          0.625000                                                S.J.Iwata            (62)P0064 10 
+#/DATA      5
+#/DATASET

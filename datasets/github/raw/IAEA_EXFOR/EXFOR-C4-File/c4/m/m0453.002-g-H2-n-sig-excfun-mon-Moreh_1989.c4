@@ -1,0 +1,25 @@
+#ENTRY      M0453
+#AUTHOR1    R.Moreh+
+#YEAR       1989
+#INSTITUTE  (3ISLNEG)
+#TITLE      H-2(gamma,n) absolute cross section at 2754 keV.
+#AUTHOR(S)  R.Moreh, T.J.Kennett, W.V.Prestwich
+#REF-CODE   (J,PR/C,39,1247,1989)
+#REFERENCE  Phys.Rev.C 39 (1989) 1247 (doi:10.1103/PhysRevC.39.1247)
+#DATASETS   0
+#
+#DATASET    M0453002 
+#DATE       20160412
+#REACTION   1-H-2(G,N)1-H-1,,SIG
+#PROJ       0
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   3   4    2754000.          1.4560-3 4.5000-5                                       R.Moreh+             (89)M0453  2 
+#/DATA      1
+#/DATASET

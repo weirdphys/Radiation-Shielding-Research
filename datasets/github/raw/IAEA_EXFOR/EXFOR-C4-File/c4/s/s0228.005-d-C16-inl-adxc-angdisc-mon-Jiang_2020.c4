@@ -1,0 +1,37 @@
+#ENTRY      S0228
+#AUTHOR1    Y.Jiang+
+#YEAR       2020
+#INSTITUTE  (3CPRBJG)
+#TITLE      Quadrupole deformation of 16C studied by proton and
+#+          deuteron inelastic scattering
+#AUTHOR(S)  Y.Jiang, J.L.Lou, Y.L.Ye, Y.Liu, Z.W.Tan, W.Liu, B.Yang, 
+#+          L.C.Tao, K.Ma, Z.H.Li, Q.T.Li, X.F.Yang, J.Y.Xu, H.Z.Yu, 
+#+          J.X.Han, S.W.Bai, S.W.Huang, G.Li, H.Y.Wu, H.L.Zang, J.Feng, 
+#+          Z.Q.Chen, Y.D.Chen, Q.Yuan, J.G.Li, B.S.Hu, F.R.Xu, J.S.Wang, 
+#+          Y.Y.Yang, P.Ma, Q.Hu, Z.Bai, Z.H.Gao, F.F.Duan, L.Y.Hu, 
+#+          J.H.Tan, S.Q.Sun, Y.S.Song, H.J.Ong, D.T.Tran, D.Y.Pang, 
+#+          C.X.Yuan
+#REF-CODE   (J,PR/C,101,024601,2020)
+#REFERENCE  Phys.Rev.C 101 (2020) 024601 (doi:10.1103/PhysRevC.101.024601)
+#DATASETS   0
+#
+#DATASET    S0228005 
+#DATE       20201225
+#REACTION   (1-H-2(6-C-16,INL)1-H-2,PAR,DA)=(6-C-16(D,INL)6-C-16,PAR,DA)
+#PROJ       1002
+#TARG       6016
+#MF         4
+#MT         651
+#PRODUCT    6-C-16
+#C4BEGIN    [ 1002  6016   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6016   4 651  C 4.8000+7          1.6900-3 3.0000-4 0.576718          1766000.         LVLY.Jiang+             (20)S0228  5 
+ 1002  6016   4 651  C 4.8000+7          3.4300-3 4.4000-4 0.633381          1766000.         LVLY.Jiang+             (20)S0228  5 
+ 1002  6016   4 651  C 4.8000+7          5.2600-3 5.6000-4 0.691639          1766000.         LVLY.Jiang+             (20)S0228  5 
+ 1002  6016   4 651  C 4.8000+7          5.9600-3 6.2000-4 0.744078          1766000.         LVLY.Jiang+             (20)S0228  5 
+ 1002  6016   4 651  C 4.8000+7          6.5600-3 7.0000-4 0.791757          1766000.         LVLY.Jiang+             (20)S0228  5 
+ 1002  6016   4 651  C 4.8000+7          7.7000-3 7.8000-4 0.835520          1766000.         LVLY.Jiang+             (20)S0228  5 
+#/DATA      6
+#/DATASET

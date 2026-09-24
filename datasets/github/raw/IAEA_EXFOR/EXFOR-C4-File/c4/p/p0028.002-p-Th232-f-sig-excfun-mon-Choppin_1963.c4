@@ -1,0 +1,32 @@
+#ENTRY      P0028
+#AUTHOR1    G.R.Choppin+
+#YEAR       1963
+#INSTITUTE  (1USAFSU)
+#TITLE      Low-Energy Charged-Particle-Induced Fission
+#AUTHOR(S)  G.R.Choppin, J.R.Meriwether, J.D.Fox
+#REF-CODE   (J,PR,131,2149,1963)
+#REFERENCE  Phys.Rev. 131 (1963) 2149 (doi:10.1103/PhysRev.131.2149)
+#DATASETS   0
+#
+#DATASET    P0028002 
+#DATE       20140207
+#REACTION   90-TH-232(P,F),,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3  18    2849000. 3000.000 3.0590-7 7.4550-7                                       G.R.Choppin+         (63)P0028  2 
+ 1001 90232   3  18    3837000. 3000.000 1.8100-6 8.1570-7                                       G.R.Choppin+         (63)P0028  2 
+ 1001 90232   3  18    4857000. 3000.000 6.6730-6                                                G.R.Choppin+         (63)P0028  2 
+ 1001 90232   3  18    5872000. 3000.000 4.2980-5                                                G.R.Choppin+         (63)P0028  2 
+ 1001 90232   3  18    6885000. 3000.000 4.2960-4                                                G.R.Choppin+         (63)P0028  2 
+ 1001 90232   3  18    7871000. 3000.000 3.2760-3                                                G.R.Choppin+         (63)P0028  2 
+ 1001 90232   3  18    8831000. 3000.000 0.017220                                                G.R.Choppin+         (63)P0028  2 
+ 1001 90232   3  18    1.0847+7 3000.000 0.115000                                                G.R.Choppin+         (63)P0028  2 
+ 1001 90232   3  18    1.1873+7 3000.000 0.151100                                                G.R.Choppin+         (63)P0028  2 
+#/DATA      9
+#/DATASET

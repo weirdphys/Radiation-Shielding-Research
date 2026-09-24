@@ -1,0 +1,26 @@
+#ENTRY      L0206
+#AUTHOR1    G.P.Estes+
+#YEAR       1970
+#INSTITUTE  (1USAVIR)
+#TITLE      Photoexcitation of the 7.64-MeV Magnetic Dipole
+#+          Levels in Cd112 and Ni62 by Iron Capture Gamma Rays
+#AUTHOR(S)  G.P.Estes, K.Min
+#REF-CODE   (J,PR/C,1,201,1970)
+#REFERENCE  Phys.Rev.C 1 (1970) 201 (doi:10.1103/PhysRevC.1.201)
+#DATASETS   0
+#
+#DATASET    L0206008 
+#DATE       20150320
+#REACTION   48-CD-112(G,EL)48-CD-112,,DA
+#PROJ       0
+#TARG       48112
+#MF         4
+#MT         2
+#PRODUCT    48-CD-112
+#C4BEGIN    [    0 48112   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 48112   4   2    7640000.          0.015200 3.0000-3-0.707107                              G.P.Estes+           (70)L0206  8 
+#/DATA      1
+#/DATASET

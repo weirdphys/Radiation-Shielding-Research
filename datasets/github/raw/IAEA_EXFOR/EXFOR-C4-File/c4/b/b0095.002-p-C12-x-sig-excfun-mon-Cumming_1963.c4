@@ -1,0 +1,34 @@
+#ENTRY      B0095
+#AUTHOR1    J.B.Cumming+
+#YEAR       1963
+#INSTITUTE  (1USABNL)
+#TITLE      Absolute Cross Section For the C-12(P,PN)C-11 Reaction
+#+          At 50 MeV
+#AUTHOR(S)  J.B.Cumming
+#REF-CODE   (J,NP,49,417,1963)
+#REFERENCE  Nucl.Phys. 49 (1963) 417 (doi:10.1016/0029-5582(63)90104-4)
+#DATASETS   0
+#
+#DATASET    B0095002 
+#DATE       20011220
+#REACTION   6-C-12(P,X)6-C-11,IND,SIG,,,EXP
+#PROJ       1001
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   3 454    2.0700+7 1000000. 0.038000 1.3000-3            6011.9                     J.B.Cumming          (63)B0095  2 
+ 1001  6012   3 454    2.1100+7 1000000. 0.032900 1.1000-3            6011.9                     J.B.Cumming          (63)B0095  2 
+ 1001  6012   3 454    3.0100+7          0.089100 3.0000-3            6011.9                     J.B.Cumming          (63)B0095  2 
+ 1001  6012   3 454    3.3300+7          0.092500 3.1000-3            6011.9                     J.B.Cumming          (63)B0095  2 
+ 1001  6012   3 454    3.7700+7          0.090000 3.0000-3            6011.9                     J.B.Cumming          (63)B0095  2 
+ 1001  6012   3 454    4.2000+7          0.089400 3.0000-3            6011.9                     J.B.Cumming          (63)B0095  2 
+ 1001  6012   3 454    4.2800+7          0.091000 3.0000-3            6011.9                     J.B.Cumming          (63)B0095  2 
+ 1001  6012   3 454    4.4200+7          0.088800 3.0000-3            6011.9                     J.B.Cumming          (63)B0095  2 
+ 1001  6012   3 454    5.0500+7          0.086400 2.6000-3            6011.9                     J.B.Cumming          (63)B0095  2 
+#/DATA      9
+#/DATASET

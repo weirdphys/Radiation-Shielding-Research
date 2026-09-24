@@ -1,0 +1,35 @@
+#ENTRY      S0055
+#AUTHOR1    Li Chen+
+#YEAR       2007
+#INSTITUTE  (3CPRBJG)
+#TITLE      Measurement of total reaction cross section for
+#+          neutron-rich nucleus 11Li on 28Si target at medium
+#+          energy
+#AUTHOR(S)  Li Chen, Ye Yan-Lin, Zhan Wen-Long, Xiao Guo-Qing, Xu Hu-Shan, 
+#+          Guo Zhong-Yang, Wang Jian-Song, Sun Zhi-Yu, Li Jia-Xing, 
+#+          Wang Meng, Chen Zhi-Qiang, Jiang Dong-Xing, Zheng Tao, Hua Hui, 
+#+          Li Zhi-Huan, Li Xiang-Qing, Ge Yu-Cheng, Pang Dan-Yang, 
+#+          Lou Jian-Ling, Lu Fei, Fan Feng-Ying, Lu Lin-Hu
+#REF-CODE   (J,PHE,31,1102,200712)
+#REFERENCE  High En.Nucl.Phy.Ch. 31 (2007) 1102
+#DATASETS   0
+#
+#DATASET    S0055002 
+#DATE       20091022
+#REACTION   14-SI-28(3-LI-11,NON),,SIG
+#PROJ       3011
+#TARG       14028
+#MF         3
+#MT         3
+#C4BEGIN    [ 3011 14028   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3011 14028   3   3    4.5210+8 1.2100+7 2.276000 0.095000                                       Li Chen+             (07)S0055  2 
+ 3011 14028   3   3    4.3120+8 8800000. 2.314000 0.095000                                       Li Chen+             (07)S0055  2 
+ 3011 14028   3   3    3.9600+8 2.6400+7 2.362000 0.095000                                       Li Chen+             (07)S0055  2 
+ 3011 14028   3   3    3.5530+8 1.4300+7 2.424000 0.100000                                       Li Chen+             (07)S0055  2 
+ 3011 14028   3   3    3.2560+8 1.5400+7 2.450000 0.100000                                       Li Chen+             (07)S0055  2 
+ 3011 14028   3   3    2.7500+8 3.5200+7 2.483000 0.100000                                       Li Chen+             (07)S0055  2 
+#/DATA      6
+#/DATASET

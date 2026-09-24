@@ -1,0 +1,63 @@
+{
+  "dataset_id": "P005_SIM",
+  "object_id": "P005_SIM.TRAJ_SPEC",
+  "coordinate_native": "depth_MFP",
+  "coordinate_analysis": "depth_MFP",
+  "coordinate_transform": "identity",
+  "coordinate_reference": NaN,
+  "coordinate_unit": "MFP",
+  "source_path": "data/processed/PSSD/pssd_canonical_spectra.parquet",
+  "n_curves_loaded": 64,
+  "max_curve_points": 16,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "P005_TRAJ_SPEC__element=H__Ein=0.1MeV": 16,
+    "P005_TRAJ_SPEC__element=Pr__Ein=1.5MeV": 16,
+    "P005_TRAJ_SPEC__element=Se__Ein=1.25MeV": 16,
+    "P005_TRAJ_SPEC__element=U__Ein=10MeV": 16
+  },
+  "registry": {
+    "name": "Photon Shielding Spectra Dataset (PSSD)",
+    "particle": "photon",
+    "evidence": "SIMULATED",
+    "role": "971,520-row authoritative canonical long-form simulated spectral reference (92 elements \u00d7 22 incident energies \u00d7 16 depths \u00d7 30 outgoing-energy bins).",
+    "path": "data/processed/PSSD/pssd_canonical_spectra.parquet",
+    "richness": "VERY_RICH_TENSOR",
+    "guardrail": "Simulation only; do not composition-weight pure-element spectra to manufacture concrete spectra."
+  },
+  "state_group_shapes": {
+    "P005_TRAJ_SPEC__element=H__Ein=0.1MeV": {
+      "n_coordinate_points": 16,
+      "state_dimension": 30
+    },
+    "P005_TRAJ_SPEC__element=Se__Ein=1.25MeV": {
+      "n_coordinate_points": 16,
+      "state_dimension": 30
+    },
+    "P005_TRAJ_SPEC__element=Pr__Ein=1.5MeV": {
+      "n_coordinate_points": 16,
+      "state_dimension": 30
+    },
+    "P005_TRAJ_SPEC__element=U__Ein=10MeV": {
+      "n_coordinate_points": 16,
+      "state_dimension": 30
+    }
+  },
+  "source_trajectory_count": 2024,
+  "selected_candidate_trajectory_count": 12,
+  "constructed_trajectory_count": 4,
+  "trajectory_key_columns": [
+    "element",
+    "incident_energy_MeV"
+  ],
+  "trajectory_coordinate_column": "depth_MFP",
+  "state_axis_column": "outgoing_energy_MeV",
+  "state_value_column": "relative_flux",
+  "state_semantics": "complete_outgoing_energy_spectrum_ordered_by_depth_MFP",
+  "scalar_curve_role": "spectral_channel_projections_of_TRAJ_SPEC",
+  "projection_cap_per_trajectory": 16,
+  "rejected_incomplete_tensor_count": 0,
+  "raw_rows_seen": 971520,
+  "selected_rows": 5760
+}

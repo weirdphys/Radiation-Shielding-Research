@@ -1,0 +1,33 @@
+#ENTRY      P0047
+#AUTHOR1    W.W.Meinke+
+#YEAR       1956
+#INSTITUTE  (1USABRK)
+#TITLE      High-energy excitation functions in the heavy region
+#AUTHOR(S)  W.W.Meinke, G.C.Wick, G.T.Seaborg
+#REF-CODE   (J,JIN,3,69,1956)
+#REFERENCE  J.Inorg.Nucl.Chem. 3 (1956) 69 (doi:10.1016/0022-1902(56)80071-7)
+#DATASETS   0
+#
+#DATASET    P0047005 
+#DATE       20170619
+#REACTION   90-TH-232(P,3N)91-PA-230,,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         17
+#PRODUCT    91-PA-230
+#C4BEGIN    [ 1001 90232   3  17 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3  17 C  2.1000+7          6.0000-4                                                W.W.Meinke+          (56)P0047  5 
+ 1001 90232   3  17 C  4.2400+7          7.5000-3                                                W.W.Meinke+          (56)P0047  5 
+ 1001 90232   3  17 C  5.3200+7          0.057400                                                W.W.Meinke+          (56)P0047  5 
+ 1001 90232   3  17 C  6.3200+7          0.237000                                                W.W.Meinke+          (56)P0047  5 
+ 1001 90232   3  17 C  8.5200+7          0.141000                                                W.W.Meinke+          (56)P0047  5 
+ 1001 90232   3  17 C  1.0500+8          0.080300                                                W.W.Meinke+          (56)P0047  5 
+ 1001 90232   3  17 C  1.2600+8          0.060400                                                W.W.Meinke+          (56)P0047  5 
+ 1001 90232   3  17 C  2.4700+8          0.025500                                                W.W.Meinke+          (56)P0047  5 
+ 1001 90232   3  17 C  3.4400+8          9.7500-3                                                W.W.Meinke+          (56)P0047  5 
+#/DATA      9
+#/DATASET

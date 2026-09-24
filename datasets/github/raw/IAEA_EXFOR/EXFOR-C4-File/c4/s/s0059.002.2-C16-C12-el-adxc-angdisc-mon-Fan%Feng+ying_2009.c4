@@ -1,0 +1,37 @@
+#ENTRY      S0059
+#AUTHOR1    Fan Feng-ying+
+#YEAR       2009
+#INSTITUTE  (3CPRBJG)
+#TITLE      Quasi-Elastic Scattering of 16C from 12C at 47.5
+#+          MeV/Nucleon
+#AUTHOR(S)  Fan Feng-ying, Zheng Tao, Ye Yan-lin, Jiang Dong-xing, Hua Hui, 
+#+          Li Zhi-huan, Ge Yu-cheng, Li Xiang-qing, Lou Jian-ling, 
+#+          Shi Fan, Lv Lin-hui, Cao Zhong-xin, Nie Peng-xuan, Li Qi-te, 
+#+          Song Yu-shou, Lu Fei, Xu Hu-shan, Hu Zheng-guo, Wang Meng, 
+#+          Zhang Xue-ying, Li Chen, Chen Ruo-fu, Tang Bin, Xu Zhi-guo, 
+#+          Yue Ke, Zhang Ya-peng, Zang Yong-dong, Zhang Xue-heng, Yao Xiang-wu, 
+#+          Chen Jin-da, Tu Xiao-lin, Zhang Jie, Wu Da-peng, Bai Zhen
+#REF-CODE   (J,CPL,26,(8),082501,2009)
+#REFERENCE  Chin.Phys.Lett. 26 No.8 (2009) 082501 (doi:10.1088/0256-307X/26/8/082501)
+#DATASETS   0
+#
+#DATASET    S00590022
+#DATE       20110527
+#REACTION   6-C-12(6-C-16,EL)6-C-12,,DA,,RTH
+#PROJ       6016
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 6016  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6016  6012   4   2  C 7.6000+8          16.27774 1.307551 0.995805                              Fan Feng-ying+       (09)S0059  22
+ 6016  6012   4   2  C 7.6000+8          19.50831 0.118092 0.991239                              Fan Feng-ying+       (09)S0059  22
+ 6016  6012   4   2  C 7.6000+8          9.312548 0.055585 0.985049                              Fan Feng-ying+       (09)S0059  22
+ 6016  6012   4   2  C 7.6000+8          3.536490 0.079954 0.977194                              Fan Feng-ying+       (09)S0059  22
+ 6016  6012   4   2  C 7.6000+8          0.137884 4.0303-4 0.918722                              Fan Feng-ying+       (09)S0059  22
+ 6016  6012   4   2  C 7.6000+8          0.024895 2.4466-4 0.837433                              Fan Feng-ying+       (09)S0059  22
+#/DATA      6
+#/DATASET

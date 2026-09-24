@@ -1,0 +1,122 @@
+{
+  "dataset_id": "IAEA_EXFOR",
+  "name": "IAEA Experimental Nuclear Reaction Data \u2014 EXFOR",
+  "evidence_type": "EXPERIMENTAL",
+  "canonical_computational_representation": "official IAEA-NDS EXFOR C4 File",
+  "official_repository": "https://github.com/IAEA-NDS/exfor-c4-file.git",
+  "official_repository_commit": "d34c92862c33e631d9a669c1d8506ec48f8c8c6a",
+  "license": "CC BY 4.0",
+  "public_access": "Direct public access; no registration, request, membership, licence application or approval required.",
+  "raw_TRANS_archive": null,
+  "important_TRANS_rule": "Historical TRANS files were NOT concatenated into the canonical scientific table because successive TRANS files represent database transmissions/updates and can contain historical/superseded states.",
+  "c4_scope": [
+    "cross sections including gamma production",
+    "angular differential cross sections",
+    "energy differential cross sections",
+    "double differential cross sections",
+    "fission neutron multiplicities",
+    "fission product yields"
+  ],
+  "c4_units": {
+    "incident_energy": "eV",
+    "MF3_cross_section": "barn",
+    "note": "Other C4 data-value units depend on MF/quantity; the generic table therefore preserves MF and does not falsely label every data_value as barn."
+  },
+  "canonical_outputs": {
+    "all_computational_points": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/IAEA_EXFOR/exfor_c4_all_points.parquet",
+    "MF3_cross_sections": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/IAEA_EXFOR/exfor_mf3_cross_sections.parquet",
+    "photonuclear_MF3_all": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/IAEA_EXFOR/exfor_photonuclear_mf3_all.parquet",
+    "photonuclear_MF3_strict": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/IAEA_EXFOR/exfor_photonuclear_mf3_strict.parquet"
+  },
+  "strict_photonuclear_policy": {
+    "MF": 3,
+    "projectile": "photon",
+    "require_positive_energy": true,
+    "allow_zero_cross_section": true,
+    "reject_negative_cross_section": true,
+    "excluded_status_codes": {
+      "U": "un-normalized/nonstandard output units",
+      "O": "outdated",
+      "S": "superseded"
+    },
+    "retained_with_flags": [
+      "A approved-by-author",
+      "C correlated",
+      "D dependent",
+      "P preliminary",
+      "R renormalized",
+      "blank/not-specified"
+    ]
+  },
+  "phase1_role": "Experimental reaction benchmark. For photonuclear validation, EXFOR experiment should be compared against PD-2019 evaluated data and then Geant4 only when target, reaction MT, observable, frame and energy contract match.",
+  "qc": {
+    "official_c4_commit": "d34c92862c33e631d9a669c1d8506ec48f8c8c6a",
+    "c4_files": 98480,
+    "files_parsed": 98480,
+    "parse_errors": 0,
+    "all_c4_rows": 8571124,
+    "MF3_cross_section_rows": 4936050,
+    "photonuclear_MF3_rows_all_statuses": 66683,
+    "photonuclear_MF3_rows_strict": 66683,
+    "strict_energy_min_eV": 262000.0,
+    "strict_energy_max_eV": 3779000000.0,
+    "strict_nonfinite_energy": 0,
+    "strict_nonpositive_energy": 0,
+    "strict_nonfinite_values": 0,
+    "strict_negative_values": 0,
+    "strict_negative_uncertainties": 0,
+    "strict_forbidden_U_O_S_status_rows": 0,
+    "strict_unique_entries": 578,
+    "strict_unique_subentries": 1498,
+    "strict_reaction_strings": 896,
+    "parse_pass": true,
+    "strict_physics_pass": true,
+    "overall_pass": true
+  },
+  "output_hashes": {
+    "exfor_c4_all_points.parquet": {
+      "size_bytes": 161563006,
+      "sha256": "0cf8cb58112fceaf66acf9a6d76fd03cf199e27d9e57eaaf513fd494b1e7e5b3"
+    },
+    "exfor_mf3_cross_sections.parquet": {
+      "size_bytes": 104432341,
+      "sha256": "56e88f2fefed3a3a3f60c4bf6a86bb698f8006032803212641501d7b21663b33"
+    },
+    "exfor_photonuclear_mf3_all.parquet": {
+      "size_bytes": 919596,
+      "sha256": "92c06368ac283043775548fb958c23965486245adbb9b19b28f489104d09e551"
+    },
+    "exfor_photonuclear_mf3_strict.parquet": {
+      "size_bytes": 919596,
+      "sha256": "92c06368ac283043775548fb958c23965486245adbb9b19b28f489104d09e551"
+    },
+    "exfor_c4_file_inventory.parquet": {
+      "size_bytes": 1914508,
+      "sha256": "b4210d51c49ce0c2fa304811b3bdbbabff36b70f15da0c269a39d834abe26a78"
+    },
+    "exfor_c4_file_inventory.csv": {
+      "size_bytes": 10212555,
+      "sha256": "a4091806aa4cc68de91ba417f8335602b4179120a1297f0b57bc74c8bd42d846"
+    },
+    "exfor_parse_errors.csv": {
+      "size_bytes": 35,
+      "sha256": "f03214dadbb721dc4e46f3fa6761759e345ad65d7b8b885bcb7b25d4f3f89e38"
+    },
+    "exfor_status_summary.csv": {
+      "size_bytes": 162,
+      "sha256": "1359422111b2e0c79c52db29df4a2fc7a4048b4464d4dc70832f2a8774721251"
+    },
+    "exfor_mf_mt_summary.csv": {
+      "size_bytes": 1875,
+      "sha256": "7896459fcb3b4b41b3ab7cfc82d92f97a221560ff32997190744fbdf3132e00f"
+    },
+    "exfor_photonuclear_reaction_summary.csv": {
+      "size_bytes": 29544,
+      "sha256": "e11733f2f499bc7ff3e0cee679e7a7222e33690336f09a97421d7a76b4482ec6"
+    },
+    "qc_summary.json": {
+      "size_bytes": 753,
+      "sha256": "4545ade4ff02951895eb275d713f6958b3d3c92c78d97c18ee6da233d5dc8921"
+    }
+  }
+}

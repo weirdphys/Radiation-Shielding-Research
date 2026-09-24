@@ -1,0 +1,33 @@
+#ENTRY      R0021
+#AUTHOR1    E.Gerlic+
+#YEAR       1975
+#INSTITUTE  (2FR PAR)
+#TITLE      Excitation of deep lying hole states in 11C,15O, 27Si,
+#+          and 57Ni with the (3He,a) reaction at 216 MeV
+#AUTHOR(S)  E.Gerlic, H.Langevin-Joliot, P.Roos, J.Van de Wiele, J.P.Didelez, 
+#+          G.Duhamel
+#REF-CODE   (J,PR/C,12,(6),2106,197512)
+#REFERENCE  Phys.Rev.C 12 No.6 (1975) 2106 (doi:10.1103/PhysRevC.12.2106)
+#DATASETS   0
+#
+#DATASET    R0021011 
+#DATE       20070909
+#REACTION   14-SI-28(HE3,A)14-SI-27,PAR,DA
+#PROJ       2003
+#TARG       14028
+#MF         4
+#MT         800
+#PRODUCT    14-SI-27
+#C4BEGIN    [ 2003 14028   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 14028   4 800  C 2.1600+8          1.7400-3 2.0000-4 0.992332          1.2200+7 3200000.LVLE.Gerlic+            (75)R0021 11 
+ 2003 14028   4 800  C 2.1600+8          1.3200-3 1.8000-4 0.990268          1.2200+7 3200000.LVLE.Gerlic+            (75)R0021 11 
+ 2003 14028   4 800  C 2.1600+8          1.3500-3 1.8000-4 0.984196          1.2200+7 3200000.LVLE.Gerlic+            (75)R0021 11 
+ 2003 14028   4 800  C 2.1600+8          6.5000-4 1.0000-4 0.971134          1.2200+7 3200000.LVLE.Gerlic+            (75)R0021 11 
+ 2003 14028   4 800  C 2.1600+8          3.6000-4 6.0000-5 0.954761          1.2200+7 3200000.LVLE.Gerlic+            (75)R0021 11 
+ 2003 14028   4 800  C 2.1600+8          9.8000-5 2.7000-5 0.935444          1.2200+7 3200000.LVLE.Gerlic+            (75)R0021 11 
+ 2003 14028   4 800  C 2.1600+8          9.1000-5 3.9000-5 0.912834          1.2200+7 3200000.LVLE.Gerlic+            (75)R0021 11 
+#/DATA      7
+#/DATASET

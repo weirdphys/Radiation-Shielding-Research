@@ -1,0 +1,36 @@
+#ENTRY      M0993
+#AUTHOR1    Kuo Ch'i-Ti+
+#YEAR       1961
+#INSTITUTE  (4RUSJIA)
+#TITLE      An investigation of the 112Sn(gamma,n) and
+#+          124Sn(gamma,n) reactions.
+#AUTHOR(S)  Kuo Ch'i-Ti, B.S.Ratner, B.V.Sergeev
+#REF-CODE   (J,ZET,40,85,1961)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 40 (1961) 85
+#DATASETS   0
+#
+#DATASET    M0993003 
+#DATE       20191114
+#REACTION   50-SN-124(G,N)50-SN-123-M,,SIG,,BRS
+#PROJ       0
+#TARG       50124
+#MF         3
+#MT         4
+#PRODUCT    50-SN-123-M
+#C4BEGIN    [    0 50124   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 50124   3   4M   8500000.          3.6760-3                                                Kuo Ch'i-Ti+         (61)M0993  3 
+    0 50124   3   4M   9500000.          7.3530-3                                                Kuo Ch'i-Ti+         (61)M0993  3 
+    0 50124   3   4M   1.1500+7          0.063725                                                Kuo Ch'i-Ti+         (61)M0993  3 
+    0 50124   3   4M   1.2500+7          0.141103                                                Kuo Ch'i-Ti+         (61)M0993  3 
+    0 50124   3   4M   1.3500+7          0.224265                                                Kuo Ch'i-Ti+         (61)M0993  3 
+    0 50124   3   4M   1.4500+7          0.276961                                                Kuo Ch'i-Ti+         (61)M0993  3 
+    0 50124   3   4M   1.5500+7          0.299020                                                Kuo Ch'i-Ti+         (61)M0993  3 
+    0 50124   3   4M   1.6500+7          0.272328                                                Kuo Ch'i-Ti+         (61)M0993  3 
+    0 50124   3   4M   1.7500+7          0.171569                                                Kuo Ch'i-Ti+         (61)M0993  3 
+    0 50124   3   4M   1.8500+7          0.042083                                                Kuo Ch'i-Ti+         (61)M0993  3 
+    0 50124   3   4M   1.9500+7          6.7400-3                                                Kuo Ch'i-Ti+         (61)M0993  3 
+#/DATA      11
+#/DATASET

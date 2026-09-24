@@ -1,0 +1,3 @@
+spectrometer,published_total_neutron_fluence_rate_n_cm2_s,published_uncertainty_n_cm2_s,digitized_reconstructed_total_n_cm2_s,reconstruction_ratio,published_ambient_dose_equivalent_mSv_h,published_ambient_dose_uncertainty_mSv_h
+Active NNS (He-3 current-mode),383100.0,700.0,382880.95328985644,0.9994282257631335,189.3,0.4
+Passive NNS (gold-foil),420000.0,20000.0,417629.6657742877,0.9943563470816374,212.5,8.7

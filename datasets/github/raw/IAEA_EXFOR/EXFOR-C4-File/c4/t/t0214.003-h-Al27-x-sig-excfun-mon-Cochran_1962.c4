@@ -1,0 +1,29 @@
+#ENTRY      T0214
+#AUTHOR1    D.R.F.Cochran+
+#YEAR       1962
+#INSTITUTE  (1USALAS)
+#TITLE      Excitation Functions of Some Reactions of 6- and 24-MeV
+#+          He3 Ions with Carbon and Aluminum
+#AUTHOR(S)  D.R.F.Cochran, J.D.Knight
+#REF-CODE   (J,PR,128,1281,196211)
+#REFERENCE  Phys.Rev. 128 (1962) 1281 (doi:10.1103/PhysRev.128.1281)
+#DATASETS   0
+#
+#DATASET    T0214003 
+#DATE       20030625
+#REACTION   13-AL-27(HE3,X)4-BE-7,,SIG,,AV
+#PROJ       2003
+#TARG       13027
+#MF         3
+#MT         454
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2003 13027   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 13027   3 454    1.7490+7          5.0000-5 1.0000-5            4007.9                     D.R.F.Cochran+       (62)T0214  3 
+ 2003 13027   3 454    1.9590+7          4.0000-5 1.0000-5            4007.9                     D.R.F.Cochran+       (62)T0214  3 
+ 2003 13027   3 454    2.1500+7          1.5000-4 2.0000-5            4007.9                     D.R.F.Cochran+       (62)T0214  3 
+ 2003 13027   3 454    2.3290+7          1.2000-4 3.0000-5            4007.9                     D.R.F.Cochran+       (62)T0214  3 
+#/DATA      4
+#/DATASET

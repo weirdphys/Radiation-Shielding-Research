@@ -1,0 +1,43 @@
+#ENTRY      T0108
+#AUTHOR1    P.Schwandt+
+#YEAR       1982
+#INSTITUTE  (1USAINU)
+#TITLE      Analyzing power of proton-nucleus elastic scattering
+#+          between 80 and 180 MeV.
+#AUTHOR(S)  P.Schwandt, H.O.Meyer, W.W.Jacobs, A.D.Bacher, S.E.Vigdor, 
+#+          M.D.Kaitchuck, T.R.Donoghue
+#REF-CODE   (J,PR/C,26,55,198207)
+#REFERENCE  Phys.Rev.C 26 (1982) 55 (doi:10.1103/PhysRevC.26.55)
+#DATASETS   0
+#
+#DATASET    T0108009 
+#DATE       19990830
+#REACTION   50-SN-120(P,EL)50-SN-120,,DA
+#PROJ       1001
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 1001 50120   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   4   2 AC 1.3470+8          12.72000 0.635800 0.989349                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          6.287000 0.314300 0.983603                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          1.914000 0.095700 0.976635                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.103000 5.1500-3 0.963910                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.073000 3.6500-3 0.959067                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.231000 0.011550 0.948490                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.315000 0.015750 0.936794                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.256000 0.012800 0.923880                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.134000 6.7000-3 0.909816                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.014800 7.4000-4 0.878400                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.019500 9.7500-4 0.861008                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.027200 1.3600-3 0.842640                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.025300 1.2650-3 0.823136                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          0.016400 8.2000-4 0.802609                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          4.0800-3 2.0400-4 0.758817                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          3.8300-3 1.9150-4 0.698665                              P.Schwandt+          (82)T0108  9 
+ 1001 50120   4   2 AC 1.3470+8          1.4600-3 7.3000-6 0.633246                              P.Schwandt+          (82)T0108  9 
+#/DATA      17
+#/DATASET

@@ -1,0 +1,42 @@
+#ENTRY      M0730
+#AUTHOR1    M.Camen+
+#YEAR       2002
+#INSTITUTE  (2GERGOE)
+#TITLE      Backward spin polarizability.
+#AUTHOR(S)  M.Camen, K.Kossert, F.Wissmann, J.Ahrens, H.-J.Arends, R.Beck, 
+#+          G.Caselotti, P.Grabmayr, P.D.Hurty, O.Jahn, P.Jennewein, 
+#+          R.Kondratjev, M.I.Levchuk, V.Lisin, A.V.L'Vov, J.C.Mc.upper()eorge, 
+#+          A.Natter, V.Olmos De Leon, M.Schumacher, B.Seitz, F.Smend, 
+#+          A.Thomas, W.Weihofen, F.Zapadtka
+#REF-CODE   (J,PR/C,65,032202,2002)
+#REFERENCE  Phys.Rev.C 65 (2002) 032202 (doi:10.1103/PhysRevC.65.032202)
+#DATASETS   0
+#
+#DATASET    M0730002 
+#DATE       20071211
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.2000+8          4.7470-8 9.7200-9-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 2.3200+8          7.4810-8 1.0360-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 2.5300+8          1.0790-7 1.1000-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 2.7200+8          1.6192-7 1.4250-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 2.9200+8          2.2591-7 1.6190-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 3.1100+8          2.4268-7 1.6520-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 3.3100+8          2.1587-7 1.4900-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 3.5000+8          2.1781-7 1.4700-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 3.7000+8          1.5395-7 1.3920-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 3.8900+8          1.3737-7 1.3280-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 4.0800+8          1.3290-7 1.3600-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 4.2900+8          9.6760-8 1.2310-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 4.4900+8          9.1580-8 1.2950-8-0.707107                              M.Camen+             (02)M0730  2 
+    0  1001   4   2  C 4.6800+8          9.4170-8 1.4250-8-0.707107                              M.Camen+             (02)M0730  2 
+#/DATA      14
+#/DATASET

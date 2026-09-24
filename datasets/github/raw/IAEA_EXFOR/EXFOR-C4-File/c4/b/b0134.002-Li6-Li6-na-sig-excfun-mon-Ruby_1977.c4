@@ -1,0 +1,28 @@
+#ENTRY      B0134
+#AUTHOR1    L.Ruby+
+#YEAR       1977
+#INSTITUTE  (1USABRK)
+#TITLE      Cross Section For the Production of Beryllium-7
+#+          From Lithium-6, Lithium-6 Interactions.
+#AUTHOR(S)  L.Ruby, R.V.Pyle, Y.C.Wong
+#REF-CODE   (J,NSE,63,197,1977)
+#REFERENCE  Nucl.Sci.Eng. 63 (1977) 197 (doi:10.13182/NSE77-A27025)
+#DATASETS   0
+#
+#DATASET    B0134002 
+#DATE       20011220
+#REACTION   3-LI-6(3-LI-6,N+A)4-BE-7,,SIG,,,EXP
+#PROJ       3006
+#TARG       3006
+#MF         3
+#MT         22
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 3006  3006   3  22  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  3006   3  22    1600000.          3.8900-3 3.9000-4                                       L.Ruby+              (77)B0134  2 
+ 3006  3006   3  22    3500000.          0.093400 6.0000-3                                       L.Ruby+              (77)B0134  2 
+ 3006  3006   3  22    5000000.          0.178000 6.4000-3                                       L.Ruby+              (77)B0134  2 
+#/DATA      3
+#/DATASET

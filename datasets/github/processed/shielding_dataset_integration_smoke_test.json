@@ -1,0 +1,82 @@
+{
+  "datasets_tested": 7,
+  "datasets_passed": 7,
+  "datasets_failed": 0,
+  "overall_pass": true,
+  "details": {
+    "PSSD": {
+      "canonical_file": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/PSSD/pssd_semantic_spectra.parquet",
+      "actual_rows": 5172618,
+      "expected_rows": 5172618,
+      "actual_sha256": "19edf6256df9d01151888cc16b0f0481c30271cdb9452546f6b449981b942434",
+      "expected_sha256": "19edf6256df9d01151888cc16b0f0481c30271cdb9452546f6b449981b942434",
+      "special": {}
+    },
+    "IAEA_PD2019": {
+      "canonical_file": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/IAEA_PD2019/pd2019_mf3_cross_sections.parquet",
+      "actual_rows": 178635,
+      "expected_rows": 178635,
+      "actual_sha256": "a4bde2669f5bc93c2e837eaa57f9ea9fb0bfb7f375d2b0b59ca77d6eaeaafc04",
+      "expected_sha256": "a4bde2669f5bc93c2e837eaa57f9ea9fb0bfb7f375d2b0b59ca77d6eaeaafc04",
+      "special": {}
+    },
+    "NIST_ESTAR": {
+      "canonical_file": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/NIST_ESTAR/estar_portland_concrete.parquet",
+      "actual_rows": 81,
+      "expected_rows": 81,
+      "actual_sha256": "bc491c1f7229d26fed9d60c34976e514360f0e4d7e77648ce53d660c03d9d7dc",
+      "expected_sha256": "bc491c1f7229d26fed9d60c34976e514360f0e4d7e77648ce53d660c03d9d7dc",
+      "special": {}
+    },
+    "BROAD_BEAM_PHOTON": {
+      "canonical_file": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/BROAD_BEAM_PHOTON/broad_beam_photon_physics_ready.parquet",
+      "actual_rows": 35,
+      "expected_rows": 35,
+      "actual_sha256": "40ab5e5a9912501c990c0f1c950f3d06bea7d49b3ac4ea19c73fcf3334db2ccd",
+      "expected_sha256": "40ab5e5a9912501c990c0f1c950f3d06bea7d49b3ac4ea19c73fcf3334db2ccd",
+      "special": {}
+    },
+    "ISIS_RB2000164": {
+      "canonical_file": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/RB2000164/rb2000164_physics_ready_strict.parquet",
+      "actual_rows": 82864,
+      "expected_rows": 82864,
+      "actual_sha256": "d9d5991c776dacbe9896d10c48174157e100869b26df99d590cd235c88b95af4",
+      "expected_sha256": "d9d5991c776dacbe9896d10c48174157e100869b26df99d590cd235c88b95af4",
+      "special": {}
+    },
+    "ISIS_RB2000209_STANDARD_MONITOR_PROXY": {
+      "canonical_file": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/RB2000209/rb2000209_standard_monitor_proxy_physics_ready_1meV_1keV.parquet",
+      "actual_rows": 54445,
+      "expected_rows": 54445,
+      "actual_sha256": "b91d0f51df01ce50271bd3e5159f87b928bb7b39f3b23442211e310f0906cc4d",
+      "expected_sha256": "b91d0f51df01ce50271bd3e5159f87b928bb7b39f3b23442211e310f0906cc4d",
+      "special": {}
+    },
+    "IAEA_EXFOR": {
+      "canonical_file": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/IAEA_EXFOR/exfor_photonuclear_mf3_strict.parquet",
+      "actual_rows": 66683,
+      "expected_rows": 66683,
+      "actual_sha256": "92c06368ac283043775548fb958c23965486245adbb9b19b28f489104d09e551",
+      "expected_sha256": "92c06368ac283043775548fb958c23965486245adbb9b19b28f489104d09e551",
+      "special": {
+        "rows": 66683,
+        "all_MF3": true,
+        "all_photon_induced": true,
+        "all_MF3_flag": true,
+        "all_strict_flag": true,
+        "all_energy_positive": true,
+        "all_values_nonnegative": true,
+        "forbidden_U_O_S_rows": 0,
+        "energy_min_MeV": 0.262,
+        "energy_max_MeV": 3779.0,
+        "unique_entries": 578,
+        "unique_subentries": 1498,
+        "unique_reaction_strings": 896,
+        "uncertainty_present_rows": 54108,
+        "uncertainty_missing_rows": 12575,
+        "semantic_pass": true
+      }
+    }
+  },
+  "note": "Seven-dataset canonical integration smoke test after IAEA EXFOR promotion."
+}

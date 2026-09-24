@@ -1,0 +1,50 @@
+#ENTRY      M0190
+#AUTHOR1    N.S.Rabotnov+
+#YEAR       1970
+#INSTITUTE  (4RUSFEI)
+#TITLE      Photofission of Th-232, U-238, Pu-238, Pu-240,
+#+          Pu-242 and the structure of the fission barrier.
+#AUTHOR(S)  N.S.Rabotnov, G.N.Smirenkin, A.S.Soldatov, L.N.Usachev, 
+#+          S.P.Kapitza, Yu.M.Tsipenyuk
+#REF-CODE   (J,SNP,11,285,1970)
+#REFERENCE  Sov.J.Nucl.Phys. 11 (1970) 285
+#DATASETS   0
+#
+#DATASET    M0190020 
+#DATE       20250424
+#REACTION   92-U-238(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  18    4830000.          1.7000-6                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    4930000.          3.2000-6                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5010000.          5.6000-6                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5100000.          1.3000-5                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5170000.          2.6000-5                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5230000.          4.4000-5                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5300000.          9.0000-5                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5360000.          1.6000-4                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5430000.          3.2000-4                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5490000.          5.7000-4                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5570000.          1.0000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5660000.          1.6000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5760000.          2.5000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5850000.          3.5000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    5960000.          4.4000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    6110000.          5.5000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    6270000.          5.7000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    6400000.          5.7000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    6580000.          5.2000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    6760000.          5.2000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    6960000.          5.7000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    7130000.          6.5000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    7380000.          8.7000-3                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    7590000.          0.011000                                                N.S.Rabotnov+        (70)M0190 20 
+    0 92238   3  18    7760000.          0.013000                                                N.S.Rabotnov+        (70)M0190 20 
+#/DATA      25
+#/DATASET

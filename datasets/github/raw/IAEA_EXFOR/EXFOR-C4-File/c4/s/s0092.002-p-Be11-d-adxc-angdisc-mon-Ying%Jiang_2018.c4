@@ -1,0 +1,68 @@
+#ENTRY      S0092
+#AUTHOR1    Ying Jiang+
+#YEAR       2018
+#INSTITUTE  (3CPRBJG)
+#TITLE      A new measurement of 11Be(p,d) transfer reaction
+#AUTHOR(S)  Ying Jiang, Jian-Ling Lou, Yan-Lin Ye, Dan-Yang Pang, Jie Chen, 
+#+          Zhi-Huan Li, Yu-Cheng Ge, Qi-Te Li, Jing Li, Wei Jiang, 
+#+          Ye-Lei Sun, Hong-Liang Zang, Yun Zhang, Wei Liu, Yi-Di Chen, 
+#+          Gen Li, N.Aoi, E.Ideguchi, H.J.Ong, J.Lee, Jin Wu, Hong-Na Liu, 
+#+          Chao Wen, Y.Ayyad, K.Hatanaka, D.T.Tran, T.Yamamoto, M.Tanaka, 
+#+          T.Suzuki, T.T.Nguyen
+#REF-CODE   (J,CPL,35,082501,2018)
+#REFERENCE  Chin.Phys.Lett. 35 (2018) 082501 (doi:10.1088/0256-307X/35/8/082501)
+#DATASETS   0
+#
+#DATASET    S0092002 
+#DATE       20200224
+#REACTION   (1-H-1(4-BE-11,D)4-BE-10,PAR,DA,RSD)=(4-BE-11(P,D)4-BE-10,PAR,DA)
+#PROJ       1001
+#TARG       4011
+#MF         4
+#MT         650
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1001  4011   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4011   4 650  C 2.6900+7 538000.0 4.4500-3 3.1500-3 0.985139          0.000000         LVLYing Jiang+          (18)S0092  2 
+ 1001  4011   4 650  C 2.6900+7 538000.0 3.8700-3 2.7300-3 0.977231          0.000000         LVLYing Jiang+          (18)S0092  2 
+ 1001  4011   4 650  C 2.6900+7 538000.0 1.5600-3 1.5000-3 0.966106          0.000000         LVLYing Jiang+          (18)S0092  2 
+#/DATA      3
+#/DATASET
+#
+#DATASET    S0092002 
+#DATE       20200224
+#REACTION   (1-H-1(4-BE-11,D)4-BE-10,PAR,DA,RSD)=(4-BE-11(P,D)4-BE-10,PAR,DA)
+#PROJ       1001
+#TARG       4011
+#MF         4
+#MT         650
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1001  4011   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4011   4 650  C 2.6900+7 538000.0 4.2800-3 2.4700-3 0.978148          3370000.         LVLYing Jiang+          (18)S0092  2 
+ 1001  4011   4 650  C 2.6900+7 538000.0 3.6300-3 2.1000-3 0.965926          3370000.         LVLYing Jiang+          (18)S0092  2 
+ 1001  4011   4 650  C 2.6900+7 538000.0 2.8600-3 1.6500-3 0.948324          3370000.         LVLYing Jiang+          (18)S0092  2 
+#/DATA      3
+#/DATASET
+#
+#DATASET    S0092002 
+#DATE       20200224
+#REACTION   (1-H-1(4-BE-11,D)4-BE-10,PAR,DA,RSD)=(4-BE-11(P,D)4-BE-10,PAR,DA)
+#PROJ       1001
+#TARG       4011
+#MF         4
+#MT         650
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1001  4011   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4011   4 650  C 2.6900+7 538000.0 0.013990 3.7400-3 0.969016          6000000.         LVLYing Jiang+          (18)S0092  2 
+ 1001  4011   4 650  C 2.6900+7 538000.0 0.012030 3.0600-3 0.951057          6000000.         LVLYing Jiang+          (18)S0092  2 
+ 1001  4011   4 650  C 2.6900+7 538000.0 6.3000-3 1.9000-3 0.923880          6000000.         LVLYing Jiang+          (18)S0092  2 
+#/DATA      3
+#/DATASET

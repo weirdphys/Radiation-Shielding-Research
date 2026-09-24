@@ -1,0 +1,34 @@
+#ENTRY      T0109
+#AUTHOR1    S.K.Nanda+
+#YEAR       1984
+#INSTITUTE  (1USARUT)
+#TITLE      10.23 MeV M1 Transition in the 48Ca(p,p')48Ca
+#+          Reaction at 319 MeV.
+#AUTHOR(S)  S.K.Nanda, C.Glashausser, K.W.Jones, J.A.Mc.upper()ill, 
+#+          T.A.Carey, J.B.Mc.upper()lelland, J.M.Moss, S.J.Seestrom-Morris, 
+#+          J.R.Comfort, S.Levenson, R.Segel, H.Ohnuma
+#REF-CODE   (J,PR/C,29,660,198402)
+#REFERENCE  Phys.Rev.C 29 (1984) 660 (doi:10.1103/PhysRevC.29.660)
+#DATASETS   0
+#
+#DATASET    T0109002 
+#DATE       19990805
+#REACTION   20-CA-48(P,INL)20-CA-48,PAR,DA
+#PROJ       1001
+#TARG       20048
+#MF         4
+#MT         601
+#PRODUCT    20-CA-48
+#C4BEGIN    [ 1001 20048   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20048   4 601 AC 3.1900+8 120000.0 3.1560-3 6.9000-5 0.998780          1.0230+7         LVLS.K.Nanda+           (84)T0109  2 
+ 1001 20048   4 601 AC 3.1900+8 120000.0 2.8440-3 6.7000-5 0.998301          1.0230+7         LVLS.K.Nanda+           (84)T0109  2 
+ 1001 20048   4 601 AC 3.1900+8 120000.0 2.4040-3 6.1000-5 0.997743          1.0230+7         LVLS.K.Nanda+           (84)T0109  2 
+ 1001 20048   4 601 AC 3.1900+8 120000.0 1.8830-3 5.7000-5 0.997093          1.0230+7         LVLS.K.Nanda+           (84)T0109  2 
+ 1001 20048   4 601 AC 3.1900+8 120000.0 1.4790-3 3.6000-5 0.996375          1.0230+7         LVLS.K.Nanda+           (84)T0109  2 
+ 1001 20048   4 601 AC 3.1900+8 120000.0 1.1840-3 3.4000-5 0.995562          1.0230+7         LVLS.K.Nanda+           (84)T0109  2 
+ 1001 20048   4 601 AC 3.1900+8 120000.0 9.6500-4 3.2000-5 0.994685          1.0230+7         LVLS.K.Nanda+           (84)T0109  2 
+#/DATA      7
+#/DATASET

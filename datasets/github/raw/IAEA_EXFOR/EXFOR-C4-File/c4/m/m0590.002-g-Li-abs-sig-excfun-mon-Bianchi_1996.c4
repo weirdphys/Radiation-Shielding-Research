@@ -1,0 +1,52 @@
+#ENTRY      M0590
+#AUTHOR1    N.Bianchi+
+#YEAR       1996
+#INSTITUTE  (2ITYFRA)
+#TITLE      Total hadronic photoabsorption cross section on
+#+          nuclei in the nucleon resonance region.
+#AUTHOR(S)  N.Bianchi, V.Muccifora, E.De Sanctis, A.Fantoni, P.Levi Sandri, 
+#+          E.Polli, A.R.Reolon, P.Rossi, M.Anghinolfi, P.Corvisiero, 
+#+          M.Ripani, M.Sanzone, M.Taiuti, A.Zucchiatti
+#REF-CODE   (J,PR/C,54,1688,1996)
+#REFERENCE  Phys.Rev.C 54 (1996) 1688 (doi:10.1103/PhysRevC.54.1688)
+#DATASETS   0
+#
+#DATASET    M0590002 
+#DATE       20190626
+#REACTION   3-LI-0(G,ABS),,SIG
+#PROJ       0
+#TARG       3000
+#MF         3
+#MT         27
+#C4BEGIN    [    0  3000   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3000   3  27    3.4300+8          3.0800-3 1.0500-4                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    3.6900+8          2.7230-3 7.0000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    3.8900+8          2.4570-3 8.4000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    4.0800+8          2.2680-3 9.1000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    4.3900+8          1.9740-3 6.3000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    4.6500+8          1.7990-3 9.1000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    4.9000+8          1.7080-3 8.4000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    5.1400+8          1.5610-3 8.4000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    5.4000+8          1.3580-3 4.9000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    5.9800+8          1.5540-3 7.7000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    6.1600+8          1.4770-3 4.2000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    6.3600+8          1.3720-3 4.2000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    6.6400+8          1.4910-3 4.9000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    6.8400+8          1.4350-3 4.9000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    7.1700+8          1.4420-3 5.6000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    7.5100+8          1.3580-3 6.3000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    7.8800+8          1.1620-3 4.9000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    8.1700+8          1.2600-3 6.3000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    8.4000+8          1.3580-3 5.6000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    9.0800+8          1.1830-3 5.6000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    9.3600+8          9.5900-4 4.9000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    9.7300+8          1.1970-3 5.6000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    1.0440+9          1.0150-3 6.3000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    1.0810+9          1.1550-3 7.0000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    1.1190+9          1.0290-3 5.6000-5                                       N.Bianchi+           (96)M0590  2 
+    0  3000   3  27    1.1630+9          9.8000-4 8.4000-5                                       N.Bianchi+           (96)M0590  2 
+#/DATA      26
+#/DATASET

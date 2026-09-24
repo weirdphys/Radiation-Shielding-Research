@@ -1,0 +1,30 @@
+#ENTRY      L0068
+#AUTHOR1    J.T.Caldwell+
+#YEAR       1973
+#INSTITUTE  (1USALAS)
+#TITLE      Prompt and delayed neutrons from low energy photo-
+#+          reactions Part II: Simulateous Measurement of Prompt
+#+          nu-bar, gamma(n)/gamma(f) and delayed neutrons per
+#+          fission for 232Th, 235U, 238U, and 239Pu for 8, 10
+#+          and 12 MeV bremsstrahlung
+#AUTHOR(S)  J.T.Caldwell, G.M.Worth, E.J.Dowdy
+#REF-CODE   (C,73PACIFI,1,651,1973)
+#REFERENCE  Proceedings of Int.Conf.on Photonucl.Reactions,Pacific Grove 1973 1 page 651
+#DATASETS   0
+#
+#DATASET    L00680042
+#DATE       20050422
+#REACTION   90-TH-232(G,F),DL,NU
+#PROJ       0
+#TARG       90232
+#MF         1
+#MT         455
+#C4BEGIN    [    0 90232   1 455  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   1 455    8000000.          0.032400 1.7000-3                                       J.T.Caldwell+        (73)L0068  42
+    0 90232   1 455    1.0000+7          0.030900 1.9000-3                                       J.T.Caldwell+        (73)L0068  42
+    0 90232   1 455    1.2000+7          0.029200 3.8000-3                                       J.T.Caldwell+        (73)L0068  42
+#/DATA      3
+#/DATASET

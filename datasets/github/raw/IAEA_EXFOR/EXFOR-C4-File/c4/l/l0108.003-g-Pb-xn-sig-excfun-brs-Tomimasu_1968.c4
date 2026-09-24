@@ -1,0 +1,57 @@
+#ENTRY      L0108
+#AUTHOR1    T.Tomimasu+
+#YEAR       1968
+#INSTITUTE  (2JPNETL)
+#TITLE      Absolute measurements of X-ray beam energy and
+#+          photoneutron cross sections for natural Cu and Pb
+#AUTHOR(S)  T.Tomimasu
+#REF-CODE   (J,JPJ,25,655,1968)
+#REFERENCE  J.Phys.Soc.Jpn. 25 (1968) 655 (doi:10.1143/JPSJ.25.655)
+#DATASETS   0
+#
+#DATASET    L0108003 
+#DATE       20060320
+#REACTION   82-PB-0(G,X)0-NN-1,,SIG,,BRS
+#PROJ       0
+#TARG       82000
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 82000   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82000   3 201    2380000.          7.1200-3                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    2950000.          0.012600                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    3690000.          0.022700                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    4320000.          0.038500                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    5030000.          0.064700                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    5570000.          0.097800                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    6230000.          0.149000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    6940000.          0.167000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    7560000.          0.247000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    8190000.          0.348000 0.029800                                       T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    8840000.          0.404000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    9410000.          0.523000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.0000+7          0.635000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.0600+7          0.654000 0.062000                                       T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.1400+7          0.584000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.2000+7          0.484000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.2600+7          0.441000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.2700+7          0.462000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.3400+7          0.431000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.4100+7          0.397000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.4700+7          0.332000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.5400+7          0.323000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.6000+7          0.248000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.6700+7          0.248000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.7300+7          0.250000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.8100+7          0.220000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.8700+7          0.197000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    1.9400+7          0.225000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    2.0000+7          0.194000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    2.0600+7          0.200000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    2.1200+7          0.215000                                                T.Tomimasu           (68)L0108  3 
+    0 82000   3 201    2.2100+7          0.179000                                                T.Tomimasu           (68)L0108  3 
+#/DATA      32
+#/DATASET

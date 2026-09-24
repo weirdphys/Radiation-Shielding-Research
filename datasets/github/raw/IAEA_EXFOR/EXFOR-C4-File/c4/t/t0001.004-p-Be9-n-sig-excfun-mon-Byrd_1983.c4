@@ -1,0 +1,35 @@
+#ENTRY      T0001
+#AUTHOR1    R.C.Byrd+
+#YEAR       1983
+#INSTITUTE  (1USATNL)
+#TITLE      Cross-section measurement and Lane model analysis for
+#+          the 9Be(p,n) reaction
+#AUTHOR(S)  R.C.Byrd, C.E.Floyd, P.P.Guss, K.Murphy, R.L.Walter
+#REF-CODE   (J,NP/A,399,94,198305)
+#REFERENCE  Nucl.Phys.A 399 (1983) 94 (doi:10.1016/0375-9474(83)90596-1)
+#DATASETS   0
+#
+#DATASET    T0001004 
+#DATE       19990404
+#REACTION   4-BE-9(P,N)5-B-9,PAR,SIG
+#PROJ       1001
+#TARG       4009
+#MF         3
+#MT         50
+#PRODUCT    5-B-9
+#C4BEGIN    [ 1001  4009   3  50 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   3  50 D  8150000.          0.050420 2.5210-3                   0.000000         LVLR.C.Byrd+            (83)T0001  4 
+ 1001  4009   3  50 D  9170000.          0.045380 2.2690-3                   0.000000         LVLR.C.Byrd+            (83)T0001  4 
+ 1001  4009   3  50 D  1.0060+7          0.043250 2.1625-3                   0.000000         LVLR.C.Byrd+            (83)T0001  4 
+ 1001  4009   3  50 D  1.1060+7          0.040020 2.0010-3                   0.000000         LVLR.C.Byrd+            (83)T0001  4 
+ 1001  4009   3  50 D  1.2040+7          0.038160 1.9080-3                   0.000000         LVLR.C.Byrd+            (83)T0001  4 
+ 1001  4009   3  50 D  1.3000+7          0.035200 1.7600-3                   0.000000         LVLR.C.Byrd+            (83)T0001  4 
+ 1001  4009   3  50 D  1.3500+7          0.035370 1.7685-3                   0.000000         LVLR.C.Byrd+            (83)T0001  4 
+ 1001  4009   3  50 D  1.4000+7          0.032740 1.6370-3                   0.000000         LVLR.C.Byrd+            (83)T0001  4 
+ 1001  4009   3  50 D  1.4990+7          0.029180 1.4590-3                   0.000000         LVLR.C.Byrd+            (83)T0001  4 
+ 1001  4009   3  50 D  1.5680+7          0.027170 1.3585-3                   0.000000         LVLR.C.Byrd+            (83)T0001  4 
+#/DATA      10
+#/DATASET

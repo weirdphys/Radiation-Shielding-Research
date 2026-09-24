@@ -1,0 +1,39 @@
+#ENTRY      B0101
+#AUTHOR1    W.E.Crandall+
+#YEAR       1956
+#INSTITUTE  (1USABRK)
+#TITLE      12C(x,xn)11C and 27Al(x,x2pn)24Na cross sections at
+#+          high energies
+#AUTHOR(S)  W.E.Crandall, G.P.Millburn, R.V.Pyle, W.Birnbaum
+#REF-CODE   (J,PR,101,329,1956)
+#REFERENCE  Phys.Rev. 101 (1956) 329 (doi:10.1103/PhysRev.101.329)
+#DATASETS   0
+#
+#DATASET    B01010032
+#DATE       20220622
+#REACTION   6-C-12(D,X)6-C-11,,SIG
+#PROJ       1002
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1002  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   3 454    2.4400+7 1.5800+7 5.0000-4                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    3.4200+7 1.2800+7 2.7000-3                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    4.2400+7 1.0800+7 0.011300                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    4.9400+7 9800000. 0.017600                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    5.8700+7 7700000. 0.035600                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    6.7700+7 8100000. 0.051400                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    7.6100+7 6400000. 0.057000                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    8.3700+7 7000000. 0.061800                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    1.0900+8 5100000. 0.062100                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    1.3100+8          0.062100                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    1.5100+8          0.061000                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    1.6700+8          0.061000                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    1.8300+8          0.061000                     6011.9                     W.E.Crandall+        (56)B0101  32
+ 1002  6012   3 454    1.8700+8          0.062600                     6011.9                     W.E.Crandall+        (56)B0101  32
+#/DATA      14
+#/DATASET

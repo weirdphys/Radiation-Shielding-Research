@@ -1,0 +1,36 @@
+#ENTRY      L0285
+#AUTHOR1    J.Kleemann+
+#YEAR       2025
+#INSTITUTE  (2GERTHD)
+#TITLE      Gamma Decay of the 154Sm Isovector Giant Dipole
+#+          Resonance: Smekal-Raman Scattering as a Novel Probe
+#+          of Nuclear Ground-State Deformation
+#AUTHOR(S)  J.Kleemann, N.Pietralla, U.Friman-Gayer, J.Isaak, O.Papst, 
+#+          K.Prifti, V.Werner, A.D.Ayangeakaa, T.Beck, G.Colo, M.L.Cortes, 
+#+          S.W.Finch, M.Fulghieri, D.Gribble, K.E.Ide, X.K.-H.James, 
+#+          R.V.F.Janssens, S.R.Johnson, P.Koseoglou, Krishichayan, 
+#+          D.Savran, W.Tornow
+#REF-CODE   (J,PRL,134,022503,2025)
+#REFERENCE  Phys.Rev.Lett. 134 (2025) 022503 (doi:10.1103/PhysRevLett.134.022503)
+#DATASETS   0
+#
+#DATASET    L0285002 
+#DATE       20250219
+#REACTION   62-SM-154(G,EL)62-SM-154,,SIG
+#PROJ       0
+#TARG       62154
+#MF         3
+#MT         2
+#PRODUCT    62-SM-154
+#C4BEGIN    [    0 62154   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 62154   3   2    1.1370+7 10000.00 7.0000-4 7.0000-5                                       J.Kleemann+          (25)L0285  2 
+    0 62154   3   2    1.2590+7 10000.00 1.4900-3 9.0000-5                                       J.Kleemann+          (25)L0285  2 
+    0 62154   3   2    1.4270+7 10000.00 1.6100-3 9.0000-5                                       J.Kleemann+          (25)L0285  2 
+    0 62154   3   2    1.5350+7 10000.00 2.8000-3 1.7000-4                                       J.Kleemann+          (25)L0285  2 
+    0 62154   3   2    1.6160+7 10000.00 3.0100-3 1.8000-4                                       J.Kleemann+          (25)L0285  2 
+    0 62154   3   2    1.7790+7 10000.00 2.2400-3 2.0000-4                                       J.Kleemann+          (25)L0285  2 
+#/DATA      6
+#/DATASET

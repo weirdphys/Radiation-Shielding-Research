@@ -1,0 +1,35 @@
+#ENTRY      M0577
+#AUTHOR1    A.Imanishi+
+#YEAR       1987
+#INSTITUTE  (2JPNTOK)
+#TITLE      Differential cross sections for photoemission of
+#+          deuterons from the nitrogen nucleus.
+#AUTHOR(S)  A.Imanishi, S.Kato, T.Miyachi, Y.Takeuchi, K.Ukai, T.Ohmori, 
+#+          K.Takahashi, Y.Wada, Y.Morita, K.Kurita
+#REF-CODE   (J,NP/A,462,727,1987)
+#REFERENCE  Nucl.Phys.A 462 (1987) 727 (doi:10.1016/0375-9474(87)90573-2)
+#DATASETS   0
+#
+#DATASET    M0577011 
+#DATE       20190625
+#REACTION   7-N-14(G,X)1-H-2,,DA/DP,,BRS
+#PROJ       0
+#TARG       7014
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  7014   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  7014   6 204    8.0000+8 2.5000+7 1.900-12 4.500-13 0.642788          2.0463+9          E2A.Imanishi+          (87)M0577 11 
+    0  7014   6 204    8.0000+8 2.5000+7 1.170-12 3.100-13 0.642788          2.0746+9          E2A.Imanishi+          (87)M0577 11 
+    0  7014   6 204    8.0000+8 2.5000+7 9.800-13 2.100-13 0.642788          2.1042+9          E2A.Imanishi+          (87)M0577 11 
+    0  7014   6 204    8.0000+8 2.5000+7 8.800-13 1.800-13 0.642788          2.1353+9          E2A.Imanishi+          (87)M0577 11 
+    0  7014   6 204    8.0000+8 2.5000+7 5.900-13 1.600-13 0.642788          2.1676+9          E2A.Imanishi+          (87)M0577 11 
+    0  7014   6 204    8.0000+8 2.5000+7 2.300-13 1.500-13 0.642788          2.2010+9          E2A.Imanishi+          (87)M0577 11 
+    0  7014   6 204    8.0000+8 2.5000+7 3.000-13 1.600-13 0.642788          2.2355+9          E2A.Imanishi+          (87)M0577 11 
+    0  7014   6 204    8.0000+8 2.5000+7 4.600-13 1.900-13 0.642788          2.2709+9          E2A.Imanishi+          (87)M0577 11 
+    0  7014   6 204    8.0000+8 2.5000+7 3.300-13 2.600-13 0.642788          2.3073+9          E2A.Imanishi+          (87)M0577 11 
+#/DATA      9
+#/DATASET

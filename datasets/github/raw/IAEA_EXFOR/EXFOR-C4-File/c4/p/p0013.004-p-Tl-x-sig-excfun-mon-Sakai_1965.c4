@@ -1,0 +1,30 @@
+#ENTRY      P0013
+#AUTHOR1    M.Sakai+
+#YEAR       1965
+#INSTITUTE  (2JPNTOK)
+#TITLE      Nuclear structure of Hg200
+#AUTHOR(S)  M.Sakai, H.Ikegami, T.Yamazaki, K.Saito
+#REF-CODE   (J,NP,65,177,1965)
+#REFERENCE  Nucl.Phys. 65 (1965) 177 (doi:10.1016/0029-5582(65)90263-4)
+#DATASETS   0
+#
+#DATASET    P0013004 
+#DATE       20000808
+#REACTION   81-TL-0(P,X)82-PB-203,,SIG
+#PROJ       1001
+#TARG       81000
+#MF         3
+#MT         454
+#PRODUCT    82-PB-203
+#C4BEGIN    [ 1001 81000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 81000   3 454    1.0000+7          0.815000                    82203.9                     M.Sakai+             (65)P0013  4 
+ 1001 81000   3 454    2.1800+7          0.930000                    82203.9                     M.Sakai+             (65)P0013  4 
+ 1001 81000   3 454    2.8500+7          1.310000                    82203.9                     M.Sakai+             (65)P0013  4 
+ 1001 81000   3 454    3.5800+7          1.480000                    82203.9                     M.Sakai+             (65)P0013  4 
+ 1001 81000   3 454    4.4600+7          0.713000                    82203.9                     M.Sakai+             (65)P0013  4 
+ 1001 81000   3 454    5.1500+7          0.665000                    82203.9                     M.Sakai+             (65)P0013  4 
+#/DATA      6
+#/DATASET

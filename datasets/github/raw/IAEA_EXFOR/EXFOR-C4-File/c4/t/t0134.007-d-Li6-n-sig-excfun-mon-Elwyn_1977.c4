@@ -1,0 +1,57 @@
+#ENTRY      T0134
+#AUTHOR1    A.J.Elwyn+
+#YEAR       1977
+#INSTITUTE  (1USAANL)
+#TITLE      Absolute cross sections for deuteron-induced reactions
+#+          on 6Li at energies below 1 MeV.
+#AUTHOR(S)  A.J.Elwyn, R.E.Holland, C.N.Davids, L.Meyer-Schuetzmeister, 
+#+          J.E.Monahan, F.P.Mooring, W.Ray Jr
+#REF-CODE   (J,PR/C,16,1744,197711)
+#REFERENCE  Phys.Rev.C 16 (1977) 1744 (doi:10.1103/PhysRevC.16.1744)
+#DATASETS   0
+#
+#DATASET    T0134007 
+#DATE       20001128
+#REACTION   3-LI-6(D,N)4-BE-7,PAR,SIG
+#PROJ       1002
+#TARG       3006
+#MF         3
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1002  3006   3  50 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   3  50 D  204000.0          7.9200-3 1.0000-4                   0.000000         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  238000.0          0.012320 2.5000-4                   0.000000         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  328000.0          0.025380 5.0000-4                   0.000000         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  375000.0          0.031790 2.5000-4                   0.000000         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  482000.0          0.043100 8.8000-4                   0.000000         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  578000.0          0.047050 1.0000-5                   0.000000         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  779000.0          0.052150 2.5000-4                   0.000000         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  873000.0          0.058560 1.6300-3                   0.000000         LVLA.J.Elwyn+           (77)T0134  7 
+#/DATA      8
+#/DATASET
+#
+#DATASET    T0134007 
+#DATE       20001128
+#REACTION   3-LI-6(D,N)4-BE-7,PAR,SIG
+#PROJ       1002
+#TARG       3006
+#MF         3
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1002  3006   3  50 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   3  50 D  204000.0          2.2200-3 6.0000-5                   429000.0         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  238000.0          3.2700-3 1.0000-4                   429000.0         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  328000.0          8.1700-3 1.0000-4                   429000.0         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  375000.0          0.010560 2.5000-4                   429000.0         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  482000.0          0.015330 3.8000-4                   429000.0         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  578000.0          0.020360 5.0000-4                   429000.0         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  779000.0          0.026640 5.0000-4                   429000.0         LVLA.J.Elwyn+           (77)T0134  7 
+ 1002  3006   3  50 D  873000.0          0.031290 2.6400-3                   429000.0         LVLA.J.Elwyn+           (77)T0134  7 
+#/DATA      8
+#/DATASET

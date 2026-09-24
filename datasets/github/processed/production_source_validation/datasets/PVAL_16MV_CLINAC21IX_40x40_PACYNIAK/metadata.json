@@ -1,0 +1,30 @@
+{
+  "dataset_id": "PVAL_16MV_CLINAC21IX_40x40_PACYNIAK",
+  "case_id": "PVAL_16MV_CLINAC21IX_40x40_PACYNIAK",
+  "title": "Pacyniak Varian 21iX 16 MV 40x40 measured PDD (Figure 3 vector digitization)",
+  "evidence_type": "EXPERIMENTAL",
+  "source": {
+    "filename": "analytic-derivation-of-central-axis-percent-depth-dose-4gaft1xs7n.pdf",
+    "sha256": "ac905cd6f4c3a592ed1807510a4e7f7903d87cbf23f0a7108f1ec6a63e9c66cc",
+    "size_bytes": 995533
+  },
+  "doi": "10.14319/ijcto.43.6",
+  "machine": "Varian 21iX Clinac",
+  "nominal_energy_MV": 16,
+  "field_size_cm": [
+    40,
+    40
+  ],
+  "measurement_contract": {
+    "observable": "central-axis percent depth dose",
+    "depth_range_cm": [
+      0,
+      30
+    ],
+    "paper_statement": "Figure 3 compares calculated and measured 16 MV PDD for 2x2, 10x10 and 40x40 cm2; paper reports ±2% agreement over 0–30 cm."
+  },
+  "canonical_file": "/mnt/data/phase1_remaining_data/processed/datasets/PVAL_16MV_CLINAC21IX_40x40_PACYNIAK/canonical_pdd_40x40.csv",
+  "canonical_csv": "/mnt/data/phase1_remaining_data/processed/datasets/PVAL_16MV_CLINAC21IX_40x40_PACYNIAK/canonical_pdd_40x40.csv",
+  "row_count": 31,
+  "extraction_notes": "Measured 40x40 curve extracted from the vector path embedded in Figure 3, not OCR/raster tracing. Values reproduce the plotted polyline at 1 cm depth intervals. Experimental measurement uncertainty is not tabulated in the source; no uncertainty was invented. SSD not asserted because it is not specified for this plotted dataset in the source passages used here."
+}

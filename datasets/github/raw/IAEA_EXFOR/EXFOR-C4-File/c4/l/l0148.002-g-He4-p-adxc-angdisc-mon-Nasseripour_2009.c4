@@ -1,0 +1,74 @@
+#ENTRY      L0148
+#AUTHOR1    R.Nasseripour+
+#YEAR       2009
+#INSTITUTE  (1USAGWU)
+#TITLE      Photodisintegration of 4He into p + t
+#AUTHOR(S)  R.Nasseripour, B.L.Berman, N.Benmouna, Y.Ilieva, J.M.Laget, 
+#+          K.P.Adhikari, M.J.Amaryan, P.Ambrozewicz, M.Anghinolfi, 
+#+          H.Baghdasaryan, J.Ball, M.Battaglieri, I.Bedlinskiy, A.S.Biselli, 
+#+          C.Bookwalter, D.Branford, W.J.Briscoe, W.K.Brooks, V.D.Burkert, 
+#+          S.L.Careccia, D.S.Carman, P.L.Cole, P.Collins, P.Corvisiero, 
+#+          A.D'Angelo, A.Daniel, N.Dashyan, R.De Vita, E.De Sanctis, 
+#+          A.Deur, B.Dey, S.Dhamija, R.Dickson, C.Djalali, G.E.Dodge, 
+#+          D.Doughty, R.Dupre, G.Fedotov, S.Fegan, R.Fersch, A.Fradi, 
+#+          M.Y.Gabrielyan, G.P.Gilfoyle, K.L.Giovanetti, F.X.Girod, 
+#+          J.T.Goetz, W.Gohn, E.Golovatch, R.W.Gothe, K.A.Griffioen, 
+#+          M.Guidal, L.Guo, H.Hakobyan, C.Hanretty, N.Hassall, D.Heddle, 
+#+          K.Hicks, C.E.Hyde, D.G.Ireland, E.L.Isupov, S.S.Jawalkar, 
+#+          J.R.Johnstone, K.Joo, D.Keller, M.Khandaker, P.Khetarpal, 
+#+          W.Kim, A.Klein, F.J.Klein, V.Kubarovsky, S.E.Kuhn, S.V.Kuleshov, 
+#+          V.Kuznetsov, K.Livingston, H.Y.Lu, M.Mayer, M.E.Mc.upper()racken, 
+#+          B.Mc.upper()innon, T.Mineeva, M.Mirazita, V.Mokeev, K.Moriya, 
+#+          B.Morrison, E.Munevar, P.Nadel-Turonski, C.S.Nepali, S.Niccolai, 
+#+          G.Niculescu, I.Niculescu, M.R.Niroula, M.Osipenko, A.I.Ostrovidov, 
+#+          K.Park, S.Park, E.Pasyuk, S.Anefalos Pereira, S.Pisano, 
+#+          O.Pogorelko, S.Pozdniakov, J.W.Price, S.Procureur, Y.Prok, 
+#+          D.Protopopescu, B.A.Raue, G.Ricco, M.Ripani, B.G.Ritchie, 
+#+          G.Rosner, P.Rossi, F.Sabatie, M.S.Saini, J.Salamanca, C.Salgado, 
+#+          R.A.Schumacher, H.Seraydaryan, Y.G.Sharabian, D.I.Sober, 
+#+          D.Sokhan, S.Stepanyan, S.S.Stepanyan, P.Stoler, S.Strauch, 
+#+          R.Suleiman, M.Taiuti, D.J.Tedeschi, S.Tkachenko, M.Ungaro, 
+#+          M.F.Vineyard, D.P.Watts, L.B.Weinstein, D.P.Weygand, M.Williams, 
+#+          E.Wolin, M.H.Wood, J.Zhang, B.Zhao, Z.W.Zhao
+#REF-CODE   (J,PR/C,80,044603,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 044603 (doi:10.1103/PhysRevC.80.044603)
+#DATASETS   0
+#
+#DATASET    L0148002 
+#DATE       20091213
+#REACTION   2-HE-4(G,P)1-H-3,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 103  C 4.0000+8          1.7300-7 1.0100-8 0.453990                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          1.8100-7 9.3600-9 0.397148                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          1.9200-7 9.2600-9 0.338738                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          1.7100-7 7.8900-9 0.278991                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          1.3300-7 6.2900-9 0.218143                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          1.0100-7 5.2000-9 0.156434                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          1.0600-7 5.2100-9 0.094108                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          7.3100-8 4.2800-9 0.031411                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          6.2900-8 3.9400-9-0.031411                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          5.8900-8 3.8400-9-0.094108                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          4.4400-8 3.2700-9-0.156434                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          5.4700-8 3.8700-9-0.218143                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          3.5200-8 3.1200-9-0.278991                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          3.7600-8 3.2100-9-0.338738                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          3.5100-8 3.1400-9-0.397148                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          2.6700-8 2.7400-9-0.453990                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          3.0400-8 2.9600-9-0.509041                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          2.1800-8 2.5700-9-0.562083                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          1.9000-8 2.5200-9-0.612907                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          2.5900-8 3.0500-9-0.661312                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          3.1300-8 3.7900-9-0.707107                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          2.6700-8 3.7200-9-0.750111                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          2.5000-8 5.1200-9-0.790155                              R.Nasseripour+       (09)L0148  2 
+    0  2004   4 103  C 4.0000+8          2.3500-8 6.9600-9-0.827081                              R.Nasseripour+       (09)L0148  2 
+#/DATA      24
+#/DATASET

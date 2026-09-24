@@ -1,0 +1,34 @@
+#ENTRY      B0101
+#AUTHOR1    W.E.Crandall+
+#YEAR       1956
+#INSTITUTE  (1USABRK)
+#TITLE      12C(x,xn)11C and 27Al(x,x2pn)24Na cross sections at
+#+          high energies
+#AUTHOR(S)  W.E.Crandall, G.P.Millburn, R.V.Pyle, W.Birnbaum
+#REF-CODE   (J,PR,101,329,1956)
+#REFERENCE  Phys.Rev. 101 (1956) 329 (doi:10.1103/PhysRev.101.329)
+#DATASETS   0
+#
+#DATASET    B01010031
+#DATE       20220622
+#REACTION   6-C-12(D,X)6-C-11,,SIG
+#PROJ       1002
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1002  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   3 454    8.5000+7          0.056900 1.8000-3            6011.9                     W.E.Crandall+        (56)B0101  31
+ 1002  6012   3 454    1.0500+8          0.060700 1.0000-3            6011.9                     W.E.Crandall+        (56)B0101  31
+ 1002  6012   3 454    1.3000+8          0.061600 1.8000-3            6011.9                     W.E.Crandall+        (56)B0101  31
+ 1002  6012   3 454    1.4500+8          0.060600 1.8000-3            6011.9                     W.E.Crandall+        (56)B0101  31
+ 1002  6012   3 454    1.6000+8          0.060600 9.0000-4            6011.9                     W.E.Crandall+        (56)B0101  31
+ 1002  6012   3 454    1.6000+8          0.061300 1.3000-3            6011.9                     W.E.Crandall+        (56)B0101  31
+ 1002  6012   3 454    1.8000+8          0.060800 6.0000-4            6011.9                     W.E.Crandall+        (56)B0101  31
+ 1002  6012   3 454    1.8000+8          0.060600 1.3000-3            6011.9                     W.E.Crandall+        (56)B0101  31
+ 1002  6012   3 454    1.9000+8          0.061100 6.0000-4            6011.9                     W.E.Crandall+        (56)B0101  31
+#/DATA      9
+#/DATASET

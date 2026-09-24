@@ -1,0 +1,40 @@
+#ENTRY      B0172
+#AUTHOR1    Y.Nagame+
+#YEAR       1979
+#INSTITUTE  (2JPNTMU)
+#TITLE      Production of thallium-199 by alpha bombardment of
+#+          gold
+#AUTHOR(S)  Y.Nagame, H.Nakahara, Y.Murakami
+#REF-CODE   (J,ARI,30,669,1979)
+#REFERENCE  Appl.Radiat.Isot. 30 (1979) 669 (doi:10.1016/0020-708X(79)90107-8)
+#DATASETS   0
+#
+#DATASET    B0172003 
+#DATE       20180518
+#REACTION   79-AU-197(A,2N)81-TL-199,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         16
+#PRODUCT    81-TL-199
+#C4BEGIN    [ 2004 79197   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3  16    2.0500+7          0.084000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    2.1200+7          0.117000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    2.2800+7          0.367000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    2.4000+7          0.424000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    2.4900+7          0.525000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    2.6500+7          0.723000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    2.7000+7          0.781000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    2.9300+7          0.781000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    3.1300+7          0.530000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    3.3800+7          0.299000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    3.4400+7          0.254000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    3.5900+7          0.191000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    3.6600+7          0.153000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    3.7700+7          0.126000                                                Y.Nagame+            (79)B0172  3 
+ 2004 79197   3  16    3.8800+7          0.110000                                                Y.Nagame+            (79)B0172  3 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      P0057
+#AUTHOR1    S.Tanaka+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Reactions of Iron-54 with Alpha Particles
+#AUTHOR(S)  S.Tanaka, M.Furukawa, S.Iwata, M.Yagi, H.Amano, T.Mikumo
+#REF-CODE   (J,JPJ,15,1547,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 1547 (doi:10.1143/JPSJ.15.1547)
+#DATASETS   0
+#
+#DATASET    P0057005 
+#DATE       20000817
+#REACTION   26-FE-54(A,2N+P)27-CO-55,,SIG
+#PROJ       2004
+#TARG       26054
+#MF         3
+#MT         41
+#PRODUCT    27-CO-55
+#C4BEGIN    [ 2004 26054   3  41  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26054   3  41    3.2500+7 520000.0 0.014900 2.4600-3                                       S.Tanaka+            (60)P0057  5 
+ 2004 26054   3  41    3.4400+7          0.034500                                                S.Tanaka+            (60)P0057  5 
+ 2004 26054   3  41    3.6300+7          0.057300                                                S.Tanaka+            (60)P0057  5 
+ 2004 26054   3  41    3.7800+7 440000.0 0.081300 7.4300-3                                       S.Tanaka+            (60)P0057  5 
+ 2004 26054   3  41    3.9500+7          0.104000                                                S.Tanaka+            (60)P0057  5 
+#/DATA      5
+#/DATASET

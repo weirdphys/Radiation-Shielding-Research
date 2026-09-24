@@ -1,0 +1,283 @@
+#ENTRY      M0579
+#AUTHOR1    R.A.Schumacher+
+#YEAR       1986
+#INSTITUTE  (1USAMIT)
+#TITLE      Two-body photodisintegration of 4He in the
+#+          100 - 360 MeV region.
+#AUTHOR(S)  R.A.Schumacher, J.L.Matthews, W.W.Sapp, R.S.Turley, G.S.Adams, 
+#+          R.O.Owens
+#REF-CODE   (J,PR/C,33,50,1986)
+#REFERENCE  Phys.Rev.C 33 (1986) 50 (doi:10.1103/PhysRevC.33.50)
+#DATASETS   0
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 1.5500+8 5000000. 3.7200-7 9.0000-9-0.538771                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 1.7400+8 5000000. 2.9000-7 1.3000-8-0.531399                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 1.8100+8 1000000. 2.5800-7 3.7000-8-0.529919                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 1.9200+8 5000000. 1.8500-7 9.0000-9-0.525472                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 1.9900+8 1000000. 1.7000-7 1.8000-8-0.522499                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 2.1200+8 5000000. 1.1600-7 7.0000-9-0.518027                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 2.1900+8 2000000. 8.5000-8 1.0000-8-0.515038                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 2.3000+8 5000000. 8.7100-8 4.3000-9-0.512043                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 2.4100+8 5000000. 6.2600-8 4.1000-9-0.507538                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 2.5200+8 5000000. 6.2900-8 4.0000-9-0.504528                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 2.6300+8 5000000. 5.5400-8 2.9000-9-0.500000                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 2.7400+8 5000000. 5.1400-8 2.7000-9-0.496974                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 2.8500+8 5000000. 5.1700-8 3.0000-9-0.493942                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 2.9600+8 5000000. 3.7500-8 2.5000-9-0.490904                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 3.0700+8 5000000. 4.0500-8 1.9000-9-0.487860                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 3.1800+8 5000000. 3.6000-8 1.8000-9-0.483282                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 3.4400+8 5000000. 3.1200-8 3.8000-9-0.477159                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET

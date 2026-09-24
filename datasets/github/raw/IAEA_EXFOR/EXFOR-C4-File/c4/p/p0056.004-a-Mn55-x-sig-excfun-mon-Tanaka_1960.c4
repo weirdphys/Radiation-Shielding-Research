@@ -1,0 +1,31 @@
+#ENTRY      P0056
+#AUTHOR1    S.Tanaka+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Excitation Functions for Alpha-Induced Reactions on
+#+          Manganese-55
+#AUTHOR(S)  S.Tanaka, M.Furukawa, T.Mikumo, S.Iwata, M.Yagi, H.Amano
+#REF-CODE   (J,JPJ,15,545,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 545 (doi:10.1143/JPSJ.15.545)
+#DATASETS   0
+#
+#DATASET    P0056004 
+#DATE       20241025
+#REACTION   25-MN-55(A,X)25-MN-56,,SIG
+#PROJ       2004
+#TARG       25055
+#MF         3
+#MT         454
+#PRODUCT    25-MN-56
+#C4BEGIN    [ 2004 25055   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 25055   3 454    3.0600+7          1.4900-3                    25056.9                     S.Tanaka+            (60)P0056  4 
+ 2004 25055   3 454    3.1100+7          1.7100-3                    25056.9                     S.Tanaka+            (60)P0056  4 
+ 2004 25055   3 454    3.2300+7          2.4700-3 3.5700-4           25056.9                     S.Tanaka+            (60)P0056  4 
+ 2004 25055   3 454    3.4100+7          4.6100-3                    25056.9                     S.Tanaka+            (60)P0056  4 
+ 2004 25055   3 454    3.6700+7          8.9900-3                    25056.9                     S.Tanaka+            (60)P0056  4 
+ 2004 25055   3 454    3.8500+7          0.014300                    25056.9                     S.Tanaka+            (60)P0056  4 
+#/DATA      6
+#/DATASET

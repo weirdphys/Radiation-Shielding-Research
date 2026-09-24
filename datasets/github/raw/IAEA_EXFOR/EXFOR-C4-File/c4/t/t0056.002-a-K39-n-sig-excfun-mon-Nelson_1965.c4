@@ -1,0 +1,25 @@
+#ENTRY      T0056
+#AUTHOR1    J.W.Nelson+
+#YEAR       1965
+#INSTITUTE  (1USAFSU)
+#TITLE      Energy level structure of 42Sc
+#AUTHOR(S)  J.W.Nelson, J.D.Oberholtzer, H.S.Plendl
+#REF-CODE   (J,NP,62,434,1965)
+#REFERENCE  Nucl.Phys. 62 (1965) 434 (doi:10.1016/0029-5582(65)90491-8)
+#DATASETS   0
+#
+#DATASET    T0056002 
+#DATE       20001016
+#REACTION   19-K-39(A,N)21-SC-42-G,,SIG
+#PROJ       2004
+#TARG       19039
+#MF         3
+#MT         4
+#PRODUCT    21-SC-42-G
+#C4BEGIN    [ 2004 19039   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 19039   3   4G   9670000.          2.2000-3 2.0000-4                                       J.W.Nelson+          (65)T0056  2 
+#/DATA      1
+#/DATASET

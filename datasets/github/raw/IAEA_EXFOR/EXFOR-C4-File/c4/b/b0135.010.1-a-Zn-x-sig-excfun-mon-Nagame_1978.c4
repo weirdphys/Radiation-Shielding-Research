@@ -1,0 +1,33 @@
+#ENTRY      B0135
+#AUTHOR1    Y.Nagame+
+#YEAR       1978
+#INSTITUTE  (2JPNTMU)
+#TITLE      Production of 67Ga by alpha bombardment of natural
+#+          zinc
+#AUTHOR(S)  Y.Nagame, M.Unno, H.Nakahara, Y.Murakami
+#REF-CODE   (J,ARI,29,615,1978)
+#REFERENCE  Appl.Radiat.Isot. 29 (1978) 615 (doi:10.1016/0020-708X(78)90095-9)
+#DATASETS   0
+#
+#DATASET    B01350101
+#DATE       20160824
+#REACTION   30-ZN-0(A,X)30-ZN-65,IND,SIG
+#PROJ       2004
+#TARG       30000
+#MF         3
+#MT         454
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 2004 30000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30000   3 454    2.1400+7          5.2000-3                    30065.9                     Y.Nagame+            (78)B0135 101
+ 2004 30000   3 454    2.3400+7          0.014000                    30065.9                     Y.Nagame+            (78)B0135 101
+ 2004 30000   3 454    2.5700+7          0.027000                    30065.9                     Y.Nagame+            (78)B0135 101
+ 2004 30000   3 454    2.9100+7          0.044000                    30065.9                     Y.Nagame+            (78)B0135 101
+ 2004 30000   3 454    3.2400+7          0.091000                    30065.9                     Y.Nagame+            (78)B0135 101
+ 2004 30000   3 454    3.4300+7          0.144000                    30065.9                     Y.Nagame+            (78)B0135 101
+ 2004 30000   3 454    3.5800+7          0.192000                    30065.9                     Y.Nagame+            (78)B0135 101
+ 2004 30000   3 454    3.7100+7          0.234000                    30065.9                     Y.Nagame+            (78)B0135 101
+#/DATA      8
+#/DATASET

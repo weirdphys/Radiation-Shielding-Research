@@ -1,0 +1,83 @@
+{
+  "schema": "STEP2C_MULTI_OBSERVABLE_IMPLEMENTATION_AMENDMENT_V1_1",
+  "generated_utc": "2026-09-19T19:56:57.445229+00:00",
+  "predecessor": {
+    "directory": "Step2C_MultiObservable_Implementation_Freeze_v1",
+    "csv": "BEAM_HOLDOUT_ASSIGNMENT_v1.csv",
+    "csv_sha256": "0cefb97f7ee6bef8b7927db488afd80a484fe3162138d993ae93cacbebae74fe",
+    "json": "STEP2C_MULTI_OBSERVABLE_IMPLEMENTATION_FREEZE_v1.json",
+    "json_sha256": "9b8b4decf80ac6ea62e504d9def98f112ce73a568004ef3df46da1a2c265e936"
+  },
+  "replacement_source_evidence": {
+    "directory": "Step2C_Replacement_Source_Freeze_v3_3",
+    "distribution_zip_sha256": "0cfa41d4aa96dc9573502cfa9022df2e3038f63469d1f98001c3ac2480f4be2c",
+    "payload_tree_sha256": "a72899b7f0187ffbf36ce6853068e189268fd7b02fa2852704bb087ac76217a5",
+    "araki_pdf_sha256": "3da32a92200c904f0b13742cb2ecc20bd069521a363599cdd15c20e0609ae44e",
+    "tian_pdf_sha256": "c143e0f86b1dd7a04045bb1baaf163f85a02fac96c374fd9b80c642bd48c9286",
+    "tian_pmc_metadata_sha256": "ae90e1a5ebab3d4028adc9fe3c9f2bafd1ea9cabb1db39f12cb51bd83ae843dd"
+  },
+  "allowed_changes": {
+    "10MV": "Replace PMC9669309 holdout with Araki 2005. Primary profile fixed at 10 cm depth.",
+    "15MV": "Replace Usmani holdout with Tian et al. 2017. Primary gating profile fixed to the measured cross-line 40x40 profile at 10 cm depth.",
+    "15MV_shallow_profile": "Excluded because of unresolved 2.8-cm versus 2.1-cm publication metadata discrepancy."
+  },
+  "unchanged_beams": [
+    "6MV",
+    "16MV",
+    "18MV"
+  ],
+  "protected_block_semantic_sha256_before": {
+    "status": "833c7a345375262a2336d862b2eec50ec0d78752b721930b798b45a2770ce5c7",
+    "purpose": "918645240d5d46fd860daa99597bb4b164823a9b6907a36a1a956879543ff4fb",
+    "non_negotiable_rules": "68792cd3013e60ab18b323091c4b203e924edd9ce66985850dacc06b757d4c27",
+    "fixed_source_model_under_test": "0c5cb9c24a49a0b8dadded3b833ef491ea94bdb49f0ab0304b737b596d31be3e",
+    "digitization_contract": "0a419666b4a59743e16467e405c6ebc02f2b1d8e3d8418fe4d0d3259498c9a30",
+    "pdd_acceptance": "380deb1db63d110625350aea3c38eef0d9ed4f58bc336a19695f872ef15141cf",
+    "profile_acceptance": "f3caadc6aecb6d4793fcbae5bb1c0a07009aa02192831cca75e1b99736f3320c",
+    "paired_route_c_gate": "8fed9cb94174b457bef19e5a278ba5e011460c2f6d0e33535f965720b8c6e9e4",
+    "mc_execution_contract": "d35cbc4f51e73de17c7a48da5c092a9e9c59651635412062ee0958e555c78de9",
+    "failure_policy": "3ca66aa650c94a89000acb39be83a4816f954b9c1c0df02c72253f8755262029"
+  },
+  "protected_block_semantic_sha256_after": {
+    "status": "833c7a345375262a2336d862b2eec50ec0d78752b721930b798b45a2770ce5c7",
+    "purpose": "918645240d5d46fd860daa99597bb4b164823a9b6907a36a1a956879543ff4fb",
+    "non_negotiable_rules": "68792cd3013e60ab18b323091c4b203e924edd9ce66985850dacc06b757d4c27",
+    "fixed_source_model_under_test": "0c5cb9c24a49a0b8dadded3b833ef491ea94bdb49f0ab0304b737b596d31be3e",
+    "digitization_contract": "0a419666b4a59743e16467e405c6ebc02f2b1d8e3d8418fe4d0d3259498c9a30",
+    "pdd_acceptance": "380deb1db63d110625350aea3c38eef0d9ed4f58bc336a19695f872ef15141cf",
+    "profile_acceptance": "f3caadc6aecb6d4793fcbae5bb1c0a07009aa02192831cca75e1b99736f3320c",
+    "paired_route_c_gate": "8fed9cb94174b457bef19e5a278ba5e011460c2f6d0e33535f965720b8c6e9e4",
+    "mc_execution_contract": "d35cbc4f51e73de17c7a48da5c092a9e9c59651635412062ee0958e555c78de9",
+    "failure_policy": "3ca66aa650c94a89000acb39be83a4816f954b9c1c0df02c72253f8755262029"
+  },
+  "semantic_change_paths": [
+    "basis.replacement_source_freeze_v3_3",
+    "date",
+    "holdout_assignment.10MV.comparability_note",
+    "holdout_assignment.10MV.machine",
+    "holdout_assignment.10MV.pdd",
+    "holdout_assignment.10MV.profile",
+    "holdout_assignment.10MV.reference",
+    "holdout_assignment.10MV.source_freeze_binding",
+    "holdout_assignment.15MV.comparability_note",
+    "holdout_assignment.15MV.excluded_profiles",
+    "holdout_assignment.15MV.machine",
+    "holdout_assignment.15MV.pdd",
+    "holdout_assignment.15MV.profile",
+    "holdout_assignment.15MV.reference",
+    "holdout_assignment.15MV.secondary_non_gating_profiles",
+    "holdout_assignment.15MV.source_freeze_binding",
+    "revision_v1_1",
+    "spec_id"
+  ],
+  "safety_state": {
+    "curve_digitization_performed": false,
+    "project_prediction_viewed_during_reassignment": false,
+    "scientific_evaluation_performed": false,
+    "geant4_run_performed": false,
+    "acceptance_threshold_changed": false,
+    "production_source_mutated": false,
+    "predecessor_v1_modified": false,
+    "replacement_source_freeze_v3_3_modified": false
+  }
+}

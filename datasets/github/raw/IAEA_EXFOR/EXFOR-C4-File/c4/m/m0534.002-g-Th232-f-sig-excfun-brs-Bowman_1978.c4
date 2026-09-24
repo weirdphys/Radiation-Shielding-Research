@@ -1,0 +1,29 @@
+#ENTRY      M0534
+#AUTHOR1    C.D.Bowman+
+#YEAR       1978
+#INSTITUTE  (1USANBS)
+#TITLE      Subthreshold photofission of U-235 and Th-232.
+#AUTHOR(S)  C.D.Bowman, I.G.Schroder, K.C.Duvall, C.E.Dick
+#REF-CODE   (J,PR/C,17,1086,1978)
+#REFERENCE  Phys.Rev.C 17 (1978) 1086 (doi:10.1103/PhysRevC.17.1086)
+#DATASETS   0
+#
+#DATASET    M0534002 
+#DATE       20160202
+#REACTION   90-TH-232(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    0 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3  18    3250000.          7.400-13 1.290-11                                       C.D.Bowman+          (78)M0534  2 
+    0 90232   3  18    3750000.          3.300-10 2.200-10                                       C.D.Bowman+          (78)M0534  2 
+    0 90232   3  18    4250000.          4.400-10 1.0700-9                                       C.D.Bowman+          (78)M0534  2 
+    0 90232   3  18    4750000.          1.6000-8 1.4000-8                                       C.D.Bowman+          (78)M0534  2 
+    0 90232   3  18    5250000.          4.2000-7 1.1000-7                                       C.D.Bowman+          (78)M0534  2 
+    0 90232   3  18    5750000.          8.6000-4 2.5000-5                                       C.D.Bowman+          (78)M0534  2 
+#/DATA      6
+#/DATASET

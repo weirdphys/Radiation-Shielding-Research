@@ -1,0 +1,31 @@
+#ENTRY      M0535
+#AUTHOR1    A.Manfredini+
+#YEAR       1965
+#INSTITUTE  (2ITYROM)
+#TITLE      238U fission induced by low-energy monochromatic
+#+          gamma-rays: cross sections between 5 and 8 MeV.
+#AUTHOR(S)  A.Manfredini, M.Muchnik, L.Fiore, C.Ramorino, H.G.De Carvalho, 
+#+          J.Lang, R.Muller
+#REF-CODE   (J,NP,74,377,1965)
+#REFERENCE  Nucl.Phys. 74 (1965) 377 (doi:10.1016/0029-5582(65)90089-1)
+#DATASETS   0
+#
+#DATASET    M0535002 
+#DATE       20111117
+#REACTION   92-U-238(G,F),,SIG
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  18    5430000.          7.0000-4 1.1000-4                                       A.Manfredini+        (65)M0535  2 
+    0 92238   3  18    6070000.          6.3800-3 6.9000-4                                       A.Manfredini+        (65)M0535  2 
+    0 92238   3  18    6440000.          0.013900 2.6000-3                                       A.Manfredini+        (65)M0535  2 
+    0 92238   3  18    6800000.          3.8100-3 4.6000-4                                       A.Manfredini+        (65)M0535  2 
+    0 92238   3  18    7380000.          0.012800 1.5000-3                                       A.Manfredini+        (65)M0535  2 
+    0 92238   3  18    7720000.          5.2500-3 6.1000-4                                       A.Manfredini+        (65)M0535  2 
+#/DATA      6
+#/DATASET

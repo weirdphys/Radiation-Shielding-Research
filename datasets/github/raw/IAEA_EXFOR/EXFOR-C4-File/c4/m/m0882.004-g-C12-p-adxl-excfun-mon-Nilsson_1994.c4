@@ -1,0 +1,35 @@
+#ENTRY      M0882
+#AUTHOR1    D.Nilsson+
+#YEAR       1994
+#INSTITUTE  (2SWDLND)
+#TITLE      Investigation of the (gamma,p) reaction  at  6Li  and
+#+          12C at 61 and 77 MeV.
+#AUTHOR(S)  D.Nilsson, J.-O.Adler, B.-E.Andersson, K.I.Blomqvist, L.Isaksson, 
+#+          A.Sandel, B.Schroder, K.Ziakas, L.Van Hoorebeke, D.Rykbosch, 
+#+          R.Van De Vyver
+#REF-CODE   (J,PS,49,397,1994)
+#REFERENCE  Phys.Scr. 49 (1994) 397 (doi:10.1088/0031-8949/49/4/003)
+#DATASETS   0
+#
+#DATASET    M0882004 
+#DATE       20141030
+#REACTION   6-C-12(G,P)5-B-11,PAR,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 600    5.8550+7          4.4600-6 5.2000-7 6.123-17          5020000.         LVLD.Nilsson+           (94)M0882  4 
+    0  6012   4 600    6.0020+7          2.1900-6 4.0000-7 6.123-17          5020000.         LVLD.Nilsson+           (94)M0882  4 
+    0  6012   4 600    6.1460+7          2.8000-6 4.0000-7 6.123-17          5020000.         LVLD.Nilsson+           (94)M0882  4 
+    0  6012   4 600    6.3390+7          2.8400-6 3.9000-7 6.123-17          5020000.         LVLD.Nilsson+           (94)M0882  4 
+    0  6012   4 600    7.4180+7          7.1000-7 1.8000-7 6.123-17          5020000.         LVLD.Nilsson+           (94)M0882  4 
+    0  6012   4 600    7.6260+7          8.9000-7 2.5000-7 6.123-17          5020000.         LVLD.Nilsson+           (94)M0882  4 
+    0  6012   4 600    7.7680+7          8.0000-7 2.2000-7 6.123-17          5020000.         LVLD.Nilsson+           (94)M0882  4 
+    0  6012   4 600    8.0070+7          7.8000-7 1.4000-7 6.123-17          5020000.         LVLD.Nilsson+           (94)M0882  4 
+#/DATA      8
+#/DATASET

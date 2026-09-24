@@ -1,0 +1,26 @@
+#ENTRY      S0112
+#AUTHOR1    Sun Chichang+
+#YEAR       1978
+#INSTITUTE  (3CPRIMP)
+#TITLE      The measurement of complete fusion cross-sections for
+#+          the reactions 12C+27Al, 12C+209Bi and 14N+Pb
+#AUTHOR(S)  Sun Chichang, He Yi, Shen Jiusheng, Chen Hou, Chen Keliang
+#REF-CODE   (J,PHE,2,151,1978)
+#REFERENCE  High En.Nucl.Phy.Ch. 2 (1978) 151
+#DATASETS   0
+#
+#DATASET    S0112004 
+#DATE       20151020
+#REACTION   83-BI-209(6-C-12,F),,SIG
+#PROJ       6012
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [ 6012 83209   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 83209   3  18    7.0000+7          0.336000 0.021000                                       Sun Chichang+        (78)S0112  4 
+ 6012 83209   3  18    7.3000+7          0.555000 0.035000                                       Sun Chichang+        (78)S0112  4 
+#/DATA      2
+#/DATASET

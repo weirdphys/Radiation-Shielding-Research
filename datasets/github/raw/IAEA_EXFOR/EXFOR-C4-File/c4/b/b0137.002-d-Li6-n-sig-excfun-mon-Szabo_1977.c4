@@ -1,0 +1,29 @@
+#ENTRY      B0137
+#AUTHOR1    J.Szabo+
+#YEAR       1977
+#INSTITUTE  (3HUNKOS)
+#TITLE      Low-Energy Cross Section For Li-6(D,N)Be-7.
+#AUTHOR(S)  J.Szabo, Z.T.Boedy, S.Szegedi, M.Varnagy
+#REF-CODE   (J,NP/A,289,526,1977)
+#REFERENCE  Nucl.Phys.A 289 (1977) 526 (doi:10.1016/0375-9474(77)90049-5)
+#DATASETS   0
+#
+#DATASET    B0137002 
+#DATE       20011220
+#REACTION   3-LI-6(D,N)4-BE-7,,SIG,,,EXP
+#PROJ       1002
+#TARG       3006
+#MF         3
+#MT         4
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1002  3006   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   3   4    100000.0          6.3000-4 1.6000-4                                       J.Szabo+             (77)B0137  2 
+ 1002  3006   3   4    120000.0          1.0800-3 2.2000-4                                       J.Szabo+             (77)B0137  2 
+ 1002  3006   3   4    140000.0          1.8600-3 3.3000-4                                       J.Szabo+             (77)B0137  2 
+ 1002  3006   3   4    160000.0          3.1900-3 6.2000-4                                       J.Szabo+             (77)B0137  2 
+ 1002  3006   3   4    180000.0          5.4400-3 1.2800-3                                       J.Szabo+             (77)B0137  2 
+#/DATA      5
+#/DATASET

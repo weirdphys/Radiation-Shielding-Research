@@ -1,0 +1,34 @@
+#ENTRY      P0038
+#AUTHOR1    B.L.Cohen+
+#YEAR       1954
+#INSTITUTE  (1USAORL)
+#TITLE      Experimental Studies of (p,t) Reactions
+#AUTHOR(S)  B.L.Cohen, T.H.Handley
+#REF-CODE   (J,PR,93,514,1954)
+#REFERENCE  Phys.Rev. 93 (1954) 514 (doi:10.1103/PhysRev.93.514)
+#DATASETS   0
+#
+#DATASET    P0038003 
+#DATE       20000811
+#REACTION   4-BE-9(P,T)4-BE-7,,SIG
+#PROJ       1001
+#TARG       4009
+#MF         3
+#MT         105
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  4009   3 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   3 105    1.4300+7          1.5000-3 4.5000-4                                       B.L.Cohen+           (54)P0038  3 
+ 1001  4009   3 105    1.5300+7          5.2000-3 1.5600-3                                       B.L.Cohen+           (54)P0038  3 
+ 1001  4009   3 105    1.6400+7          7.1000-3 2.1300-3                                       B.L.Cohen+           (54)P0038  3 
+ 1001  4009   3 105    1.7400+7          0.010300 3.0900-3                                       B.L.Cohen+           (54)P0038  3 
+ 1001  4009   3 105    1.8500+7          0.011900 3.5700-3                                       B.L.Cohen+           (54)P0038  3 
+ 1001  4009   3 105    1.9400+7          0.011300 3.3900-3                                       B.L.Cohen+           (54)P0038  3 
+ 1001  4009   3 105    2.0300+7          9.7000-3 2.9100-3                                       B.L.Cohen+           (54)P0038  3 
+ 1001  4009   3 105    2.1300+7          8.7000-3 2.6100-3                                       B.L.Cohen+           (54)P0038  3 
+ 1001  4009   3 105    2.2000+7          9.0000-3 2.7000-3                                       B.L.Cohen+           (54)P0038  3 
+ 1001  4009   3 105    2.3000+7          9.7000-3 2.9100-3                                       B.L.Cohen+           (54)P0038  3 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,68 @@
+{
+  "beam_set_MV": [
+    6,
+    10,
+    15,
+    16,
+    18
+  ],
+  "forbidden_operations": [
+    "production spectrum mutation",
+    "acceptance threshold changes",
+    "smoothing",
+    "symmetrization",
+    "post-hoc horizontal translation",
+    "endpoint snapping",
+    "post-hoc scorer tuning"
+  ],
+  "implementation_language": "C++17",
+  "minimum_histories_per_beam": 100000000,
+  "pdd_scoring": {
+    "central_square_half_width_cm": 1.0,
+    "comparison_domain": "depth >= max(reference_dmax, mc_dmax)",
+    "depth_bins": "exact frozen reference depth coordinates with midpoint-derived bin edges",
+    "median_abs_difference_percent_points_max": 2.5,
+    "minimum_post_dmax_points": 10,
+    "normalization": "MC own dmax=100%; reference own dmax=100%",
+    "p90_abs_difference_percent_points_max": 5.0,
+    "pdd10_abs_difference_percent_points_max": 3.0,
+    "pdd10_interpolation": "linear"
+  },
+  "physics": "G4EmStandardPhysics_option4",
+  "profile_scoring": {
+    "crossing_interpolation": "linear within bracketing points",
+    "depth_cm": 10.0,
+    "depth_half_width_cm": 0.05,
+    "dose_threshold_percent_of_cax": 10.0,
+    "edge_dta_mm_max": 2.0,
+    "edge_levels_percent": [
+      20,
+      50,
+      80
+    ],
+    "left_right_crossings_independent": true,
+    "mc_interpolation_to_reference_plateau_points": "linear for evaluation only",
+    "normalization": "CAX x=0 = 100% independently for MC and reference",
+    "plateau_p90_abs_difference_percent_points_max": 2.0,
+    "plateau_reference_definition": "abs(x)<=16 cm and reference>=80%",
+    "x_bin_width_cm": 0.1,
+    "x_half_extent_cm": 30.0,
+    "y_half_width_cm": 1.0
+  },
+  "same_events_for_pdd_and_profile": true,
+  "schema": "STEP2G_ROUTE_C_TRANSPORT_IMPLEMENTATION_FREEZE_V1",
+  "scope": "Validates the frozen factorized Route-C surrogate only; does not uniquely validate complete clinical phase space and does not replace Step-2C spectral/provenance qualification.",
+  "source_plane": {
+    "field_size_cm": [
+      40.0,
+      40.0
+    ],
+    "mode": "water_surface_factorized",
+    "offset_cm": 0.001,
+    "phase_space_complete": false,
+    "phase_space_model": "aggregate_energy_uniform_xy_virtual_source_divergence",
+    "ssd_cm": 100.0
+  },
+  "status": "FROZEN_BEFORE_ROUTE_C_PAIRED_TRANSPORT_OR_EVALUATION",
+  "transport_threads": 16
+}

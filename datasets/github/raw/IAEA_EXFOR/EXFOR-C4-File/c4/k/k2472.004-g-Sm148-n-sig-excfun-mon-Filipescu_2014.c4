@@ -1,0 +1,40 @@
+#ENTRY      K2472
+#AUTHOR1    D.M.Filipescu+
+#YEAR       2014
+#INSTITUTE  (3RUMBUC)
+#TITLE      Photoneutron cross sections for samarium isotopes:
+#+          Toward a unified understanding of (gamma,n) and
+#+          (n,gamma) reactions in the rare earth region
+#AUTHOR(S)  D.M.Filipescu, I.Gheorghe, H.Utsunomiya, S.Goriely, T.Renstrom, 
+#+          H.-T.Nyhus, O.Tesileanu, T.Glodariu, T.Shima, K.Takahisa, 
+#+          S.Miyamoto, Y.-W.Lu, S.Hilaire, S.Peru, M.Martini, A.J.Koning
+#REF-CODE   (J,PR/C,90,064616,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 064616 (doi:10.1103/PhysRevC.90.064616)
+#DATASETS   0
+#
+#DATASET    K2472004 
+#DATE       20150624
+#REACTION   62-SM-148(G,N)62-SM-147,,SIG
+#PROJ       0
+#TARG       62148
+#MF         3
+#MT         4
+#PRODUCT    62-SM-147
+#C4BEGIN    [    0 62148   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 62148   3   4 A  8220000.          1.6600-3 1.1100-3                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  8370000.          0.014530 7.1000-4                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  8560000.          0.019550 8.5000-4                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  8820000.          0.022840 1.0400-3                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  9280000.          0.026880 1.1200-3                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  9740000.          0.033390 1.2900-3                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  1.0200+7          0.042830 1.6100-3                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  1.0690+7          0.057330 2.0700-3                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  1.1180+7          0.073120 2.5700-3                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  1.1680+7          0.087720 2.9200-3                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  1.2140+7          0.111620 3.7500-3                                       D.M.Filipescu+       (14)K2472  4 
+    0 62148   3   4 A  1.2650+7          0.137200 4.4400-3                                       D.M.Filipescu+       (14)K2472  4 
+#/DATA      12
+#/DATASET

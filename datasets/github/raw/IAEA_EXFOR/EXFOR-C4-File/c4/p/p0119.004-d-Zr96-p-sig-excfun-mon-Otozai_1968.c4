@@ -1,0 +1,36 @@
+#ENTRY      P0119
+#AUTHOR1    K.Otozai+
+#YEAR       1968
+#INSTITUTE  (2JPNOSA)
+#TITLE      Excitation functions for deuteron-induced reactions
+#AUTHOR(S)  K.Otozai, S.Kuze, H.Okamura, A.Mito, T.Nishi, I.Fujiwara
+#REF-CODE   (J,NP/A,107,427,1968)
+#REFERENCE  Nucl.Phys.A 107 (1968) 427 (doi:10.1016/0375-9474(68)90630-1)
+#DATASETS   0
+#
+#DATASET    P0119004 
+#DATE       20150512
+#REACTION   40-ZR-96(D,P)40-ZR-97,,SIG
+#PROJ       1002
+#TARG       40096
+#MF         3
+#MT         103
+#PRODUCT    40-ZR-97
+#C4BEGIN    [ 1002 40096   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 40096   3 103    3879881.          8.0000-3                                                K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    4288299.          9.0000-3                                                K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    5717777.          0.066000                                                K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    5921989.          0.130000 0.010000                                       K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    6840953.          0.200000                                                K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    7147276.          0.270000                                                K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    9495786.          0.280000                                                K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    9700007.          0.380000                                                K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    1.1130+7          0.230000 0.090000                                       K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    1.3070+7          0.200000                                                K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    1.3274+7          0.160000                                                K.Otozai+            (68)P0119  4 
+ 1002 40096   3 103    1.4397+7          0.150000 0.050000                                       K.Otozai+            (68)P0119  4 
+#/DATA      12
+#/DATASET

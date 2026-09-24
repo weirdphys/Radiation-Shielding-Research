@@ -1,0 +1,32 @@
+#ENTRY      B0178
+#AUTHOR1    M.Watanabe+
+#YEAR       1979
+#INSTITUTE  (2JPNTMU)
+#TITLE      3He bombardment of manganese for the production of 55Co
+#AUTHOR(S)  M.Watanabe, H.Nakahara, Y.Murakami
+#REF-CODE   (J,ARI,30,625,1979)
+#REFERENCE  Appl.Radiat.Isot. 30 (1979) 625 (doi:10.1016/0020-708X(79)90078-4)
+#DATASETS   0
+#
+#DATASET    B0178008 
+#DATE       20221111
+#REACTION   25-MN-55(HE3,X)24-CR-51,CUM,SIG
+#PROJ       2003
+#TARG       25055
+#MF         3
+#MT         459
+#PRODUCT    24-CR-51
+#C4BEGIN    [ 2003 25055   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 25055   3 459    3.1920+7          6.3340-3                    24051.9                     M.Watanabe+          (79)B0178  8 
+ 2003 25055   3 459    3.2512+7          7.0310-3                    24051.9                     M.Watanabe+          (79)B0178  8 
+ 2003 25055   3 459    3.4457+7          0.012570                    24051.9                     M.Watanabe+          (79)B0178  8 
+ 2003 25055   3 459    3.6246+7          0.027940                    24051.9                     M.Watanabe+          (79)B0178  8 
+ 2003 25055   3 459    3.6450+7          0.032040                    24051.9                     M.Watanabe+          (79)B0178  8 
+ 2003 25055   3 459    3.8399+7          0.050790                    24051.9                     M.Watanabe+          (79)B0178  8 
+ 2003 25055   3 459    3.8840+7          0.060180                    24051.9                     M.Watanabe+          (79)B0178  8 
+ 2003 25055   3 459    3.8910+7          0.044580                    24051.9                     M.Watanabe+          (79)B0178  8 
+#/DATA      8
+#/DATASET

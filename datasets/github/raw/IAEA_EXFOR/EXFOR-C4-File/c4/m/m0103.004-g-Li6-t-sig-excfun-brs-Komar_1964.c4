@@ -1,0 +1,31 @@
+#ENTRY      M0103
+#AUTHOR1    A.P.Komar+
+#YEAR       1964
+#INSTITUTE  (4RUSFTI)
+#TITLE      Deuterons and tritons of low energies at the
+#+          photodisintegration of LI-6.
+#AUTHOR(S)  A.P.Komar, E.D.Makhnovskiy
+#REF-CODE   (J,DOK,156,(4),774,1964)
+#REFERENCE  Dokl.Acad.Nauk 156 No.4 (1964) 774
+#DATASETS   0
+#
+#DATASET    M0103004 
+#DATE       20101119
+#REACTION   3-LI-6(G,T)2-HE-3,,SIG,,BRS
+#PROJ       0
+#TARG       3006
+#MF         3
+#MT         105
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  3006   3 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   3 105    1.8800+7          1.5000-3 1.3000-3                                       A.P.Komar+           (64)M0103  4 
+    0  3006   3 105    1.9900+7          7.8000-3 1.9000-3                                       A.P.Komar+           (64)M0103  4 
+    0  3006   3 105    2.0900+7          6.8000-3 1.7000-3                                       A.P.Komar+           (64)M0103  4 
+    0  3006   3 105    2.1900+7          7.7500-3 1.6000-3                                       A.P.Komar+           (64)M0103  4 
+    0  3006   3 105    2.2900+7          4.5000-3 1.4000-3                                       A.P.Komar+           (64)M0103  4 
+    0  3006   3 105    2.3800+7          1.2000-3 1.0000-3                                       A.P.Komar+           (64)M0103  4 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      S0057
+#AUTHOR1    Su Jun+
+#YEAR       2010
+#INSTITUTE  (3CPRAEP)
+#TITLE      Neutron spectroscopic factors of 7Li and astrophysical
+#+          6Li(n,g)7Li reaction rates
+#AUTHOR(S)  Su Jun, Li Zhi-Hong, Guo Bing, Bai Xi-Xiang, Li Zhi-Chang, 
+#+          Liu Jian-Cheng, Wang You-Bao, Lian Gang, Zeng Sheng, Wang Bao-Xiang, 
+#+          Yan Sheng-Quan, Li Yun-Ju, Li Er-Tao, Fan Qi-Wen, Liu Wei-Ping
+#REF-CODE   (J,CPL,27,(5),052101,2010)
+#REFERENCE  Chin.Phys.Lett. 27 No.5 (2010) 052101 (doi:10.1088/0256-307X/27/5/052101)
+#DATASETS   0
+#
+#DATASET    S0057002 
+#DATE       20100926
+#REACTION   6-C-12(3-LI-7,EL)6-C-12,,DA,,RTH
+#PROJ       3007
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 3007  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007  6012   4   2  C 3.6000+7          0.132089 0.010660 0.915663                              Su Jun+              (10)S0057  2 
+ 3007  6012   4   2  C 3.6000+7          0.077366 6.2547-3 0.904306                              Su Jun+              (10)S0057  2 
+ 3007  6012   4   2  C 3.6000+7          0.036481 3.0284-3 0.892271                              Su Jun+              (10)S0057  2 
+ 3007  6012   4   2  C 3.6000+7          0.016154 1.3462-3 0.879566                              Su Jun+              (10)S0057  2 
+ 3007  6012   4   2  C 3.6000+7          9.6469-3 8.0088-4 0.866287                              Su Jun+              (10)S0057  2 
+ 3007  6012   4   2  C 3.6000+7          0.011184 9.5440-4 0.852275                              Su Jun+              (10)S0057  2 
+ 3007  6012   4   2  C 3.6000+7          0.013856 1.1506-3 0.837814                              Su Jun+              (10)S0057  2 
+ 3007  6012   4   2  C 3.6000+7          0.012972 1.0817-3 0.806857                              Su Jun+              (10)S0057  2 
+ 3007  6012   4   2  C 3.6000+7          6.8076-3 5.7207-4 0.773730                              Su Jun+              (10)S0057  2 
+#/DATA      9
+#/DATASET

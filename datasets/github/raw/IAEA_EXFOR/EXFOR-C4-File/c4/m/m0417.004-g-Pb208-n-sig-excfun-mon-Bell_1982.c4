@@ -1,0 +1,36 @@
+#ENTRY      M0417
+#AUTHOR1    Z.W.Bell+
+#YEAR       1982
+#INSTITUTE  (1USAUI)
+#TITLE      Fine structure in the Pb-208 photoneutron cross
+#+          section between 9.9 and 11.2 MeV.
+#AUTHOR(S)  Z.W.Bell, L.S.Cardman, P.Axel
+#REF-CODE   (J,PR/C,25,791,1982)
+#REFERENCE  Phys.Rev.C 25 (1982) 791 (doi:10.1103/PhysRevC.25.791)
+#DATASETS   0
+#
+#DATASET    M0417004 
+#DATE       20160905
+#REACTION   82-PB-208(G,N)82-PB-207,,SIG
+#PROJ       0
+#TARG       82208
+#MF         3
+#MT         4
+#PRODUCT    82-PB-207
+#C4BEGIN    [    0 82208   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82208   3   4 D  9920000. 55000.00 0.107500 5.0000-3                                       Z.W.Bell+            (82)M0417  4 
+    0 82208   3   4 D  1.0010+7 55000.00 0.175900 4.0000-3                                       Z.W.Bell+            (82)M0417  4 
+    0 82208   3   4 D  1.0110+7 55000.00 0.200200 4.0000-3                                       Z.W.Bell+            (82)M0417  4 
+    0 82208   3   4 D  1.0210+7 55000.00 0.126300 4.0000-3                                       Z.W.Bell+            (82)M0417  4 
+    0 82208   3   4 D  1.0340+7 55000.00 0.105500 3.0000-3                                       Z.W.Bell+            (82)M0417  4 
+    0 82208   3   4 D  1.0480+7 55000.00 0.156200 5.0000-3                                       Z.W.Bell+            (82)M0417  4 
+    0 82208   3   4 D  1.0600+7 55000.00 0.229600 6.0000-3                                       Z.W.Bell+            (82)M0417  4 
+    0 82208   3   4 D  1.0700+7 55000.00 0.186000 9.0000-3                                       Z.W.Bell+            (82)M0417  4 
+    0 82208   3   4 D  1.0840+7 55000.00 0.210400 0.010000                                       Z.W.Bell+            (82)M0417  4 
+    0 82208   3   4 D  1.1080+7 55000.00 0.219500 0.023000                                       Z.W.Bell+            (82)M0417  4 
+    0 82208   3   4 D  1.1200+7 55000.00 0.197600 0.024000                                       Z.W.Bell+            (82)M0417  4 
+#/DATA      11
+#/DATASET

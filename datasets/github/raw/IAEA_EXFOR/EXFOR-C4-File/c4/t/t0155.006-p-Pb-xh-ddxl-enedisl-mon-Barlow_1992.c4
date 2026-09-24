@@ -1,0 +1,40 @@
+#ENTRY      T0155
+#AUTHOR1    D.B.Barlow+
+#YEAR       1992
+#INSTITUTE  (1USACLA)
+#TITLE      3He and 4He production by 800 MeV protons from 12C,
+#+          Ti, and Pb at forward angles
+#AUTHOR(S)  D.B.Barlow, B.M.K.Nefkens, C.Pillai, J.W.Price, I.Slaus, 
+#+          M.J.Wang, J.A.Wightman, K.W.Jones, M.J.Leitch, C.S.Mishra, 
+#+          C.L.Morris, J.-C.Peng, P.K.Teng, J.M.Tinsley
+#REF-CODE   (J,PR/C,45,293,1992)
+#REFERENCE  Phys.Rev.C 45 (1992) 293 (doi:10.1103/PhysRevC.45.293)
+#DATASETS   0
+#
+#DATASET    T0155006 
+#DATE       20260413
+#REACTION   82-PB-0(P,X)2-HE-3,,DA/DP
+#PROJ       1001
+#TARG       82000
+#MF         6
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001 82000   6 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82000   6 206    8.0000+8          4.621-12 9.375-14 0.994522          2.3653+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          3.059-12 9.271-14 0.994522          2.4904+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          3.082-12 5.268-14 0.994522          2.5552+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          2.550-12 3.943-14 0.994522          2.5799+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          2.453-12 3.935-14 0.994522          2.6047+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          2.422-12 3.928-14 0.994522          2.6298+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          2.195-12 2.613-14 0.994522          2.6549+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          2.126-12 2.608-14 0.994522          2.6802+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          1.715-12 2.598-14 0.994522          2.7313+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          9.728-13 1.417-14 0.994522          2.8437+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          5.530-13 1.664-14 0.994522          2.9405+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          1.805-13 7.628-15 0.994522          3.0475+9          E2D.B.Barlow+          (92)T0155  6 
+ 1001 82000   6 206    8.0000+8          9.482-14 5.057-15 0.994522          3.1378+9          E2D.B.Barlow+          (92)T0155  6 
+#/DATA      13
+#/DATASET

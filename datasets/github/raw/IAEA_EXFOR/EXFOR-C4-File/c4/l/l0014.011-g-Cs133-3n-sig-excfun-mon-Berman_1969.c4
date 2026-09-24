@@ -1,0 +1,33 @@
+#ENTRY      L0014
+#AUTHOR1    B.L.Berman+
+#YEAR       1969
+#INSTITUTE  (1USALRL)
+#TITLE      Photoneutron cross sections for As75, Ag107, and 133Cs
+#AUTHOR(S)  B.L.Berman, R.L.Bramblett, J.T.Caldwell, H.S.Davis, M.A.Kelly, 
+#+          S.C.Fultz
+#REF-CODE   (J,PR,177,1745,196901)
+#REFERENCE  Phys.Rev. 177 (1969) 1745 (doi:10.1103/PhysRev.177.1745)
+#DATASETS   0
+#
+#DATASET    L0014011 
+#DATE       20100405
+#REACTION   55-CS-133(G,3N)55-CS-130,,SIG
+#PROJ       0
+#TARG       55133
+#MF         3
+#MT         17
+#PRODUCT    55-CS-130
+#C4BEGIN    [    0 55133   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 55133   3  17    2.7060+7          1.6500-3 4.7000-3                                       B.L.Berman+          (69)L0014 11 
+    0 55133   3  17    2.7370+7          0.000000 3.9400-3                                       B.L.Berman+          (69)L0014 11 
+    0 55133   3  17    2.7679+7          6.3000-4 3.7400-3                                       B.L.Berman+          (69)L0014 11 
+    0 55133   3  17    2.8299+7          2.5400-3 3.5300-3                                       B.L.Berman+          (69)L0014 11 
+    0 55133   3  17    2.8608+7          5.8200-3 3.5800-3                                       B.L.Berman+          (69)L0014 11 
+    0 55133   3  17    2.8918+7          4.6100-3 3.4800-3                                       B.L.Berman+          (69)L0014 11 
+    0 55133   3  17    2.9228+7          8.0000-3 4.3100-3                                       B.L.Berman+          (69)L0014 11 
+    0 55133   3  17    2.9537+7          2.8000-3 4.6500-3                                       B.L.Berman+          (69)L0014 11 
+#/DATA      8
+#/DATASET

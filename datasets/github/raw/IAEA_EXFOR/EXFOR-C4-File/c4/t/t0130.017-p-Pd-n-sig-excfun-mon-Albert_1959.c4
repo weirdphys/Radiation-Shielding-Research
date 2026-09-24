@@ -1,0 +1,30 @@
+#ENTRY      T0130
+#AUTHOR1    R.D.Albert+
+#YEAR       1959
+#INSTITUTE  (1USALRL)
+#TITLE      (p,n) Cross Section and Proton Optical-Model
+#+          Parameters in the 4 to 5.5 MeV Energy Region
+#AUTHOR(S)  R.D.Albert
+#REF-CODE   (J,PR,115,925,195908)
+#REFERENCE  Phys.Rev. 115 (1959) 925 (doi:10.1103/PhysRev.115.925)
+#DATASETS   0
+#
+#DATASET    T0130017 
+#DATE       20010727
+#REACTION   46-PD-0(P,N),,SIG
+#PROJ       1001
+#TARG       46000
+#MF         3
+#MT         4
+#C4BEGIN    [ 1001 46000   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 46000   3   4    3600000.          1.5000-3 2.2500-4                                       R.D.Albert           (59)T0130 17 
+ 1001 46000   3   4    4500000.          0.012000 1.8000-3                                       R.D.Albert           (59)T0130 17 
+ 1001 46000   3   4    5000000.          0.026000 3.9000-3                                       R.D.Albert           (59)T0130 17 
+ 1001 46000   3   4    5500000.          0.056000 8.4000-3                                       R.D.Albert           (59)T0130 17 
+ 1001 46000   3   4    7000000.          0.200000 0.030000                                       R.D.Albert           (59)T0130 17 
+ 1001 46000   3   4    8100000.          0.293000 0.043950                                       R.D.Albert           (59)T0130 17 
+#/DATA      6
+#/DATASET

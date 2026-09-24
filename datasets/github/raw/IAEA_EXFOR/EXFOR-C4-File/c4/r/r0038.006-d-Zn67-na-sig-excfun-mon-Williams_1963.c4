@@ -1,0 +1,30 @@
+#ENTRY      R0038
+#AUTHOR1    D.C.Williams+
+#YEAR       1963
+#INSTITUTE  (1USAMIT)
+#TITLE      Nuclear excitation functions and thick-target yields:
+#+          Zn+d and Ar-40(d,alpha)
+#AUTHOR(S)  D.C.Williams, J.W.Irvine Jr
+#REF-CODE   (J,PR,130,(1),265,196304)
+#REFERENCE  Phys.Rev. 130 No.1 (1963) 265 (doi:10.1103/PhysRev.130.265)
+#DATASETS   0
+#
+#DATASET    R0038006 
+#DATE       20061228
+#REACTION   30-ZN-67(D,N+A)29-CU-64,,SIG
+#PROJ       1002
+#TARG       30067
+#MF         3
+#MT         22
+#PRODUCT    29-CU-64
+#C4BEGIN    [ 1002 30067   3  22  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30067   3  22    1.0000+7          0.011000                                                D.C.Williams+        (63)R0038  6 
+ 1002 30067   3  22    1.0900+7          0.028500                                                D.C.Williams+        (63)R0038  6 
+ 1002 30067   3  22    1.2500+7          0.053100                                                D.C.Williams+        (63)R0038  6 
+ 1002 30067   3  22    1.4000+7          0.061300                                                D.C.Williams+        (63)R0038  6 
+ 1002 30067   3  22    1.5500+7          0.070100                                                D.C.Williams+        (63)R0038  6 
+#/DATA      5
+#/DATASET

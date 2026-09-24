@@ -1,0 +1,42 @@
+#ENTRY      M0670
+#AUTHOR1    V.A.Zheltonozhsky+
+#YEAR       2004
+#INSTITUTE  (4UKRIJD)
+#TITLE      Investigation of excitation of matastable  states  of
+#+          197Pt and 197Hg in (g,n) and (d,2n) reactions.
+#AUTHOR(S)  V.A.Zheltonozhsky, V.M.Mazur, Z.M.Bigan
+#REF-CODE   (J,YF,67,899,2004)
+#REFERENCE  Yad.Fiz. 67 (2004) 899
+#DATASETS   0
+#
+#DATASET    M0670002 
+#DATE       20050520
+#REACTION   78-PT-198(G,N)78-PT-197-M,,SIG,,BRS
+#PROJ       0
+#TARG       78198
+#MF         3
+#MT         4
+#PRODUCT    78-PT-197-M
+#C4BEGIN    [    0 78198   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 78198   3   4M   9500000.          9.4000-4 1.1300-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.0000+7          1.5100-3 1.5100-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.0500+7          5.6600-3 1.8900-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.1000+7          0.011320 2.0800-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.1500+7          0.020750 3.2100-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.2000+7          0.034530 3.5800-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.2500+7          0.055850 3.8700-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.3000+7          0.069810 3.5800-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.3500+7          0.099060 4.4000-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.4000+7          0.112260 4.2500-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.4500+7          0.099810 3.7700-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.5000+7          0.075470 3.7000-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.5500+7          0.062830 4.6200-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.6000+7          0.033020 5.6600-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.6500+7          0.015090 5.8500-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.7000+7          9.4300-3 5.6700-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+    0 78198   3   4M   1.7500+7          0.015470 5.9400-3                                       V.A.Zheltonozhsky+   (04)M0670  2 
+#/DATA      17
+#/DATASET

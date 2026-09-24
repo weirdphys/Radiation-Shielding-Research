@@ -1,0 +1,39 @@
+#ENTRY      S0125
+#AUTHOR1    Xie Yuanxiang+
+#YEAR       1985
+#INSTITUTE  (3CPRIMP)
+#TITLE      Measurement and analysis of emitted alpha particles in
+#+          reactions of 12C bombarding 12C, 27Al, and nat-Ca
+#AUTHOR(S)  Xie Yuanxiang, Wu Guohua, Zhu Yongtai, Miao Rongzhi, Fong Enpu, 
+#+          Yin Xu, Miao Hebing, Cai Jingxiang, Sheng Wenqing, Sun Shuming, 
+#+          Wei Jianjun, Li Songling
+#REF-CODE   (J,PHE,9,71,1985)
+#REFERENCE  High En.Nucl.Phy.Ch. 9 (1985) 71
+#DATASETS   0
+#
+#DATASET    S0125004 
+#DATE       20151009
+#REACTION   6-C-12(6-C-12,X)2-HE-4,,DA
+#PROJ       6012
+#TARG       6012
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012  6012   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  6012   4 207  C 6.9500+7          0.211810 0.028470 0.943628                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.172920 0.025690 0.903260                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.160420 0.026390 0.856627                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.109720 0.018750 0.751955                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.102080 0.018750 0.619779                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.092360 0.017360 0.482212                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.095140 0.019440 0.322266                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.097920 0.018060 0.159537                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.105560 0.019440-0.017278                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.104170 0.018750-0.193721                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.102080 0.021530-0.361787                              Xie Yuanxiang+       (85)S0125  4 
+ 6012  6012   4 207  C 6.9500+7          0.101390 0.020140-0.531251                              Xie Yuanxiang+       (85)S0125  4 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      M1022
+#AUTHOR1    J.Badamsambuu+
+#YEAR       2009
+#INSTITUTE  (3MGLNUM)
+#TITLE      Cross sections and yields for the photofission
+#+          productions of 238U.
+#AUTHOR(S)  J.Badamsambuu, A.G.Belov, Yu.P.Gangrsky, G.Khuukhenkhuu, 
+#+          N.Norov, P.Zuzaan
+#REF-CODE   (S,AIP-1109,16,2009)
+#REFERENCE  Report (proceedings) AIP-1109 page 16, 2009
+#DATASETS   0
+#
+#DATASET    M1022005 
+#DATE       20210318
+#REACTION   92-U-238(G,F)38-SR-92,,SIG,,BRS
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         454
+#PRODUCT    38-SR-92
+#C4BEGIN    [    0 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3 454    1.1000+7          2.4300-3 2.1000-4           38092.9                     J.Badamsambuu+       (09)M1022  5 
+    0 92238   3 454    1.2000+7          3.0300-3 2.6000-4           38092.9                     J.Badamsambuu+       (09)M1022  5 
+    0 92238   3 454    1.3000+7          4.5800-3 3.7000-4           38092.9                     J.Badamsambuu+       (09)M1022  5 
+    0 92238   3 454    1.4000+7          2.7300-3 2.2000-4           38092.9                     J.Badamsambuu+       (09)M1022  5 
+    0 92238   3 454    1.5000+7          1.7200-3 1.5000-4           38092.9                     J.Badamsambuu+       (09)M1022  5 
+    0 92238   3 454    1.6000+7          6.3000-4 7.0000-5           38092.9                     J.Badamsambuu+       (09)M1022  5 
+    0 92238   3 454    1.7000+7          7.0000-4 5.0000-5           38092.9                     J.Badamsambuu+       (09)M1022  5 
+    0 92238   3 454    1.8000+7          2.3000-4 3.0000-5           38092.9                     J.Badamsambuu+       (09)M1022  5 
+    0 92238   3 454    1.9000+7          2.0000-5 2.0000-5           38092.9                     J.Badamsambuu+       (09)M1022  5 
+#/DATA      9
+#/DATASET

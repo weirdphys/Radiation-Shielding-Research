@@ -1,0 +1,29 @@
+#ENTRY      M0418
+#AUTHOR1    M.Schumacher+
+#YEAR       1981
+#INSTITUTE  (2GERJUL)
+#TITLE      Nuclear photoexcitation   and   Delbruck   scattering
+#+          studied in the energy range 2 - 8 MeV.
+#AUTHOR(S)  M.Schumacher, F.Smend, W.Muckenheim, P.Rullhusen, H.G.Borner
+#REF-CODE   (J,ZP/A,300,193,1981)
+#REFERENCE  Z.Phys.A 300 (1981) 193 (doi:10.1007/BF01412295)
+#DATASETS   0
+#
+#DATASET    M0418013 
+#DATE       20161223
+#REACTION   51-SB-0(G,EL)51-SB-0,,DA
+#PROJ       0
+#TARG       51000
+#MF         4
+#MT         2
+#PRODUCT    51-SB-0
+#C4BEGIN    [    0 51000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 51000   4   2    2599000.          8.0000-6 1.1000-6 6.123-17                              M.Schumacher+        (81)M0418 13 
+    0 51000   4   2    3202000.          1.0000-5 4.0000-6 6.123-17                              M.Schumacher+        (81)M0418 13 
+    0 51000   4   2    3254000.          6.8000-6 1.9000-6 6.123-17                              M.Schumacher+        (81)M0418 13 
+    0 51000   4   2    3452000.          1.2700-6 5.0000-8 6.123-17                              M.Schumacher+        (81)M0418 13 
+#/DATA      4
+#/DATASET

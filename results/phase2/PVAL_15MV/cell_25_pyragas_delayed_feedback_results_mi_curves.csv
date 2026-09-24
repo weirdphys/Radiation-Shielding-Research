@@ -1,0 +1,15 @@
+curve,observable,ensemble_group,lag_samples,lag_coordinate,mutual_information
+PDD,pdd_percent,PDD,1,0.5,2.615688095037246
+PDD,pdd_percent,PDD,2,1.0,2.5020945957754215
+PDD,pdd_percent,PDD,3,1.5,2.5232969549716215
+PDD,pdd_percent,PDD,4,2.0,2.514658118906234
+PDD,pdd_percent,PDD,5,2.5,2.5315626335605264
+PDD,pdd_percent,PDD,6,3.0,2.4865783376728405
+PDD,pdd_percent,PDD,7,3.5,2.437768482127344
+PDD,pdd_percent,PDD,8,4.0,2.436027228271881
+PDD,pdd_percent,PDD,9,4.5,2.4385916551466984
+PDD,pdd_percent,PDD,10,5.0,2.4186359990822703
+PDD,pdd_percent,PDD,11,5.5,2.3777676191861774
+PDD,pdd_percent,PDD,12,6.0,2.3565763599592366
+PDD,pdd_percent,PDD,13,6.5,2.3254809765474285
+PDD,pdd_percent,PDD,14,7.0,2.3215645174122654

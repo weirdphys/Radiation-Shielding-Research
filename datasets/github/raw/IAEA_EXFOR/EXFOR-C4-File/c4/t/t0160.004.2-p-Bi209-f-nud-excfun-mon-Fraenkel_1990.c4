@@ -1,0 +1,26 @@
+#ENTRY      T0160
+#AUTHOR1    Z.Fraenkel+
+#YEAR       1990
+#INSTITUTE  (3ISLWZI)
+#TITLE      Measurement of the neutrons emitted in the proton-
+#+          induced fission of 209Bi and 238U at 475 MeV.
+#AUTHOR(S)  Z.Fraenkel, A.Breskin, R.Chechik, S.Wald, R.Abegg, H.W.Fielding, 
+#+          P.Kitching, S.T.Lam, G.C.Neilson, W.C.Olsen, J.Uegaki
+#REF-CODE   (J,PR/C,41,1050,199003)
+#REFERENCE  Phys.Rev.C 41 (1990) 1050 (doi:10.1103/PhysRevC.41.1050)
+#DATASETS   0
+#
+#DATASET    T01600042
+#DATE       20010613
+#REACTION   83-BI-209(P,F),DL,NU
+#PROJ       1001
+#TARG       83209
+#MF         1
+#MT         455
+#C4BEGIN    [ 1001 83209   1 455 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   1 455 A  4.7500+8          7.200000 1.440000                                       Z.Fraenkel+          (90)T0160  42
+#/DATA      1
+#/DATASET

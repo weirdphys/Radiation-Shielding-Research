@@ -1,0 +1,31 @@
+#ENTRY      S0034
+#AUTHOR1    Xiufeng Peng+
+#YEAR       1996
+#INSTITUTE  (3CPRSIU)
+#TITLE      Excitation functions and yields of the reactions
+#+          induced by alpha-particle bombardment of natural
+#+          silver
+#AUTHOR(S)  Xiufeng Peng, Xiangguan Long, Fuqin He, Mantian Liu
+#REF-CODE   (J,ARI,47,309,1996)
+#REFERENCE  Appl.Radiat.Isot. 47 (1996) 309 (doi:10.1016/0969-8043(95)00276-6)
+#DATASETS   0
+#
+#DATASET    S0034005 
+#DATE       20181120
+#REACTION   47-AG-107(A,X)48-CD-109,,SIG
+#PROJ       2004
+#TARG       47107
+#MF         3
+#MT         454
+#PRODUCT    48-CD-109
+#C4BEGIN    [ 2004 47107   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 47107   3 454    2.6300+7          0.069200 4.2000-3           48109.9                     Xiufeng Peng+        (96)S0034  5 
+ 2004 47107   3 454    2.4800+7          0.049500 3.0000-3           48109.9                     Xiufeng Peng+        (96)S0034  5 
+ 2004 47107   3 454    2.3200+7          0.052200 3.1000-3           48109.9                     Xiufeng Peng+        (96)S0034  5 
+ 2004 47107   3 454    2.1400+7          0.084400 5.1000-3           48109.9                     Xiufeng Peng+        (96)S0034  5 
+ 2004 47107   3 454    1.9600+7          0.015100 9.0000-4           48109.9                     Xiufeng Peng+        (96)S0034  5 
+#/DATA      5
+#/DATASET

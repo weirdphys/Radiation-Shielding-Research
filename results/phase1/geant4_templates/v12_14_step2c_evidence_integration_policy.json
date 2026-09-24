@@ -1,0 +1,13 @@
+{
+  "notebook_revision": "v12_14_step2c_five_spectrum_evidence_integration",
+  "purpose": "Integrate direct-public Step 2C spectrum evidence without changing validated transport physics.",
+  "geant4_transport_change_relative_to_v12_12": "NONE",
+  "p001_change_relative_to_v12_12": "NONE",
+  "neutron_change_relative_to_v12_12": "NONE",
+  "photon_pdd_change_relative_to_v12_12": "NONE",
+  "agreement_threshold_changes": "NONE",
+  "history_floor_changes": "NONE",
+  "step2c_change": "Use a five-beam external public-evidence registry with fail-closed hash-verified numerical-spectrum bridge; add the Aspradakis ABB CH20 16 MV reconstruction.",
+  "bibliographic_evidence_can_pass_gate": false,
+  "figure_only_evidence_can_pass_gate": false
+}

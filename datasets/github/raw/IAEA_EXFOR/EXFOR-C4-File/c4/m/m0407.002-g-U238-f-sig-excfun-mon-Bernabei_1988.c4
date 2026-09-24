@@ -1,0 +1,32 @@
+#ENTRY      M0407
+#AUTHOR1    R.Bernabei+
+#YEAR       1988
+#INSTITUTE  (2ITYFRA)
+#TITLE      Photofission cross section of U-238 in the
+#+          quasi-deuteron region.
+#AUTHOR(S)  R.Bernabei, V.C.De Oliveira, J.B.Martins, O.A.P.Tavares, 
+#+          J.D.Pinheiro Filho, S.D'angelo, M.P.De Pascale, C.Schaerf, 
+#+          B.Girolami
+#REF-CODE   (J,NC/A,100,131,1988)
+#REFERENCE  Nuovo Cim.A 100 (1988) 131 (doi:10.1007/BF02902646)
+#DATASETS   0
+#
+#DATASET    M0407002 
+#DATE       20160905
+#REACTION   92-U-238(G,F),,SIG
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  18    4.6400+7          0.022000 3.0000-3                                       R.Bernabei+          (88)M0407  2 
+    0 92238   3  18    5.2700+7          0.025000 3.0000-3                                       R.Bernabei+          (88)M0407  2 
+    0 92238   3  18    5.9700+7          0.014000 5.0000-3                                       R.Bernabei+          (88)M0407  2 
+    0 92238   3  18    6.3800+7          0.012000 3.0000-3                                       R.Bernabei+          (88)M0407  2 
+    0 92238   3  18    7.0900+7          0.012000 2.0000-3                                       R.Bernabei+          (88)M0407  2 
+    0 92238   3  18    7.1900+7 3595000. 8.0000-3 1.0000-3                                       R.Bernabei+          (88)M0407  2 
+#/DATA      6
+#/DATASET

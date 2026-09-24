@@ -1,0 +1,34 @@
+#ENTRY      L0028
+#AUTHOR1    R.A.Alvarez+
+#YEAR       1979
+#INSTITUTE  (1USALRL)
+#TITLE      Photoneutron cross sections for 55Mn and 59Co.
+#AUTHOR(S)  R.A.Alvarez, B.L.Berman, D.D.Faul, F.H.Lewis Jr, P.Meyer
+#REF-CODE   (J,PR/C,20,128,197907)
+#REFERENCE  Phys.Rev.C 20 (1979) 128 (doi:10.1103/PhysRevC.20.128)
+#DATASETS   0
+#
+#DATASET    L0028005 
+#DATE       20161122
+#REACTION   25-MN-55(G,3N)25-MN-52,,SIG
+#PROJ       0
+#TARG       25055
+#MF         3
+#MT         17
+#PRODUCT    25-MN-52
+#C4BEGIN    [    0 25055   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 25055   3  17    3.0328+7          5.2000-4 5.1000-4                                       R.A.Alvarez+         (79)L0028  5 
+    0 25055   3  17    3.2143+7          2.3000-4 6.1000-4                                       R.A.Alvarez+         (79)L0028  5 
+    0 25055   3  17    3.2869+7          4.0000-5 6.8000-4                                       R.A.Alvarez+         (79)L0028  5 
+    0 25055   3  17    3.3596+7          1.3000-3 1.0400-3                                       R.A.Alvarez+         (79)L0028  5 
+    0 25055   3  17    3.3959+7          1.6000-4 1.1000-3                                       R.A.Alvarez+         (79)L0028  5 
+    0 25055   3  17    3.4322+7          3.2600-3 1.4200-3                                       R.A.Alvarez+         (79)L0028  5 
+    0 25055   3  17    3.4685+7          2.2300-3 1.3200-3                                       R.A.Alvarez+         (79)L0028  5 
+    0 25055   3  17    3.5048+7          1.4000-3 1.4600-3                                       R.A.Alvarez+         (79)L0028  5 
+    0 25055   3  17    3.5411+7          6.8000-4 1.5300-3                                       R.A.Alvarez+         (79)L0028  5 
+    0 25055   3  17    3.6500+7          2.1300-3 1.6400-3                                       R.A.Alvarez+         (79)L0028  5 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      M0557
+#AUTHOR1    D.G.Ireland+
+#YEAR       1993
+#INSTITUTE  (2SWDLND)
+#TITLE      The (g,p) reaction at E-gamma about 60 MeV.
+#AUTHOR(S)  D.G.Ireland, D.Branford, T.Davinson, N.J.Davis, E.W.Macdonald, 
+#+          P.J.Sellin, A.C.Shotter, P.Terzoudi, P.J.Woods, J.-O.Adler, 
+#+          B.-E.Anderson, L.Isaksson, D.Nilsson, H.Ruijter, A.Sandell, 
+#+          B.Schroder
+#REF-CODE   (J,NP/A,554,173,1993)
+#REFERENCE  Nucl.Phys.A 554 (1993) 173 (doi:10.1016/0375-9474(93)90337-W)
+#DATASETS   0
+#
+#DATASET    M0557004 
+#DATE       20111117
+#REACTION   7-N-14(G,P)6-C-13,PAR,DA
+#PROJ       0
+#TARG       7014
+#MF         4
+#MT         600
+#PRODUCT    6-C-13
+#C4BEGIN    [    0  7014   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  7014   4 600    5.7500+7          3.3900-5 3.4100-6 0.513541          7600000.         LVLD.G.Ireland+         (93)M0557  4 
+    0  7014   4 600    5.7500+7          2.7300-5 2.7100-6 0.343660          7600000.         LVLD.G.Ireland+         (93)M0557  4 
+    0  7014   4 600    5.7500+7          1.8520-5 2.7000-6 0.216440          7600000.         LVLD.G.Ireland+         (93)M0557  4 
+    0  7014   4 600    5.7500+7          1.1410-5 2.2400-6 0.120137          7600000.         LVLD.G.Ireland+         (93)M0557  4 
+    0  7014   4 600    5.7500+7          9.1800-6 1.9000-6 0.022687          7600000.         LVLD.G.Ireland+         (93)M0557  4 
+    0  7014   4 600    5.7500+7          6.2100-6 1.6800-6-0.074979          7600000.         LVLD.G.Ireland+         (93)M0557  4 
+    0  7014   4 600    5.7500+7          5.2200-6 1.5700-6-0.171929          7600000.         LVLD.G.Ireland+         (93)M0557  4 
+    0  7014   4 600    5.7500+7          4.4600-6 1.0500-6-0.289032          7600000.         LVLD.G.Ireland+         (93)M0557  4 
+    0  7014   4 600    5.7500+7          2.1000-6 9.4000-7-0.492424          7600000.         LVLD.G.Ireland+         (93)M0557  4 
+#/DATA      9
+#/DATASET

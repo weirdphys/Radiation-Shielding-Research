@@ -1,0 +1,37 @@
+#ENTRY      M0526
+#AUTHOR1    V.M.Mazur+
+#YEAR       1995
+#INSTITUTE  (4UKRIRE)
+#TITLE      Investigation  of  Isomer  States Excitation in  (G,N)
+#+          Reactions on Nuclei Shell Near N = 82.
+#AUTHOR(S)  V.M.Mazur, V.A.Zheltonozhsky, Z.M.Bigan
+#REF-CODE   (J,YF,58,(6),970,1995)
+#REFERENCE  Yad.Fiz. 58 No.6 (1995) 970
+#DATASETS   0
+#
+#DATASET    M0526004 
+#DATE       20061027
+#REACTION   62-SM-144(G,N)62-SM-143-M,,SIG,,BRS
+#PROJ       0
+#TARG       62144
+#MF         3
+#MT         4
+#PRODUCT    62-SM-143-M
+#C4BEGIN    [    0 62144   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 62144   3   4M   1.2500+7          7.2000-4 3.6000-4                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.3000+7          2.5600-3 1.0800-3                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.3500+7          4.1000-3 1.2800-3                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.4000+7          8.0000-3 1.3300-3                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.4500+7          0.010000 1.3300-3                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.5000+7          0.015080 1.3300-3                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.5500+7          0.018770 1.5400-3                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.6000+7          0.019490 1.5400-3                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.6500+7          0.022560 1.5900-3                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.7000+7          0.021950 1.7900-3                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.7500+7          0.012720 2.0500-3                                       V.M.Mazur+           (95)M0526  4 
+    0 62144   3   4M   1.8000+7          9.8500-3 2.7200-3                                       V.M.Mazur+           (95)M0526  4 
+#/DATA      12
+#/DATASET

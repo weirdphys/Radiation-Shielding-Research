@@ -1,0 +1,36 @@
+#ENTRY      M0433
+#AUTHOR1    O.Y.Mafra+
+#YEAR       1972
+#INSTITUTE  (3BZLUSP)
+#TITLE      Intermediate structure in the photoneutron and
+#+          photofission cross sections in U-238 and Th-232.
+#AUTHOR(S)  O.Y.Mafra, S.Kuniyoshi, J.Goldemberg
+#REF-CODE   (J,NP/A,186,110,1972)
+#REFERENCE  Nucl.Phys.A 186 (1972) 110 (doi:10.1016/0375-9474(72)90128-5)
+#DATASETS   0
+#
+#DATASET    M0433003 
+#DATE       20180209
+#REACTION   90-TH-232(G,F),,SIG
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    0 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3  18    5430000.          1.0000-4 8.0000-5                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    6070000.          8.2000-4 5.7000-4                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    6420000.          2.6000-3 3.0000-4                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    6730000.          8.0000-3 1.3000-3                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    6830000.          2.0000-3 2.0000-4                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    7230000.          1.8000-3 6.0000-4                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    7380000.          2.9000-3 4.0000-4                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    7640000.          5.7000-3 1.1000-3                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    7730000.          3.8000-3 4.0000-4                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    7880000.          4.6000-3 1.8000-3                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    7910000.          5.1000-3 1.4000-3                                       O.Y.Mafra+           (72)M0433  3 
+    0 90232   3  18    9000000.          8.4000-3 3.5000-3                                       O.Y.Mafra+           (72)M0433  3 
+#/DATA      12
+#/DATASET

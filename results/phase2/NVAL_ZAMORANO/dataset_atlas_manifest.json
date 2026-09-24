@@ -1,0 +1,27 @@
+{
+  "dataset_id": "NVAL_ZAMORANO",
+  "object_id": "NVAL_ZAMORANO.SEQ_POS",
+  "coordinate_native": "measurement_position_index",
+  "coordinate_analysis": "measurement_position_index",
+  "coordinate_transform": "identity",
+  "coordinate_reference": NaN,
+  "coordinate_unit": "index",
+  "source_path": "data/processed/production_source_validation/datasets/NVAL_15MV_ZAMORANO_THERMAL/canonical_measured_thermal_neutron_fluence.csv",
+  "n_curves_loaded": 2,
+  "max_curve_points": 5,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "machines": 2
+  },
+  "registry": {
+    "name": "Zamorano et al. 15 MV measured thermal-neutron fluence",
+    "particle": "linac photoneutron",
+    "evidence": "EXPERIMENTAL",
+    "role": "Measured thermal-neutron fluence at five positions for TrueBeam and Elekta.",
+    "path": "processed_datasets/production_source_validation/NVAL_15MV_ZAMORANO_THERMAL/canonical_measured_thermal_neutron_fluence.csv",
+    "richness": "VERY_SPARSE_SPATIAL",
+    "guardrail": "Only five positions per machine; high-order sequence/dynamics results may be degenerate or N/A."
+  },
+  "state_group_shapes": {}
+}

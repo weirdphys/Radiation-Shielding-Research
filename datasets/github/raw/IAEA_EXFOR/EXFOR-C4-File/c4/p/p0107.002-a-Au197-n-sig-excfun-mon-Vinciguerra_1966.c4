@@ -1,0 +1,29 @@
+#ENTRY      P0107
+#AUTHOR1    D.Vinciguerra+
+#YEAR       1966
+#INSTITUTE  (2NEDIKO)
+#TITLE      Excitation functions of the reaction induced by 23 to
+#+          52 MeV alpha particles on 197Au
+#AUTHOR(S)  D.Vinciguerra, K.Kotajima, R.E.Vandevijver
+#REF-CODE   (J,NP,77,337,1966)
+#REFERENCE  Nucl.Phys. 77 (1966) 337 (doi:10.1016/0029-5582(66)90178-7)
+#DATASETS   0
+#
+#DATASET    P0107002 
+#DATE       20000815
+#REACTION   79-AU-197(A,N)81-TL-200,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         4
+#PRODUCT    81-TL-200
+#C4BEGIN    [ 2004 79197   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3   4    2.2900+7 300000.0 0.021500                                                D.Vinciguerra+       (66)P0107  2 
+ 2004 79197   3   4    2.4900+7 300000.0 0.017500                                                D.Vinciguerra+       (66)P0107  2 
+ 2004 79197   3   4    2.6900+7 300000.0 0.013200                                                D.Vinciguerra+       (66)P0107  2 
+ 2004 79197   3   4    2.8800+7 300000.0 8.1000-3                                                D.Vinciguerra+       (66)P0107  2 
+#/DATA      4
+#/DATASET

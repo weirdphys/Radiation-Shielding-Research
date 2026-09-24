@@ -1,0 +1,30 @@
+#ENTRY      R0052
+#AUTHOR1    G.C.Martin Jr+
+#YEAR       1966
+#INSTITUTE  (1USANOT)
+#TITLE      Absolute cross sections and excitation functions for
+#+          alpha-particle-induced reactions of 165Ho, 164Er,
+#+          166Er and 167Er
+#AUTHOR(S)  G.C.Martin Jr, R.C.Pilger Jr
+#REF-CODE   (J,NP,89,481,1966)
+#REFERENCE  Nucl.Phys. 89 (1966) 481 (doi:10.1016/0029-5582(66)90925-4)
+#DATASETS   0
+#
+#DATASET    R0052013 
+#DATE       20241120
+#REACTION   68-ER-167(A,X)69-TM-168,,SIG
+#PROJ       2004
+#TARG       68167
+#MF         3
+#MT         454
+#PRODUCT    69-TM-168
+#C4BEGIN    [ 2004 68167   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 68167   3 454    3.2900+7 200000.0 0.026000 7.5000-3           69168.9                     G.C.Martin Jr        (66)R0052 13 
+ 2004 68167   3 454    3.3950+7 200000.0 0.017500 5.0000-3           69168.9                     G.C.Martin Jr        (66)R0052 13 
+ 2004 68167   3 454    3.6250+7 200000.0 0.054500 0.015000           69168.9                     G.C.Martin Jr        (66)R0052 13 
+ 2004 68167   3 454    3.9300+7 200000.0 0.060000 0.016500           69168.9                     G.C.Martin Jr        (66)R0052 13 
+#/DATA      4
+#/DATASET

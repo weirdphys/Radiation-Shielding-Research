@@ -1,0 +1,32 @@
+#ENTRY      B0180
+#AUTHOR1    N.F.Peek+
+#YEAR       1979
+#INSTITUTE  (1USACLA)
+#TITLE      The Production of Xenon Isotopes with Protons of
+#+          Energies from 320 to 590 MeV.
+#AUTHOR(S)  N.F.Peek, F.Hegedues
+#REF-CODE   (J,ARI,30,631,1979)
+#REFERENCE  Appl.Radiat.Isot. 30 (1979) 631 (doi:10.1016/0020-708X(79)90079-6)
+#DATASETS   0
+#
+#DATASET    B01800081
+#DATE       20011220
+#REACTION   56-BA-0(P,X)54-XE-123,CUM,SIG,,,EXP
+#PROJ       1001
+#TARG       56000
+#MF         3
+#MT         459
+#PRODUCT    54-XE-123
+#C4BEGIN    [ 1001 56000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56000   3 459    3.6900+8          0.031200                    54123.9                     N.F.Peek+            (79)B0180  81
+ 1001 56000   3 459    4.1700+8          0.030700                    54123.9                     N.F.Peek+            (79)B0180  81
+ 1001 56000   3 459    4.6200+8          0.032000                    54123.9                     N.F.Peek+            (79)B0180  81
+ 1001 56000   3 459    5.0800+8          0.030200                    54123.9                     N.F.Peek+            (79)B0180  81
+ 1001 56000   3 459    5.4000+8          0.030900 3.9000-3           54123.9                     N.F.Peek+            (79)B0180  81
+ 1001 56000   3 459    5.4900+8          0.031500                    54123.9                     N.F.Peek+            (79)B0180  81
+ 1001 56000   3 459    5.9000+8          0.033900                    54123.9                     N.F.Peek+            (79)B0180  81
+#/DATA      7
+#/DATASET

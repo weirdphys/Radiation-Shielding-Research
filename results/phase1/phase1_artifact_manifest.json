@@ -1,0 +1,67 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "phase1_mode": "audit",
+  "generated_at_utc": "2026-09-24T15:05:21.352506+00:00",
+  "artifacts": [
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/phase1_source_model_registry.csv",
+      "sha256": "e62421b12085637027a8262ccf3418d72636b71a255994015676bf5a12be16ff",
+      "size_bytes": 7209
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/phase1_source_model_validation_evidence.csv",
+      "sha256": "fa60dd76165590e43f35d5bd6bf7142fef6a222b69ba75dc0c6d25c02d114943",
+      "size_bytes": 30109
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/phase1_source_model_validation_summary.csv",
+      "sha256": "a8357e93a9832f024234a331e44d30fc349287510a6b7e0e4a14c524276262a3",
+      "size_bytes": 1105
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/phase1_production_source_spectrum_inventory.csv",
+      "sha256": "19a5f8efd198002db2d40221938b8d0f8eb04b8886c0636551c21e8340d591cd",
+      "size_bytes": 8454
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/phase1_source_validation_case_results.csv",
+      "sha256": "cede7f82e41eb5aaf109e8770726e8d12cc653e9f529e591557546ccd4e5a7d4",
+      "size_bytes": 29563
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/phase1_source_validation_input_manifest.json",
+      "sha256": "d068dd9a189fe07cdf7a0f180cd0755929f9206de2620abccbe48b3d0d6b3680",
+      "size_bytes": 7999
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/common_schema/phase1_common_reference_schema.csv",
+      "sha256": "cc0e8d57aec22d256d7421a6f1fe19f67f0af5465807d76160927852400d833d",
+      "size_bytes": 484231
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/ordered_response_fields/ordered_response_field_manifest.json",
+      "sha256": "34962ca389e94e55f5cde537ab1b0e1a29e002c39f12777a2d02f72c04b13968",
+      "size_bytes": 3755
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_result_file_contract.csv",
+      "sha256": "a6d8bf7abbaa9767ff2f0c1bdb54b41805ac3fcda59bc3516c58b36a5a2f1b57",
+      "size_bytes": 1944
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_templates/expected_geant4_run_manifest.csv",
+      "sha256": "da6381198dcd7079e4e5635c48bb624dac7974c476da72eaf740319db4a97a99",
+      "size_bytes": 18574
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/validation_targets/P001_NIST_ORDINARY_CONCRETE_edge_probe_policy.json",
+      "sha256": "4c73bd1190275435ce37016dab850af94a3dd51f2c5625224f6d0348e7fba169",
+      "size_bytes": 1414
+    },
+    {
+      "path": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_templates/v12_12_rerun_policy.json",
+      "sha256": "79e13b79f254cd46891db7f2e3a2de88c13795fd41e246862c9e148885b3538b",
+      "size_bytes": 913
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "dataset_id": "PVAL_16MV",
+  "object_id": "PVAL_16MV.TRAJ_PDD",
+  "coordinate_native": "water_depth_cm",
+  "coordinate_analysis": "water_depth_cm",
+  "coordinate_transform": "identity",
+  "coordinate_reference": NaN,
+  "coordinate_unit": "cm",
+  "source_path": "data/processed/production_source_validation/datasets/PVAL_16MV_CLINAC21IX_40x40_PACYNIAK/canonical_pdd_40x40.csv",
+  "n_curves_loaded": 1,
+  "max_curve_points": 31,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "PDD": 1
+  },
+  "registry": {
+    "name": "Clinac 21IX 16 MV 40\u00d740 Pacyniak PDD",
+    "particle": "photon beam validation",
+    "evidence": "EXPERIMENTAL",
+    "role": "Measured 40\u00d740 PDD; shape-focused comparison.",
+    "path": "processed_datasets/production_source_validation/PVAL_16MV_CLINAC21IX_40x40_PACYNIAK/canonical_pdd_40x40.csv",
+    "richness": "RICH_1D",
+    "guardrail": "SSD is not explicitly tied to digitized figure; preserve shape-focused interpretation."
+  },
+  "state_group_shapes": {}
+}

@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "P005_PSSD_INDEPENDENT_SIMULATION",
+  "expected_result_file": "P005_pssd_geant4.csv",
+  "observable": "relative_flux",
+  "join_keys": "element,incident_energy_MeV,depth_MFP,outgoing_energy_MeV",
+  "reference_column": "relative_flux",
+  "reference_uncertainty_column": "",
+  "mc_column": "mc_relative_flux",
+  "mc_uncertainty_column": "",
+  "comparison_ready": false,
+  "required_for_phase1_exit_when_ready": false,
+  "blocker": "Independent simulation only. Exact RMC geometry/scoring reproduction required for code-to-code interpretation."
+}

@@ -1,0 +1,27 @@
+#ENTRY      S0064
+#AUTHOR1    Li Jia-Xing+
+#YEAR       2010
+#INSTITUTE  (3CPRCPR)
+#TITLE      Experimental study on the exotic structure of 12N in
+#+          RIBLL
+#AUTHOR(S)  Li Jia-Xing, Liu Ping-Ping, Wang Jian-Song, Hu Zeng-Guo, 
+#+          Mao Rui-Shi, Li Chen, Chen Ruo-Fu, Sun Zhi-Yu, Xu Hu-Shan, 
+#+          Xiao Guo- Qing, Guo Zhong-Yan
+#REF-CODE   (J,CPL,27,(3),032501,2010)
+#REFERENCE  Chin.Phys.Lett. 27 No.3 (2010) 032501 (doi:10.1088/0256-307X/27/3/032501)
+#DATASETS   0
+#
+#DATASET    S0064002 
+#DATE       20100902
+#REACTION   14-SI-0(7-N-12,NON),,SIG
+#PROJ       7012
+#TARG       14000
+#MF         3
+#MT         3
+#C4BEGIN    [ 7012 14000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7012 14000   3   3    4.3440+8          1.760000 0.078000                                       Li Jia-Xing+         (10)S0064  2 
+#/DATA      1
+#/DATASET

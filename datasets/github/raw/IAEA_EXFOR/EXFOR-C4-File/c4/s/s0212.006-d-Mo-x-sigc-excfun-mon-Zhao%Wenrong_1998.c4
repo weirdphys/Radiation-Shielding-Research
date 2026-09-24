@@ -1,0 +1,37 @@
+#ENTRY      S0212
+#AUTHOR1    Zhao Wenrong+
+#YEAR       1998
+#INSTITUTE  (3CPRAEP)
+#TITLE      Excitation Functions of Reactions from d+Ti, d+Mo,
+#+          p+Ti and p+Mo
+#AUTHOR(S)  Zhao Wenrong, Yu Weixiang, Han Xiaogang, Lu Hanlin
+#REF-CODE   (R,INDC(CPR)-44,17,1998)
+#REFERENCE  Report INDC(CPR)-44 page 17, 1998
+#DATASETS   0
+#
+#DATASET    S0212006 
+#DATE       20181120
+#REACTION   42-MO-0(D,X)42-MO-99,CUM,SIG
+#PROJ       1002
+#TARG       42000
+#MF         3
+#MT         459
+#PRODUCT    42-MO-99
+#C4BEGIN    [ 1002 42000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 42000   3 459    2.1640+7 190000.0 0.028300 1.3000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    2.0310+7 190000.0 0.026200 1.3000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    1.8860+7 260000.0 0.033400 1.6000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    1.7320+7 220000.0 0.037500 1.7000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    1.6500+7 310000.0 0.038800 1.9000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    1.5640+7 320000.0 0.040900 2.0000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    1.4780+7 230000.0 0.042100 1.9000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    1.2970+7 280000.0 0.047200 2.1000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    1.1870+7 390000.0 0.050300 2.1000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    1.0940+7 300000.0 0.054700 2.6000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    9460000. 430000.0 0.056100 2.7000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+ 1002 42000   3 459    6490000. 580000.0 0.040900 2.2000-3           42099.9                     Zhao Wenrong+        (98)S0212  6 
+#/DATA      12
+#/DATASET

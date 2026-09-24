@@ -1,0 +1,37 @@
+#ENTRY      S0026
+#AUTHOR1    V.A.Ageev+
+#YEAR       1987
+#INSTITUTE  (4RUSRI)
+#TITLE      Cross sections of 238-U(p,xn)239-x-Np reactions at
+#+          proton energy from 7 to 30 MeV
+#AUTHOR(S)  V.A.Ageev, V.Ya.Golovnya, E.A.Gromova, S.A.Egorov, S.S.Kovalenko, 
+#+          A.F.Linev, Yu.A.Nemilov, A.V.Ozdnyakov, V.A.Prubchenya, 
+#+          Yu.A.Selitsky, A.M.Fridkin, V.B.Funshtein, V.A.Yakovlev
+#REF-CODE   (J,YF,46,(3),700,198709)
+#REFERENCE  Yad.Fiz. 46 No.3 (1987) 700
+#DATASETS   0
+#
+#DATASET    S0026003 
+#DATE       20080311
+#REACTION   92-U-238(P,3N)93-NP-236,,SIG
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         17
+#PRODUCT    93-NP-236
+#C4BEGIN    [ 1001 92238   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3  17    1.4000+7 1000000. 0.017200 2.1000-3                                       V.A.Ageev+           (87)S0026  3 
+ 1001 92238   3  17    1.6000+7 1000000. 0.036400 4.4000-3                                       V.A.Ageev+           (87)S0026  3 
+ 1001 92238   3  17    1.8000+7 1000000. 0.059600 7.2000-3                                       V.A.Ageev+           (87)S0026  3 
+ 1001 92238   3  17    2.0000+7 1000000. 0.079600 9.6000-3                                       V.A.Ageev+           (87)S0026  3 
+ 1001 92238   3  17    2.2000+7 1000000. 0.067700 8.1000-3                                       V.A.Ageev+           (87)S0026  3 
+ 1001 92238   3  17    2.4000+7 900000.0 0.051400 6.2000-3                                       V.A.Ageev+           (87)S0026  3 
+ 1001 92238   3  17    2.5500+7 800000.0 0.029300 3.5000-3                                       V.A.Ageev+           (87)S0026  3 
+ 1001 92238   3  17    2.7000+7 800000.0 0.033100 4.0000-3                                       V.A.Ageev+           (87)S0026  3 
+ 1001 92238   3  17    2.8600+7 600000.0 0.020300 2.4000-3                                       V.A.Ageev+           (87)S0026  3 
+ 1001 92238   3  17    2.9600+7 400000.0 0.019400 2.3000-3                                       V.A.Ageev+           (87)S0026  3 
+#/DATA      10
+#/DATASET

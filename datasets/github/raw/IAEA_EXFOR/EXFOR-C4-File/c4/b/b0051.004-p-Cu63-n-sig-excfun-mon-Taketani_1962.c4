@@ -1,0 +1,31 @@
+#ENTRY      B0051
+#AUTHOR1    H.Taketani+
+#YEAR       1962
+#INSTITUTE  (1USAROC)
+#TITLE      (P,N) Cross Sections on Ti-47, V-51, Cr-52, Co-59,
+#+          And Cu-63 from 4 to 6.5 MeV
+#AUTHOR(S)  H.Taketani, W.P.Alford
+#REF-CODE   (J,PR,125,291,1962)
+#REFERENCE  Phys.Rev. 125 (1962) 291 (doi:10.1103/PhysRev.125.291)
+#DATASETS   0
+#
+#DATASET    B0051004 
+#DATE       20011220
+#REACTION   29-CU-63(P,N)30-ZN-63,,SIG,,,EXP
+#PROJ       1001
+#TARG       29063
+#MF         3
+#MT         4
+#PRODUCT    30-ZN-63
+#C4BEGIN    [ 1001 29063   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29063   3   4    4200000. 100000.0 0.014700 2.2000-3                                       H.Taketani+          (62)B0051  4 
+ 1001 29063   3   4    4730000. 100000.0 0.081400 4.9000-3                                       H.Taketani+          (62)B0051  4 
+ 1001 29063   3   4    5230000. 100000.0 0.134000 8.0000-3                                       H.Taketani+          (62)B0051  4 
+ 1001 29063   3   4    5670000. 100000.0 0.193000 0.012000                                       H.Taketani+          (62)B0051  4 
+ 1001 29063   3   4    6110000. 100000.0 0.212000 0.013000                                       H.Taketani+          (62)B0051  4 
+ 1001 29063   3   4    6520000. 100000.0 0.225000 0.013000                                       H.Taketani+          (62)B0051  4 
+#/DATA      6
+#/DATASET

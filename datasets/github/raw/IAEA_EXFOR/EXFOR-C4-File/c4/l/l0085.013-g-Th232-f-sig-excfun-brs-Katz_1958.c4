@@ -1,0 +1,39 @@
+#ENTRY      L0085
+#AUTHOR1    L.Katz+
+#YEAR       1958
+#INSTITUTE  (1CANCRC)
+#TITLE      Photofission in heavy elements
+#AUTHOR(S)  L.Katz, A.P.Baerg, F.Brown
+#REF-CODE   (C,58GENEVA,15,188,1958)
+#REFERENCE  Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 188
+#DATASETS   0
+#
+#DATASET    L0085013 
+#DATE       20131219
+#REACTION   90-TH-232(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    0 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3  18    6180000.          4.2700-3                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    7000000.          5.0900-3                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    7940000.          5.5100-3                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    8960000.          9.1300-3                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.0100+7          0.014800                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.1200+7          0.022700                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.1900+7          0.029300                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.2800+7          0.037300                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.4100+7          0.046900                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.4700+7          0.048500                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.5400+7          0.041800                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.5900+7          0.033800                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.6500+7          0.025700                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.7200+7          0.019700                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.7900+7          0.016300                                                L.Katz+              (58)L0085 13 
+    0 90232   3  18    1.9100+7          0.010900                                                L.Katz+              (58)L0085 13 
+#/DATA      16
+#/DATASET

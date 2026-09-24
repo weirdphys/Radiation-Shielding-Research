@@ -1,0 +1,31 @@
+#ENTRY      M0747
+#AUTHOR1    P.Golubev+
+#YEAR       2008
+#INSTITUTE  (2SWDLND)
+#TITLE      Pion emission  in 2H,  12C,  27Al(g,pi+) reactions at
+#+          threshold.
+#AUTHOR(S)  P.Golubev, V.Avdeichikov, K.G.Fissum, B.Jakobsson, I.A.Pshenichnov, 
+#+          W.J.Briscoe, G.V.O'rielly, J.Annand, K.Hansen, L.Isaksson, 
+#+          H.Jaderstrom, M.Karlsson, M.Lundin, B.Schroder, L.Westerberg
+#REF-CODE   (J,NP/A,806,216,2008)
+#REFERENCE  Nucl.Phys.A 806 (2008) 216 (doi:10.1016/j.nuclphysa.2008.02.308)
+#DATASETS   0
+#
+#DATASET    M0747015 
+#DATE       20210519
+#REACTION   6-C-12(G,X)1-PP-0,,DA/DE
+#PROJ       0
+#TARG       6012
+#MF         6
+#MT         208
+#PRODUCT    1-PP-0
+#C4BEGIN    [    0  6012   6 208  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   6 208    1.7600+8          7.635-13          0.866025          1.1000+7          E2P.Golubev+           (08)M0747 15 
+    0  6012   6 208    1.7600+8          7.851-13          0.866025          1.7000+7          E2P.Golubev+           (08)M0747 15 
+    0  6012   6 208    1.7600+8          3.274-13          0.866025          2.3000+7          E2P.Golubev+           (08)M0747 15 
+    0  6012   6 208    1.7600+8          3.970-14          0.866025          3.3000+7          E2P.Golubev+           (08)M0747 15 
+#/DATA      4
+#/DATASET

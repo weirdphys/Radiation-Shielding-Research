@@ -1,0 +1,37 @@
+#ENTRY      L0093
+#AUTHOR1    A.Manfredini+
+#YEAR       1966
+#INSTITUTE  (2ITYROM)
+#TITLE      Results on the cross section of 238U fission induced by
+#+          low energy monoenergetic gamma rays
+#AUTHOR(S)  A.Manfredini, M.Muchnik, L.Fiore, C.Ramorino, H.G.De Carvalho, 
+#+          R.Bosch, W.Wolfli
+#REF-CODE   (J,NC/B,44,218,1966)
+#REFERENCE  Nuovo Cim.B 44 (1966) 218 (doi:10.1007/BF02710442)
+#DATASETS   0
+#
+#DATASET    L0093002 
+#DATE       20050714
+#REACTION   92-U-238(G,F),,SIG
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  18    5410000.          4.0900-4                                                A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    5550000.          3.9500-3 6.1500-4                                       A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    6070000.          6.1300-3 6.8300-4                                       A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    6430000.          5.9200-3 9.5600-4                                       A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    6750000.          0.012600 1.0200-3                                       A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    6800000.          1.8100-3 5.4600-4                                       A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    7160000.          6.5100-3 1.2300-3                                       A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    7380000.          0.012400 1.3600-3                                       A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    7640000.          0.012000 3.0700-3                                       A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    7730000.          7.0500-3 6.1500-4                                       A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    7890000.          0.020200 6.6900-3                                       A.Manfredini+        (66)L0093  2 
+    0 92238   3  18    8850000.          0.028400 1.7000-3                                       A.Manfredini+        (66)L0093  2 
+#/DATA      12
+#/DATASET

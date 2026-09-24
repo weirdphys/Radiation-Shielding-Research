@@ -1,0 +1,47 @@
+#ENTRY      M0075
+#AUTHOR1    Yu.B.Ostapenko+
+#YEAR       1981
+#INSTITUTE  (4RUSFEI)
+#TITLE      Isomer shelf in the photofission of Th-232 and U-238.
+#AUTHOR(S)  Yu.B.Ostapenko, G.N.Smirenkin, A.S.Soldatov, Yu.M.Tsypenyuk
+#REF-CODE   (J,PR/C,24,529,1981)
+#REFERENCE  Phys.Rev.C 24 (1981) 529 (doi:10.1103/PhysRevC.24.529)
+#DATASETS   0
+#
+#DATASET    M0075004 
+#DATE       20250506
+#REACTION   90-TH-232(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    0 90232   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3  18 A  4080000.          7.800-12 7.000-12                                       Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  4270000.          1.500-11 1.300-11                                       Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  4470000.          4.600-11 3.400-11                                       Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  4680000.          5.700-10 3.000-10                                       Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  4740000.          1.8000-9                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  4820000.          9.5000-9                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  4850000.          1.7000-8                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  4930000.          9.1000-8                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  5030000.          3.0000-7                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  5130000.          2.9000-7                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  5210000.          9.2000-7                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  5330000.          2.0000-5                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  5420000.          9.0000-5                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  5520000.          2.0000-4                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  5630000.          2.2000-4                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  5730000.          2.3000-4                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  5830000.          7.8000-4                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  5930000.          1.9000-3                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  6030000.          4.0000-3                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  6130000.          4.0000-3                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  6240000.          5.9000-3                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  6330000.          8.9000-3                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  6430000.          7.9000-3                                                Yu.B.Ostapenko+      (81)M0075  4 
+    0 90232   3  18 A  6510000.          5.4000-3                                                Yu.B.Ostapenko+      (81)M0075  4 
+#/DATA      24
+#/DATASET

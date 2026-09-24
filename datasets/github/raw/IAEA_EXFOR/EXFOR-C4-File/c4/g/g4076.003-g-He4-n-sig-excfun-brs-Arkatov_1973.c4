@@ -1,0 +1,36 @@
+#ENTRY      G4076
+#AUTHOR1    Yu.M.Arkatov+
+#YEAR       1973
+#INSTITUTE  (4UKRKFT)
+#TITLE      Cross section ratio of the reactions 4He(g,p)3H and
+#+          4He(g,n)3He in the region of giant resonance, and
+#+          charge symmetry
+#AUTHOR(S)  Yu.M.Arkatov, P.I.Vatset, V.I.Voloshchuk, V.A.Zolenko, I.M.Prokhorets, 
+#+          A.F.Khodyachikh, V.I.Chmil'
+#REF-CODE   (J,JEL,17,253,1973)
+#REFERENCE  JETP Lett. 17 (1973) 253
+#DATASETS   0
+#
+#DATASET    G4076003 
+#DATE       20191120
+#REACTION   2-HE-4(G,N)2-HE-3,,SIG,,BRS
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3   4    2.6813+7          1.6253-3 5.6000-5                                       Yu.M.Arkatov+        (73)G4076  3 
+    0  2004   3   4    2.8808+7          1.8391-3 6.8100-5                                       Yu.M.Arkatov+        (73)G4076  3 
+    0  2004   3   4    3.0836+7          1.6248-3 7.2000-5                                       Yu.M.Arkatov+        (73)G4076  3 
+    0  2004   3   4    3.3078+7          1.2183-3 5.2000-5                                       Yu.M.Arkatov+        (73)G4076  3 
+    0  2004   3   4    3.5921+7          1.2511-3 8.0000-5                                       Yu.M.Arkatov+        (73)G4076  3 
+    0  2004   3   4    3.9940+7          8.5870-4 6.8000-5                                       Yu.M.Arkatov+        (73)G4076  3 
+    0  2004   3   4    4.3902+7          6.7420-4 6.4200-5                                       Yu.M.Arkatov+        (73)G4076  3 
+    0  2004   3   4    4.7941+7          4.6570-4 6.0000-5                                       Yu.M.Arkatov+        (73)G4076  3 
+    0  2004   3   4    5.1953+7          3.6920-4 4.0000-5                                       Yu.M.Arkatov+        (73)G4076  3 
+#/DATA      9
+#/DATASET

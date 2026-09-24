@@ -1,0 +1,125 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "phase1_mode": "audit",
+  "generated_at_utc": "2026-09-24T15:05:21.349744+00:00",
+  "plots": [
+    {
+      "filename": "N001_43MeV_on_axis_transmission.png",
+      "sha256": "7b282c04f3dcd0db7cc0b5df21fda4d950f281c3b2772c38b2d57172356a0069",
+      "size_bytes": 86564
+    },
+    {
+      "filename": "N001_JAERI_TIARA_43MEV_100cm_reference_vs_geant4.png",
+      "sha256": "ca5bfe2f66a71b03d1fe57b158d7a92d024de83905c72e059882c260c8d24153",
+      "size_bytes": 50452
+    },
+    {
+      "filename": "N001_JAERI_TIARA_43MEV_150cm_reference_vs_geant4.png",
+      "sha256": "2a9b938e75197bc6ced47723d158d8e1140cab804d876eab773863e20052483a",
+      "size_bytes": 52254
+    },
+    {
+      "filename": "N001_JAERI_TIARA_43MEV_25cm_reference_vs_geant4.png",
+      "sha256": "58a0ae7cb7c53c7857e85c03a3da948075c5467c239154cc52e3390ac03e67ca",
+      "size_bytes": 50059
+    },
+    {
+      "filename": "N001_JAERI_TIARA_43MEV_50cm_reference_vs_geant4.png",
+      "sha256": "192b3c6073c44fc11af18ed2db6ddb6a648a6e118610cccf1d37c2da693899b8",
+      "size_bytes": 50399
+    },
+    {
+      "filename": "N001_JAERI_TIARA_43MEV_R_E_t_reference_on_axis.png",
+      "sha256": "0d861295e4cb17795a17dc809093374cb14b1493dd9f6b9a7bd38f526c86f134",
+      "size_bytes": 43381
+    },
+    {
+      "filename": "N001_JAERI_TIARA_43MEV_residual_z_on_axis.png",
+      "sha256": "797dc414adccdfafc69a1a36f1b810823d3dbeb3cc03a519786fc50444399de0",
+      "size_bytes": 48498
+    },
+    {
+      "filename": "N001_N002_in_shield_SSNTD_depth_response.png",
+      "sha256": "30d482a50a166e183547763f43c2c1caf7a69022b124266bb0f9adc8a831015c",
+      "size_bytes": 102248
+    },
+    {
+      "filename": "N001_N002_in_shield_TLD_depth_response.png",
+      "sha256": "fa6a12c03ba5d058c20bb9f05f8e4c40274899f76e4a8f6453f6ddabac14d953",
+      "size_bytes": 105955
+    },
+    {
+      "filename": "N001_N002_jaeri_source_spectra.png",
+      "sha256": "08511370a79633ec181bcfb6c3326c841629cf97878e48f92a02a0d8f43be735",
+      "size_bytes": 63436
+    },
+    {
+      "filename": "N001_N002_measured_neutron_dose_equivalent.png",
+      "sha256": "0a3498f95cc133e4ae173e8f088f2e87c7f4086b634204eb1215e6abdd921120",
+      "size_bytes": 76534
+    },
+    {
+      "filename": "N002_68MeV_on_axis_transmission.png",
+      "sha256": "7fbfc9928c91d151b0e5eacb4c2c0c5f3d0592a2a556a556407e2d9f070e2ff6",
+      "size_bytes": 98252
+    },
+    {
+      "filename": "N002_JAERI_TIARA_68MEV_100cm_reference_vs_geant4.png",
+      "sha256": "7e23f8523b24da4e4646dc2e9438dd76a12626bf87819552e5df27ea9f46bc7d",
+      "size_bytes": 52669
+    },
+    {
+      "filename": "N002_JAERI_TIARA_68MEV_150cm_reference_vs_geant4.png",
+      "sha256": "92ce500ebd5c60710621c94aba2195c48150261ded3d301ec4a0068688febf15",
+      "size_bytes": 53410
+    },
+    {
+      "filename": "N002_JAERI_TIARA_68MEV_200cm_reference_vs_geant4.png",
+      "sha256": "0ed147c2804c852cf3b5dfc1a778b2a235989d9046af0ca237456fc838cf0eb4",
+      "size_bytes": 52243
+    },
+    {
+      "filename": "N002_JAERI_TIARA_68MEV_25cm_reference_vs_geant4.png",
+      "sha256": "710a891d212d6442b60330df8123d7e9bd17e3119a2a5882d37ef63685d114fd",
+      "size_bytes": 50629
+    },
+    {
+      "filename": "N002_JAERI_TIARA_68MEV_50cm_reference_vs_geant4.png",
+      "sha256": "02d4f9d7e6760dbc4f5d4ba93712b8d156a437b89d93fa7d5911585c8d92d694",
+      "size_bytes": 51008
+    },
+    {
+      "filename": "N002_JAERI_TIARA_68MEV_R_E_t_reference_on_axis.png",
+      "sha256": "4185ea401691525ea3cad1ec843908790b9901bf7fc135f46282b0ab7499a017",
+      "size_bytes": 45109
+    },
+    {
+      "filename": "N002_JAERI_TIARA_68MEV_residual_z_on_axis.png",
+      "sha256": "3cb7b134079076104f25e78a1b0091273a75651240a02a4165c730e7f914d2be",
+      "size_bytes": 52056
+    },
+    {
+      "filename": "P001_nist_photon_mass_coefficients.png",
+      "sha256": "2452e8d15a0ff44229b9aaaaffc8fc7446022324885b07d5bd8be27336c16a9e",
+      "size_bytes": 76159
+    },
+    {
+      "filename": "P001_nist_vs_geant4.png",
+      "sha256": "1e9d256cd4ccb446f5d8a968bd948eee924809f95e8e85801ff9a88ff015b9ce",
+      "size_bytes": 65137
+    },
+    {
+      "filename": "controlled_JAERI43_R_E_t.png",
+      "sha256": "002eafbc69b279049daf6a5fcf42fcffeaf5e1454732f149f3ff880dd8e47a0a",
+      "size_bytes": 51246
+    },
+    {
+      "filename": "controlled_JAERI43_integrated_attenuation.png",
+      "sha256": "dd61e58e05d769366ce33ed3799119b59a82af0ab50f42ea21d17284915fe82c",
+      "size_bytes": 63922
+    }
+  ],
+  "known_stale_plots_removed": [
+    "N001_N002_in_shield_depth_response.png"
+  ]
+}

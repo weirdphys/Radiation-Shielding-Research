@@ -1,0 +1,9 @@
+COMMAND: /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_cpp/build/phase1_geant4_runner info
+
+--- STDOUT ---
+IMPLEMENTATION_LANGUAGE=C++17
+REQUIRED_THREADS=16
+MULTITHREADED=1
+GEANT4_VERSION=$Name: geant4-11-04-patch-02 [MT]$
+
+--- STDERR ---

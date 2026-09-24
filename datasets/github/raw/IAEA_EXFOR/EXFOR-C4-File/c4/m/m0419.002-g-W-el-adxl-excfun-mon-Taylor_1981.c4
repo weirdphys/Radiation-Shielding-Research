@@ -1,0 +1,141 @@
+#ENTRY      M0419
+#AUTHOR1    R.B.Taylor+
+#YEAR       1981
+#INSTITUTE  (3AULQUC)
+#TITLE      Elastic scattering of Eu-152 g-rays by tungsten.
+#AUTHOR(S)  R.B.Taylor, P.Teansomprasong, I.B.Whittingham
+#REF-CODE   (J,AUJ,34,125,1981)
+#REFERENCE  Australian J.Physics 34 (1981) 125 (doi:10.1071/PH810125)
+#DATASETS   0
+#
+#DATASET    M0419002 
+#DATE       20060125
+#REACTION   74-W-0(G,EL)74-W-0,,DA
+#PROJ       0
+#TARG       74000
+#MF         4
+#MT         2
+#PRODUCT    74-W-0
+#C4BEGIN    [    0 74000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 74000   4   2    344000.0          1.8000-3          0.992546                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    444000.0          1.2200-3          0.992546                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    779000.0          3.3000-3          0.992546                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    964000.0          1.7700-3          0.992546                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1086000.          1.3600-3          0.992546                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1112000.          1.3800-3          0.992546                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1408000.          6.5000-3          0.992546                              R.B.Taylor+          (81)M0419  2 
+#/DATA      7
+#/DATASET
+#
+#DATASET    M0419002 
+#DATE       20060125
+#REACTION   74-W-0(G,EL)74-W-0,,DA
+#PROJ       0
+#TARG       74000
+#MF         4
+#MT         2
+#PRODUCT    74-W-0
+#C4BEGIN    [    0 74000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 74000   4   2    344000.0          2.6800-3          0.965926                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    444000.0          2.1500-3          0.965926                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    779000.0          3.1000-3          0.965926                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    964000.0          1.4600-3          0.965926                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1086000.          9.1000-3          0.965926                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1112000.          7.7000-3          0.965926                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1408000.          5.1200-3          0.965926                              R.B.Taylor+          (81)M0419  2 
+#/DATA      7
+#/DATASET
+#
+#DATASET    M0419002 
+#DATE       20060125
+#REACTION   74-W-0(G,EL)74-W-0,,DA
+#PROJ       0
+#TARG       74000
+#MF         4
+#MT         2
+#PRODUCT    74-W-0
+#C4BEGIN    [    0 74000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 74000   4   2    344000.0          1.5700-3          0.939693                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    444000.0          1.0300-3          0.939693                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    779000.0          1.1600-3          0.939693                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    964000.0          7.9000-3          0.939693                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1086000.          4.4000-3          0.939693                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1112000.          4.4000-3          0.939693                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1408000.          1.6900-3          0.939693                              R.B.Taylor+          (81)M0419  2 
+#/DATA      7
+#/DATASET
+#
+#DATASET    M0419002 
+#DATE       20060125
+#REACTION   74-W-0(G,EL)74-W-0,,DA
+#PROJ       0
+#TARG       74000
+#MF         4
+#MT         2
+#PRODUCT    74-W-0
+#C4BEGIN    [    0 74000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 74000   4   2    344000.0          9.2000-3          0.906308                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    444000.0          5.6500-3          0.906308                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    779000.0          4.5000-3          0.906308                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    964000.0          2.3500-3          0.906308                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1086000.          1.9300-3          0.906308                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1112000.          1.8100-3          0.906308                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1408000.          7.4000-3          0.906308                              R.B.Taylor+          (81)M0419  2 
+#/DATA      7
+#/DATASET
+#
+#DATASET    M0419002 
+#DATE       20060125
+#REACTION   74-W-0(G,EL)74-W-0,,DA
+#PROJ       0
+#TARG       74000
+#MF         4
+#MT         2
+#PRODUCT    74-W-0
+#C4BEGIN    [    0 74000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 74000   4   2    344000.0          3.1000-3          0.819152                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    444000.0          1.7600-3          0.819152                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    779000.0          1.6300-3          0.819152                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    964000.0          9.7000-3          0.819152                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1086000.          5.8000-3          0.819152                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1112000.          6.2000-3          0.819152                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1408000.          2.0000-3          0.819152                              R.B.Taylor+          (81)M0419  2 
+#/DATA      7
+#/DATASET
+#
+#DATASET    M0419002 
+#DATE       20060125
+#REACTION   74-W-0(G,EL)74-W-0,,DA
+#PROJ       0
+#TARG       74000
+#MF         4
+#MT         2
+#PRODUCT    74-W-0
+#C4BEGIN    [    0 74000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 74000   4   2    344000.0          9.4000-3          0.707107                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    444000.0          7.5000-3          0.707107                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    779000.0          7.5000-3          0.707107                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    964000.0          3.5700-3          0.707107                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1086000.          2.1100-3          0.707107                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1112000.          1.5600-3          0.707107                              R.B.Taylor+          (81)M0419  2 
+    0 74000   4   2    1408000.          3.4700-3          0.707107                              R.B.Taylor+          (81)M0419  2 
+#/DATA      7
+#/DATASET

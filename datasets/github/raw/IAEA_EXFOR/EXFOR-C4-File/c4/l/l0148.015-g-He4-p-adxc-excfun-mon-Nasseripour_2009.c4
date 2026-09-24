@@ -1,0 +1,78 @@
+#ENTRY      L0148
+#AUTHOR1    R.Nasseripour+
+#YEAR       2009
+#INSTITUTE  (1USAGWU)
+#TITLE      Photodisintegration of 4He into p + t
+#AUTHOR(S)  R.Nasseripour, B.L.Berman, N.Benmouna, Y.Ilieva, J.M.Laget, 
+#+          K.P.Adhikari, M.J.Amaryan, P.Ambrozewicz, M.Anghinolfi, 
+#+          H.Baghdasaryan, J.Ball, M.Battaglieri, I.Bedlinskiy, A.S.Biselli, 
+#+          C.Bookwalter, D.Branford, W.J.Briscoe, W.K.Brooks, V.D.Burkert, 
+#+          S.L.Careccia, D.S.Carman, P.L.Cole, P.Collins, P.Corvisiero, 
+#+          A.D'Angelo, A.Daniel, N.Dashyan, R.De Vita, E.De Sanctis, 
+#+          A.Deur, B.Dey, S.Dhamija, R.Dickson, C.Djalali, G.E.Dodge, 
+#+          D.Doughty, R.Dupre, G.Fedotov, S.Fegan, R.Fersch, A.Fradi, 
+#+          M.Y.Gabrielyan, G.P.Gilfoyle, K.L.Giovanetti, F.X.Girod, 
+#+          J.T.Goetz, W.Gohn, E.Golovatch, R.W.Gothe, K.A.Griffioen, 
+#+          M.Guidal, L.Guo, H.Hakobyan, C.Hanretty, N.Hassall, D.Heddle, 
+#+          K.Hicks, C.E.Hyde, D.G.Ireland, E.L.Isupov, S.S.Jawalkar, 
+#+          J.R.Johnstone, K.Joo, D.Keller, M.Khandaker, P.Khetarpal, 
+#+          W.Kim, A.Klein, F.J.Klein, V.Kubarovsky, S.E.Kuhn, S.V.Kuleshov, 
+#+          V.Kuznetsov, K.Livingston, H.Y.Lu, M.Mayer, M.E.Mc.upper()racken, 
+#+          B.Mc.upper()innon, T.Mineeva, M.Mirazita, V.Mokeev, K.Moriya, 
+#+          B.Morrison, E.Munevar, P.Nadel-Turonski, C.S.Nepali, S.Niccolai, 
+#+          G.Niculescu, I.Niculescu, M.R.Niroula, M.Osipenko, A.I.Ostrovidov, 
+#+          K.Park, S.Park, E.Pasyuk, S.Anefalos Pereira, S.Pisano, 
+#+          O.Pogorelko, S.Pozdniakov, J.W.Price, S.Procureur, Y.Prok, 
+#+          D.Protopopescu, B.A.Raue, G.Ricco, M.Ripani, B.G.Ritchie, 
+#+          G.Rosner, P.Rossi, F.Sabatie, M.S.Saini, J.Salamanca, C.Salgado, 
+#+          R.A.Schumacher, H.Seraydaryan, Y.G.Sharabian, D.I.Sober, 
+#+          D.Sokhan, S.Stepanyan, S.S.Stepanyan, P.Stoler, S.Strauch, 
+#+          R.Suleiman, M.Taiuti, D.J.Tedeschi, S.Tkachenko, M.Ungaro, 
+#+          M.F.Vineyard, D.P.Watts, L.B.Weinstein, D.P.Weygand, M.Williams, 
+#+          E.Wolin, M.H.Wood, J.Zhang, B.Zhao, Z.W.Zhao
+#REF-CODE   (J,PR/C,80,044603,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 044603 (doi:10.1103/PhysRevC.80.044603)
+#DATASETS   0
+#
+#DATASET    L0148015 
+#DATE       20091213
+#REACTION   2-HE-4(G,P)1-H-3,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 103  C 3.6000+8          1.7000-7 8.6400-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 3.8000+8          1.3300-7 8.3500-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 4.1000+8          9.6300-8 6.5300-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 4.3000+8          7.1100-8 5.7500-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 4.6000+8          5.0800-8 5.3900-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 4.8000+8          3.5200-8 3.8000-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 5.0000+8          1.6800-8 2.9800-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 5.3000+8          1.5700-8 2.5900-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 5.5000+8          1.3900-8 3.1300-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 5.8000+8          7.9600-9 1.9400-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 6.0000+8          6.0800-9 1.6500-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 6.3000+8          4.3200-9 1.2700-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 6.5000+8          3.4500-9 1.2900-9 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 6.8000+8          2.9600-9 1.000-09 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 7.0000+8          1.8100-9 4.000-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 7.2000+8          1.0800-9 5.700-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 7.5000+8          1.5200-9 7.200-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 7.7000+8          1.5000-9 4.300-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 8.0000+8          1.2200-9 4.300-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 8.2000+8          5.500-10 2.800-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 8.5000+8          4.400-10 2.200-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 8.7000+8          6.700-10 3.400-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 9.2000+8          1.2500-9 4.400-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 9.4000+8          5.000-10 2.500-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 9.7000+8          5.800-10 2.900-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 9.9000+8          4.900-10 2.500-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 1.0200+9          5.500-10 5.500-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+    0  2004   4 103  C 1.1600+9          1.3800-9 4.900-10 0.173648                              R.Nasseripour+       (09)L0148 15 
+#/DATA      28
+#/DATASET

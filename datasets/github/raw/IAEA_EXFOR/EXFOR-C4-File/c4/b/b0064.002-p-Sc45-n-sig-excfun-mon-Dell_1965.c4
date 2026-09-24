@@ -1,0 +1,36 @@
+#ENTRY      B0064
+#AUTHOR1    G.F.Dell+
+#YEAR       1965
+#INSTITUTE  (1USAOSU)
+#TITLE      Total reaction cross sections in the mass range 45 to
+#+          65
+#AUTHOR(S)  G.F.Dell, W.D.Ploughe, H.J.Hausman
+#REF-CODE   (J,NP,64,513,1965)
+#REFERENCE  Nucl.Phys. 64 (1965) 513 (doi:10.1016/0029-5582(65)90576-6)
+#DATASETS   0
+#
+#DATASET    B0064002 
+#DATE       20220316
+#REACTION   21-SC-45(P,N)22-TI-45,,SIG
+#PROJ       1001
+#TARG       21045
+#MF         3
+#MT         4
+#PRODUCT    22-TI-45
+#C4BEGIN    [ 1001 21045   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 21045   3   4    3280000.          0.011100                                                G.F.Dell+            (65)B0064  2 
+ 1001 21045   3   4    3720000. 190000.0 0.048000 3.3000-3                                       G.F.Dell+            (65)B0064  2 
+ 1001 21045   3   4    4130000.          0.065300                                                G.F.Dell+            (65)B0064  2 
+ 1001 21045   3   4    4510000.          0.097100                                                G.F.Dell+            (65)B0064  2 
+ 1001 21045   3   4    4860000.          0.108000                                                G.F.Dell+            (65)B0064  2 
+ 1001 21045   3   4    5210000. 110000.0 0.122000 8.0000-3                                       G.F.Dell+            (65)B0064  2 
+ 1001 21045   3   4    5550000.          0.132000                                                G.F.Dell+            (65)B0064  2 
+ 1001 21045   3   4    5860000.          0.148000                                                G.F.Dell+            (65)B0064  2 
+ 1001 21045   3   4    6180000.          0.135000                                                G.F.Dell+            (65)B0064  2 
+ 1001 21045   3   4    6470000.          0.156000                                                G.F.Dell+            (65)B0064  2 
+ 1001 21045   3   4    6770000. 60000.00 0.188000 0.010000                                       G.F.Dell+            (65)B0064  2 
+#/DATA      11
+#/DATASET

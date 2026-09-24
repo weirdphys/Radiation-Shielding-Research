@@ -1,0 +1,26 @@
+#ENTRY      T0147
+#AUTHOR1    P.M.Grant+
+#YEAR       1983
+#INSTITUTE  (1USALAS)
+#TITLE      Medium-Energy Spallation Cross Sections. 2. Mo
+#+          Irradiation with 800-MeV Protons.
+#AUTHOR(S)  P.M.Grant, B.R.Erdal, H.A.O'Brien Jr
+#REF-CODE   (J,ARI,34,1631,1983)
+#REFERENCE  Appl.Radiat.Isot. 34 (1983) 1631 (doi:10.1016/0020-708X(83)90012-1)
+#DATASETS   0
+#
+#DATASET    T0147022 
+#DATE       20010209
+#REACTION   42-MO-0(P,X)27-CO-56,CUM,SIG
+#PROJ       1001
+#TARG       42000
+#MF         3
+#MT         459
+#PRODUCT    27-CO-56
+#C4BEGIN    [ 1001 42000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42000   3 459    8.0000+8          4.4000-4 2.0000-5           27056.9                     P.M.Grant+           (83)T0147 22 
+#/DATA      1
+#/DATASET

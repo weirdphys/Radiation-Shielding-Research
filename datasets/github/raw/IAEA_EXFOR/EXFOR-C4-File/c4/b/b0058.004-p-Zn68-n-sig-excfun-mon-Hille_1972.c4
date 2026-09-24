@@ -1,0 +1,33 @@
+#ENTRY      B0058
+#AUTHOR1    M.Hille+
+#YEAR       1972
+#INSTITUTE  (2GERMUN)
+#TITLE      Excitation Functions of (P,N) And (A,N) Reactions
+#+          On Ni, Cu and Zn
+#AUTHOR(S)  M.Hille, P.Hille, M.Uhl, W.Weisz
+#REF-CODE   (J,NP/A,198,625,1972)
+#REFERENCE  Nucl.Phys.A 198 (1972) 625 (doi:10.1016/0375-9474(72)90713-0)
+#DATASETS   0
+#
+#DATASET    B0058004 
+#DATE       20011220
+#REACTION   30-ZN-68(P,N)31-GA-68,,SIG,,,EXP
+#PROJ       1001
+#TARG       30068
+#MF         3
+#MT         4
+#PRODUCT    31-GA-68
+#C4BEGIN    [ 1001 30068   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30068   3   4    9500000.          0.758000                                                M.Hille+             (72)B0058  4 
+ 1001 30068   3   4    1.0600+7          0.789000                                                M.Hille+             (72)B0058  4 
+ 1001 30068   3   4    1.1600+7          0.875000 0.065000                                       M.Hille+             (72)B0058  4 
+ 1001 30068   3   4    1.2600+7          0.826000                                                M.Hille+             (72)B0058  4 
+ 1001 30068   3   4    1.3400+7          0.781000                                                M.Hille+             (72)B0058  4 
+ 1001 30068   3   4    1.4300+7          0.546000                                                M.Hille+             (72)B0058  4 
+ 1001 30068   3   4    1.5100+7          0.435000                                                M.Hille+             (72)B0058  4 
+ 1001 30068   3   4    1.5900+7          0.311000                                                M.Hille+             (72)B0058  4 
+#/DATA      8
+#/DATASET

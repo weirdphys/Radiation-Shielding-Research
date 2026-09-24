@@ -1,0 +1,32 @@
+#ENTRY      T0152
+#AUTHOR1    S.Kailas+
+#YEAR       1984
+#INSTITUTE  (3INDTRM)
+#TITLE      Excitation of low-lying levels and giant multipole
+#+          resonances in 92Zr, 120Sn and 208Pb by inelastic
+#+          scattering of 104 MeV polarized protons.
+#AUTHOR(S)  S.Kailas, P.P.Singh, D.L.Friesel, C.C.Foster, P.Schwandt, 
+#+          J.Wiggins
+#REF-CODE   (J,PR/C,29,2075,198406)
+#REFERENCE  Phys.Rev.C 29 (1984) 2075 (doi:10.1103/PhysRevC.29.2075)
+#DATASETS   0
+#
+#DATASET    T0152014 
+#DATE       20010430
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601  C 1.0350+8          5.9600-3          0.971549          1.4600+7 300000.0LVLS.Kailas+            (84)T0152 14 
+ 1001 82208   4 601  C 1.0350+8          5.2000-3 9.8800-4 0.963163          1.4600+7 300000.0LVLS.Kailas+            (84)T0152 14 
+ 1001 82208   4 601  C 1.0350+8          5.3600-3          0.952661          1.4600+7 300000.0LVLS.Kailas+            (84)T0152 14 
+ 1001 82208   4 601  C 1.0350+8          3.9000-3 8.1900-4 0.942057          1.4600+7 300000.0LVLS.Kailas+            (84)T0152 14 
+ 1001 82208   4 601  C 1.0350+8          4.5900-3          0.929776          1.4600+7 300000.0LVLS.Kailas+            (84)T0152 14 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      M0381
+#AUTHOR1    M.A.P.V.De Moraes+
+#YEAR       1993
+#INSTITUTE  (3BZLIPE)
+#TITLE      Photonuclear cross sections of U-233 using neutron
+#+          capture gamma-rays, near threshold.
+#AUTHOR(S)  M.A.P.V.De Moraes, M.F.Cesar
+#REF-CODE   (J,NC/A,106,1165,1993)
+#REFERENCE  Nuovo Cim.A 106 (1993) 1165 (doi:10.1007/BF02778206)
+#DATASETS   0
+#
+#DATASET    M0381003 
+#DATE       20161018
+#REACTION   92-U-233(G,F),,SIG
+#PROJ       0
+#TARG       92233
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92233   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92233   3  18    5430000.          8.3000-3 4.1000-3                                       M.A.P.V.De Moraes+   (93)M0381  3 
+    0 92233   3  18    6730000.          0.014000 2.1000-3                                       M.A.P.V.De Moraes+   (93)M0381  3 
+    0 92233   3  18    7230000.          0.029800 3.8000-3                                       M.A.P.V.De Moraes+   (93)M0381  3 
+    0 92233   3  18    7380000.          0.020900 2.4000-3                                       M.A.P.V.De Moraes+   (93)M0381  3 
+    0 92233   3  18    7640000.          0.021800 3.2000-3                                       M.A.P.V.De Moraes+   (93)M0381  3 
+    0 92233   3  18    7720000.          0.026800 3.7000-3                                       M.A.P.V.De Moraes+   (93)M0381  3 
+    0 92233   3  18    7880000.          0.026100 3.7000-3                                       M.A.P.V.De Moraes+   (93)M0381  3 
+    0 92233   3  18    7910000.          0.029100 4.3000-3                                       M.A.P.V.De Moraes+   (93)M0381  3 
+    0 92233   3  18    9000000.          0.072800 0.011600                                       M.A.P.V.De Moraes+   (93)M0381  3 
+    0 92233   3  18    9720000.          0.098500 0.017300                                       M.A.P.V.De Moraes+   (93)M0381  3 
+#/DATA      10
+#/DATASET

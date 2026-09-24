@@ -1,0 +1,31 @@
+#ENTRY      P0059
+#AUTHOR1    S.Tanaka+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Excitation Functions for Alpha-particle Reaction in
+#+          Fe56 and Fe57
+#AUTHOR(S)  S.Tanaka, M.Furukawa, S.Iwata, M.Yagi, H.Amano, T.Mikumo
+#REF-CODE   (J,JPJ,15,2125,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 2125 (doi:10.1143/JPSJ.15.2125)
+#DATASETS   0
+#
+#DATASET    P0059005 
+#DATE       20000817
+#REACTION   26-FE-56(A,N+P+A)25-MN-54,,SIG
+#PROJ       2004
+#TARG       26056
+#MF         3
+#MT         45
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 2004 26056   3  45  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26056   3  45    3.0700+7 495000.0 1.9000-4 3.0000-5                                       S.Tanaka+            (60)P0059  5 
+ 2004 26056   3  45    3.2700+7          9.1600-4                                                S.Tanaka+            (60)P0059  5 
+ 2004 26056   3  45    3.4600+7          4.0600-3                                                S.Tanaka+            (60)P0059  5 
+ 2004 26056   3  45    3.6300+7 472000.0 0.014500 1.3400-3                                       S.Tanaka+            (60)P0059  5 
+ 2004 26056   3  45    3.8100+7          0.032700                                                S.Tanaka+            (60)P0059  5 
+ 2004 26056   3  45    3.9800+7 487000.0 0.052500 5.2300-3                                       S.Tanaka+            (60)P0059  5 
+#/DATA      6
+#/DATASET

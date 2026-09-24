@@ -1,0 +1,38 @@
+#ENTRY      P0033
+#AUTHOR1    J.P.Blaser+
+#YEAR       1951
+#INSTITUTE  (2SWTETH)
+#TITLE      Excitation functions and cross sections of the (p,n)
+#+          reaction  (II)
+#AUTHOR(S)  J.P.Blaser, F.Boehm, P.Marmier, P.Scherrer
+#REF-CODE   (J,HPA,24,441,1951)
+#REFERENCE  Helv.Phys.Acta 24 (1951) 441
+#DATASETS   0
+#
+#DATASET    P0033011 
+#DATE       19830929
+#REACTION   38-SR-87(P,N)39-Y-87,,SIG
+#PROJ       1001
+#TARG       38087
+#MF         3
+#MT         4
+#PRODUCT    39-Y-87
+#C4BEGIN    [ 1001 38087   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   3   4    2610000.          2.6600-4                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    3060000.          1.5100-3                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    3500000.          5.2200-3                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    3880000.          0.010600                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    4260000.          0.022300                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    4600000.          0.040000                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    5220000.          0.086200                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    5530000.          0.122000                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    5820000.          0.158000                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    6080000.          0.216000                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    6340000.          0.249000                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    6560000.          0.285000                                                J.P.Blaser+          (51)P0033 11 
+ 1001 38087   3   4    6820000.          0.324000                                                J.P.Blaser+          (51)P0033 11 
+#/DATA      13
+#/DATASET

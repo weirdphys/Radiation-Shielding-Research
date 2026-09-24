@@ -1,0 +1,34 @@
+#ENTRY      P0006
+#AUTHOR1    C.Brun+
+#YEAR       1962
+#INSTITUTE  (2FR PAR)
+#TITLE      Competition fission-evaporation etude des functions
+#+          d'excitation dans differents noyaux de protactinium
+#AUTHOR(S)  C.Brun, G.N.Simonoff
+#REF-CODE   (J,JPR,23,12,1962)
+#REFERENCE  J.Phys.(Paris) 23 (1962) 12 (doi:10.1051/jphysrad:0196200230101200)
+#DATASETS   0
+#
+#DATASET    P0006003 
+#DATE       20000808
+#REACTION   90-TH-232(P,6N)91-PA-227,,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         153
+#PRODUCT    91-PA-227
+#C4BEGIN    [ 1001 90232   3 153  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 153    4.0000+7          1.8000-4 4.0000-5                                       C.Brun+              (62)P0006  3 
+ 1001 90232   3 153    5.0000+7          0.012400 2.3000-3                                       C.Brun+              (62)P0006  3 
+ 1001 90232   3 153    5.4000+7          0.015100 2.9000-3                                       C.Brun+              (62)P0006  3 
+ 1001 90232   3 153    5.7000+7          0.012200 2.4000-3                                       C.Brun+              (62)P0006  3 
+ 1001 90232   3 153    6.0000+7          0.010200 2.1000-3                                       C.Brun+              (62)P0006  3 
+ 1001 90232   3 153    6.2700+7          7.5000-3 1.3000-3                                       C.Brun+              (62)P0006  3 
+ 1001 90232   3 153    6.6000+7          6.2000-3 1.1000-3                                       C.Brun+              (62)P0006  3 
+ 1001 90232   3 153    8.0000+7          4.1000-3 8.0000-4                                       C.Brun+              (62)P0006  3 
+ 1001 90232   3 153    1.5000+8          1.5000-3 2.0000-4                                       C.Brun+              (62)P0006  3 
+#/DATA      9
+#/DATASET

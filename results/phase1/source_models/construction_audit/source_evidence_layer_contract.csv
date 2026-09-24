@@ -1,0 +1,5 @@
+evidence_layer,scientific_role,can_satisfy_step2c,may_inform_future_source_reconstruction,examples
+CONSTRUCTION_PROVENANCE,reproduce the current source construction and transformations,False,True,Ding construction artifact; exact 10-MV transform
+PUBLIC_SIMULATED_SANITY,external plausibility/support/shape sanity check in a matched physical quantity,False,False,Sheikh-Bagheri & Rogers 2002; PRIMO candidate
+INDEPENDENT_MEASURED_HOLDOUT,reserved validation evidence evaluated without tuning the model to it,True,False,Ali 2012; Waggener 1999; Aspradakis 1996
+DOWNSTREAM_PDD_DIAGNOSTIC,dose-consequence diagnostic for the factorized source-plane surrogate,False,False,existing 6/10/15/16/18 MV 100M-history PDD artifacts

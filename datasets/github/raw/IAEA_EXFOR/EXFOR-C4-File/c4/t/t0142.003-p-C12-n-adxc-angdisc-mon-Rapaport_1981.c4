@@ -1,0 +1,36 @@
+#ENTRY      T0142
+#AUTHOR1    J.Rapaport+
+#YEAR       1981
+#INSTITUTE  (1USAOHO)
+#TITLE      12C(p,n)12N reaction at 120,160 and 200 MeV
+#AUTHOR(S)  J.Rapaport, T.Taddeucci, C.Gaarde, C.D.Goodman, C.C.Foster, 
+#+          C.A.Goulding, D.Horen, E.Sugarbaker, T.G.Masterson, D.Lind
+#REF-CODE   (J,PR/C,24,335,1981)
+#REFERENCE  Phys.Rev.C 24 (1981) 335 (doi:10.1103/PhysRevC.24.335)
+#DATASETS   0
+#
+#DATASET    T0142003 
+#DATE       20241025
+#REACTION   6-C-12(P,N)7-N-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         50
+#PRODUCT    7-N-12
+#C4BEGIN    [ 1001  6012   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4  50 AC 1.6000+8          6.7000-3 6.0300-4 0.999968          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+ 1001  6012   4  50 AC 1.6000+8          7.2000-3 7.2000-4 0.999887          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+ 1001  6012   4  50 AC 1.6000+8          6.2000-3 6.2000-4 0.997972          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+ 1001  6012   4  50 AC 1.6000+8          5.2000-3 5.2000-4 0.995869          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+ 1001  6012   4  50 AC 1.6000+8          4.7000-3 5.1700-4 0.994245          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+ 1001  6012   4  50 AC 1.6000+8          4.0000-3 5.2000-4 0.992546          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+ 1001  6012   4  50 AC 1.6000+8          3.3000-3 3.9600-4 0.986314          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+ 1001  6012   4  50 AC 1.6000+8          2.3000-3 2.9900-4 0.980683          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+ 1001  6012   4  50 AC 1.6000+8          1.6600-3 1.9920-4 0.970296          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+ 1001  6012   4  50 AC 1.6000+8          6.0000-4 1.0200-4 0.956661          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+ 1001  6012   4  50 AC 1.6000+8          1.1400-4 2.0520-5 0.928356          0.000000         LVLJ.Rapaport+          (81)T0142  3 
+#/DATA      11
+#/DATASET

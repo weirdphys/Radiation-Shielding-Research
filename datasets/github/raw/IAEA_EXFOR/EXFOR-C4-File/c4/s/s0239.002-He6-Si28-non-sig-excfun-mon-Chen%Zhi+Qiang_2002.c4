@@ -1,0 +1,33 @@
+#ENTRY      S0239
+#AUTHOR1    Chen Zhi-Qiang+
+#YEAR       2002
+#INSTITUTE  (3CPRIMP)
+#TITLE      Measurement of total reaction cross section of 6He on
+#+          28Si
+#AUTHOR(S)  Chen Zhi-Qiang, Xiao Guo-Qing, Zhan Wen-Long, Guo Zhong-Yan, 
+#+          Sun Zhi-Yu, Li Jia-Xing, Wang Meng, Tian Wen-Dong, Wang Jian-Song, 
+#+          Wang Wu-Sheng, Mao Rui-Shi, Bai Jie, Hu Zheng-Guo, Chen Li-Xin, 
+#+          Li Chen
+#REF-CODE   (J,CNPR,19,387,2002)
+#REFERENCE  Nucl.Phys.Rev. 19 (2002) 387
+#DATASETS   0
+#
+#DATASET    S0239002 
+#DATE       20230917
+#REACTION   14-SI-28(2-HE-6,NON),,SIG
+#PROJ       2006
+#TARG       14028
+#MF         3
+#MT         3
+#C4BEGIN    [ 2006 14028   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 14028   3   3    2.1900+8 4200000. 1.625000 0.070000                                       Chen Zhi-Qiang+      (02)S0239  2 
+ 2006 14028   3   3    2.0220+8 1.2600+7 1.655000 0.075000                                       Chen Zhi-Qiang+      (02)S0239  2 
+ 2006 14028   3   3    1.8240+8 7200000. 1.669000 0.080000                                       Chen Zhi-Qiang+      (02)S0239  2 
+ 2006 14028   3   3    1.6800+8 7200000. 1.650000 0.080000                                       Chen Zhi-Qiang+      (02)S0239  2 
+ 2006 14028   3   3    1.4400+8 1.6800+7 1.678000 0.080000                                       Chen Zhi-Qiang+      (02)S0239  2 
+ 2006 14028   3   3    1.2060+8 6600000. 1.720000 0.100000                                       Chen Zhi-Qiang+      (02)S0239  2 
+#/DATA      6
+#/DATASET

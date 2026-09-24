@@ -1,0 +1,29 @@
+#ENTRY      M0644
+#AUTHOR1    S.Kahane+
+#YEAR       2002
+#INSTITUTE  (3ISLNEG)
+#TITLE      Elastic and Raman scattering of 9.0 and 11.4 MeV
+#+          photons from Au, Dy, and In.
+#AUTHOR(S)  S.Kahane, R.Moreh, T.Bar-Noy
+#REF-CODE   (J,PR/C,66,044316,2002)
+#REFERENCE  Phys.Rev.C 66 (2002) 044316 (doi:10.1103/PhysRevC.66.044316)
+#DATASETS   0
+#
+#DATASET    M0644002 
+#DATE       20210514
+#REACTION   79-AU-197(G,EL)79-AU-197,,DA
+#PROJ       0
+#TARG       79197
+#MF         4
+#MT         2
+#PRODUCT    79-AU-197
+#C4BEGIN    [    0 79197   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 79197   4   2    8880000.          2.3000-6 4.0000-7-0.766044                              S.Kahane+            (02)M0644  2 
+    0 79197   4   2    9000000.          3.0000-6 9.0000-7-0.766044                              S.Kahane+            (02)M0644  2 
+    0 79197   4   2    9720000.          8.0000-6 9.0000-7-0.766044                              S.Kahane+            (02)M0644  2 
+    0 79197   4   2    1.1400+7          1.1600-4 1.7000-5-0.766044                              S.Kahane+            (02)M0644  2 
+#/DATA      4
+#/DATASET

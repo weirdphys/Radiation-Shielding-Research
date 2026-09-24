@@ -1,0 +1,120 @@
+# Radiation-Shielding-Research private repository
+# README-aligned retention policy:
+# - keep the current scientific workflow, final Phase-I evidence, final source-reconstruction provenance,
+#   documentation, GitHub-safe dataset distribution, and Phase-II work;
+# - omit local reconstructed bulk data, caches/builds, and superseded development history.
+
+# ----------------------------------------------------------------------
+# Local authoritative dataset
+# ----------------------------------------------------------------------
+# data/ is intentionally not tracked directly. It must be reconstructed
+# from datasets/github/ using:
+# datasets/github/_distribution_meta/DATASET_RECONSTRUCTION.md
+/data/
+
+# Optional local reconstruction scratch target.
+/datasets/reconstructed/
+
+# ----------------------------------------------------------------------
+# Historical/checkpoint material not needed for the active reproduction path
+# ----------------------------------------------------------------------
+/archive/
+/research/phase2/eeg_math_transfer/archive/
+
+# ----------------------------------------------------------------------
+# Phase-I source-reconstruction history
+# ----------------------------------------------------------------------
+# Keep only the final scientific provenance packages needed to understand
+# how the active Step-2 holdouts and Route-C implementation were selected
+# and constructed. Ignore the many superseded exploratory versions.
+/research/phase1/source_reconstruction/*
+
+!/research/phase1/source_reconstruction/Step2C_Figure_Eligibility_Audit_v3_2/
+!/research/phase1/source_reconstruction/Step2C_Figure_Eligibility_Audit_v3_2/**
+
+!/research/phase1/source_reconstruction/Step2C_Replacement_Source_Freeze_v3_3/
+!/research/phase1/source_reconstruction/Step2C_Replacement_Source_Freeze_v3_3/**
+
+!/research/phase1/source_reconstruction/Step2C_MultiObservable_Implementation_Freeze_v1_1/
+!/research/phase1/source_reconstruction/Step2C_MultiObservable_Implementation_Freeze_v1_1/**
+
+!/research/phase1/source_reconstruction/Step2D_PreDigitization_Source_Page_Freeze_v1/
+!/research/phase1/source_reconstruction/Step2D_PreDigitization_Source_Page_Freeze_v1/**
+
+!/research/phase1/source_reconstruction/Step2E_Extraction_Method_Object_Map_Freeze_v1/
+!/research/phase1/source_reconstruction/Step2E_Extraction_Method_Object_Map_Freeze_v1/**
+
+!/research/phase1/source_reconstruction/Step2F_BenHdech_Measured_Path_Map_Freeze_v1/
+!/research/phase1/source_reconstruction/Step2F_BenHdech_Measured_Path_Map_Freeze_v1/**
+
+!/research/phase1/source_reconstruction/Step2G_RouteC_Transport_Implementation_Freeze_v1/
+!/research/phase1/source_reconstruction/Step2G_RouteC_Transport_Implementation_Freeze_v1/**
+
+# ----------------------------------------------------------------------
+# Superseded exploratory/shadow result families
+# ----------------------------------------------------------------------
+/results/phase1/source_models/shadow_geant4_*/
+/results/phase1/source_models/legacy_vs_registry_*/
+/results/phase1/source_models/legacy_vs_registry_effective_runtime_audit_*/
+
+# ----------------------------------------------------------------------
+# Build products and transient runtime state
+# ----------------------------------------------------------------------
+**/build/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.cache/
+**/.ipynb_checkpoints/
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ----------------------------------------------------------------------
+# Notebook backups/recovery copies
+# ----------------------------------------------------------------------
+/notebooks/**/*.bak.ipynb
+/notebooks/**/*pre_*.ipynb
+/notebooks/**/*backup*.ipynb
+/notebooks/**/*checkpoint*.ipynb
+
+# ----------------------------------------------------------------------
+# Old releases
+# Keep the final Phase-I verification bundle named in the current workflow.
+# ----------------------------------------------------------------------
+/releases/phase1/*
+!/releases/phase1/Phase1_v12_18_0_verification_bundle.zip
+
+# ----------------------------------------------------------------------
+# Compiler artifacts
+# ----------------------------------------------------------------------
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# ----------------------------------------------------------------------
+# Office/editor lock files
+# ----------------------------------------------------------------------
+.~lock.*#
+
+# BEGIN RADIATION RESEARCH LOCAL DATASET (managed)
+/data/
+/datasets/reconstructed/
+!/datasets/
+!/datasets/github/
+!/datasets/github/**
+# END RADIATION RESEARCH LOCAL DATASET (managed)

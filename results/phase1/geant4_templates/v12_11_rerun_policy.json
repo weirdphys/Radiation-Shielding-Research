@@ -1,0 +1,20 @@
+{
+  "notebook_revision": "v12_11_p001_edge_probe_provenance_reporting_fix",
+  "purpose": "Targeted v12.11 correction without repeating validated expensive transport.",
+  "invalidate_and_rerun": {
+    "P001_G4_EM_COEFFICIENTS": "deterministic P001 edge-side evaluation energies changed under BOUNDED_EDGE_SIDE_PROBE_V1"
+  },
+  "provenance_validated_cross_revision_reuse": [
+    "source_normalization_probe",
+    "neutron_transmission",
+    "icrp21_dose_equivalent",
+    "controlled_sweep",
+    "photon_pdd_validation"
+  ],
+  "neutron_scoring_change_relative_to_v12_10": "NONE",
+  "neutron_physics_change_relative_to_v12_10": "NONE",
+  "neutron_history_requirement_change_relative_to_v12_10": "NONE",
+  "photon_pdd_semantics_change_relative_to_v12_10": "NONE",
+  "agreement_threshold_changes": "NONE",
+  "step2c_policy_change": "NONE"
+}

@@ -1,0 +1,37 @@
+#ENTRY      B0048
+#AUTHOR1    J.-P.Blaser+
+#YEAR       1951
+#INSTITUTE  (2SWTETH)
+#TITLE      Fonctions d'excitation de la reaction (p,n). I
+#AUTHOR(S)  J.-P.Blaser, F.Boehm, P.Marmier, D.C.Peaslee
+#REF-CODE   (J,HPA,24,3,1951)
+#REFERENCE  Helv.Phys.Acta 24 (1951) 3
+#DATASETS   0
+#
+#DATASET    B0048013 
+#DATE       20190120
+#REACTION   50-SN-117(P,N)51-SB-117,,SIG
+#PROJ       1001
+#TARG       50117
+#MF         3
+#MT         4
+#PRODUCT    51-SB-117
+#C4BEGIN    [ 1001 50117   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50117   3   4    3740000.          1.0000-3                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    4030000.          2.1000-3                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    4270000.          3.8000-3                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    4520000.          7.2000-3                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    4750000.          0.011000                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    5000000.          0.017000                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    5210000.          0.023000                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    5410000.          0.031000                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    5610000.          0.037000                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    5790000.          0.044000                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    5990000.          0.052000                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    6190000.          0.062000                                                J.-P.Blaser+         (51)B0048 13 
+ 1001 50117   3   4    6390000.          0.072000                                                J.-P.Blaser+         (51)B0048 13 
+#/DATA      13
+#/DATASET

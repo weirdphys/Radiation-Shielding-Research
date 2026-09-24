@@ -1,0 +1,34 @@
+#ENTRY      M0484
+#AUTHOR1    J.Arends+
+#YEAR       1979
+#INSTITUTE  (2GERBON)
+#TITLE      Experimental investigation  of  the  He-4(gamma,P)H-3
+#+          reaction in the delta-resonance region.
+#AUTHOR(S)  J.Arends, J.Eyink, A.Hegerath, H.Hartmann, B.Mecking, G.Noldeke, 
+#+          H.Rost
+#REF-CODE   (J,NP/A,322,253,1979)
+#REFERENCE  Nucl.Phys.A 322 (1979) 253 (doi:10.1016/0375-9474(79)90425-1)
+#DATASETS   0
+#
+#DATASET    M0484003 
+#DATE       20160220
+#REACTION   2-HE-4(G,P)1-H-3,,SIG
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3 103    2.2300+8          3.5200-6 2.4000-7                                       J.Arends+            (79)M0484  3 
+    0  2004   3 103    2.3900+8          3.0400-6 2.2000-7                                       J.Arends+            (79)M0484  3 
+    0  2004   3 103    2.5700+8          2.6600-6 2.0000-7                                       J.Arends+            (79)M0484  3 
+    0  2004   3 103    2.7800+8          2.0600-6 1.3000-7                                       J.Arends+            (79)M0484  3 
+    0  2004   3 103    3.0300+8          1.7700-6 1.2000-7                                       J.Arends+            (79)M0484  3 
+    0  2004   3 103    3.3400+8          1.4100-6 1.0000-7                                       J.Arends+            (79)M0484  3 
+    0  2004   3 103    3.7100+8          1.0600-6 9.0000-8                                       J.Arends+            (79)M0484  3 
+    0  2004   3 103    4.2000+8          7.6000-7 9.0000-8                                       J.Arends+            (79)M0484  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      P0086
+#AUTHOR1    R.E.Van De Vijver+
+#YEAR       1963
+#INSTITUTE  (2NEDIKO)
+#TITLE      Excitation functions for alpha-induced reactions
+#+          on gold
+#AUTHOR(S)  R.E.Van De Vijver
+#REF-CODE   (J,PHY,29,1214,1963)
+#REFERENCE  Physica 29 (1963) 1214 (doi:10.1016/S0031-8914(63)80273-6)
+#DATASETS   0
+#
+#DATASET    P0086004 
+#DATE       20071207
+#REACTION   79-AU-197(A,4N)81-TL-197,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         37
+#PRODUCT    81-TL-197
+#C4BEGIN    [ 2004 79197   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3  37    4.0200+7          0.340000 0.070000                                       R.E.Van De Vijver    (63)P0086  4 
+ 2004 79197   3  37    4.2200+7          0.840000 0.150000                                       R.E.Van De Vijver    (63)P0086  4 
+ 2004 79197   3  37    4.4200+7          1.120000 0.190000                                       R.E.Van De Vijver    (63)P0086  4 
+ 2004 79197   3  37    4.5900+7          1.470000 0.240000                                       R.E.Van De Vijver    (63)P0086  4 
+ 2004 79197   3  37    4.7300+7          1.610000 0.260000                                       R.E.Van De Vijver    (63)P0086  4 
+ 2004 79197   3  37    4.8700+7          1.500000 0.240000                                       R.E.Van De Vijver    (63)P0086  4 
+ 2004 79197   3  37    5.0000+7          1.410000 0.210000                                       R.E.Van De Vijver    (63)P0086  4 
+ 2004 79197   3  37    5.1300+7          1.200000 0.180000                                       R.E.Van De Vijver    (63)P0086  4 
+#/DATA      8
+#/DATASET

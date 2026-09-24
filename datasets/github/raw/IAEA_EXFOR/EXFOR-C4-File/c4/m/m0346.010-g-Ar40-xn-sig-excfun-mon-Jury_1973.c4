@@ -1,0 +1,33 @@
+#ENTRY      M0346
+#AUTHOR1    J.W.Jury+
+#YEAR       1973
+#INSTITUTE  (1CANOTC)
+#TITLE      Photoneutron disintegration of Ar-40.
+#AUTHOR(S)  J.W.Jury, J.I.Lodge, K.H.Lokan, N.K.Sherman, R.W.Gellie
+#REF-CODE   (J,CJP,51,1176,1973)
+#REFERENCE  Can.J.Phys. 51 (1973) 1176 (doi:10.1139/p73-156)
+#DATASETS   0
+#
+#DATASET    M0346010 
+#DATE       20240329
+#REACTION   18-AR-40(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       18040
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 18040   3 201 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 18040   3 201 D  1.1030+7          0.010780                                                J.W.Jury+            (73)M0346 10 
+    0 18040   3 201 D  1.2000+7          5.8800-3                                                J.W.Jury+            (73)M0346 10 
+    0 18040   3 201 D  1.3030+7          2.3500-3                                                J.W.Jury+            (73)M0346 10 
+    0 18040   3 201 D  1.4450+7          8.6300-3                                                J.W.Jury+            (73)M0346 10 
+    0 18040   3 201 D  1.5030+7          0.010980                                                J.W.Jury+            (73)M0346 10 
+    0 18040   3 201 D  1.6000+7          0.016470                                                J.W.Jury+            (73)M0346 10 
+    0 18040   3 201 D  1.6900+7          0.022160                                                J.W.Jury+            (73)M0346 10 
+    0 18040   3 201 D  1.8970+7          0.033140                                                J.W.Jury+            (73)M0346 10 
+    0 18040   3 201 D  2.0970+7          0.031960                                                J.W.Jury+            (73)M0346 10 
+#/DATA      9
+#/DATASET

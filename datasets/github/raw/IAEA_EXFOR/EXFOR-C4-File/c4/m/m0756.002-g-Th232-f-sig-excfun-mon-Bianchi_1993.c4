@@ -1,0 +1,58 @@
+#ENTRY      M0756
+#AUTHOR1    N.Bianchi+
+#YEAR       1993
+#INSTITUTE  (2ITYFRA)
+#TITLE      Photofissility of 232Th measured with tagged  photons
+#+          from 250 to 1200 MeV.
+#AUTHOR(S)  N.Bianchi, A.Deppman, E.De Sanctis, A.Fantoni, P.Levi Sandri, 
+#+          V.Lucherini, V.Muccifora, E.Polli, A.R.Reolon, P.Rossi, 
+#+          A.S.Iljinov, M.V.Mebel, J.D.T.Arruda-Neto, M.Anghinolfi, 
+#+          P.Corvisiero, G.Gervino, L.Mazzaschi, V.Mokeev, G.Ricco, 
+#+          M.Ripani, M.Sanzone, M.Taiuti, A.Zucchiatti, R.Bergere, 
+#+          P.Carlos, P.Garganne, A.Lepretre
+#REF-CODE   (J,PR/C,48,1785,1993)
+#REFERENCE  Phys.Rev.C 48 (1993) 1785 (doi:10.1103/PhysRevC.48.1785)
+#DATASETS   0
+#
+#DATASET    M0756002 
+#DATE       20080814
+#REACTION   90-TH-232(G,F),,SIG
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    0 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3  18    2.6500+8          0.048086 1.2400-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    3.0000+8          0.053154 1.2800-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    3.3000+8          0.059335 1.2600-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    3.6500+8          0.058173 1.2700-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    4.0000+8          0.056022 1.2800-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    4.3000+8          0.045737 1.2400-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    4.5000+8          0.044946 1.2500-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    4.8500+8          0.035848 1.2600-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    5.2500+8          0.034612 1.2600-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    5.5000+8          0.032461 1.2000-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    5.7500+8          0.032140 1.2000-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    6.0000+8          0.029668 1.2000-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    6.3000+8          0.031300 1.1100-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    6.6600+8          0.030000 1.0900-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    7.0000+8          0.030903 1.1600-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    7.3500+8          0.030953 1.1800-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    7.5000+8          0.026033 1.2000-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    7.8500+8          0.027467 1.1100-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    8.0500+8          0.028280 1.2200-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    8.4000+8          0.026000 1.2000-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    8.7000+8          0.030000 1.1800-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    9.0000+8          0.027195 1.1400-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    9.4000+8          0.024720 1.1600-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    9.8000+8          0.020965 1.2200-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    1.0250+9          0.024790 1.2600-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    1.0600+9          0.025910 1.2500-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    1.0900+9          0.026000 1.2600-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    1.1300+9          0.024670 1.2400-3                                       N.Bianchi+           (93)M0756  2 
+    0 90232   3  18    1.1700+9          0.023536 1.1900-3                                       N.Bianchi+           (93)M0756  2 
+#/DATA      29
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      B0036
+#AUTHOR1    H.Gauvin+
+#YEAR       1974
+#INSTITUTE  (2FR PAR)
+#TITLE      Observed Differences Between Argon- And Krypton-Induced
+#+          Reactions Leading to the Same Compound Nuclei, Er-158
+#+          And Er-156
+#AUTHOR(S)  H.Gauvin, Y.Le Beyec, M.Lefort, R.L.Hahn
+#REF-CODE   (J,PR/C,10,722,1974)
+#REFERENCE  Phys.Rev.C 10 (1974) 722 (doi:10.1103/PhysRevC.10.722)
+#DATASETS   0
+#
+#DATASET    B0036007 
+#DATE       20011220
+#REACTION   50-SN-116(18-AR-40,3N)68-ER-153,,SIG,,,EXP
+#PROJ       18040
+#TARG       50116
+#MF         3
+#MT         17
+#PRODUCT    68-ER-153
+#C4BEGIN    [18040 50116   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 50116   3  17    1.4700+8          1.0000-3 5.0000-4                                       H.Gauvin+            (74)B0036  7 
+18040 50116   3  17    1.5500+8          0.023000 3.0000-3                                       H.Gauvin+            (74)B0036  7 
+18040 50116   3  17    1.6200+8          0.057000 8.0000-3                                       H.Gauvin+            (74)B0036  7 
+18040 50116   3  17    1.7200+8          0.056000 8.0000-3                                       H.Gauvin+            (74)B0036  7 
+18040 50116   3  17    1.7900+8          0.053000 8.0000-3                                       H.Gauvin+            (74)B0036  7 
+18040 50116   3  17    1.8750+8          9.0000-3 1.0000-3                                       H.Gauvin+            (74)B0036  7 
+18040 50116   3  17    1.9450+8          6.0000-3 2.0000-3                                       H.Gauvin+            (74)B0036  7 
+18040 50116   3  17    1.9450+8          1.0000-3 5.0000-4                                       H.Gauvin+            (74)B0036  7 
+#/DATA      8
+#/DATASET

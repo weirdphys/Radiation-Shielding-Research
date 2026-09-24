@@ -1,0 +1,8 @@
+{
+  "freeze_directory": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/research/phase1/source_reconstruction/Step2G_RouteC_Transport_Implementation_Freeze_v1",
+  "frozen_cpp_sha256": "d53a1d762f6470a8a88d380180dac0d07c21ac5fcb0c74096829dbe73c0d8730",
+  "frozen_contract_sha256": "3ea67d1b4c2c8d1b3092f1bafa36731125be1d11a2af25c068f9d878ffb157a4",
+  "working_cpp_sha256": "d53a1d762f6470a8a88d380180dac0d07c21ac5fcb0c74096829dbe73c0d8730",
+  "working_contract_sha256": "3ea67d1b4c2c8d1b3092f1bafa36731125be1d11a2af25c068f9d878ffb157a4",
+  "verified": true
+}

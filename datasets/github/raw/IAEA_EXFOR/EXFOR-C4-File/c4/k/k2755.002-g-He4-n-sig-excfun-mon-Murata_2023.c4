@@ -1,0 +1,32 @@
+#ENTRY      K2755
+#AUTHOR1    M.Murata+
+#YEAR       2023
+#INSTITUTE  (2JPNOSA)
+#TITLE      Photodisintegration cross section of 4He in the giant
+#+          dipole resonance energy region
+#AUTHOR(S)  M.Murata, T.Kawabata, S.Adachi, H.Akimune, S.Amano, Y.Fujikawa, 
+#+          T.Furuno, K.Inaba, Y.Ishii, S.Miyamoto, M.Tsumura, H.Utsunomiya
+#REF-CODE   (J,PR/C,107,064317,2023)
+#REFERENCE  Phys.Rev.C 107 (2023) 064317 (doi:10.1103/PhysRevC.107.064317)
+#DATASETS   0
+#
+#DATASET    K2755002 
+#DATE       20250713
+#REACTION   2-HE-4(G,N)2-HE-3,,SIG
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3   4    2.2500+7          1.1500-3 8.0000-5                                       M.Murata+            (23)K2755  2 
+    0  2004   3   4    2.3500+7          1.3100-3 1.0000-4                                       M.Murata+            (23)K2755  2 
+    0  2004   3   4    2.4500+7          1.6600-3 1.2000-4                                       M.Murata+            (23)K2755  2 
+    0  2004   3   4    2.6500+7          2.2600-3 2.5000-4                                       M.Murata+            (23)K2755  2 
+    0  2004   3   4    2.7500+7          1.9400-3 1.9000-4                                       M.Murata+            (23)K2755  2 
+    0  2004   3   4    2.9400+7          1.2600-3 1.1000-4                                       M.Murata+            (23)K2755  2 
+#/DATA      6
+#/DATASET

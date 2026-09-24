@@ -1,0 +1,11 @@
+sample_id,mass_g,thickness_cm,area_cm2,areal_density_g_cm2,material_family,material_variant,source,evidence_type
+A,58.91,1.05,25.0,2.36,concrete,barite_enriched,ISIS_RB2000164,EXPERIMENTAL
+V,60.26,1.02,24.75,2.43,concrete,barite_enriched,ISIS_RB2000164,EXPERIMENTAL
+C,64.63,1.15,25.0,2.59,concrete,barite_enriched,ISIS_RB2000164,EXPERIMENTAL
+F,67.9,1.15,25.0,2.72,concrete,barite_enriched,ISIS_RB2000164,EXPERIMENTAL
+T,70.08,1.1,24.88,2.82,concrete,barite_enriched,ISIS_RB2000164,EXPERIMENTAL
+S,71.56,1.1,25.0,2.86,concrete,barite_enriched,ISIS_RB2000164,EXPERIMENTAL
+D,70.45,1.1,24.5,2.88,concrete,barite_enriched,ISIS_RB2000164,EXPERIMENTAL
+R,72.55,1.15,24.63,2.95,concrete,barite_enriched,ISIS_RB2000164,EXPERIMENTAL
+U,73.95,1.15,24.84,2.98,concrete,barite_enriched,ISIS_RB2000164,EXPERIMENTAL
+B,74.8,1.2,25.0,2.99,concrete,barite_enriched,ISIS_RB2000164,EXPERIMENTAL

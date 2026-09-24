@@ -1,0 +1,36 @@
+#ENTRY      L0194
+#AUTHOR1    W.A.Wurtz+
+#YEAR       2014
+#INSTITUTE  (1CANSAS)
+#TITLE      Photodisintegration of 6Li
+#AUTHOR(S)  W.A.Wurtz, R.E.Pywell, B.E.Norum, S.Kucuker, B.D.Sawatzky, 
+#+          H.R.Weller, S.Stave, M.W.Ahmed
+#REF-CODE   (J,PR/C,90,014613,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 014613 (doi:10.1103/PhysRevC.90.014613)
+#DATASETS   0
+#
+#DATASET    L0194011 
+#DATE       20141024
+#REACTION   3-LI-6(G,NON),,SIG
+#PROJ       0
+#TARG       3006
+#MF         3
+#MT         3
+#C4BEGIN    [    0  3006   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   3   3    8000000.          1.0010-3 1.4040-4                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    9000000.          1.2910-3 1.0420-4                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    1.0000+7          1.4720-3 9.9660-5                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    1.1000+7          1.7260-3 7.2480-5                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    1.2000+7          1.9520-3 6.7950-5                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    1.3000+7          1.9980-3 5.4360-5                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    1.5000+7          2.0660-3 7.2480-5                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    1.5600+7          2.0750-3 8.1540-5                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    2.0000+7          2.3740-3 1.1330-4                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    2.5000+7          2.1880-3 4.0320-4                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    3.0000+7          1.9520-3 2.2200-4                                       W.A.Wurtz+           (14)L0194 11 
+    0  3006   3   3    3.5000+7          2.0200-3 1.4500-4                                       W.A.Wurtz+           (14)L0194 11 
+#/DATA      12
+#/DATASET

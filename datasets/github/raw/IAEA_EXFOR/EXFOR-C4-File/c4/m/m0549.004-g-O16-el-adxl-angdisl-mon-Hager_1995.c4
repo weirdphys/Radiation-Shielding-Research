@@ -1,0 +1,33 @@
+#ENTRY      M0549
+#AUTHOR1    D.Hager+
+#YEAR       1995
+#INSTITUTE  (2GERGOE)
+#TITLE      Elastic scattering of 58 and 75 MeV photons by
+#+          12C and 16O and electromagnetic polarizabilities
+#+          of the bound nucleon.
+#AUTHOR(S)  D.Hager, K.Fuhrberg, T.Glebe, M.Hutt, M.Ludwig, M.Schumacher, 
+#+          B.-E.Andersson, K.Hansen, B.Nilsson, B.Schroder, L.Nilsson, 
+#+          H.Freiesleben, E.Kuhlmann
+#REF-CODE   (J,NP/A,595,287,1995)
+#REFERENCE  Nucl.Phys.A 595 (1995) 287 (doi:10.1016/0375-9474(95)00379-4)
+#DATASETS   0
+#
+#DATASET    M0549004 
+#DATE       20100212
+#REACTION   8-O-16(G,EL)8-O-16,,DA
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [    0  8016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4   2    5.8000+7          1.4100-6 8.3000-8 0.707107                              D.Hager+             (95)M0549  4 
+    0  8016   4   2    5.8000+7          1.7200-6 7.8000-8 0.500000                              D.Hager+             (95)M0549  4 
+    0  8016   4   2    5.8000+7          8.1700-7 5.3000-8 6.123-17                              D.Hager+             (95)M0549  4 
+    0  8016   4   2    5.8000+7          8.8000-7 4.9000-8-0.500000                              D.Hager+             (95)M0549  4 
+    0  8016   4   2    5.8000+7          1.1000-6 9.0000-8-0.707107                              D.Hager+             (95)M0549  4 
+#/DATA      5
+#/DATASET

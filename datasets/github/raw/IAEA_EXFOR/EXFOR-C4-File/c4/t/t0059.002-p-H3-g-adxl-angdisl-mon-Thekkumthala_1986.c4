@@ -1,0 +1,66 @@
+#ENTRY      T0059
+#AUTHOR1    J.Thekkumthala+
+#YEAR       1986
+#INSTITUTE  (1CANALA)
+#TITLE      Cross section and analyzing powers for the reaction
+#+          p 3H -> gamma 4He at Ep = 227, 300 and 375 MeV
+#AUTHOR(S)  J.Thekkumthala, J.M.Cameron, C.A.Davis, P.Kitching, J.Pasos, 
+#+          J.Soukup, J.Uegaki, H.S.Wilson, R.Abegg, D.A.Hutcheon, C.A.Miller, 
+#+          A.W.Stetz, A.H.Hussein
+#REF-CODE   (J,NP/A,455,687,1986)
+#REFERENCE  Nucl.Phys.A 455 (1986) 687 (doi:10.1016/0375-9474(86)90457-4)
+#DATASETS   0
+#
+#DATASET    T0059002 
+#DATE       20001024
+#REACTION   1-H-3(P,G)2-HE-4,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  1003   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4 102    2.2700+8          3.1900-8 2.2000-9 6.123-17 0.178024                     J.Thekkumthala+      (86)T0059  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    T0059002 
+#DATE       20001024
+#REACTION   1-H-3(P,G)2-HE-4,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  1003   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4 102    3.0000+8          6.4600-8 3.8000-9 0.587785 0.128492                     J.Thekkumthala+      (86)T0059  2 
+ 1001  1003   4 102    3.0000+8          4.9900-8 3.1000-9 0.422618 0.175580                     J.Thekkumthala+      (86)T0059  2 
+ 1001  1003   4 102    3.0000+8          2.2400-8 1.7000-9 0.207912 0.145111                     J.Thekkumthala+      (86)T0059  2 
+ 1001  1003   4 102    3.0000+8          1.6300-8 1.8000-9 6.123-17 0.178024                     J.Thekkumthala+      (86)T0059  2 
+ 1001  1003   4 102    3.0000+8          7.7000-9 1.5000-9-0.156434 0.136183                     J.Thekkumthala+      (86)T0059  2 
+ 1001  1003   4 102    3.0000+8          4.9000-9 2.0000-9-0.469472 0.143316                     J.Thekkumthala+      (86)T0059  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    T0059002 
+#DATE       20001024
+#REACTION   1-H-3(P,G)2-HE-4,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  1003   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4 102    3.7500+8          3.7700-8 4.4000-9 0.500000 0.207075                     J.Thekkumthala+      (86)T0059  2 
+ 1001  1003   4 102    3.7500+8          1.4300-8 3.2000-9-0.017452 0.214643                     J.Thekkumthala+      (86)T0059  2 
+#/DATA      2
+#/DATASET

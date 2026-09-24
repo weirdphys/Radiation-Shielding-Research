@@ -1,0 +1,25 @@
+#ENTRY      B0061
+#AUTHOR1    R.M.Humes+
+#YEAR       1963
+#INSTITUTE  (1USAOSU)
+#TITLE      (P,N) Cross Sections at 6.75 MeV.
+#AUTHOR(S)  R.M.Humes, G.F.Dell Jr, W.D.Ploughe, H.J.Hausman
+#REF-CODE   (J,PR,130,1522,1963)
+#REFERENCE  Phys.Rev. 130 (1963) 1522 (doi:10.1103/PhysRev.130.1522)
+#DATASETS   0
+#
+#DATASET    B0061009 
+#DATE       20011220
+#REACTION   35-BR-79(P,N)36-KR-79-G,M+,SIG,,,EXP
+#PROJ       1001
+#TARG       35079
+#MF         3
+#MT         459
+#PRODUCT    36-KR-79-G
+#C4BEGIN    [ 1001 35079   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 35079   3 459    6750000.          0.085600 4.8000-3           36079.0                     R.M.Humes+           (63)B0061  9 
+#/DATA      1
+#/DATASET

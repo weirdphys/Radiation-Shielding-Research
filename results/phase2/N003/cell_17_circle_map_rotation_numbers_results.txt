@@ -1,0 +1,32 @@
+Circle-Map Rotation Numbers from Radiation-Derived Phase
+=======================================================
+
+Source: data/processed/RB2000164/rb2000164_physics_ready_strict.csv.gz
+Radiation object: N003.SEQ_SAMPLE / N003.TRAJ_E
+Observable: transmission T(E)
+Measured samples: 9
+Coordinate points: 5000
+Coordinate step: 0.002762109522816303
+Smoothing window: 151
+Omega range: [0.0, 1.0] with 105 points
+K range: [0.0, 6.283185307179586] with 105 points
+Iterations: 350
+Transient: 40
+Rational denominator limit: 8
+Rational-lock tolerance: 0.01
+
+Per-sample summary:
+  A: theta0_cycles=0.962437, phase_resultant=0.179655, mean_mod1=0.443239, std_mod1=0.380889, mean_unwrapped=0.498840
+  B: theta0_cycles=0.935382, phase_resultant=0.201326, mean_mod1=0.440757, std_mod1=0.380482, mean_unwrapped=0.503705
+  C: theta0_cycles=0.910621, phase_resultant=0.142604, mean_mod1=0.437244, std_mod1=0.380038, mean_unwrapped=0.507811
+  D: theta0_cycles=0.920941, phase_resultant=0.194728, mean_mod1=0.438695, std_mod1=0.380287, mean_unwrapped=0.506631
+  R: theta0_cycles=0.953042, phase_resultant=0.174595, mean_mod1=0.448285, std_mod1=0.381653, mean_unwrapped=0.502979
+  S: theta0_cycles=0.961368, phase_resultant=0.208565, mean_mod1=0.444857, std_mod1=0.381448, mean_unwrapped=0.500730
+  T: theta0_cycles=0.942605, phase_resultant=0.205220, mean_mod1=0.441245, std_mod1=0.380498, mean_unwrapped=0.504465
+  U: theta0_cycles=0.943060, phase_resultant=0.210358, mean_mod1=0.446088, std_mod1=0.381367, mean_unwrapped=0.504047
+  V: theta0_cycles=0.968551, phase_resultant=0.222693, mean_mod1=0.448551, std_mod1=0.381813, mean_unwrapped=0.498800
+
+Interpretation:
+  Rotation-number plateaus are properties of the reduced circle map.
+  Radiation data enter through sample-specific analytic-signal initial phases.
+  They are not direct neutron-transport frequencies.

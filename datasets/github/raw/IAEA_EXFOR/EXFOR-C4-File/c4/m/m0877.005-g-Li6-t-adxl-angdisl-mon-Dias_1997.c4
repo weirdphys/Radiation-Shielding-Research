@@ -1,0 +1,32 @@
+#ENTRY      M0877
+#AUTHOR1    J.F.Dias+
+#YEAR       1997
+#INSTITUTE  (2BLGGHT)
+#TITLE      (gamma,d) and  (gamma,t)   reactions   on   6Li
+#+          intermediate photon energies.
+#AUTHOR(S)  J.F.Dias, D.Ryckbosch, R.Van de Vyver, C.Van den Abeele, 
+#+          G.De Meyer, L.Van Hoorebeke, J.-O.Adler, K.I.Blomqvist, 
+#+          D.Nilsson, H.Ruijter, B.Schroder
+#REF-CODE   (J,PR/C,55,942,1997)
+#REFERENCE  Phys.Rev.C 55 (1997) 942 (doi:10.1103/PhysRevC.55.942)
+#DATASETS   0
+#
+#DATASET    M0877005 
+#DATE       20141030
+#REACTION   3-LI-6(G,T)2-HE-3,PAR,DA
+#PROJ       0
+#TARG       3006
+#MF         4
+#MT         700
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  3006   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   4 700    7.5000+7          2.4000-7 3.0000-8 0.866025          0.000000         LVLJ.F.Dias+            (97)M0877  5 
+    0  3006   4 700    7.5000+7          3.3000-7 3.0000-8 0.500000          0.000000         LVLJ.F.Dias+            (97)M0877  5 
+    0  3006   4 700    7.5000+7          5.2000-7 3.0000-8 6.123-17          0.000000         LVLJ.F.Dias+            (97)M0877  5 
+    0  3006   4 700    7.5000+7          3.4000-7 3.0000-8-0.500000          0.000000         LVLJ.F.Dias+            (97)M0877  5 
+    0  3006   4 700    7.5000+7          1.6000-7 3.0000-8-0.866025          0.000000         LVLJ.F.Dias+            (97)M0877  5 
+#/DATA      5
+#/DATASET

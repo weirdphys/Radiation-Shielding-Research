@@ -1,0 +1,4 @@
+benchmark_id,incident_electron_energy_MeV,target,neutron_yield_per_incident_electron,simulation_code,source_reference,doi
+PN001_PUBLIC_TUNGSTEN_PHOTONEUTRON,20,natW,0.00285,Geant4 11.0,"Materials 2022, 15, 7674, Table 1",10.3390/ma15217674
+PN001_PUBLIC_TUNGSTEN_PHOTONEUTRON,50,natW,0.0158,Geant4 11.0,"Materials 2022, 15, 7674, Table 1",10.3390/ma15217674
+PN001_PUBLIC_TUNGSTEN_PHOTONEUTRON,100,natW,0.0347,Geant4 11.0,"Materials 2022, 15, 7674, Table 1",10.3390/ma15217674

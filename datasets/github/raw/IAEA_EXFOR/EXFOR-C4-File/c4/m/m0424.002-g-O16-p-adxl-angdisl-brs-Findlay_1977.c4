@@ -1,0 +1,179 @@
+#ENTRY      M0424
+#AUTHOR1    D.J.S.Findlay+
+#YEAR       1977
+#INSTITUTE  (2UK GLS)
+#TITLE      The O-16(g,p-0) reaction at intermediate photon
+#+          energies.
+#AUTHOR(S)  D.J.S.Findlay, R.O.Owens
+#REF-CODE   (J,NP/A,279,385,1977)
+#REFERENCE  Nucl.Phys.A 279 (1977) 385 (doi:10.1016/0375-9474(77)90574-7)
+#DATASETS   0
+#
+#DATASET    M0424002 
+#DATE       20130621
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    4.0000+7          4.4100-5 1.4000-6 0.707107          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0424002 
+#DATE       20130621
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    5.0000+7          2.1200-5 7.0000-7 0.707107          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0424002 
+#DATE       20130621
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    6.0000+7          1.1040-5 6.3000-7 0.865151          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    6.0000+7          1.2300-5 6.9000-7 0.707107          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    6.0000+7          1.0920-5 7.3000-7 0.498488          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    6.0000+7          6.9400-6 4.7000-7 0.258819          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    6.0000+7          4.1200-6 2.3000-7 6.123-17          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    6.0000+7          2.0000-6 1.5000-7-0.262189          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    6.0000+7          9.5300-7 7.6000-8-0.500000          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    6.0000+7          4.0500-7 4.0000-8-0.708340          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    6.0000+7          2.0000-7 2.5000-8-0.865151          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+#/DATA      9
+#/DATASET
+#
+#DATASET    M0424002 
+#DATE       20130621
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    7.0000+7          6.9700-6 4.5000-7 0.707107          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0424002 
+#DATE       20130621
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    8.0000+7          3.0700-6 2.9000-7 0.864275          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    8.0000+7          3.3400-6 3.3000-7 0.707107          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    8.0000+7          2.3800-6 2.5000-7 0.500000          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    8.0000+7          1.1600-6 1.4000-7 0.258819          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    8.0000+7          4.7800-7 6.1000-8-1.7453-3          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    8.0000+7          1.3500-7 2.7000-8-0.260505          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    8.0000+7          5.5400-8 1.0600-8-0.500000          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    8.0000+7          2.4900-8 5.9000-9-0.708340          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    8.0000+7          9.6000-9 2.9000-9-0.866025          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+#/DATA      9
+#/DATASET
+#
+#DATASET    M0424002 
+#DATE       20130621
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    9.0000+7          2.0400-6 1.4000-7 0.707107          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0424002 
+#DATE       20130621
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    9.5000+7          1.4500-6 1.8000-7 0.707107          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    9.5000+7          3.3100-7 6.2000-8 0.258819          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    9.5000+7          4.0100-8 9.6000-9-0.258819          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+#/DATA      3
+#/DATASET
+#
+#DATASET    M0424002 
+#DATE       20130621
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    1.0000+8          1.3900-6 2.0000-7 0.866025          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    1.0000+8          1.1400-6 1.8000-7 0.707107          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    1.0000+8          5.8900-7 1.1400-7 0.500000          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    1.0000+8          1.4000-7 3.3000-8 0.258819          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    1.0000+8          8.8300-8 1.7500-8 6.123-17          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    1.0000+8          2.8800-8 1.3800-8-0.258819          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    1.0000+8          4.5100-8         -0.500000          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    1.0000+8          1.5400-8 4.2000-9-0.708340          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    M0424002 
+#DATE       20130621
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    1.0500+8          1.1200-6 1.7000-7 0.707107          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      S0110
+#AUTHOR1    Li Chen+
+#YEAR       2007
+#INSTITUTE  (3CPRBJG)
+#TITLE      Measurement of neutron-removal cross section of
+#+          neutron-rich nucleus 8He by using the transmission
+#+          method
+#AUTHOR(S)  Li Chen, Ye Yanlin, Zhan Wenlong, Xiao Guoqing, Xu Hushan, 
+#+          Guo Zhongyan, Wang Jiansong, Sun Zhiyu, Li Jiaxing, Wang Meng, 
+#+          Chen Zhiqiang, Jiang Dongxing, Zheng Tao, Hua Hui, Li Zhihuan, 
+#+          Li Xiangqing, Ge Yucheng, Wu Cuie, Pang Danyang, Lou Jianling, 
+#+          Lu Fei, Fan Fengying
+#REF-CODE   (J,PHE,31,52,2007)
+#REFERENCE  High En.Nucl.Phy.Ch. 31 (2007) 52
+#DATASETS   0
+#
+#DATASET    S0110003 
+#DATE       20141024
+#REACTION   14-SI-0(2-HE-8,X)2-HE-4,,SIG
+#PROJ       2008
+#TARG       14000
+#MF         3
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2008 14000   3 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2008 14000   3 207    2.4920+8          0.095000 0.012000                                       Li Chen+             (07)S0110  3 
+#/DATA      1
+#/DATASET

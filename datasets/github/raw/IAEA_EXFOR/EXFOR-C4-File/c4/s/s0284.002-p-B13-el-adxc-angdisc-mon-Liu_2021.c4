@@ -1,0 +1,35 @@
+#ENTRY      S0284
+#AUTHOR1    W.Liu+
+#YEAR       2021
+#INSTITUTE  (3CPRBJG)
+#TITLE      s- and d-wave intruder strengths in 13Bg.s. via the
+#+          1H(13B, d)12B reaction
+#AUTHOR(S)  W.Liu, J.L.Lou, Y.L.Ye, Z.H.Li, Q.T.Li, H.Hua, X.F.Yang, 
+#+          J.Y.Xu, H.J.Ong, D.T.Tran, N.Aoi, E.Ideguchi, D.Y.Pang, 
+#+          C.X.Yuan, S.M.Wang, Y.Jiang, B.Yang, Y.Liu, J.G.Li, Z.Q.Chen, 
+#+          J.X.Han, S.W.Bai, G.Li, K.Ma, Z.W.Tan, H.Y.Zhu, B.L.Xia
+#REF-CODE   (J,PR/C,104,064605,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 064605 (doi:10.1103/PhysRevC.104.064605)
+#DATASETS   0
+#
+#DATASET    S0284002 
+#DATE       20251009
+#REACTION   (1-H-1(5-B-13,EL)1-H-1,,DA,,RTH)=(5-B-13(P,EL)5-B-13,,DA,,RTH)
+#PROJ       1001
+#TARG       5013
+#MF         4
+#MT         2
+#PRODUCT    5-B-13
+#C4BEGIN    [ 1001  5013   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5013   4   2  C 2.3000+7 388000.0 0.012560 1.0038-3 0.529919 0.014801                     W.Liu+               (21)S0284  2 
+ 1001  5013   4   2  C 2.3000+7 388000.0 0.010644 7.1965-4 0.587785 0.014120                     W.Liu+               (21)S0284  2 
+ 1001  5013   4   2  C 2.3000+7 388000.0 0.014932 8.2461-4 0.642788 0.013370                     W.Liu+               (21)S0284  2 
+ 1001  5013   4   2  C 2.3000+7 388000.0 0.026689 1.1286-3 0.694658 0.012555                     W.Liu+               (21)S0284  2 
+ 1001  5013   4   2  C 2.3000+7 388000.0 0.048665 1.5949-3 0.743145 0.011679                     W.Liu+               (21)S0284  2 
+ 1001  5013   4   2  C 2.3000+7 388000.0 0.086188 2.2148-3 0.788011 0.010745                     W.Liu+               (21)S0284  2 
+ 1001  5013   4   2  C 2.3000+7 388000.0 0.142344 3.0162-3 0.829038 9.7598-3                     W.Liu+               (21)S0284  2 
+#/DATA      7
+#/DATASET

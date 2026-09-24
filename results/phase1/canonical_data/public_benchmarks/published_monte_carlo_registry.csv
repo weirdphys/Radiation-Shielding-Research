@@ -1,0 +1,3 @@
+benchmark_case_id,parent_benchmark_id,code,observable,status
+MC001_PUBLISHED_FLUKA_CONCRETE_BUILDUP,P003_PUBLIC_CONCRETE_BUILDUP_FLUKA,FLUKA,concrete exposure buildup factor,external published code-to-code reference
+MC002_PUBLISHED_GEANT4_NATW_PHOTONEUTRON,PN001_PUBLIC_TUNGSTEN_PHOTONEUTRON,Geant4 11.0,thick-target photoneutron yield,external published code-to-code reference

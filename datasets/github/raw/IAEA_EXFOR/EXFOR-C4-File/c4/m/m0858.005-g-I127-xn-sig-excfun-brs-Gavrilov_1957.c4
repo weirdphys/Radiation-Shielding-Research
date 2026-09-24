@@ -1,0 +1,43 @@
+#ENTRY      M0858
+#AUTHOR1    B.I.Gavrilov+
+#YEAR       1957
+#INSTITUTE  (4RUSJIA)
+#TITLE      Yields of photoneutrons from intermediate and heavy
+#+          nuclei.
+#AUTHOR(S)  B.I.Gavrilov, L.E.Lazareva
+#REF-CODE   (J,JET,3,871,1957)
+#REFERENCE  J.Exp.Theor.Phys. 3 (1957) 871
+#DATASETS   0
+#
+#DATASET    M0858005 
+#DATE       20260414
+#REACTION   53-I-127(G,X)0-NN-1,,SIG,,BRS
+#PROJ       0
+#TARG       53127
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 53127   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 53127   3 201    9950000.          0.042600                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    1.0830+7          0.053300                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    1.1670+7          0.075000                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    1.2770+7          0.166500                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    1.3630+7          0.241600                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    1.4800+7          0.282200 0.022300                                       B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    1.5680+7          0.281400                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    1.6460+7          0.251800                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    1.7550+7          0.194900                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    1.8590+7          0.138000                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    1.9560+7          0.076400                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    2.0530+7          0.085300                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    2.2090+7          0.077000                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    2.3540+7          0.082000                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    2.4400+7          0.083200                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    2.4900+7          0.094500                                                B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    2.5400+7          0.105600 0.024400                                       B.I.Gavrilov+        (57)M0858  5 
+    0 53127   3 201    2.6940+7          0.112600                                                B.I.Gavrilov+        (57)M0858  5 
+#/DATA      18
+#/DATASET

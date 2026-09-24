@@ -1,0 +1,92 @@
+#ENTRY      K2067
+#AUTHOR1    K.Toshioka+
+#YEAR       1978
+#INSTITUTE  (2JPNTOK)
+#TITLE      Differential cross sections of proton Compton
+#+          scattering in the energy range between 450 and 950 MeV
+#AUTHOR(S)  K.Toshioka, M.Chiba, S.Kato, K.Sugano, K.Ukai, T.Shimomura, 
+#+          T.Shinohara, M.Daigo, Y.Hemmi, R.Kikuchi, M.Minowa, K.Miyake, 
+#+          T.Nakamura, A.Noda, M.Ono, Y.Suzuki, M.Yoshioka, Y.Hoshi
+#REF-CODE   (J,NP/B,141,(4),364,197809)
+#REFERENCE  Nucl.Phys.B 141 No.4 (1978) 364 (doi:10.1016/0550-3213(78)90032-9)
+#DATASETS   0
+#
+#DATASET    K2067003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 6.0000+8          9.0000-8 2.2000-8 0.467930 0.037019                     K.Toshioka+          (78)K2067  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2067003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 6.5000+8          1.0100-7 2.0000-8 0.471012 0.038490                     K.Toshioka+          (78)K2067  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2067003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 7.0000+8          1.2100-7 1.4000-8 0.481754 0.039766                     K.Toshioka+          (78)K2067  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2067003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 7.5000+8          1.0600-7 8.0000-9 0.484810 0.039689                     K.Toshioka+          (78)K2067  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    K2067003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 8.0000+8          8.4000-8 7.0000-9 0.492424 0.041015                     K.Toshioka+          (78)K2067  3 
+#/DATA      1
+#/DATASET

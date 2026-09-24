@@ -1,0 +1,15 @@
+Radiation-Informed Kuramoto Arnold-Tongue Analysis
+===========================================================
+
+Source: data/processed/RB2000164/rb2000164_physics_ready_strict.csv.gz
+Speed mode: fast
+N samples: 9
+Characteristic-frequency CV: 0.1871934364
+K: 0.8939833692
+a range: 0 to 4.767911302
+b range: 0.5257270925 to 1.474272907
+Initializations per grid point: 2
+Natural-frequency map: omega_i = 2*pi*(f_i/median(f))
+Radiation feature: detrended derivative of smoothed optical depth -ln(T) vs log-energy
+Characteristic f_i: spectral centroid; quadratic sub-bin peak retained as diagnostic
+Contrast maps: driven value minus a=0 baseline; robust symmetric 98th-percentile color limits

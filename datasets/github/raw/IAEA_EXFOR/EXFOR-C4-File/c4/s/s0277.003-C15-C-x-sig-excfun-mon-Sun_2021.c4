@@ -1,0 +1,28 @@
+#ENTRY      S0277
+#AUTHOR1    Y.Z.Sun+
+#YEAR       2021
+#INSTITUTE  (3CPRCPR)
+#TITLE      Single-neutron removal from 14,15,16C near 240
+#+          MeV/nucleon
+#AUTHOR(S)  Y.Z.Sun, S.T.Wang, Z.Y.Sun, X.H.Zhang, S.Y.Jin, Y.X.Zhao, 
+#+          D.Y.Pang, S.W.Tang, D.Yan, P.Ma, Y.H.Yu, K.Yue, F.Fang, 
+#+          Y.J.Zhang, C.G.Lu, L.M.Duan
+#REF-CODE   (J,PR/C,104,014310,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 014310 (doi:10.1103/PhysRevC.104.014310)
+#DATASETS   0
+#
+#DATASET    S0277003 
+#DATE       20220518
+#REACTION   6-C-0(6-C-15,X)6-C-14,,SIG
+#PROJ       6015
+#TARG       6000
+#MF         3
+#MT         454
+#PRODUCT    6-C-14
+#C4BEGIN    [ 6015  6000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6015  6000   3 454    3.5550+9          0.108000 0.011000            6014.9                     Y.Z.Sun+             (21)S0277  3 
+#/DATA      1
+#/DATASET

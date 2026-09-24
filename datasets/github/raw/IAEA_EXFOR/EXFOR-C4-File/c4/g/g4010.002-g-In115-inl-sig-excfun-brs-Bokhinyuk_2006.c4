@@ -1,0 +1,45 @@
+#ENTRY      G4010
+#AUTHOR1    V.S.Bokhinyuk+
+#YEAR       2006
+#INSTITUTE  (4UKRUZH)
+#TITLE      Study of the effective excitation cross section of the
+#+          115In isomeric state in the (g,g') reaction.
+#AUTHOR(S)  V.S.Bokhinyuk, A.I.Guthy, A.M.Parlag, M.T.Sabolchy, I.V.Sokolyuk, 
+#+          I.V.Khimich
+#REF-CODE   (J,UFZ,51,657,2006)
+#REFERENCE  Ukr.Fiz.Zh. 51 (2006) 657
+#DATASETS   0
+#
+#DATASET    G4010002 
+#DATE       20070219
+#REACTION   49-IN-115(G,INL)49-IN-115-M,,SIG,,BRS
+#PROJ       0
+#TARG       49115
+#MF         3
+#MT         102
+#PRODUCT    49-IN-115-M
+#C4BEGIN    [    0 49115   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 49115   3 102M   7006700.          1.1450-3 1.4815-5                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   8045300.          1.6853-3 4.4449-5                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   9082300.          2.0529-3 1.2098-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   1.0118+7          2.2969-3 1.9012-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   1.1101+7          2.0990-3 1.5803-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   1.2094+7          1.7456-3 4.9383-5                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   1.3062+7          1.2193-3 8.3946-5                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   1.4053+7          5.3253-4 1.0864-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   1.5033+7          8.2784-5 1.1111-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   1.6078+7          3.0553-5 1.6049-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   1.7063+7          5.5050-6 1.8765-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   1.8060+7          2.7366-5 1.8025-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   1.9046+7          2.3689-4 1.9012-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   2.0045+7          5.1801-4 1.8025-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   2.1099+7          1.4115-3 1.9506-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   2.2112+7          1.8506-3 2.1234-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   2.3095+7          1.6379-3 2.1482-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   2.4021+7          5.9064-4 2.4691-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+    0 49115   3 102M   2.5014+7          2.1250-4 2.4691-4                                       V.S.Bokhinyuk+       (06)G4010  2 
+#/DATA      19
+#/DATASET

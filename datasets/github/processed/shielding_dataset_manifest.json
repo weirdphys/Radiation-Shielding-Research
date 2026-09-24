@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "project": "Radiation Shielding Research",
+  "generated_by": "prepare_shielding_datasets.py",
+  "data_policy": {
+    "experimental": "highest validation priority",
+    "evaluated": "reference nuclear/interaction data",
+    "simulated": "independent transport enrichment, not ground truth",
+    "derived": "must retain source provenance"
+  },
+  "archive_integrity": [
+    {
+      "dataset_file": "PSSD.zip",
+      "local_path": "/home/a/Downloads/shielding_ready/_working/archives/PSSD.zip",
+      "size_bytes": 514769190,
+      "expected_sha256": "b5c890fa7e757e70b635499a79881763cda6ca8904136fefcb3b415051ab278e",
+      "actual_sha256": "b5c890fa7e757e70b635499a79881763cda6ca8904136fefcb3b415051ab278e",
+      "sha256_pass": true
+    },
+    {
+      "dataset_file": "RB2000164_raw.zip",
+      "local_path": "/home/a/Downloads/shielding_ready/_working/archives/RB2000164_raw.zip",
+      "size_bytes": 1039573918,
+      "expected_sha256": "48f135c6521ab09d818cd1c8c271b0343fed99a726c7d910b7fb29aa34953cff",
+      "actual_sha256": "48f135c6521ab09d818cd1c8c271b0343fed99a726c7d910b7fb29aa34953cff",
+      "sha256_pass": true
+    },
+    {
+      "dataset_file": "iaea-pd2019.tar.gz",
+      "local_path": "/home/a/Downloads/split_for_chatgpt/iaea-pd2019.tar.gz",
+      "size_bytes": 164096615,
+      "expected_sha256": "29a1edf72e68f9acfd1c16c00696e23f9c52f8c1191563ed34d9657da57df4a4",
+      "actual_sha256": "29a1edf72e68f9acfd1c16c00696e23f9c52f8c1191563ed34d9657da57df4a4",
+      "sha256_pass": true
+    }
+  ],
+  "datasets": [
+    {
+      "dataset": "PSSD",
+      "evidence_type": "SIMULATED",
+      "archive": "/home/a/Downloads/shielding_ready/_working/archives/PSSD.zip",
+      "files_total": 9293,
+      "numeric_candidates": 2054,
+      "parsed_tables": 2054,
+      "semantic_spectral_rows": 5172618,
+      "notes": [
+        "PSSD is independent RMC simulation data, not experimental ground truth.",
+        "Elemental PSSD spectra must not be naively mixed to create concrete spectra.",
+        "All original source paths are retained for provenance.",
+        "Tables with uncertain semantics remain as separate Parquet files."
+      ]
+    },
+    {
+      "dataset": "IAEA/PD-2019",
+      "evidence_type": "EVALUATED",
+      "archive": "/home/a/Downloads/split_for_chatgpt/iaea-pd2019.tar.gz",
+      "candidate_endf_files": 219,
+      "successfully_parsed_files": 218,
+      "failed_files": 1,
+      "mf3_cross_section_rows": 178198,
+      "mf6_sections": 1210,
+      "mf33_sections": 0,
+      "primary_output": "pd2019_mf3_cross_sections.parquet",
+      "notes": [
+        "MF=3 native pointwise cross sections are preserved without interpolation.",
+        "Incident ENDF energies are converted from eV to MeV in an additional column.",
+        "Cross sections remain in barns.",
+        "MF=6 and MF=33 are inventoried separately rather than flattened incorrectly."
+      ]
+    },
+    {
+      "dataset": "ISIS RB2000164",
+      "evidence_type": "EXPERIMENTAL",
+      "archive": "/home/a/Downloads/shielding_ready/_working/archives/RB2000164_raw.zip",
+      "files_total": 252,
+      "raw_or_nexus_files": 72,
+      "mantid_available": false,
+      "monitor_rows": 0,
+      "transmission_rows": 0,
+      "run_pair_template": "rb2000164_pairs_TEMPLATE.csv",
+      "notes": [
+        "Raw VESUVIO files are not treated as a time series.",
+        "Run/sample/reference mapping must be established before final transmission reduction.",
+        "Monitor 0/1 ratio is used only after explicit run pairing.",
+        "Final analysis target is T(E) and Sigma_R(E), not arbitrary raw event ordering."
+      ]
+    }
+  ]
+}

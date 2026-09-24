@@ -1,0 +1,54 @@
+#ENTRY      M0750
+#AUTHOR1    J.C.Sanabria+
+#YEAR       2000
+#INSTITUTE  (1USAGWU)
+#TITLE      Photofission of actinide nuclei in the  quasideuteron
+#+          and lower part of DELTA energy region.
+#AUTHOR(S)  J.C.Sanabria, B.L.Berman, C.Cetina, P.L.Cole, G.Feldman, 
+#+          N.R.Kolb, R.E.Pywell, J.M.Vogt, V.G.Nedorezov, A.S.Sudov, 
+#+          G.Ya.Kezerashvili
+#REF-CODE   (J,PR/C,61,034604,2000)
+#REFERENCE  Phys.Rev.C 61 (2000) 034604 (doi:10.1103/PhysRevC.61.034604)
+#DATASETS   0
+#
+#DATASET    M0750003 
+#DATE       20080811
+#REACTION   92-U-233(G,F),,SIG
+#PROJ       0
+#TARG       92233
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92233   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92233   3  18 A  6.5000+7          0.015270 6.3000-4                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  7.5000+7          0.015190 7.3000-4                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  8.4000+7          0.015530 8.0000-4                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  9.4000+7          0.016390 8.4000-4                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.0200+8          0.016420 8.5000-4                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.1000+8          0.016790 8.8000-4                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.1900+8          0.016900 9.6000-4                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.2600+8          0.019310 8.0000-4                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.3500+8          0.020780 8.0000-4                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.4200+8          0.021420 8.5000-4                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.5200+8          0.022500 1.0000-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.6100+8          0.023380 1.1200-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.6900+8          0.025960 1.2000-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.7500+8          0.029700 1.2700-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.8100+8          0.030340 1.3300-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.8900+8          0.033200 1.2700-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.9200+8          0.038080 1.6000-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  1.9900+8          0.037800 1.5300-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  2.0200+8          0.041010 1.6000-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  2.1000+8          0.045120 2.4100-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  2.1500+8          0.044190 2.3700-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  2.2000+8          0.048740 1.2000-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  2.2900+8          0.059380 1.9600-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  2.3600+8          0.061860 1.6000-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  2.4400+8          0.064980 1.6000-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  2.4900+8          0.069100 2.3600-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  2.5200+8          0.067520 2.1700-3                                       J.C.Sanabria+        (00)M0750  3 
+    0 92233   3  18 A  2.6000+8          0.075460 2.4400-3                                       J.C.Sanabria+        (00)M0750  3 
+#/DATA      28
+#/DATASET

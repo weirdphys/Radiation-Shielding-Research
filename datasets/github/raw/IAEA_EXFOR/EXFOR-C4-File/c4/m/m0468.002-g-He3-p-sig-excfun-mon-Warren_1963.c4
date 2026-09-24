@@ -1,0 +1,28 @@
+#ENTRY      M0468
+#AUTHOR1    J.B.Warren+
+#YEAR       1963
+#INSTITUTE  (1CANUBC)
+#TITLE      Photodisintegration of He-3 near threshold.
+#AUTHOR(S)  J.B.Warren, K.L.Erdman, L.P.Robertson, D.A.Axen, J.R.Macdonald
+#REF-CODE   (J,PR,132,1691,1963)
+#REFERENCE  Phys.Rev. 132 (1963) 1691 (doi:10.1103/PhysRev.132.1691)
+#DATASETS   0
+#
+#DATASET    M0468002 
+#DATE       20160426
+#REACTION   2-HE-3(G,P)1-H-2,,SIG
+#PROJ       0
+#TARG       2003
+#MF         3
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   3 103    6140000.          1.0900-4 1.5260-5                                       J.B.Warren+          (63)M0468  2 
+    0  2003   3 103    6140000.          1.0200-4 7.1400-6                                       J.B.Warren+          (63)M0468  2 
+    0  2003   3 103    6970000.          2.9800-4 4.7680-5                                       J.B.Warren+          (63)M0468  2 
+    0  2003   3 103    7080000.          3.0700-4 2.4560-5                                       J.B.Warren+          (63)M0468  2 
+#/DATA      4
+#/DATASET

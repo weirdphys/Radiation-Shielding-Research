@@ -1,0 +1,48 @@
+Pyragas-Style Delayed-Difference Transformation of Processed Radiation Responses
+==============================================================
+
+Interpretation:
+  Mutual information selects an ordered-coordinate lag along uniform log-energy, not a temporal delay.
+  The transformed response is x_ctrl(s)=x(s)+g[x(s-delta)-x(s)].
+  This is post-processing of radiation response curves, not an implemented closed-loop physical control system.
+
+Source: data/processed/RB2000164/rb2000164_physics_ready_strict.csv.gz
+Radiation object: N003.SEQ_SAMPLE / N003.TRAJ_E
+Coordinate points: 5000
+Coordinate step: 0.002762109522816303
+Coordinate span: 13.807785504557021
+Gain: 0.1
+Common delay: 38 grid samples
+Common delay: 0.10496016186701951 log-energy units
+Transmission samples used for MI delay selection: 9
+
+Per-transmission-sample MI delays:
+  A: 27 samples, delta_s=0.074576957, method=coarse: first local minimum; refined: first local minimum
+  B: 39 samples, delta_s=0.10772227, method=coarse: first local minimum; refined: first local minimum
+  C: 49 samples, delta_s=0.13534337, method=coarse: first local minimum; refined: first local minimum
+  D: 27 samples, delta_s=0.074576957, method=coarse: first local minimum; refined: first local minimum
+  R: 27 samples, delta_s=0.074576957, method=coarse: first local minimum; refined: first local minimum
+  S: 49 samples, delta_s=0.13534337, method=coarse: first local minimum; refined: first local minimum
+  T: 39 samples, delta_s=0.10772227, method=coarse: first local minimum; refined: first local minimum
+  U: 38 samples, delta_s=0.10496016, method=coarse: first local minimum; refined: first local minimum
+  V: 38 samples, delta_s=0.10496016, method=coarse: first local minimum; refined: first local minimum
+
+Transformation diagnostics:
+  A / Sigma_R_cm_inv: relative_feedback_rms=0.012112, roughness_ratio=0.904363, variance_ratio=0.997067, corr(original,controlled)=0.999532
+  A / transmission: relative_feedback_rms=0.006115, roughness_ratio=0.903359, variance_ratio=0.995890, corr(original,controlled)=0.999530
+  B / Sigma_R_cm_inv: relative_feedback_rms=0.020643, roughness_ratio=0.905665, variance_ratio=0.986049, corr(original,controlled)=0.998769
+  B / transmission: relative_feedback_rms=0.007540, roughness_ratio=0.903986, variance_ratio=0.984262, corr(original,controlled)=0.998782
+  C / Sigma_R_cm_inv: relative_feedback_rms=0.015278, roughness_ratio=0.903433, variance_ratio=0.991963, corr(original,controlled)=0.999138
+  C / transmission: relative_feedback_rms=0.007007, roughness_ratio=0.905242, variance_ratio=0.988991, corr(original,controlled)=0.999073
+  D / Sigma_R_cm_inv: relative_feedback_rms=0.021436, roughness_ratio=0.905302, variance_ratio=0.987182, corr(original,controlled)=0.998646
+  D / transmission: relative_feedback_rms=0.007428, roughness_ratio=0.904867, variance_ratio=0.983908, corr(original,controlled)=0.998662
+  R / Sigma_R_cm_inv: relative_feedback_rms=0.023098, roughness_ratio=0.906973, variance_ratio=0.989529, corr(original,controlled)=0.998374
+  R / transmission: relative_feedback_rms=0.008044, roughness_ratio=0.905912, variance_ratio=0.982153, corr(original,controlled)=0.998375
+  S / Sigma_R_cm_inv: relative_feedback_rms=0.026661, roughness_ratio=0.902300, variance_ratio=0.978806, corr(original,controlled)=0.998019
+  S / transmission: relative_feedback_rms=0.009432, roughness_ratio=0.900885, variance_ratio=0.973669, corr(original,controlled)=0.998050
+  T / Sigma_R_cm_inv: relative_feedback_rms=0.027867, roughness_ratio=0.901191, variance_ratio=0.973739, corr(original,controlled)=0.997986
+  T / transmission: relative_feedback_rms=0.009405, roughness_ratio=0.905304, variance_ratio=0.972786, corr(original,controlled)=0.998097
+  U / Sigma_R_cm_inv: relative_feedback_rms=0.024908, roughness_ratio=0.905421, variance_ratio=1.001245, corr(original,controlled)=0.998208
+  U / transmission: relative_feedback_rms=0.008284, roughness_ratio=0.904329, variance_ratio=0.987873, corr(original,controlled)=0.998453
+  V / Sigma_R_cm_inv: relative_feedback_rms=0.016459, roughness_ratio=0.904488, variance_ratio=1.000521, corr(original,controlled)=0.999040
+  V / transmission: relative_feedback_rms=0.005477, roughness_ratio=0.904536, variance_ratio=0.993808, corr(original,controlled)=0.998977

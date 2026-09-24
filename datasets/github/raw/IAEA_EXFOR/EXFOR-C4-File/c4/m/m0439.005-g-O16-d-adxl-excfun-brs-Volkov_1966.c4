@@ -1,0 +1,28 @@
+#ENTRY      M0439
+#AUTHOR1    Yu.M.Volkov+
+#YEAR       1966
+#INSTITUTE  (4RUSFTI)
+#TITLE      Excitation functions for Be-9(gamma,p), Be-9(gamma,d),
+#+          Be-9(gamma,t), O-16(gamma,d), and Cu(gamma,d)
+#+          reactions with emission of particles of fixed
+#+          energies.
+#AUTHOR(S)  Yu.M.Volkov, A.P.Komar, V.P.Chizhov
+#REF-CODE   (J,YF,3,277,1966)
+#REFERENCE  Yad.Fiz. 3 (1966) 277
+#DATASETS   0
+#
+#DATASET    M0439005 
+#DATE       20121104
+#REACTION   8-O-16(G,D)7-N-14,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         650
+#PRODUCT    7-N-14
+#C4BEGIN    [    0  8016   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 650    4.2000+7          1.4500-5 4.0000-6 6.123-17          4800000. 1200000. E2Yu.M.Volkov+         (66)M0439  5 
+#/DATA      1
+#/DATASET

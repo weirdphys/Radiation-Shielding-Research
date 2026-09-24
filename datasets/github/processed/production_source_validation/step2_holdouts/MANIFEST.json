@@ -1,0 +1,99 @@
+{
+  "schema": "STEP2_HOLDOUT_FILE_MANIFEST_V1",
+  "root_role": "step2_holdouts",
+  "files": [
+    {
+      "path": "10MV_PDD.csv",
+      "size_bytes": 33769,
+      "sha256": "f072a328fd5a10951fd8c692e9cc18962918be5e0f3cdc74d0040662841b3dfa"
+    },
+    {
+      "path": "10MV_PROFILE_10cm.csv",
+      "size_bytes": 36796,
+      "sha256": "ba3b4bb8b1a7f5936e747bc5c612ce66cb67b5ace89328507d5e4a163eb3e3f5"
+    },
+    {
+      "path": "15MV_PDD.csv",
+      "size_bytes": 10442,
+      "sha256": "9a6127e77068f92e4421d8285c971717b47a38714bb6fde6cda46a257aee8947"
+    },
+    {
+      "path": "15MV_PROFILE_10cm_CROSSLINE.csv",
+      "size_bytes": 11832,
+      "sha256": "10f636790c9423cf00b7f832a1eddd78d87351091af4a7a2f0f4fa633a41a9e9"
+    },
+    {
+      "path": "16MV_PDD.csv",
+      "size_bytes": 12126,
+      "sha256": "b33a3d277d52c88472877bbdf98fe976fc97f7901a5788d12845e7f975e43e41"
+    },
+    {
+      "path": "16MV_PROFILE_10cm.csv",
+      "size_bytes": 86366,
+      "sha256": "067d4fde6429c9f7eb3cdab5068f6b7ff11afaccd353c5f277d5cb04d885b4d0"
+    },
+    {
+      "path": "18MV_PDD.csv",
+      "size_bytes": 2247,
+      "sha256": "bdf383b76babb03329dbaa85688385561746ac3e694ea011298999fca7ade323"
+    },
+    {
+      "path": "18MV_PROFILE_10cm.csv",
+      "size_bytes": 20468,
+      "sha256": "aa7868cbb136a256efa634c804fc520798b8a6c269f93aef1d6f6c82df85a235"
+    },
+    {
+      "path": "6MV_PDD.csv",
+      "size_bytes": 1984,
+      "sha256": "1ccbd306bd050c309847b519bbc7ae86f3f8883adaf2a3d252b97362c5692f6e"
+    },
+    {
+      "path": "6MV_PROFILE_10cm.csv",
+      "size_bytes": 20469,
+      "sha256": "639959540f63e4fb6bde1140f8956dabe4cd8ce2a98314974068e5f6acd04bd9"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 485,
+      "sha256": "79decfdd800397c431721fb2e850db2e3f1b957d75be3213a0d24d1f27b7b581"
+    },
+    {
+      "path": "step2_holdout_dataset_registry.csv",
+      "size_bytes": 8295,
+      "sha256": "8a8247d952876ba50054367ca67976cfe312e42cbbc44e7831d081e6c632933f"
+    },
+    {
+      "path": "step2_holdout_intrinsic_qc.csv",
+      "size_bytes": 1062,
+      "sha256": "d713095f5716904a4d63dc2d6d7d55d4237b6697a4282e42b2a3a5ddd308ffce"
+    },
+    {
+      "path": "step2_holdouts_long.csv",
+      "size_bytes": 1492054,
+      "sha256": "b2abd8a380ed9ee4b0653b430537d44bf67aaabdbdc1f41a01f6130fb92b3dc4"
+    }
+  ],
+  "corpus_id": "STEP2_MULTI_OBSERVABLE_HOLDOUTS_V1",
+  "dataset_count": 10,
+  "preregistered_acceptance": {
+    "pdd": {
+      "minimum_post_dmax_points": 10,
+      "median_abs_difference_percent_points_max": 2.5,
+      "p90_abs_difference_percent_points_max": 5.0,
+      "pdd10_abs_difference_percent_points_max": 3.0
+    },
+    "profile": {
+      "dose_threshold_percent_of_cax": 10.0,
+      "plateau_reference_definition": "abs(x)<=16 cm and reference>=80%",
+      "plateau_p90_abs_difference_percent_points_max": 2.0,
+      "edge_levels_percent": [
+        20,
+        50,
+        80
+      ],
+      "edge_dta_mm_max": 2.0,
+      "left_right_crossings_independent": true
+    }
+  },
+  "scientific_scope": "Route C factorized-surrogate validation only; does not uniquely validate a clinical phase-space spectrum."
+}

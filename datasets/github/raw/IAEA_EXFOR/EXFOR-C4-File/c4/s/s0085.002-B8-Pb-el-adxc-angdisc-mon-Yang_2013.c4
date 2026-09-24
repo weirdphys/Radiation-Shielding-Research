@@ -1,0 +1,48 @@
+#ENTRY      S0085
+#AUTHOR1    Y.Y.Yang+
+#YEAR       2013
+#INSTITUTE  (3CPRIMP)
+#TITLE      Elastic scattering of the proton drip-line nucleus 8B
+#+          off a natPb target at 170.3 MeV
+#AUTHOR(S)  Y.Y.Yang, J.S.Wang, Q.Wang, D.Y.Pang, J.B.Ma, M.R.Huang, 
+#+          J.L.Han, P.Ma, S.L.Jin, Z.Bai, Q.Hu, L.Jin, J.B.Chen, N.Keeley, 
+#+          R.Rusek, R.Wada, S.Mukherjee, Z.Y.Sun, R.F.Chen, X.Y.Zhang, 
+#+          Z.G.Hu, X.H.Yuan, X.G.Cao, Z.G.Xu, S.W.Xu, C.Zhen, Z.Q.Chen, 
+#+          Z.Chen, S.Z.Chen, C.M.Du, L.M.Duan, F.Fu, B.X.Gou, J.Hu, 
+#+          J.J.He, X.G.Lei, S.L.Li, Y.Li, Q.Y.Lin, L.X.Liu, F.D.Shi, 
+#+          S.W.Tang, G.Xu, X.Xu, L.Y.Zhang, X.H.Zhang, W.Zhang, M.H.Zhao, 
+#+          Z.Y.Guo, Y.H.Zhang, H.S.Xu, G.Q.Xiao
+#REF-CODE   (J,PR/C,87,044613,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 044613 (doi:10.1103/PhysRevC.87.044613)
+#DATASETS   0
+#
+#DATASET    S0085002 
+#DATE       20220925
+#REACTION   82-PB-0(5-B-8,EL)82-PB-0,,DA,,RTH
+#PROJ       5008
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [ 5008 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5008 82000   4   2  C 1.7030+8          3050.204 282.3719 0.996680                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          1264.103 96.12453 0.995038                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          665.2784 45.20654 0.993068                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          383.6947 25.12286 0.990772                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          241.6352 15.69359 0.988148                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          149.1787 10.25232 0.985229                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          95.81343 7.370264 0.981959                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          69.18781 5.817594 0.978365                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          58.04556 5.213673 0.974449                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          46.82147 4.542929 0.970253                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          30.55761 3.499384 0.965700                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          18.18979 2.598542 0.960828                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          12.68448 2.108590 0.955639                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          6.366878 1.016364 0.947322                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          2.165084 0.654919 0.935135                              Y.Y.Yang+            (13)S0085  2 
+ 5008 82000   4   2  C 1.7030+8          0.755365 0.338065 0.921660                              Y.Y.Yang+            (13)S0085  2 
+#/DATA      16
+#/DATASET

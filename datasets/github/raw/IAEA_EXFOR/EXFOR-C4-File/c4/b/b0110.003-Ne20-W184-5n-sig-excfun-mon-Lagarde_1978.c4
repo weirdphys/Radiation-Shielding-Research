@@ -1,0 +1,38 @@
+#ENTRY      B0110
+#AUTHOR1    B.Lagarde+
+#YEAR       1978
+#INSTITUTE  (2FR PAR)
+#TITLE      Decay of the Compound Nucleus Po-204. Excitation
+#+          Function Measurements For the Reactions
+#+          Dy-164(AR-40,XN)Po-204-X and W-184(NE-20,XN)Po-204-X
+#AUTHOR(S)  B.Lagarde, Y.Le Beyec
+#REF-CODE   (J,ZP/A,288,415,1978)
+#REFERENCE  Z.Phys.A 288 (1978) 415 (doi:10.1007/BF01417726)
+#DATASETS   0
+#
+#DATASET    B0110003 
+#DATE       20011220
+#REACTION   74-W-184(10-NE-20,5N)84-PO-199-M,,SIG,,,EXP
+#PROJ       10020
+#TARG       74184
+#MF         3
+#MT         152
+#PRODUCT    84-PO-199-M
+#C4BEGIN    [10020 74184   3 152M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 74184   3 152M   9.6000+7          1.0000-4                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.0000+8          2.0000-3                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.0000+8          2.3500-3                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.0000+8          3.3000-3                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.0400+8          0.028500                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.0700+8          0.046000                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.0800+8          0.066000                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.1300+8          0.097000                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.1500+8          0.110000                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.2200+8          0.028000                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.2200+8          0.031000                                                B.Lagarde+           (78)B0110  3 
+10020 74184   3 152M   1.2500+8          0.015500                                                B.Lagarde+           (78)B0110  3 
+#/DATA      12
+#/DATASET

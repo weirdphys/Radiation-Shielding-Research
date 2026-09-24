@@ -1,0 +1,37 @@
+#ENTRY      P0014
+#AUTHOR1    N.T.Porile+
+#YEAR       1963
+#INSTITUTE  (2JPNTOK)
+#TITLE      Nuclear reactions of Ga69 and Ga71 with 13-56 MeV
+#+          protons
+#AUTHOR(S)  N.T.Porile, S.Tanaka, H.Amano, M.Furukawa, S.Iwata, M.Yagi
+#REF-CODE   (J,NP,43,500,1963)
+#REFERENCE  Nucl.Phys. 43 (1963) 500 (doi:10.1016/0029-5582(63)90370-5)
+#DATASETS   0
+#
+#DATASET    P0014002 
+#DATE       20000808
+#REACTION   31-GA-69(P,N)32-GE-69,,SIG
+#PROJ       1001
+#TARG       31069
+#MF         3
+#MT         4
+#PRODUCT    32-GE-69
+#C4BEGIN    [ 1001 31069   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 31069   3   4    1.3000+7          0.898000                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    1.4000+7          0.764000                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    1.4900+7          0.337000                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    1.8200+7          0.108000                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    1.9300+7          0.097600                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    2.6000+7          0.045200                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    3.3100+7          0.046300                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    3.6200+7          0.034900                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    4.0400+7          0.034900                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    4.5800+7          0.025000                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    5.0300+7          0.026900                                                N.T.Porile+          (63)P0014  2 
+ 1001 31069   3   4    5.4900+7          0.020800                                                N.T.Porile+          (63)P0014  2 
+#/DATA      12
+#/DATASET

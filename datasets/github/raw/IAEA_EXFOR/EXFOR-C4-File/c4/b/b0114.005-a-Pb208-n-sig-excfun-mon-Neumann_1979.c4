@@ -1,0 +1,26 @@
+#ENTRY      B0114
+#AUTHOR1    B.Neumann+
+#YEAR       1979
+#INSTITUTE  (2GERKFK)
+#TITLE      Transfer of Li-6 Break-Up Fragments at Li-6 Projectile
+#+          Energies Far Above the Coulomb Barrier
+#AUTHOR(S)  B.Neumann, J.Buschmann, H.Klewe-Nebenius, H.Rebel, H.J.Gils
+#REF-CODE   (J,NP/A,329,259,1979)
+#REFERENCE  Nucl.Phys.A 329 (1979) 259 (doi:10.1016/0375-9474(79)90293-8)
+#DATASETS   0
+#
+#DATASET    B0114005 
+#DATE       20011220
+#REACTION   82-PB-208(A,N)84-PO-211-M,,SIG,,,EXP
+#PROJ       2004
+#TARG       82208
+#MF         3
+#MT         4
+#PRODUCT    84-PO-211-M
+#C4BEGIN    [ 2004 82208   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 82208   3   4M   1.0400+8          8.2000-5 1.6000-5                                       B.Neumann+           (79)B0114  5 
+#/DATA      1
+#/DATASET

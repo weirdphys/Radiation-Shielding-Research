@@ -1,0 +1,28 @@
+#ENTRY      B0170
+#AUTHOR1    R.G.Stokstad+
+#YEAR       1977
+#INSTITUTE  (1USAORL)
+#TITLE      Mechanisms For Li and be Production in the N-14 + C-12
+#+          Reaction.
+#AUTHOR(S)  R.G.Stokstad, M.N.Namboodiri, E.T.Chulick, J.B.Natowitz, 
+#+          D.L.Hanson
+#REF-CODE   (J,PR/C,16,2249,1977)
+#REFERENCE  Phys.Rev.C 16 (1977) 2249 (doi:10.1103/PhysRevC.16.2249)
+#DATASETS   0
+#
+#DATASET    B0170002 
+#DATE       20011220
+#REACTION   6-C-12(7-N-14,X)3-LI-6,IND,SIG,,,EXP
+#PROJ       7014
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 7014  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014  6012   3 454    8.6900+7          0.022800 2.3000-3            3006.9                     R.G.Stokstad+        (77)B0170  2 
+ 7014  6012   3 454    1.5740+8          0.076000 9.0000-3            3006.9                     R.G.Stokstad+        (77)B0170  2 
+#/DATA      2
+#/DATASET

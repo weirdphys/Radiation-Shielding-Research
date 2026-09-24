@@ -1,0 +1,48 @@
+#ENTRY      L0031
+#AUTHOR1    A.Veyssiere+
+#YEAR       1973
+#INSTITUTE  (2FR SAC)
+#TITLE      A study of the photofission and photoneutron processes
+#+          in the giant dipole resonance of 232Th, 238U and
+#+          237Np.
+#AUTHOR(S)  A.Veyssiere, H.Beil, R.Bergere, P.Carlos, A.Lepretre
+#REF-CODE   (J,NP/A,199,45,1973)
+#REFERENCE  Nucl.Phys.A 199 (1973) 45 (doi:10.1016/0375-9474(73)90333-3)
+#DATASETS   0
+#
+#DATASET    L0031004 
+#DATE       20071109
+#REACTION   90-TH-232(G,2N)90-TH-230,,SIG
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         16
+#PRODUCT    90-TH-230
+#C4BEGIN    [    0 90232   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3  16    9550000.          4.0000-3 7.0000-3                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    9720000.          0.000000 7.3100-3                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.0360+7          0.000000 8.4900-3                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.1180+7          3.0000-3 9.0000-3                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.1720+7          0.010000 9.0000-3                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.1990+7          0.039000 9.0000-3                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.2260+7          0.060000 9.9900-3                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.2530+7          0.098000 0.010990                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.2800+7          0.140000 0.011980                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.3070+7          0.167000 0.012970                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.3350+7          0.194000 0.014000                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.3620+7          0.209000 0.014000                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.3890+7          0.211000 0.014000                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.4160+7          0.213000 0.014000                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.4430+7          0.217000 0.014000                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.4700+7          0.242000 0.014000                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.4970+7          0.243000 0.013900                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.5240+7          0.218000 0.013800                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.5510+7          0.207000 0.013700                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.5790+7          0.189000 0.013600                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.6060+7          0.172000 0.013500                                       A.Veyssiere+         (73)L0031  4 
+    0 90232   3  16    1.6330+7          0.145000 0.013500                                       A.Veyssiere+         (73)L0031  4 
+#/DATA      22
+#/DATASET

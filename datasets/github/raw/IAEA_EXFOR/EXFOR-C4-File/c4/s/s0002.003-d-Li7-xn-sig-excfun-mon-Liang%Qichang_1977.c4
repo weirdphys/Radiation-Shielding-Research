@@ -1,0 +1,27 @@
+#ENTRY      S0002
+#AUTHOR1    Liang Qichang+
+#YEAR       1977
+#INSTITUTE  (3CPRAEP)
+#TITLE      Cross sections for 6Li, 7Li and 16O(d,n) reactions
+#+          with incident energies 3.70 and 5.03 MeV
+#AUTHOR(S)  Liang Qichang, Wu Zongxi, Zeng Naigong, Shi Zongren
+#REF-CODE   (J,CST,11,10,1977)
+#REFERENCE  At.En.Sci.Technol. 11 (1977) 10
+#DATASETS   0
+#
+#DATASET    S0002003 
+#DATE       20200409
+#REACTION   3-LI-7(D,X)0-NN-1,,SIG
+#PROJ       1002
+#TARG       3007
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1002  3007   3 201 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   3 201 D  3700000.          0.521600 0.049600                                       Liang Qichang+       (77)S0002  3 
+ 1002  3007   3 201 D  5030000.          0.497100 0.051200                                       Liang Qichang+       (77)S0002  3 
+#/DATA      2
+#/DATASET

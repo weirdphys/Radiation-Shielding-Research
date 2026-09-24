@@ -1,0 +1,27 @@
+#ENTRY      M0958
+#AUTHOR1    G.Audit+
+#YEAR       1993
+#INSTITUTE  (2FR SAC)
+#TITLE      The reaction 3He(gamma,pp)n at low neutron recoil
+#+          momentum.
+#AUTHOR(S)  G.Audit, N.D'Hose, P.Bricault, D.Goutte, J.-M.Laget, J.Martino, 
+#+          X.Phan, W.Clayton, G.Adams, P.Stoler, P.Pedroni, A.Braghieri
+#REF-CODE   (J,PL/B,312,57,1993)
+#REFERENCE  Phys.Lett.B 312 (1993) 57 (doi:10.1016/0370-2693(93)90487-3)
+#DATASETS   0
+#
+#DATASET    M0958002 
+#DATE       20171214
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103    2.5000+8          1.5200-7 6.0000-9 6.123-17                              G.Audit+             (93)M0958  2 
+#/DATA      1
+#/DATASET

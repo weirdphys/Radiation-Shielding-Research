@@ -1,0 +1,33 @@
+#ENTRY      R0016
+#AUTHOR1    F.El-Bedewi+
+#YEAR       1974
+#INSTITUTE  (3EGYEGY)
+#TITLE      Distorted wave Born approximation analysis for the
+#+          O-16(He-3,A)O-15 reaction
+#AUTHOR(S)  F.El-Bedewi, M.Shalaby
+#REF-CODE   (J,JP/A,7,(10),1183,197407)
+#REFERENCE  J.Phys.A 7 No.10 (1974) 1183 (doi:10.1088/0305-4470/7/10/011)
+#DATASETS   0
+#
+#DATASET    R0016004 
+#DATE       20040830
+#REACTION   8-O-16(HE3,A)8-O-15,PAR,DA
+#PROJ       2003
+#TARG       8016
+#MF         4
+#MT         800
+#PRODUCT    8-O-15
+#C4BEGIN    [ 2003  8016   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  8016   4 800  C 1.5000+7          5.7000-4 9.1000-5 0.874620          8924000.         LVLF.El-Bedewi+         (74)R0016  4 
+ 2003  8016   4 800  C 1.5000+7          3.2400-4 4.9000-5 0.788011          8924000.         LVLF.El-Bedewi+         (74)R0016  4 
+ 2003  8016   4 800  C 1.5000+7          3.8100-4 5.7000-5 0.681998          8924000.         LVLF.El-Bedewi+         (74)R0016  4 
+ 2003  8016   4 800  C 1.5000+7          4.3100-4 5.9000-5 0.559193          8924000.         LVLF.El-Bedewi+         (74)R0016  4 
+ 2003  8016   4 800  C 1.5000+7          5.0100-4 7.4000-5 0.406737          8924000.         LVLF.El-Bedewi+         (74)R0016  4 
+ 2003  8016   4 800  C 1.5000+7          4.7200-4 6.5000-5 0.241922          8924000.         LVLF.El-Bedewi+         (74)R0016  4 
+ 2003  8016   4 800  C 1.5000+7          3.9400-4 6.3000-5 0.104528          8924000.         LVLF.El-Bedewi+         (74)R0016  4 
+ 2003  8016   4 800  C 1.5000+7          3.1200-4 4.3000-5-0.069756          8924000.         LVLF.El-Bedewi+         (74)R0016  4 
+#/DATA      8
+#/DATASET

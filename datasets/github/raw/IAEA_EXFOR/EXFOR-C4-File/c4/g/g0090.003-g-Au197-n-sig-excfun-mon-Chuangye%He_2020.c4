@@ -1,0 +1,28 @@
+#ENTRY      G0090
+#AUTHOR1    Chuangye He+
+#YEAR       2020
+#INSTITUTE  (3CPRAEP)
+#TITLE      Photonuclear reaction study with the (p,g) resonance
+#+          gamma-source
+#AUTHOR(S)  Chuangye He, Yongle Dang, Fulong Liu, Guangyong Fu, Di Wu, 
+#+          Yangping Shen, Zhiyu Han, Qiwen Fan, Bing Guo, Naiyan Wang
+#REF-CODE   (J,EPJ/CS,239,01014,2020)
+#REFERENCE  EPJ Web Conf. 239 (2020) 01014 (doi:10.1051/epjconf/202023901014)
+#DATASETS   0
+#
+#DATASET    G0090003 
+#DATE       20230303
+#REACTION   79-AU-197(G,N)79-AU-196,,SIG
+#PROJ       0
+#TARG       79197
+#MF         3
+#MT         4
+#PRODUCT    79-AU-196
+#C4BEGIN    [    0 79197   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 79197   3   4    9170000.          0.045200 6.9000-3                                       Chuangye He+         (20)G0090  3 
+    0 79197   3   4    9170000.          0.045600 6.9000-3                                       Chuangye He+         (20)G0090  3 
+#/DATA      2
+#/DATASET

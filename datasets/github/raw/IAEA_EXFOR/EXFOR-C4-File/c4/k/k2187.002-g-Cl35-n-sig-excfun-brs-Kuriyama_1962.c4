@@ -1,0 +1,62 @@
+#ENTRY      K2187
+#AUTHOR1    K.Kuriyama+
+#YEAR       1962
+#INSTITUTE  (2JPNTKE)
+#TITLE      Cross sections of 35Cl(g,n)34Cl and 32S(g,n)31S
+#+          reactions
+#AUTHOR(S)  K.Kuriyama
+#REF-CODE   (J,JPJ,17,(11),1681,196211)
+#REFERENCE  J.Phys.Soc.Jpn. 17 No.11 (1962) 1681 (doi:10.1143/JPSJ.17.1681)
+#DATASETS   0
+#
+#DATASET    K2187002 
+#DATE       20101108
+#REACTION   17-CL-35(G,N)17-CL-34-G,,SIG,,BRS
+#PROJ       0
+#TARG       17035
+#MF         3
+#MT         4
+#PRODUCT    17-CL-34-G
+#C4BEGIN    [    0 17035   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 17035   3   4G   1.3000+7          4.0000-4                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.3200+7          8.0000-4                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.3700+7          1.3000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.4000+7          1.8000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.4300+7          2.1000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.4700+7          1.9000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.5000+7          2.6000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.5300+7          3.9000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.5800+7          4.9000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.5900+7          5.4000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.6000+7          5.6000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.6200+7          5.9000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.6700+7          8.1000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.7000+7          8.7000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.7300+7          9.6000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.7800+7          0.010900                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.8000+7          0.011500                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.8300+7          0.012400                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.8700+7          0.012500                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.9100+7          0.013200                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.9300+7          0.013600                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   1.9700+7          0.013300                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.0100+7          0.013700                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.0300+7          0.013500                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.0700+7          0.012100                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.1000+7          0.011100                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.1200+7          0.011300                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.1700+7          9.6000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.2000+7          8.2000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.2200+7          8.3000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.2800+7          6.4000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.3000+7          7.0000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.3200+7          6.2000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.3500+7          5.5000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.4000+7          4.8000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.4700+7          4.4000-3                                                K.Kuriyama           (62)K2187  2 
+    0 17035   3   4G   2.5200+7          3.3000-3                                                K.Kuriyama           (62)K2187  2 
+#/DATA      37
+#/DATASET

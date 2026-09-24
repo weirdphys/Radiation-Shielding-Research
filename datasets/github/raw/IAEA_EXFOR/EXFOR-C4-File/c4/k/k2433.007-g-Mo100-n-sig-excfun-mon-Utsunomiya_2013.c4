@@ -1,0 +1,40 @@
+#ENTRY      K2433
+#AUTHOR1    H.Utsunomiya+
+#YEAR       2013
+#INSTITUTE  (2JPNKON)
+#TITLE      Photoneutron cross sections for Mo isotopes: A step
+#+          towards a unified understanding of (gamma,n) and
+#+          (n,gamma) reactions
+#AUTHOR(S)  H.Utsunomiya, S.Goriely, T.Kondo, C.Iwamoto, H.Akimune, 
+#+          T.Yamagata, H.Toyokawa, H.Harada, F.Kitatani, Y.W.Lui, A.C.Larsen, 
+#+          M.Guttormsen, P.E.Koehler, S.Hilaire, S.Peru, M.Martini, 
+#+          A.J.Koning
+#REF-CODE   (J,PR/C,88,015805,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 015805 (doi:10.1103/PhysRevC.88.015805)
+#DATASETS   0
+#
+#DATASET    K2433007 
+#DATE       20140124
+#REACTION   42-MO-100(G,N)42-MO-99,,SIG
+#PROJ       0
+#TARG       42100
+#MF         3
+#MT         4
+#PRODUCT    42-MO-99
+#C4BEGIN    [    0 42100   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 42100   3   4    8460000.          0.011610 3.0000-4                                       H.Utsunomiya+        (13)K2433  7 
+    0 42100   3   4    8600000.          0.012430 2.7000-4                                       H.Utsunomiya+        (13)K2433  7 
+    0 42100   3   4    8760000.          0.013480 3.3000-4                                       H.Utsunomiya+        (13)K2433  7 
+    0 42100   3   4    8880000.          0.014260 2.4000-4                                       H.Utsunomiya+        (13)K2433  7 
+    0 42100   3   4    9240000.          0.016130 2.9000-4                                       H.Utsunomiya+        (13)K2433  7 
+    0 42100   3   4    9740000.          0.016440 1.0400-3                                       H.Utsunomiya+        (13)K2433  7 
+    0 42100   3   4    1.0180+7          0.024260 1.1400-3                                       H.Utsunomiya+        (13)K2433  7 
+    0 42100   3   4    1.0490+7          0.026180 7.6000-4                                       H.Utsunomiya+        (13)K2433  7 
+    0 42100   3   4    1.0790+7          0.037330 1.6800-3                                       H.Utsunomiya+        (13)K2433  7 
+    0 42100   3   4    1.1300+7          0.045330 1.5400-3                                       H.Utsunomiya+        (13)K2433  7 
+    0 42100   3   4    1.1540+7          0.044630 1.2400-3                                       H.Utsunomiya+        (13)K2433  7 
+#/DATA      11
+#/DATASET

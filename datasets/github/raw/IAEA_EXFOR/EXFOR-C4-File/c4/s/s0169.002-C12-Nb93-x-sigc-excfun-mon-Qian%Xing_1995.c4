@@ -1,0 +1,161 @@
+#ENTRY      S0169
+#AUTHOR1    Qian Xing+
+#YEAR       1995
+#INSTITUTE  (3CPRBJG)
+#TITLE      Cross sections of evaporation residues of 12C+93Nb in
+#+          the vicinity of the Coulomb barrier
+#AUTHOR(S)  Qian Xing, Jiang Dongxing, Lin Junsong, Liu Daming, Li Ze
+#REF-CODE   (J,PHE,19,603,1995)
+#REFERENCE  High En.Nucl.Phy.Ch. 19 (1995) 603
+#DATASETS   0
+#
+#DATASET    S0169002 
+#DATE       20250224
+#REACTION   41-NB-93(6-C-12,X)ELEM/MASS,CUM,SIG
+#PROJ       6012
+#TARG       41093
+#MF         3
+#MT         459
+#C4BEGIN    [ 6012 41093   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 41093   3 459    2.8400+7          5.1070-4                    47103.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    3.3590+7          8.0780-3                    47103.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    3.5450+7          7.1970-3                    47103.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    3.6380+7          0.026730                    47103.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.0060+7          0.050190                    47103.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.1750+7          0.081350                    47103.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.3850+7          0.052340                    47103.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.5950+7          0.065250                    47103.9                     Qian Xing+           (95)S0169  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    S0169002 
+#DATE       20250224
+#REACTION   41-NB-93(6-C-12,X)ELEM/MASS,CUM,SIG
+#PROJ       6012
+#TARG       41093
+#MF         3
+#MT         459
+#C4BEGIN    [ 6012 41093   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 41093   3 459    3.5550+7          1.8080-4                    47102.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    3.6350+7          2.0170-3                    47102.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.0000+7          0.024150                    47102.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.1770+7          0.080080                    47102.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.3880+7          0.118900                    47102.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.5990+7          0.218000                    47102.9                     Qian Xing+           (95)S0169  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    S0169002 
+#DATE       20250224
+#REACTION   41-NB-93(6-C-12,X)ELEM/MASS,CUM,SIG
+#PROJ       6012
+#TARG       41093
+#MF         3
+#MT         459
+#C4BEGIN    [ 6012 41093   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 41093   3 459    4.3730+7          5.7960-4                    46101.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.5830+7          3.6100-3                    46101.9                     Qian Xing+           (95)S0169  2 
+#/DATA      2
+#/DATASET
+#
+#DATASET    S0169002 
+#DATE       20250224
+#REACTION   41-NB-93(6-C-12,X)ELEM/MASS,CUM,SIG
+#PROJ       6012
+#TARG       41093
+#MF         3
+#MT         459
+#C4BEGIN    [ 6012 41093   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 41093   3 459    3.3570+7          8.1050-4                    45100.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    3.6250+7          3.5820-3                    45100.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.0010+7          0.014400                    45100.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.1740+7          0.017420                    45100.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.3850+7          0.031190                    45100.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.5950+7          0.028020                    45100.9                     Qian Xing+           (95)S0169  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    S0169002 
+#DATE       20250224
+#REACTION   41-NB-93(6-C-12,X)ELEM/MASS,CUM,SIG
+#PROJ       6012
+#TARG       41093
+#MF         3
+#MT         459
+#C4BEGIN    [ 6012 41093   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 41093   3 459    4.1650+7          2.6840-3                    45099.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.3810+7          7.5320-3                    45099.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.5910+7          0.010000                    45099.9                     Qian Xing+           (95)S0169  2 
+#/DATA      3
+#/DATASET
+#
+#DATASET    S0169002 
+#DATE       20250224
+#REACTION   41-NB-93(6-C-12,X)ELEM/MASS,CUM,SIG
+#PROJ       6012
+#TARG       41093
+#MF         3
+#MT         459
+#C4BEGIN    [ 6012 41093   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 41093   3 459    3.3560+7          1.0180-4                    45099.1                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    3.6320+7          5.0670-4                    45099.1                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.0010+7          7.5600-3                    45099.1                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.1790+7          9.7400-3                    45099.1                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.3920+7          0.032940                    45099.1                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.6050+7          0.049650                    45099.1                     Qian Xing+           (95)S0169  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    S0169002 
+#DATE       20250224
+#REACTION   41-NB-93(6-C-12,X)ELEM/MASS,CUM,SIG
+#PROJ       6012
+#TARG       41093
+#MF         3
+#MT         459
+#C4BEGIN    [ 6012 41093   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 41093   3 459    3.6280+7          1.9740-4                    43096.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    3.9900+7          1.2590-3                    43096.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.1660+7          1.5830-3                    43096.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.3710+7          4.3470-3                    43096.9                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.5810+7          6.8010-3                    43096.9                     Qian Xing+           (95)S0169  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    S0169002 
+#DATE       20250224
+#REACTION   41-NB-93(6-C-12,X)ELEM/MASS,CUM,SIG
+#PROJ       6012
+#TARG       41093
+#MF         3
+#MT         459
+#C4BEGIN    [ 6012 41093   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 41093   3 459    4.1670+7          4.9750-4                    41092.1                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.3860+7          1.1970-3                    41092.1                     Qian Xing+           (95)S0169  2 
+ 6012 41093   3 459    4.5980+7          1.5040-3                    41092.1                     Qian Xing+           (95)S0169  2 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      M0186
+#AUTHOR1    S.P.Kapitza+
+#YEAR       1969
+#INSTITUTE  (4RUSIFP)
+#TITLE      Photofission  of  even-even  nuclei  and structure of
+#+          the fission barrier.
+#AUTHOR(S)  S.P.Kapitza, N.S.Rabotnov, G.N.Smirenkin, A.S.Soldatov, 
+#+          L.N.Usachev, Yu.M.Tsipenyuk
+#REF-CODE   (J,JEL,9,73,1969)
+#REFERENCE  JETP Lett. 9 (1969) 73
+#DATASETS   0
+#
+#DATASET    M0186007 
+#DATE       20250523
+#REACTION   90-TH-232(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    0 90232   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3  18 A  5330000.          4.2000-5                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  5420000.          1.3000-4                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  5540000.          3.0000-4                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  5660000.          1.8000-4                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  5730000.          5.7000-4                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  5830000.          1.5000-3                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  5990000.          3.7000-3                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  6180000.          4.5000-3                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  6420000.          4.1000-3                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  6720000.          3.4000-3                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  6970000.          3.1000-3                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  7100000.          3.0000-3                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  7230000.          3.1000-3                                                S.P.Kapitza+         (69)M0186  7 
+    0 90232   3  18 A  7420000.          3.9000-3                                                S.P.Kapitza+         (69)M0186  7 
+#/DATA      14
+#/DATASET

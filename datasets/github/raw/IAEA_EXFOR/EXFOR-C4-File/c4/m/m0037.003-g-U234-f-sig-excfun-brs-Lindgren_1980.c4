@@ -1,0 +1,41 @@
+#ENTRY      M0037
+#AUTHOR1    L.J.Lindgren+
+#YEAR       1980
+#INSTITUTE  (4RUSIFP)
+#TITLE      Sub-barrier photofission of 234U.
+#AUTHOR(S)  L.J.Lindgren, A.S.Soldatov, Yu.M.Tsipenyuk
+#REF-CODE   (J,SNP,32,173,1980)
+#REFERENCE  Sov.J.Nucl.Phys. 32 (1980) 173
+#DATASETS   0
+#
+#DATASET    M0037003 
+#DATE       20250505
+#REACTION   92-U-234(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       92234
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92234   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92234   3  18    4500000.          3.0000-7 1.0000-7                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    4700000.          3.2000-6 4.0000-7                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    4840000.          2.7800-5 2.4000-6                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    4950000.          1.1180-4 1.1300-5                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    5050000.          1.9180-4 1.4300-5                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    5150000.          7.8680-4 5.9900-5                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    5240000.          2.0541-3 1.4460-4                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    5310000.          2.7820-3 1.8550-4                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    5400000.          3.1670-3 2.6730-4                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    5510000.          5.0720-3 4.9380-4                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    5600000.          6.1946-3 4.7260-4                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    5690000.          6.3931-3 1.3185-3                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    5800000.          6.2893-3 1.2359-3                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    5910000.          8.4129-3 9.7320-4                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    6020000.          0.011635 1.5842-3                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    6120000.          0.013227 2.7240-3                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    6220000.          0.046514 8.9724-3                                       L.J.Lindgren+        (80)M0037  3 
+    0 92234   3  18    6340000.          0.039891 0.010184                                       L.J.Lindgren+        (80)M0037  3 
+#/DATA      18
+#/DATASET

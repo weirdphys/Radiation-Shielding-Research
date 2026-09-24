@@ -1,0 +1,62 @@
+#ENTRY      M0894
+#AUTHOR1    A.D.Antonov+
+#YEAR       1991
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Excitation function of the reaction (gamma,alpha) in
+#+          the region of a Giant Dipole Resonance
+#AUTHOR(S)  A.D.Antonov, N.P.Balabanov, Yu.P.Gangrsky, F.G.Kondev, S.G.Marinova, 
+#+          A.P.Tonchev, Kh.G.Khristov
+#REF-CODE   (J,BAS,55,(11),176,1991)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 55 No.11 (1991) 176
+#DATASETS   0
+#
+#DATASET    M0894005 
+#DATE       20260122
+#REACTION   32-GE-76(G,A)30-ZN-72,,SIG,,BRS
+#PROJ       0
+#TARG       32076
+#MF         3
+#MT         107
+#PRODUCT    30-ZN-72
+#C4BEGIN    [    0 32076   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 32076   3 107    1.6027+7          1.0000-6                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.6144+7          1.2000-6                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.6318+7          1.6000-6                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.6492+7          2.0000-6                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.6652+7          2.6000-6                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.6827+7          3.3000-6                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.7016+7          4.5000-6                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.7191+7          6.2000-6                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.7365+7          7.9000-6                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.7526+7          1.0500-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.7714+7          1.3200-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.7888+7          1.6500-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.8134+7          2.1400-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.8352+7          2.7300-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.8612+7          3.3600-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.8842+7          3.9300-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.9044+7          4.5100-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.9318+7          5.2800-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.9592+7          5.9400-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    1.9865+7          6.6100-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.0196+7          7.5900-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.0483+7          8.3600-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.0742+7          9.1300-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.1029+7          9.8700-5                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.1316+7          1.0460-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.1761+7          1.1080-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.2119+7          1.1170-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.2520+7          1.1040-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.2907+7          1.1240-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.3237+7          1.0890-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.3537+7          1.0880-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.3852+7          1.0650-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.4153+7          1.0420-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.4468+7          1.0310-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.4797+7          1.0090-4                                                A.D.Antonov+         (91)M0894  5 
+    0 32076   3 107    2.5069+7          9.8800-5                                                A.D.Antonov+         (91)M0894  5 
+#/DATA      36
+#/DATASET

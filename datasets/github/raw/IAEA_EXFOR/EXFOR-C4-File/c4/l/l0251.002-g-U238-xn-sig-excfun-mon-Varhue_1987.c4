@@ -1,0 +1,32 @@
+#ENTRY      L0251
+#AUTHOR1    W.J.Varhue+
+#YEAR       1987
+#INSTITUTE  (1USAVIR)
+#TITLE      Photoneutron and photofission cross sections for 238U
+#+          and 232Th using neutron capture gamma rays
+#AUTHOR(S)  W.J.Varhue, T.G.Williamson
+#REF-CODE   (J,ARI,38,561,1987)
+#REFERENCE  Appl.Radiat.Isot. 38 (1987) 561 (doi:10.1016/0883-2889(87)90205-X)
+#DATASETS   0
+#
+#DATASET    L0251002 
+#DATE       20190521
+#REACTION   92-U-238(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 92238   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3 201    5000000.          0.017429 6.0812-3                                       W.J.Varhue+          (87)L0251  2 
+    0 92238   3 201    6000000.          0.023077 7.8541-3                                       W.J.Varhue+          (87)L0251  2 
+    0 92238   3 201    6990000.          0.040067 7.8368-3                                       W.J.Varhue+          (87)L0251  2 
+    0 92238   3 201    8000000.          0.080608 6.9763-3                                       W.J.Varhue+          (87)L0251  2 
+    0 92238   3 201    8980000.          0.169117 0.010470                                       W.J.Varhue+          (87)L0251  2 
+    0 92238   3 201    1.0010+7          0.361404 0.065409                                       W.J.Varhue+          (87)L0251  2 
+    0 92238   3 201    1.1000+7          0.581614 0.174436                                       W.J.Varhue+          (87)L0251  2 
+#/DATA      7
+#/DATASET

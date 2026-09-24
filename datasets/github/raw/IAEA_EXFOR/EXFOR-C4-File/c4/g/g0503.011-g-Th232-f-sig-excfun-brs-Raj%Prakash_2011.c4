@@ -1,0 +1,32 @@
+#ENTRY      G0503
+#AUTHOR1    H.G.Raj Prakash+
+#YEAR       2011
+#INSTITUTE  (3INDIND)
+#TITLE      Experimental determination of photofission
+#+          cross-sections of 232Th using electron accelerator
+#AUTHOR(S)  H.G.Raj Prakash, Ganesh Sanjeev, K.B.Vijay Kumar, K.Siddappa, 
+#+          B.K.Nayak, A.Saxena
+#REF-CODE   (J,ANE,38,757,2011)
+#REFERENCE  Ann.Nucl.Energy 38 (2011) 757 (doi:10.1016/j.anucene.2010.12.004)
+#DATASETS   0
+#
+#DATASET    G0503011 
+#DATE       20110610
+#REACTION   90-TH-232(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    0 90232   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3  18 D  7300000.          2.3600-3 5.1000-4                                       H.G.Raj Prakash+     (11)G0503 11 
+    0 90232   3  18 D  7600000.          3.0200-3 7.0000-4                                       H.G.Raj Prakash+     (11)G0503 11 
+    0 90232   3  18 D  7900000.          2.5500-3 8.8000-4                                       H.G.Raj Prakash+     (11)G0503 11 
+    0 90232   3  18 D  8200000.          1.5700-3 4.3000-4                                       H.G.Raj Prakash+     (11)G0503 11 
+    0 90232   3  18 D  8500000.          2.5700-3 5.3000-4                                       H.G.Raj Prakash+     (11)G0503 11 
+    0 90232   3  18 D  8800000.          3.5100-3 9.0000-4                                       H.G.Raj Prakash+     (11)G0503 11 
+    0 90232   3  18 D  9100000.          5.5600-3 1.0700-3                                       H.G.Raj Prakash+     (11)G0503 11 
+#/DATA      7
+#/DATASET

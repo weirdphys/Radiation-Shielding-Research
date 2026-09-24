@@ -1,0 +1,33 @@
+#ENTRY      L0221
+#AUTHOR1    Megha Bhike+
+#YEAR       2017
+#INSTITUTE  (1USATNL)
+#TITLE      Exploratory study of fission product yield
+#+          determination from photofission of 239Pu at 11 MeV
+#+          with monoenergetic photons
+#AUTHOR(S)  Megha Bhike, W.Tornow, Krishichayan, A.P.Tonchev
+#REF-CODE   (J,PR/C,95,024608,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 024608 (doi:10.1103/PhysRevC.95.024608)
+#DATASETS   0
+#
+#DATASET    L0221002 
+#DATE       20170313
+#REACTION   94-PU-239(G,F)ELEM/MASS,CUM,FY
+#PROJ       0
+#TARG       94239
+#MF         8
+#MT         459
+#C4BEGIN    [    0 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 94239   8 459    1.1000+7 140000.0 0.041500 5.1000-3 38.00000 91.00000 9.000000            Megha Bhike+         (17)L0221  2 
+    0 94239   8 459    1.1000+7 140000.0 0.042100 4.9000-3 38.00000 92.00000 9.000000            Megha Bhike+         (17)L0221  2 
+    0 94239   8 459    1.1000+7 140000.0 0.066300 7.6000-3 40.00000 97.00000 9.000000            Megha Bhike+         (17)L0221  2 
+    0 94239   8 459    1.1000+7 140000.0 0.079000 9.4000-3 42.00000 99.00000 9.000000            Megha Bhike+         (17)L0221  2 
+    0 94239   8 459    1.1000+7 140000.0 0.075600 8.9000-3 53.00000 133.0000 9.000000            Megha Bhike+         (17)L0221  2 
+    0 94239   8 459    1.1000+7 140000.0 0.075600 8.9000-3 53.00000 134.0000 9.000000            Megha Bhike+         (17)L0221  2 
+    0 94239   8 459    1.1000+7 140000.0 0.061800 7.5000-3 55.00000 138.0000 1.000000            Megha Bhike+         (17)L0221  2 
+    0 94239   8 459    1.1000+7 140000.0 0.044100 5.1000-3 58.00000 143.0000 9.000000            Megha Bhike+         (17)L0221  2 
+#/DATA      8
+#/DATASET

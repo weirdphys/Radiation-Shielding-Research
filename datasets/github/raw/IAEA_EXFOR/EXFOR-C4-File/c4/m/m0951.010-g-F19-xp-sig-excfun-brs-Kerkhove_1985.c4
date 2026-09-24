@@ -1,0 +1,41 @@
+#ENTRY      M0951
+#AUTHOR1    E.Kerkhove+
+#YEAR       1985
+#INSTITUTE  (2BLGGHT)
+#TITLE      Photoproton decay of the E1 giant resonance in 19F.
+#AUTHOR(S)  E.Kerkhove, R.Van De Vyver, H.Ferdinande, D.Ryckbosch, P.Van Otten, 
+#+          P.Berkvens, E.Van Camp
+#REF-CODE   (J,PR/C,32,368,1985)
+#REFERENCE  Phys.Rev.C 32 (1985) 368 (doi:10.1103/PhysRevC.32.368)
+#DATASETS   0
+#
+#DATASET    M0951010 
+#DATE       20171120
+#REACTION   9-F-19(G,X)1-H-1,,SIG,,BRS
+#PROJ       0
+#TARG       9019
+#MF         3
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  9019   3 203 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  9019   3 203 D  1.4690+7          1.9780-3 2.3300-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  1.5450+7          3.6190-3 2.3300-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  1.6200+7          5.1360-3 2.3300-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  1.6610+7          5.7200-3 2.3300-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  1.7700+7          6.5390-3 2.3300-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  1.8430+7          7.7810-3 2.8700-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  1.9210+7          9.7850-3 3.6800-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  1.9990+7          0.011789 4.6300-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  2.0710+7          0.012710 4.1900-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  2.1480+7          0.012355 4.4400-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  2.2730+7          0.012455 5.1800-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  2.2940+7          0.013658 4.8700-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  2.3720+7          0.011907 5.8200-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  2.4490+7          0.015642 7.0000-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  2.5220+7          0.020914 9.3400-4                                       E.Kerkhove+          (85)M0951 10 
+    0  9019   3 203 D  2.5960+7          0.019279 1.1210-3                                       E.Kerkhove+          (85)M0951 10 
+#/DATA      16
+#/DATASET

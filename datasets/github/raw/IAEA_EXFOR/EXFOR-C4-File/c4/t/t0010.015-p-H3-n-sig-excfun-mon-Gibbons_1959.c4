@@ -1,0 +1,32 @@
+#ENTRY      T0010
+#AUTHOR1    J.H.Gibbons+
+#YEAR       1959
+#INSTITUTE  (1USAORL)
+#TITLE      Total neutron yields from light elements under proton
+#+          and alpha bombardment
+#AUTHOR(S)  J.H.Gibbons, R.L.Macklin
+#REF-CODE   (J,PR,114,571,1959)
+#REFERENCE  Phys.Rev. 114 (1959) 571 (doi:10.1103/PhysRev.114.571)
+#DATASETS   0
+#
+#DATASET    T0010015 
+#DATE       20210828
+#REACTION   1-H-3(P,N)2-HE-3,,SIG
+#PROJ       1001
+#TARG       1003
+#MF         3
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   3   4 C  1800000.          0.378056                                                J.H.Gibbons+         (59)T0010 15 
+ 1001  1003   3   4 C  1806000.          0.402323                                                J.H.Gibbons+         (59)T0010 15 
+ 1001  1003   3   4 C  2090000.          0.427359                                                J.H.Gibbons+         (59)T0010 15 
+ 1001  1003   3   4 C  2859000.          0.574373                                                J.H.Gibbons+         (59)T0010 15 
+ 1001  1003   3   4 C  2955000.          0.572000                                                J.H.Gibbons+         (59)T0010 15 
+ 1001  1003   3   4 C  3839000.          0.499872                                                J.H.Gibbons+         (59)T0010 15 
+ 1001  1003   3   4 C  4938000.          0.377712                                                J.H.Gibbons+         (59)T0010 15 
+#/DATA      7
+#/DATASET

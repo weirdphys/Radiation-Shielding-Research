@@ -1,0 +1,26 @@
+#ENTRY      M0505
+#AUTHOR1    J.R.Huizenga+
+#YEAR       1962
+#INSTITUTE  (1USAANL)
+#TITLE      Photofission cross sections of  several  nuclei  with
+#+          mono-energetic gamma rays.
+#AUTHOR(S)  J.R.Huizenga, K.M.Clarke, J.E.Gindler, R.Vandenbosch
+#REF-CODE   (J,NP,34,439,1962)
+#REFERENCE  Nucl.Phys. 34 (1962) 439 (doi:10.1016/0029-5582(62)90231-6)
+#DATASETS   0
+#
+#DATASET    M0505006 
+#DATE       20161220
+#REACTION   92-U-234(G,F),,SIG
+#PROJ       0
+#TARG       92234
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92234   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92234   3  18    6140000.          5.0000-3                                                J.R.Huizenga+        (62)M0505  6 
+    0 92234   3  18    7000000.          0.052000 0.016000                                       J.R.Huizenga+        (62)M0505  6 
+#/DATA      2
+#/DATASET

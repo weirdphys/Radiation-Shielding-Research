@@ -1,0 +1,38 @@
+#ENTRY      S0159
+#AUTHOR1    Zhao Youxiong+
+#YEAR       1992
+#INSTITUTE  (3CPRIMP)
+#TITLE      The study of alpha emission induced by 46.7 MeV/u
+#+          C-12 on Ni-58, In-115 and Au-197
+#AUTHOR(S)  Zhao Youxiong, Guo Zhongyan, Zhu Yongtai, Zhan Wenlong, 
+#+          Hu Xiaoqing, Xi Hongfei, Liu Guanhua, Zhou Jianqun, Feng Enpu, 
+#+          Yin Shuzhi, Wei Zhiyong, Fan Enjie, Ma Yugang
+#REF-CODE   (J,PHE,16,1022,1992)
+#REFERENCE  High En.Nucl.Phy.Ch. 16 (1992) 1022
+#DATASETS   0
+#
+#DATASET    S0159003 
+#DATE       20151021
+#REACTION   79-AU-197(6-C-12,X)2-HE-4,,DA
+#PROJ       6012
+#TARG       79197
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012 79197   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 79197   4 207    5.6040+8          1.360490          0.994245                              Zhao Youxiong+       (92)S0159  3 
+ 6012 79197   4 207    5.6040+8          0.589130          0.990913                              Zhao Youxiong+       (92)S0159  3 
+ 6012 79197   4 207    5.6040+8          0.278180          0.982967                              Zhao Youxiong+       (92)S0159  3 
+ 6012 79197   4 207    5.6040+8          0.218720          0.974527                              Zhao Youxiong+       (92)S0159  3 
+ 6012 79197   4 207    5.6040+8          0.108360          0.962880                              Zhao Youxiong+       (92)S0159  3 
+ 6012 79197   4 207    5.6040+8          0.067630 0.012020 0.937221                              Zhao Youxiong+       (92)S0159  3 
+ 6012 79197   4 207    5.6040+8          0.037970 0.010320 0.784668                              Zhao Youxiong+       (92)S0159  3 
+ 6012 79197   4 207    5.6040+8          0.027910 0.011170 0.701656                              Zhao Youxiong+       (92)S0159  3 
+ 6012 79197   4 207    5.6040+8          9.5900-3 2.0400-3 0.168489                              Zhao Youxiong+       (92)S0159  3 
+ 6012 79197   4 207    5.6040+8          5.3900-3 9.0000-4-0.501058                              Zhao Youxiong+       (92)S0159  3 
+ 6012 79197   4 207    5.6040+8          4.7500-3 1.0600-3-0.866113                              Zhao Youxiong+       (92)S0159  3 
+#/DATA      11
+#/DATASET

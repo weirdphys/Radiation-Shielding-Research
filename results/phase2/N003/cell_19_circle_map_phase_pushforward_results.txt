@@ -1,0 +1,42 @@
+Circle-Map Finite-Time Phase-Distribution Pushforward from Radiation-Derived Initial Phases
+========================================================================================
+
+Interpretation:
+  Each measured N003 sample supplies an empirical analytic-signal phase distribution along log-energy.
+  The circle map pushes that distribution forward for a finite number of model iterations.
+  Histogram concentration and circular resultant length summarize distributional concentration.
+  Stabilization TV compares the nominal histogram with the histogram after additional map iterations.
+  Small stabilization TV supports finite-time stabilization but does not prove a unique invariant density.
+
+Source: data/processed/RB2000164/rb2000164_physics_ready_strict.csv.gz
+Radiation object: N003.SEQ_SAMPLE / N003.TRAJ_E
+Observable: transmission T(E)
+Measured samples: 9
+Coordinate points: 5000
+Coordinate step: 0.002762109522816303
+Smoothing window: 151
+Omega: 0.3333333333333333
+K range: [0.0, 12.566370614359172] with 105 points
+Nominal iterations: 25
+Extra stabilization iterations: 10
+Histogram bins: 28
+Max phase samples per radiation sample: 1750
+
+Aggregate diagnostics:
+  mean normalized concentration: 0.15351379
+  max normalized concentration:  0.97985241
+  mean resultant length:         0.40781496
+  max resultant length:          0.99590996
+  mean stabilization TV:         0.07328496
+  max stabilization TV:          0.56558730
+
+Per-sample summary:
+  B: initial_R=0.201326, mean_norm_concentration=0.153203, max_norm_concentration=0.981149, mean_resultant_length=0.408993, max_resultant_length=0.995285, mean_stabilization_TV=0.102035, max_stabilization_TV=0.544000
+  C: initial_R=0.142604, mean_norm_concentration=0.153469, max_norm_concentration=0.981160, mean_resultant_length=0.402119, max_resultant_length=0.998214, mean_stabilization_TV=0.098291, max_stabilization_TV=0.583429
+  S: initial_R=0.208565, mean_norm_concentration=0.153919, max_norm_concentration=0.982312, mean_resultant_length=0.408995, max_resultant_length=0.995808, mean_stabilization_TV=0.104435, max_stabilization_TV=0.585143
+  D: initial_R=0.194728, mean_norm_concentration=0.153983, max_norm_concentration=0.983498, mean_resultant_length=0.405539, max_resultant_length=0.997674, mean_stabilization_TV=0.099946, max_stabilization_TV=0.549143
+  U: initial_R=0.210358, mean_norm_concentration=0.154123, max_norm_concentration=0.976484, mean_resultant_length=0.411217, max_resultant_length=0.995359, mean_stabilization_TV=0.103875, max_stabilization_TV=0.585143
+  V: initial_R=0.222693, mean_norm_concentration=0.154166, max_norm_concentration=0.979993, mean_resultant_length=0.414310, max_resultant_length=0.996717, mean_stabilization_TV=0.103668, max_stabilization_TV=0.580571
+  T: initial_R=0.205220, mean_norm_concentration=0.154193, max_norm_concentration=0.978822, mean_resultant_length=0.407841, max_resultant_length=0.997722, mean_stabilization_TV=0.101567, max_stabilization_TV=0.567429
+  A: initial_R=0.179655, mean_norm_concentration=0.154213, max_norm_concentration=0.974130, mean_resultant_length=0.408449, max_resultant_length=0.994731, mean_stabilization_TV=0.099439, max_stabilization_TV=0.593143
+  R: initial_R=0.174595, mean_norm_concentration=0.154378, max_norm_concentration=0.981174, mean_resultant_length=0.408457, max_resultant_length=0.998105, mean_stabilization_TV=0.099641, max_stabilization_TV=0.562857

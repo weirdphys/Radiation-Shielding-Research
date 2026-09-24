@@ -1,0 +1,54 @@
+#ENTRY      M0585
+#AUTHOR1    S.Kahane+
+#YEAR       1983
+#INSTITUTE  (3ISLNEG)
+#TITLE      Interference between Rayleigh, Delbruck, and
+#+          nuclear resonance scattering processes.
+#AUTHOR(S)  S.Kahane, R.Moreh, O.Shahal
+#REF-CODE   (J,PR/C,28,1519,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 1519 (doi:10.1103/PhysRevC.28.1519)
+#DATASETS   0
+#
+#DATASET    M0585002 
+#DATE       20190625
+#REACTION   82-PB-0(G,EL)82-PB-0,,DA
+#PROJ       0
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    0 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82000   4   2    4218000.          4.360000 0.610000 0.999848                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    5920000.          1.880000 0.100000 0.999848                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    6018000.          1.890000 0.130000 0.999848                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    7278000.          1.490000 0.080000 0.999848                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    7631000.          1.030000 0.040000 0.999848                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    9298000.          0.460000 0.070000 0.999848                              S.Kahane+            (83)M0585  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    M0585002 
+#DATE       20190625
+#REACTION   82-PB-0(G,EL)82-PB-0,,DA
+#PROJ       0
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    0 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82000   4   2    4218000.          1.430000 0.110000 0.999560                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    4406000.          1.140000 0.150000 0.999560                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    4810000.          0.720000 0.120000 0.999560                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    5920000.          0.600000 0.030000 0.999560                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    6018000.          0.510000 0.010000 0.999560                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    7278000.          0.660000 0.030000 0.999560                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    7631000.          0.230000 0.020000 0.999560                              S.Kahane+            (83)M0585  2 
+    0 82000   4   2    9298000.          0.170000 0.010000 0.999560                              S.Kahane+            (83)M0585  2 
+#/DATA      8
+#/DATASET

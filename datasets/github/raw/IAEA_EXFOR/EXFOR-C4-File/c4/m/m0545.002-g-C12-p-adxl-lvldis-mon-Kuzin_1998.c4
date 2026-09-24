@@ -1,0 +1,30 @@
+#ENTRY      M0545
+#AUTHOR1    A.Kuzin+
+#YEAR       1998
+#INSTITUTE  (3AULAML)
+#TITLE      High-resolution measurement  of  the  12C(gamma,p)11B
+#+          reaction to excited states for Eg = 50 - 70 MeV.
+#AUTHOR(S)  A.Kuzin, R.P.Rassool, M.N.Thompson, J.-O.Adler, K.Fissum, 
+#+          K.Hansen, L.Isaksson, M.Lundin, B.Nilsson, H.Ruijter, B.Schroder, 
+#+          J.R.M.Annand, G.I.Crawford, J.C.McGeorge, J.Gregel, J.Ryckebusch
+#REF-CODE   (J,PR/C,58,2167,1998)
+#REFERENCE  Phys.Rev.C 58 (1998) 2167 (doi:10.1103/PhysRevC.58.2167)
+#DATASETS   0
+#
+#DATASET    M0545002 
+#DATE       20260113
+#REACTION   6-C-12(G,P)5-B-11,PAR,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 600    6.0000+7          4.7600-6 8.2000-7 0.342020          6740000.         LVLA.Kuzin+             (98)M0545  2 
+    0  6012   4 600    6.0000+7          1.0800-6 1.9000-7 0.342020          6790000.         LVLA.Kuzin+             (98)M0545  2 
+    0  6012   4 600    6.0000+7          1.6600-6 2.9000-7 0.342020          7290000.         LVLA.Kuzin+             (98)M0545  2 
+#/DATA      3
+#/DATASET

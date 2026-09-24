@@ -1,0 +1,31 @@
+#ENTRY      M0212
+#AUTHOR1    C.Whitehead+
+#YEAR       1958
+#INSTITUTE  (2UK OXF)
+#TITLE      Ejection of photoprotons from light elements by
+#+          45-110 MeV bremsstrahlung.
+#AUTHOR(S)  C.Whitehead, W.R.Mc.upper()urray, M.J.Aitken, N.Middlemas, 
+#+          C.H.Collie
+#REF-CODE   (J,PR,110,(4),941,1958)
+#REFERENCE  Phys.Rev. 110 No.4 (1958) 941 (doi:10.1103/PhysRev.110.941)
+#DATASETS   0
+#
+#DATASET    M0212019 
+#DATE       20130606
+#REACTION   6-C-0(G,X)1-H-1,,DA/DE,,BRS
+#PROJ       0
+#TARG       6000
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  6000   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6000   6 203    4.7000+7          1.100-13 1.100-13-0.629320          3.7000+7          E2C.Whitehead+         (58)M0212 19 
+    0  6000   6 203    5.4000+7          6.500-13 1.800-13-0.629320          3.7000+7          E2C.Whitehead+         (58)M0212 19 
+    0  6000   6 203    6.4000+7          1.000-14 2.500-13-0.629320          3.7000+7          E2C.Whitehead+         (58)M0212 19 
+    0  6000   6 203    7.8000+7          4.900-13 1.600-13-0.629320          3.7000+7          E2C.Whitehead+         (58)M0212 19 
+    0  6000   6 203    9.9000+7          4.000-13 1.600-13-0.629320          3.7000+7          E2C.Whitehead+         (58)M0212 19 
+#/DATA      5
+#/DATASET

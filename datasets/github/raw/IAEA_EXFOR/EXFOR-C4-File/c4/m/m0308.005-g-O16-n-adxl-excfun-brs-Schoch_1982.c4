@@ -1,0 +1,29 @@
+#ENTRY      M0308
+#AUTHOR1    B.Schoch+
+#YEAR       1982
+#INSTITUTE  (2GERMNZ)
+#TITLE      Excitation of the (p-3/2)-hole state in the
+#+          O-16(g,n)O-15 reaction.
+#AUTHOR(S)  B.Schoch, H.Goringer
+#REF-CODE   (J,PL/B,109,11,1982)
+#REFERENCE  Phys.Lett.B 109 (1982) 11 (doi:10.1016/0370-2693(82)90451-8)
+#DATASETS   0
+#
+#DATASET    M0308005 
+#DATE       20130614
+#REACTION   8-O-16(G,N)8-O-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    8-O-15
+#C4BEGIN    [    0  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4  50    5.8260+7          9.7487-6          6.123-17          6200000.         LVLB.Schoch+            (82)M0308  5 
+    0  8016   4  50    7.8340+7          2.2001-6          6.123-17          6200000.         LVLB.Schoch+            (82)M0308  5 
+    0  8016   4  50    1.1914+8          4.3720-7          6.123-17          6200000.         LVLB.Schoch+            (82)M0308  5 
+    0  8016   4  50    1.5890+8          2.1800-7          6.123-17          6200000.         LVLB.Schoch+            (82)M0308  5 
+#/DATA      4
+#/DATASET

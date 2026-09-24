@@ -1,0 +1,259 @@
+{
+  "spec_id": "STEP2C_MULTI_OBSERVABLE_IMPLEMENTATION_FREEZE_V1_1_20260919",
+  "status": "FROZEN_BEFORE_CURVE_DIGITIZATION_AND_PROJECT_SOURCE_COMPARISON",
+  "date": "2026-09-19",
+  "purpose": "Predeclare the exact paired PDD + lateral-profile validation route for the fixed current production 40x40 photon source surrogates. This validates multi-observable predictive adequacy of the factorized source surrogate; it does NOT claim unique recovery of the clinical phase-space spectrum.",
+  "basis": {
+    "fresh_holdouts_v2_bundle_sha256": "c5ee216e69c95d11be7ded7ae02636943d10ab0a5dbecc358f2317ba80b8c081",
+    "ben_hdech_pdf_sha256": "4b6ce30fcb120791270201088ab9c8e4ad3f9357002895ed86b34b5147e16736",
+    "pmc9669309_html_sha256": "e054ceadf83dfa88babf43d5f254d7bfb0df57ef5df4010ef19bd1e9c39237fb",
+    "tugrul_pdf_sha256": "b81f56a2e0203504ba471273b932effce4afd1be4dfca437725d7ecc4d1e7bdb",
+    "existing_notebook": "v12_16_4_bundle_snapshot_fix",
+    "external_acceptance_reference": {
+      "reference": "AAPM Task Group 157",
+      "doi": "10.1002/mp.13898",
+      "role": "Provides 2%/2 mm tolerance guidance for relative water-phantom dose distributions across clinical field sizes. This protocol uses region-based dose/DTA criteria rather than a gamma pass-rate as the primary profile gate."
+    },
+    "replacement_source_freeze_v3_3": {
+      "directory": "Step2C_Replacement_Source_Freeze_v3_3",
+      "distribution_zip_sha256": "0cfa41d4aa96dc9573502cfa9022df2e3038f63469d1f98001c3ac2480f4be2c",
+      "payload_tree_sha256": "a72899b7f0187ffbf36ce6853068e189268fd7b02fa2852704bb087ac76217a5",
+      "manifest_sha256": "6977287890edd76aae5efd2efb44b17c3c45895e96d6e44f8c0290bcebe87157",
+      "source_freeze_record_sha256": "8558a63e59be3f6984ae5b50f93839d63662589cfa50fa4d77bd577b08d804b8",
+      "araki_2005_pdf_sha256": "3da32a92200c904f0b13742cb2ecc20bd069521a363599cdd15c20e0609ae44e",
+      "tian_2017_pdf_sha256": "c143e0f86b1dd7a04045bb1baaf163f85a02fac96c374fd9b80c642bd48c9286",
+      "tian_2017_pmc_metadata_sha256": "ae90e1a5ebab3d4028adc9fe3c9f2bafd1ea9cabb1db39f12cb51bd83ae843dd",
+      "role": "Pre-digitization forensic freeze establishing bilateral figure-format eligibility of the replacement 10-MV and 15-MV holdout sources."
+    }
+  },
+  "non_negotiable_rules": [
+    "No current production spectrum may be changed.",
+    "No source endpoint, energy bin, probability mass, smoothing, interpolation or normalization rule may be changed.",
+    "No acceptance threshold may be changed after a holdout curve is digitized.",
+    "No curve may be digitized while viewing a project-source prediction.",
+    "No digitized holdout may be smoothed to improve agreement.",
+    "No left/right symmetrization of measured profiles is allowed.",
+    "No post-hoc horizontal shift is allowed except the preregistered detector-axis centering rule below.",
+    "If either observable in a beam pair fails, Route C fails for that beam.",
+    "A Route-C pass validates the fixed factorized surrogate for the paired measured observables; it does not relabel the 1-D spectrum as a uniquely measured clinical spectrum.",
+    "Existing Landauer/Pacyniak/Sawkey PDD results remain diagnostic-only and are not promoted.",
+    "Existing Ali/Waggener/Aspradakis spectra remain already-seen corroborative evidence and cannot be tuning targets."
+  ],
+  "fixed_source_model_under_test": {
+    "phase_space_model": "aggregate_energy_uniform_xy_virtual_source_divergence",
+    "source_plane_mode": "water_surface_factorized",
+    "field_size_cm": [
+      40.0,
+      40.0
+    ],
+    "ssd_cm": 100.0,
+    "particle": "photon",
+    "full_clinical_phase_space_claim": false,
+    "source_mutation_allowed": false
+  },
+  "holdout_assignment": {
+    "6MV": {
+      "source_model_id": "PROJECT_6MV_40x40",
+      "reference": "Ben Hdech 2011, HAL tel-00683748, Figure 62",
+      "machine": "Varian 2100CD",
+      "field_cm": [
+        40.0,
+        40.0
+      ],
+      "ssd_cm": 100.0,
+      "pdd": "Figure 62 experimental black curve, 40x40 cm2",
+      "profile": "Figure 62 experimental black curve, 40x40 cm2, depth 10 cm",
+      "primary_route": true
+    },
+    "10MV": {
+      "source_model_id": "PROJECT_10MV_40x40",
+      "reference": "Araki 2005, Varian Clinac 2100C measured 10 MV beam data",
+      "machine": "Varian Clinac 2100C",
+      "field_cm": [
+        40.0,
+        40.0
+      ],
+      "ssd_cm": 100.0,
+      "pdd": "Figure 3(d) measured 10 MV depth-dose, 40x40 cm2",
+      "profile": "Figure 5(d) measured 10 MV dose profile, 40x40 cm2, depth 10 cm",
+      "primary_route": true,
+      "source_freeze_binding": {
+        "package": "Step2C_Replacement_Source_Freeze_v3_3",
+        "pdf": "sources/Araki_2005_Clinac2100C_4MV_10MV.pdf",
+        "pdf_sha256": "3da32a92200c904f0b13742cb2ecc20bd069521a363599cdd15c20e0609ae44e",
+        "figure_format_eligibility": "PASS_BILATERAL_FIGURE_FORMAT_ELIGIBILITY"
+      },
+      "comparability_note": "Araki 2005 supplies an independent Varian Clinac 2100C measured holdout. A Route-C pass supports the preregistered multi-observable predictive-adequacy claim; it does not establish exact machine-specific phase-space identity."
+    },
+    "15MV": {
+      "source_model_id": "PROJECT_15MV_40x40",
+      "reference": "Tian et al. 2017, PMCID PMC5689963, DOI 10.1002/acm2.12049, Varian TrueBeam 15 MV FF measured beam data",
+      "machine": "Varian TrueBeam",
+      "field_cm": [
+        40.0,
+        40.0
+      ],
+      "ssd_cm": 100.0,
+      "pdd": "Figure 4 measured 15 MV FF depth-dose, 40x40 cm2",
+      "profile": "Figure 5 measured 15 MV FF cross-line profile, 40x40 cm2, depth 10 cm",
+      "primary_route": true,
+      "source_freeze_binding": {
+        "package": "Step2C_Replacement_Source_Freeze_v3_3",
+        "pdf": "sources/Tian_2017_TrueBeam_goMC.pdf",
+        "pdf_sha256": "c143e0f86b1dd7a04045bb1baaf163f85a02fac96c374fd9b80c642bd48c9286",
+        "pmcid": "PMC5689963",
+        "doi": "10.1002/acm2.12049",
+        "pmc_metadata": "sources/Tian_2017_PMC_metadata.json",
+        "pmc_metadata_sha256": "ae90e1a5ebab3d4028adc9fe3c9f2bafd1ea9cabb1db39f12cb51bd83ae843dd",
+        "figure_format_eligibility": "PASS_BILATERAL_FIGURE_FORMAT_ELIGIBILITY_WITH_SHALLOW_DEPTH_METADATA_CAUTION"
+      },
+      "excluded_profiles": [
+        {
+          "profile": "Figure 5 shallow 40x40 cm2 profile",
+          "status": "EXCLUDED_FROM_V1_1_PRIMARY_HOLDOUT",
+          "reason": "Internal publication depth discrepancy: Figure 5 caption and Section 3.A.2 state 2.8 cm; Table 4 lists 2.1 cm for the 40x40 field."
+        }
+      ],
+      "secondary_non_gating_profiles": [
+        "Figure 5 measured inline 40x40 cm2 profile at 10 cm",
+        "Figure 5 measured inline 40x40 cm2 profile at 20 cm",
+        "Figure 5 measured cross-line 40x40 cm2 profile at 20 cm"
+      ],
+      "comparability_note": "PROJECT_15MV_40x40 remains a generic project-interpolated source rather than a machine-commissioned source. Tian et al. supplies a Varian TrueBeam holdout. A pass therefore supports representative Varian-family multi-observable predictive adequacy, not exact identity to a specific accelerator."
+    },
+    "16MV": {
+      "source_model_id": "PROJECT_16MV_40x40",
+      "reference": "Ben Hdech 2011, HAL tel-00683748, Figure 62",
+      "machine": "Varian 2100CD",
+      "field_cm": [
+        40.0,
+        40.0
+      ],
+      "ssd_cm": 100.0,
+      "pdd": "Figure 62 experimental black curve, 40x40 cm2",
+      "profile": "Figure 62 experimental black curve, 40x40 cm2, depth 10 cm",
+      "primary_route": true
+    },
+    "18MV": {
+      "source_model_id": "PROJECT_18MV_40x40",
+      "reference": "Ben Hdech 2011, HAL tel-00683748, Figure 62",
+      "machine": "Varian 2100CD",
+      "field_cm": [
+        40.0,
+        40.0
+      ],
+      "ssd_cm": 100.0,
+      "pdd": "Figure 62 experimental black curve, 40x40 cm2",
+      "profile": "Figure 62 experimental black curve, 40x40 cm2, depth 10 cm",
+      "primary_route": true
+    }
+  },
+  "digitization_contract": {
+    "freeze_before_prediction": true,
+    "raw_source_hash_required": true,
+    "raw_pixel_or_vector_coordinate_artifact_required": true,
+    "axis_calibration_record_required": true,
+    "curve_identity_record_required": true,
+    "no_smoothing": true,
+    "no_shape_regularization": true,
+    "no_symmetrization": true,
+    "preserve_original_digitized_points": true,
+    "minimum_points": {
+      "pdd_post_dmax": 20,
+      "profile_total": 80,
+      "profile_each_penumbra": 8
+    },
+    "ben_hdech_scaling": {
+      "published_plot_k_for_40x40": 0.4,
+      "pdd_rule": "Digitize the 40x40 experimental black curve. Undo the published k=0.4 vertical display factor before final PDD normalization. Normalize PDD to its digitized dmax=100% exactly once.",
+      "profile_rule": "Digitize the 40x40 experimental black profile. The k=0.4 display factor is multiplicative and cancels under the preregistered CAX profile normalization. Normalize the profile to its own CAX=100% for shape evaluation; do not use this normalization for PDD."
+    },
+    "profile_centering_rule": "Use the published x=0 coordinate as CAX. No fitted lateral translation is allowed. If a digitizer calibration produces a sub-pixel zero offset, only the axis-calibration transform may correct it; the reference curve itself may not be shifted to improve agreement."
+  },
+  "pdd_acceptance": {
+    "inherits_v12_thresholds": true,
+    "evaluation_region": "at and beyond the digitized reference dmax",
+    "minimum_post_dmax_points": 10,
+    "median_abs_difference_percent_points_max": 2.5,
+    "p90_abs_difference_percent_points_max": 5.0,
+    "pdd10_abs_difference_percent_points_max": 3.0,
+    "normalization": "reference and MC each normalized to their own dmax=100%",
+    "pass_rule": "all three numeric thresholds must pass"
+  },
+  "profile_acceptance": {
+    "normalization": "reference and MC each normalized to CAX=100% at the frozen profile depth",
+    "dose_threshold_percent_of_cax": 10.0,
+    "plateau_definition": "reference points inside |x| <= 16 cm with reference dose >=80% of CAX for a nominal 40x40 cm2 field",
+    "plateau_p90_abs_difference_percent_points_max": 2.0,
+    "edge_levels_percent": [
+      20.0,
+      50.0,
+      80.0
+    ],
+    "edge_dta_mm_max": 2.0,
+    "edge_rule": "For each 20%, 50%, and 80% level, independently interpolate the left and right crossing in reference and MC curves. All six absolute crossing distance differences must be <=2.0 mm.",
+    "secondary_diagnostic": "A 1-D global 2%/2 mm gamma curve may be reported for context, but gamma pass rate is not a primary acceptance condition.",
+    "pass_rule": "plateau p90 threshold passes AND all six 20/50/80% edge DTA thresholds pass"
+  },
+  "paired_route_c_gate": {
+    "beam_pass_requires": [
+      "PDD acceptance PASS",
+      "profile acceptance PASS",
+      "same frozen nominal beam energy",
+      "same frozen 40x40 field",
+      "reference independence from project source construction/fitting",
+      "complete digitization provenance and SHA-256 manifest",
+      "complete MC provenance and unchanged production-source semantic hash"
+    ],
+    "effective_validation_claim": "MULTI_OBSERVABLE_PREDICTIVE_ADEQUACY_OF_FACTORIZED_SURROGATE",
+    "not_claimed": [
+      "unique recovery of the clinical phase-space spectrum",
+      "machine-specific spectrum identity for generic project-interpolated sources",
+      "validation of missing x/y/energy/angle correlations"
+    ],
+    "notebook_mapping_if_passed": "Map to an allowed Phase-I non-TVL pass level only with an explicit validation_claim_scope field preserving the limited claim above. Do not map a Route-C result to SPECTRAL_VALIDATED."
+  },
+  "mc_execution_contract": {
+    "new_transport_allowed": true,
+    "reason": "This is a prospectively frozen Step-2C validation campaign with unchanged sources, separate from the v12.16 source-construction audit that intentionally ran zero new PDD transport.",
+    "minimum_histories_per_beam": 100000000,
+    "recommended_single_run_outputs": [
+      "PDD in water",
+      "lateral profile at the frozen reference depth"
+    ],
+    "worker_threads": 16,
+    "implementation": "native C++17 Geant4 MT",
+    "same_events_for_pdd_and_profile_preferred": true,
+    "source_hash_must_match_frozen_baseline": true,
+    "no_adaptive_source_tuning": true
+  },
+  "failure_policy": [
+    "If any beam fails, do not alter the source or thresholds under v1.",
+    "Report which observable failed and why.",
+    "A profile failure may identify a limitation of the factorized lateral source model rather than the energy spectrum; do not misattribute it.",
+    "Any revised source/phase-space model requires a new version, new preregistration and new independent holdout."
+  ],
+  "revision_v1_1": {
+    "supersedes_spec_id": "STEP2C_MULTI_OBSERVABLE_IMPLEMENTATION_FREEZE_V1_20260918",
+    "change_scope": "Holdout-source reassignment only for 10MV and 15MV after the previously assigned profile figures were found incompatible with the already-frozen bilateral 20/50/80% edge-crossing gate.",
+    "unchanged_beams": [
+      "6MV",
+      "16MV",
+      "18MV"
+    ],
+    "reassigned_beams": [
+      "10MV",
+      "15MV"
+    ],
+    "scientific_evaluation_before_reassignment": false,
+    "project_prediction_viewed_for_replacement_selection": false,
+    "curve_digitization_before_reassignment": false,
+    "acceptance_threshold_changed": false,
+    "production_source_changed": false,
+    "profile_selection_policy": {
+      "10MV": "Use the Araki 2005 Figure 5(d) measured 40x40 cm2 profile at 10 cm depth. The 10-cm depth is frozen before digitization and preserves the prior 10-MV profile depth.",
+      "15MV": "Use the Tian et al. 2017 Figure 5 measured cross-line 40x40 cm2 profile at 10 cm depth as the single primary gating lateral profile. The inline 10-cm profile and 20-cm profiles are non-gating secondary evidence unless a future separately preregistered protocol states otherwise.",
+      "15MV_shallow_profile": "EXCLUDED. Figure 5 caption and Section 3.A.2 state 2.8 cm, while Table 4 lists 2.1 cm for the 40x40 field. No reconciliation is assumed."
+    }
+  }
+}

@@ -1,0 +1,41 @@
+#ENTRY      R0042
+#AUTHOR1    J.L.Gilly+
+#YEAR       1963
+#INSTITUTE  (2BLGBLG)
+#TITLE      Absolute cross sections and excitation functions for
+#+          (d,p) and (d,2n) reactions on 55Mn, 63Cu, 65Cu, 66Zn,
+#+          and 68Zn between 3 and 11.6 MEV
+#AUTHOR(S)  J.L.Gilly, G.A.Henriet, M.Preciosa Alves, P.C.Capron
+#REF-CODE   (J,PR,131,(4),1727,196308)
+#REFERENCE  Phys.Rev. 131 No.4 (1963) 1727 (doi:10.1103/PhysRev.131.1727)
+#DATASETS   0
+#
+#DATASET    R0042007 
+#DATE       20060906
+#REACTION   30-ZN-68(D,2N)31-GA-68,,SIG
+#PROJ       1002
+#TARG       30068
+#MF         3
+#MT         16
+#PRODUCT    31-GA-68
+#C4BEGIN    [ 1002 30068   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30068   3  16    5300000.          0.041000 0.011000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    5900000.          0.062000 9.0000-3                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    6400000.          0.067000 0.010000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    6900000.          0.079000 0.012000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    7400000.          0.113000 0.014000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    7900000.          0.216000 0.020000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    8300000.          0.237000 0.021000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    8800000.          0.298000 0.031000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    9200000.          0.391000 0.037000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    9600000.          0.365000 0.030000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    1.0000+7          0.412000 0.038000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    1.0300+7          0.432000 0.038000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    1.0700+7          0.535000 0.048000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    1.1100+7          0.540000 0.045000                                       J.L.Gilly+           (63)R0042  7 
+ 1002 30068   3  16    1.1600+7          0.504000 0.039000                                       J.L.Gilly+           (63)R0042  7 
+#/DATA      15
+#/DATASET

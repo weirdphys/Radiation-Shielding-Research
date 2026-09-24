@@ -1,0 +1,36 @@
+#ENTRY      M0275
+#AUTHOR1    M.B.Scott+
+#YEAR       1955
+#INSTITUTE  (1USAUI)
+#TITLE      Electro- and photodisintegration cross sections of
+#+          Cu-63.
+#AUTHOR(S)  M.B.Scott, A.O.Hanson, D.W.Kerst
+#REF-CODE   (J,PR,100,209,1955)
+#REFERENCE  Phys.Rev. 100 (1955) 209 (doi:10.1103/PhysRev.100.209)
+#DATASETS   0
+#
+#DATASET    M0275003 
+#DATE       20160224
+#REACTION   29-CU-63(G,N)29-CU-62,,SIG,,BRS
+#PROJ       0
+#TARG       29063
+#MF         3
+#MT         4
+#PRODUCT    29-CU-62
+#C4BEGIN    [    0 29063   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 29063   3   4    1.1000+7          7.0000-3 3.5000-4                                       M.B.Scott+           (55)M0275  3 
+    0 29063   3   4    1.2000+7          0.012000 6.0000-4                                       M.B.Scott+           (55)M0275  3 
+    0 29063   3   4    1.3000+7          0.019000 9.5000-4                                       M.B.Scott+           (55)M0275  3 
+    0 29063   3   4    1.4000+7          0.032000 1.6000-3                                       M.B.Scott+           (55)M0275  3 
+    0 29063   3   4    1.5000+7          0.056000 2.8000-3                                       M.B.Scott+           (55)M0275  3 
+    0 29063   3   4    1.6000+7          0.074000 3.7000-3                                       M.B.Scott+           (55)M0275  3 
+    0 29063   3   4    1.7000+7          0.080000 4.0000-3                                       M.B.Scott+           (55)M0275  3 
+    0 29063   3   4    1.8000+7          0.074000 3.7000-3                                       M.B.Scott+           (55)M0275  3 
+    0 29063   3   4    1.9000+7          0.049000 2.4500-3                                       M.B.Scott+           (55)M0275  3 
+    0 29063   3   4    2.0000+7          0.019000 9.5000-4                                       M.B.Scott+           (55)M0275  3 
+    0 29063   3   4    2.1000+7          8.0000-3 4.0000-4                                       M.B.Scott+           (55)M0275  3 
+#/DATA      11
+#/DATASET

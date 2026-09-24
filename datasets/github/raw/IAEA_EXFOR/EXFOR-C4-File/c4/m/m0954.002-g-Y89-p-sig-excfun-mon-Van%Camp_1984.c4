@@ -1,0 +1,37 @@
+#ENTRY      M0954
+#AUTHOR1    E.Van Camp+
+#YEAR       1984
+#INSTITUTE  (2BLGGHT)
+#TITLE      Isospin splitting of the giant  dipole  resonance  in
+#+          89Y.
+#AUTHOR(S)  E.Van Camp, D.Ryckbosch, R.Van De Vyver, E.Kerkhove, P.Van Otten, 
+#+          P.Berkvens
+#REF-CODE   (J,PR/C,30,1182,1984)
+#REFERENCE  Phys.Rev.C 30 (1984) 1182 (doi:10.1103/PhysRevC.30.1182)
+#DATASETS   0
+#
+#DATASET    M0954002 
+#DATE       20171124
+#REACTION   39-Y-89(G,P)38-SR-88,,SIG
+#PROJ       0
+#TARG       39089
+#MF         3
+#MT         103
+#PRODUCT    38-SR-88
+#C4BEGIN    [    0 39089   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 39089   3 103    1.3800+7          2.6400-3 1.5500-4                                       E.Van Camp+          (84)M0954  2 
+    0 39089   3 103    1.4800+7          6.0560-3 3.8800-4                                       E.Van Camp+          (84)M0954  2 
+    0 39089   3 103    1.5800+7          0.014907 1.3980-3                                       E.Van Camp+          (84)M0954  2 
+    0 39089   3 103    1.6800+7          0.020342 1.4750-3                                       E.Van Camp+          (84)M0954  2 
+    0 39089   3 103    1.7800+7          0.018323 1.4000-3                                       E.Van Camp+          (84)M0954  2 
+    0 39089   3 103    1.8800+7          0.014752 1.3970-3                                       E.Van Camp+          (84)M0954  2 
+    0 39089   3 103    1.9800+7          0.013820 1.7870-3                                       E.Van Camp+          (84)M0954  2 
+    0 39089   3 103    2.0800+7          0.015916 1.8630-3                                       E.Van Camp+          (84)M0954  2 
+    0 39089   3 103    2.1800+7          0.019798 1.8950-3                                       E.Van Camp+          (84)M0954  2 
+    0 39089   3 103    2.2800+7          0.013441 2.8730-3                                       E.Van Camp+          (84)M0954  2 
+    0 39089   3 103    2.3800+7          0.010870 2.9500-3                                       E.Van Camp+          (84)M0954  2 
+#/DATA      11
+#/DATASET

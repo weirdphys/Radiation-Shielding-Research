@@ -1,0 +1,15 @@
+{
+  "dataset": "PSSD",
+  "evidence_type": "SIMULATED",
+  "archive": "/home/a/Downloads/shielding_ready/_working/archives/PSSD.zip",
+  "files_total": 9293,
+  "numeric_candidates": 2054,
+  "parsed_tables": 2054,
+  "semantic_spectral_rows": 5172618,
+  "notes": [
+    "PSSD is independent RMC simulation data, not experimental ground truth.",
+    "Elemental PSSD spectra must not be naively mixed to create concrete spectra.",
+    "All original source paths are retained for provenance.",
+    "Tables with uncertain semantics remain as separate Parquet files."
+  ]
+}

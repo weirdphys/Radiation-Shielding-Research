@@ -1,0 +1,42 @@
+#ENTRY      B0048
+#AUTHOR1    J.-P.Blaser+
+#YEAR       1951
+#INSTITUTE  (2SWTETH)
+#TITLE      Fonctions d'excitation de la reaction (p,n). I
+#AUTHOR(S)  J.-P.Blaser, F.Boehm, P.Marmier, D.C.Peaslee
+#REF-CODE   (J,HPA,24,3,1951)
+#REFERENCE  Helv.Phys.Acta 24 (1951) 3
+#DATASETS   0
+#
+#DATASET    B0048007 
+#DATE       20190120
+#REACTION   47-AG-107(P,N)48-CD-107,,SIG
+#PROJ       1001
+#TARG       47107
+#MF         3
+#MT         4
+#PRODUCT    48-CD-107
+#C4BEGIN    [ 1001 47107   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 47107   3   4    3310000.          6.9000-4                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    3840000.          3.1000-3                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    4080000.          5.3000-3                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    4270000.          8.2000-3                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    4380000.          0.010000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    4480000.          0.012000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    4590000.          0.015000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    4690000.          0.018000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    4790000.          0.020000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    5010000.          0.027000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    5180000.          0.034000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    5360000.          0.042000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    5540000.          0.051000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    5720000.          0.061000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    5900000.          0.072000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    6080000.          0.086000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    6240000.          0.100000                                                J.-P.Blaser+         (51)B0048  7 
+ 1001 47107   3   4    6400000.          0.120000                                                J.-P.Blaser+         (51)B0048  7 
+#/DATA      18
+#/DATASET

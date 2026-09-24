@@ -1,0 +1,4 @@
+curve,observable,ensemble_group,embedding_dimension,n_points_used,steps_used,coordinate_step,threshold_trimmed,quality_status,Exp1,Exp2,LLE,sum_exponents,positive_count,KS_entropy_proxy,Kaplan_Yorke_dim,Exp3,Exp4
+PDD,pdd_percent,PDD,2,69,67,0.5,False,valid,-0.051771930973489574,-1.9257473861246537,-0.051771930973489574,-1.9775193170981433,0,0.0,0.0,,
+PDD,pdd_percent,PDD,3,68,66,0.5,False,valid,-0.08358919354232922,-0.8415401106733901,-0.08358919354232922,-2.7340332617116894,0,0.0,0.0,-1.80890395749597,
+PDD,pdd_percent,PDD,4,67,65,0.5,False,valid,-0.06528478139783148,-0.5865572369446039,-0.06528478139783148,-3.1941093526165023,0,0.0,0.0,-0.8598047177134553,-1.6824626165606116

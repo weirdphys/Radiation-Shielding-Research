@@ -1,0 +1,33 @@
+#ENTRY      P0046
+#AUTHOR1    M.Lindner+
+#YEAR       1954
+#INSTITUTE  (1USALRL)
+#TITLE      Some Studies of the Products of the High-Energy
+#+          Fission Process
+#AUTHOR(S)  M.Lindner, R.N.Osborne
+#REF-CODE   (J,PR,94,1323,1954)
+#REFERENCE  Phys.Rev. 94 (1954) 1323 (doi:10.1103/PhysRev.94.1323)
+#DATASETS   0
+#
+#DATASET    P0046017 
+#DATE       19830929
+#REACTION   90-TH-232(A,F)47-AG-111,,SIG
+#PROJ       2004
+#TARG       90232
+#MF         3
+#MT         454
+#PRODUCT    47-AG-111
+#C4BEGIN    [ 2004 90232   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 90232   3 454    1.0400+8          0.061000                    47111.9                     M.Lindner+           (54)P0046 17 
+ 2004 90232   3 454    1.3800+8          0.077800                    47111.9                     M.Lindner+           (54)P0046 17 
+ 2004 90232   3 454    1.5800+8          0.090900                    47111.9                     M.Lindner+           (54)P0046 17 
+ 2004 90232   3 454    1.9400+8          0.082400                    47111.9                     M.Lindner+           (54)P0046 17 
+ 2004 90232   3 454    2.7000+8          0.076400                    47111.9                     M.Lindner+           (54)P0046 17 
+ 2004 90232   3 454    3.0600+8          0.078800                    47111.9                     M.Lindner+           (54)P0046 17 
+ 2004 90232   3 454    3.7900+8          0.075800                    47111.9                     M.Lindner+           (54)P0046 17 
+ 2004 90232   3 454    3.8000+8          0.064900                    47111.9                     M.Lindner+           (54)P0046 17 
+#/DATA      8
+#/DATASET

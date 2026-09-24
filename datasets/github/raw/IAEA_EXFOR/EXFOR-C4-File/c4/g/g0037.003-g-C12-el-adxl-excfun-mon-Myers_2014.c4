@@ -1,0 +1,80 @@
+#ENTRY      G0037
+#AUTHOR1    L.S.Myers+
+#YEAR       2014
+#INSTITUTE  (1USAUI)
+#TITLE      Compton scattering from 12C using tagged photons in
+#+          the energy range 65-115 MeV
+#AUTHOR(S)  L.S.Myers, K.Shoniyozov, M.F.Preston, M.D.Anderson, J.R.M.Annand, 
+#+          M.Boselli, W.J.Briscoe, J.Brudvik, J.I.Capone, G.Feldman, 
+#+          K.G.Fissum, K.Hansen, S.S.Henshaw, L.Isaksson, R.Jebali, 
+#+          M.A.Kovash, K.Lewis, M.Lundin, I.J.D.MacGregor, D.G.Middleton, 
+#+          D.E.Mittelberger, M.Murray, A.M.Nathan, S.Nutbeam, G.V.O'Rielly, 
+#+          B.Schroeder, B.Seitz, S.C.Stave, H.R.Weller
+#REF-CODE   (J,PR/C,89,035202,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 035202 (doi:10.1103/PhysRevC.89.035202)
+#DATASETS   0
+#
+#DATASET    G0037003 
+#DATE       20140402
+#REACTION   6-C-12(G,EL)6-C-12,,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4   2 C  6.5500+7          5.1700-7 3.4000-8 0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  7.5700+7          4.3200-7 2.3000-8 0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  8.6200+7          3.6800-7 2.2000-8 0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  8.7300+7          3.8900-7 1.4000-8 0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  9.5900+7          2.5000-7 2.0000-8 0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  9.6300+7          3.2400-7 1.3000-8 0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  1.0470+8          2.1200-7 1.1000-8 0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  1.1290+8          2.0900-7 9.0000-9 0.500000                              L.S.Myers+           (14)G0037  3 
+#/DATA      8
+#/DATASET
+#
+#DATASET    G0037003 
+#DATE       20140402
+#REACTION   6-C-12(G,EL)6-C-12,,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4   2 C  6.5500+7          5.4600-7 1.9000-8-0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  7.5700+7          4.8900-7 1.5000-8-0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  8.6200+7          3.7200-7 1.4000-8-0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  8.7300+7          3.6500-7 1.1000-8-0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  9.5900+7          3.0000-7 1.4000-8-0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  9.6300+7          3.1200-7 1.0000-8-0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  1.0470+8          2.5600-7 8.0000-9-0.500000                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  1.1290+8          2.1300-7 7.0000-9-0.500000                              L.S.Myers+           (14)G0037  3 
+#/DATA      8
+#/DATASET
+#
+#DATASET    G0037003 
+#DATE       20140402
+#REACTION   6-C-12(G,EL)6-C-12,,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4   2 C  8.7300+7          3.8100-7 1.1000-8-0.866025                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  9.6300+7          3.1200-7 1.0000-8-0.866025                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  1.0470+8          2.6300-7 8.0000-9-0.866025                              L.S.Myers+           (14)G0037  3 
+    0  6012   4   2 C  1.1290+8          1.6600-7 7.0000-9-0.866025                              L.S.Myers+           (14)G0037  3 
+#/DATA      4
+#/DATASET

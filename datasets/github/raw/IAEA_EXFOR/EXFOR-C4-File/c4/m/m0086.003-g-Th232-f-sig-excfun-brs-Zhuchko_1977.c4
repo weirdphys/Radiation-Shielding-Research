@@ -1,0 +1,45 @@
+#ENTRY      M0086
+#AUTHOR1    V.E.Zhuchko+
+#YEAR       1977
+#INSTITUTE  (4RUSIFP)
+#TITLE      Quadrupole photofission of 232Th and role of symmetry
+#+          of the nucleus in the fission process
+#AUTHOR(S)  V.E.Zhuchko, S.P.Kapitza, Yu.B.Ostapenko, G.N.Smirenkin, 
+#+          A.S.Soldatov, Yu.M.Tsipenyuk
+#REF-CODE   (J,JEL,26,553,1977)
+#REFERENCE  JETP Lett. 26 (1977) 553
+#DATASETS   0
+#
+#DATASET    M0086003 
+#DATE       20250504
+#REACTION   90-TH-232(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    0 90232   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3  18 A  4600000.          2.510-11                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  4750000.          2.6100-9                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  5000000.          1.1200-7                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  5080000.          3.5900-7                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  5170000.          3.4400-7                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  5250000.          1.1800-6                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  5500000.          2.5600-4                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  5550000.          3.5200-4                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  5670000.          2.9000-4                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  5750000.          2.8400-4                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  5850000.          1.0000-3                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  6000000.          3.7500-3                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  6100000.          5.5000-3                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  6200000.          5.6000-3                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  6250000.          6.3900-3                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  6360000.          0.011200                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  6500000.          8.4300-3                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  6750000.          4.6200-3                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  6900000.          2.7800-3                                                V.E.Zhuchko+         (77)M0086  3 
+    0 90232   3  18 A  7000000.          3.9100-3                                                V.E.Zhuchko+         (77)M0086  3 
+#/DATA      20
+#/DATASET

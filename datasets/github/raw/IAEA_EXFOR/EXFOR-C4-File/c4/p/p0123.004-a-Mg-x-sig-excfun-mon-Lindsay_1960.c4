@@ -1,0 +1,29 @@
+#ENTRY      P0123
+#AUTHOR1    R.H.Lindsay+
+#YEAR       1960
+#INSTITUTE  (1USAWSU)
+#TITLE      He-Ion Induced Reactions of Aluminum and Magnesium
+#AUTHOR(S)  R.H.Lindsay, R.J.Carr
+#REF-CODE   (J,PR,118,1293,1960)
+#REFERENCE  Phys.Rev. 118 (1960) 1293 (doi:10.1103/PhysRev.118.1293)
+#DATASETS   0
+#
+#DATASET    P0123004 
+#DATE       20220421
+#REACTION   12-MG-0(A,X)11-NA-24,,SIG
+#PROJ       2004
+#TARG       12000
+#MF         3
+#MT         454
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 2004 12000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12000   3 454    2.3988+7 1208000. 1.5890-4                    11024.9                     R.H.Lindsay+         (60)P0123  4 
+ 2004 12000   3 454    2.6405+7 1511000. 9.4170-4                    11024.9                     R.H.Lindsay+         (60)P0123  4 
+ 2004 12000   3 454    3.0785+7 1284000. 4.9120-3                    11024.9                     R.H.Lindsay+         (60)P0123  4 
+ 2004 12000   3 454    3.3353+7 1208000. 7.9930-3                    11024.9                     R.H.Lindsay+         (60)P0123  4 
+ 2004 12000   3 454    3.5770+7 1360000. 9.9800-3                    11024.9                     R.H.Lindsay+         (60)P0123  4 
+#/DATA      5
+#/DATASET

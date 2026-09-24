@@ -1,0 +1,31 @@
+#ENTRY      M0522
+#AUTHOR1    B.E.Macgibbon+
+#YEAR       1995
+#INSTITUTE  (1USAUI)
+#TITLE      Measurement of the electric and magnetic
+#+          polarizabilities of the proton.
+#AUTHOR(S)  B.E.Macgibbon, G.Garino, M.A.Lucas, A.M.Nathan, G.Feldman, 
+#+          B.Dolbilkin
+#REF-CODE   (J,PR/C,52,2097,1995)
+#REFERENCE  Phys.Rev.C 52 (1995) 2097 (doi:10.1103/PhysRevC.52.2097)
+#DATASETS   0
+#
+#DATASET    M0522005 
+#DATE       20160205
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2    1.0500+8 5000000. 9.4800-9 1.4400-9 6.123-17                              B.E.Macgibbon+       (95)M0522  5 
+    0  1001   4   2    1.1500+8 5000000. 1.2070-8 1.5600-9 6.123-17                              B.E.Macgibbon+       (95)M0522  5 
+    0  1001   4   2    1.2500+8 5000000. 1.1190-8 1.0200-9 6.123-17                              B.E.Macgibbon+       (95)M0522  5 
+    0  1001   4   2    1.3500+8 5000000. 1.1400-8 1.5900-9 6.123-17                              B.E.Macgibbon+       (95)M0522  5 
+    0  1001   4   2    1.4500+8 5000000. 1.3070-8 2.4200-9 6.123-17                              B.E.Macgibbon+       (95)M0522  5 
+#/DATA      5
+#/DATASET

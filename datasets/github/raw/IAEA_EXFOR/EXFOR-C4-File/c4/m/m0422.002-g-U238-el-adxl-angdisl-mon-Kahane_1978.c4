@@ -1,0 +1,35 @@
+#ENTRY      M0422
+#AUTHOR1    S.Kahane+
+#YEAR       1978
+#INSTITUTE  (3ISLNEG)
+#TITLE      Evidence for coulomb correction  effect  in  Delbruck
+#+          scattering of 9.0 and 7.9 mev photons on U-238.
+#AUTHOR(S)  S.Kahane, R.Moreh
+#REF-CODE   (J,NP/A,308,88,1978)
+#REFERENCE  Nucl.Phys.A 308 (1978) 88 (doi:10.1016/0375-9474(78)90442-6)
+#DATASETS   0
+#
+#DATASET    M0422002 
+#DATE       20160906
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    9000000.          0.691000 0.085400 0.999781                              S.Kahane+            (78)M0422  2 
+    0 92238   4   2    9000000.          0.400000 0.019300 0.999657                              S.Kahane+            (78)M0422  2 
+    0 92238   4   2    9000000.          4.6100-4 3.8000-5 0.906308                              S.Kahane+            (78)M0422  2 
+    0 92238   4   2    9000000.          2.1600-4 1.7000-5 0.819152                              S.Kahane+            (78)M0422  2 
+    0 92238   4   2    9000000.          1.1300-4 1.2000-5 0.707107                              S.Kahane+            (78)M0422  2 
+    0 92238   4   2    9000000.          5.4000-5 7.0000-6 0.500000                              S.Kahane+            (78)M0422  2 
+    0 92238   4   2    9000000.          3.9000-5 5.0000-6 0.258819                              S.Kahane+            (78)M0422  2 
+    0 92238   4   2    9000000.          3.0000-5 4.0000-6 6.123-17                              S.Kahane+            (78)M0422  2 
+    0 92238   4   2    9000000.          2.6000-5 3.0000-6-0.500000                              S.Kahane+            (78)M0422  2 
+    0 92238   4   2    9000000.          3.3000-5 3.0000-6-0.766044                              S.Kahane+            (78)M0422  2 
+#/DATA      10
+#/DATASET

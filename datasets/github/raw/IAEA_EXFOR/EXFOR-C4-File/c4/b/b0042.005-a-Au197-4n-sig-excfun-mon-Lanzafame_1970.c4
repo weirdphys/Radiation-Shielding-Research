@@ -1,0 +1,51 @@
+#ENTRY      B0042
+#AUTHOR1    F.M.Lanzafame+
+#YEAR       1970
+#INSTITUTE  (1USAROC)
+#TITLE      Reactions of 197Au with 19 to 100 MeV 4He ions:
+#+          Equilibrium statistical model analyses
+#AUTHOR(S)  F.M.Lanzafame, M.Blann
+#REF-CODE   (J,NP/A,142,545,1970)
+#REFERENCE  Nucl.Phys.A 142 (1970) 545 (doi:10.1016/0375-9474(70)90811-0)
+#DATASETS   0
+#
+#DATASET    B0042005 
+#DATE       20160824
+#REACTION   79-AU-197(A,4N)81-TL-197,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         37
+#PRODUCT    81-TL-197
+#C4BEGIN    [ 2004 79197   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3  37    3.9900+7          0.097000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    4.1700+7          0.410000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    4.3500+7          0.820000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    4.5300+7          1.150000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    4.7100+7          1.350000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    4.9000+7          1.670000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    5.0300+7          1.420000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    5.1300+7          1.490000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    5.2200+7          1.170000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    5.3500+7          1.250000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    5.4600+7          0.870000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    5.5600+7          0.860000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    5.5800+7          0.570000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    5.7300+7          0.450000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    5.7600+7          0.610000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    5.9600+7          0.480000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    6.1500+7          0.330000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    6.3400+7          0.270000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    6.5400+7          0.240000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    6.7200+7          0.210000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    6.9000+7          0.190000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    7.0700+7          0.165000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    7.2400+7          0.145000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    7.4100+7          0.162000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    7.5700+7          0.159000                                                F.M.Lanzafame+       (70)B0042  5 
+ 2004 79197   3  37    7.7400+7          0.164000                                                F.M.Lanzafame+       (70)B0042  5 
+#/DATA      26
+#/DATASET

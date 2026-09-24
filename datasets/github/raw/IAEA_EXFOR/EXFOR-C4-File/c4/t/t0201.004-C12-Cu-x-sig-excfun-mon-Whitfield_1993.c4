@@ -1,0 +1,26 @@
+#ENTRY      T0201
+#AUTHOR1    J.P.Whitfield+
+#YEAR       1993
+#INSTITUTE  (1USAPUR)
+#TITLE      Evolution of the reaction dynamics in the interaction
+#+          of copper with 15-90 MeV/nucleon 12C ions.
+#AUTHOR(S)  J.P.Whitfield, N.T.Porile
+#REF-CODE   (J,PR/C,47,1636,1993)
+#REFERENCE  Phys.Rev.C 47 (1993) 1636 (doi:10.1103/PhysRevC.47.1636)
+#DATASETS   0
+#
+#DATASET    T0201004 
+#DATE       20241025
+#REACTION   29-CU-0(6-C-12,X)27-CO-60,,SIG
+#PROJ       6012
+#TARG       29000
+#MF         3
+#MT         454
+#PRODUCT    27-CO-60
+#C4BEGIN    [ 6012 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 29000   3 454    1.0730+9          0.020400 9.0000-4           27060.9                     J.P.Whitfield+       (93)T0201  4 
+#/DATA      1
+#/DATASET

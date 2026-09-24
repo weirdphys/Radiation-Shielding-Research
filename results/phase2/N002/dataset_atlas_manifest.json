@@ -1,0 +1,27 @@
+{
+  "dataset_id": "N002",
+  "object_id": "N002.TRAJ_DEPTH",
+  "coordinate_native": "shield_depth_cm",
+  "coordinate_analysis": "shield_depth_cm",
+  "coordinate_transform": "identity",
+  "coordinate_reference": NaN,
+  "coordinate_unit": "cm",
+  "source_path": "results/phase1/ordered_response_fields/N002_JAERI_TIARA_68MEV_R_E_t_x_reference.npz",
+  "n_curves_loaded": 51,
+  "max_curve_points": 5,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "neutron_response_channels": 51
+  },
+  "registry": {
+    "name": "JAERI/TIARA concrete ~68 MeV source",
+    "particle": "neutron",
+    "evidence": "EXPERIMENTAL",
+    "role": "Higher-energy companion with measured transmission, depth and dose evidence.",
+    "path": "radiation_benchmark_data/neutron/jaeri_tiara_* selected at source_proton_MeV=68",
+    "richness": "RICH_STATE_TRAJECTORY",
+    "guardrail": "Depth/energy are transport coordinates, not time."
+  },
+  "state_group_shapes": {}
+}

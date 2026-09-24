@@ -1,0 +1,35 @@
+#ENTRY      S0011
+#AUTHOR1    Tao Zhenlan+
+#YEAR       1987
+#INSTITUTE  (3CPRNRS)
+#TITLE      The excitation function for the reaction
+#+          27Al(d,a+p)24Na
+#AUTHOR(S)  Tao Zhenlan, Zhu Fuying, Wang Gongqing
+#REF-CODE   (J,NTC,10,(2),45,1987)
+#REFERENCE  Nucl.Tech. 10 No.2 (1987) 45
+#DATASETS   0
+#
+#DATASET    S0011002 
+#DATE       20200802
+#REACTION   13-AL-27(D,P+A)11-NA-24,,SIG
+#PROJ       1002
+#TARG       13027
+#MF         3
+#MT         112
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 1002 13027   3 112  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13027   3 112    1.5700+7          0.017900 1.2000-3                                       Tao Zhenlan+         (87)S0011  2 
+ 1002 13027   3 112    1.5400+7          0.016800 1.1000-3                                       Tao Zhenlan+         (87)S0011  2 
+ 1002 13027   3 112    1.5000+7          0.015200 1.0000-3                                       Tao Zhenlan+         (87)S0011  2 
+ 1002 13027   3 112    1.4600+7          0.013100 9.0000-4                                       Tao Zhenlan+         (87)S0011  2 
+ 1002 13027   3 112    1.4200+7          0.011900 8.0000-4                                       Tao Zhenlan+         (87)S0011  2 
+ 1002 13027   3 112    1.3800+7          9.9000-3 7.0000-4                                       Tao Zhenlan+         (87)S0011  2 
+ 1002 13027   3 112    1.3400+7          8.8000-3 6.0000-4                                       Tao Zhenlan+         (87)S0011  2 
+ 1002 13027   3 112    1.2900+7          7.0000-3 5.0000-4                                       Tao Zhenlan+         (87)S0011  2 
+ 1002 13027   3 112    1.2500+7          5.8000-3 4.0000-4                                       Tao Zhenlan+         (87)S0011  2 
+ 1002 13027   3 112    1.2000+7          4.3000-3 3.0000-4                                       Tao Zhenlan+         (87)S0011  2 
+#/DATA      10
+#/DATASET

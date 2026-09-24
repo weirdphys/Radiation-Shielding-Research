@@ -1,0 +1,40 @@
+#ENTRY      L0039
+#AUTHOR1    A.Veyssiere+
+#YEAR       1974
+#INSTITUTE  (2FR SAC)
+#TITLE      A study of the photoneutron contribution to the giant
+#+          dipole resonance of s-d shell nuclei.
+#AUTHOR(S)  A.Veyssiere, H.Beil, R.Bergere, P.Carlos, A.Lepretre, A.De Miniac
+#REF-CODE   (J,NP/A,227,513,74)
+#REFERENCE  Nucl.Phys.A 227 (1974) 513 (doi:10.1016/0375-9474(74)90774-X)
+#DATASETS   0
+#
+#DATASET    L0039042 
+#DATE       19970129
+#REACTION   23-V-51(G,2N)23-V-49,,SIG
+#PROJ       0
+#TARG       23051
+#MF         3
+#MT         16
+#PRODUCT    23-V-49
+#C4BEGIN    [    0 23051   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 23051   3  16    2.0250+7          2.0000-4 7.0000-4                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.0790+7          3.0000-3 7.0000-4                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.1340+7          4.1000-3 8.0000-4                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.1880+7          7.8000-3 8.0000-4                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.2420+7          0.010700 9.0000-4                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.2960+7          0.014100 9.0000-4                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.3500+7          0.014300 1.0000-3                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.4050+7          0.014700 1.0000-3                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.4590+7          0.015900 1.1000-3                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.5130+7          0.013100 1.1000-3                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.5670+7          0.013400 1.2000-3                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.6210+7          0.013700 1.2000-3                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.6760+7          8.9000-3 1.3000-3                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.7300+7          0.010000 1.3000-3                                       A.Veyssiere+         (74)L0039 42 
+    0 23051   3  16    2.7840+7          4.3000-3 1.3000-3                                       A.Veyssiere+         (74)L0039 42 
+#/DATA      15
+#/DATASET

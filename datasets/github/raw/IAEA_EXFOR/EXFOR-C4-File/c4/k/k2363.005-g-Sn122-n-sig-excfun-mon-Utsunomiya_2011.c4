@@ -1,0 +1,38 @@
+#ENTRY      K2363
+#AUTHOR1    H.Utsunomiya+
+#YEAR       2011
+#INSTITUTE  (2JPNKON)
+#TITLE      Photoneutron cross section for 118-124Sn and the
+#+          gamma-ray strength function method
+#AUTHOR(S)  H.Utsunomiya, S.Goriely, M.Kamata, H.Akimune, T.Kondo, O.Itoh, 
+#+          C.Iwamoto, T.Yamagata, H.Toyokawa, Y.-W.Lui, H.Harada, F.Kitatani, 
+#+          S.Goko, S.Hilaire, A.J.Koning
+#REF-CODE   (J,PR/C,84,(5),055805,201111)
+#REFERENCE  Phys.Rev.C 84 No.5 (2011) 055805 (doi:10.1103/PhysRevC.84.055805)
+#DATASETS   0
+#
+#DATASET    K2363005 
+#DATE       20121027
+#REACTION   50-SN-122(G,N)50-SN-121,,SIG
+#PROJ       0
+#TARG       50122
+#MF         3
+#MT         4
+#PRODUCT    50-SN-121
+#C4BEGIN    [    0 50122   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 50122   3   4    8880000.          0.015570 6.5000-4                                       H.Utsunomiya+        (11)K2363  5 
+    0 50122   3   4    9010000.          0.016560 3.6000-4                                       H.Utsunomiya+        (11)K2363  5 
+    0 50122   3   4    9180000.          0.016070 3.7000-4                                       H.Utsunomiya+        (11)K2363  5 
+    0 50122   3   4    9490000.          0.018380 4.2000-4                                       H.Utsunomiya+        (11)K2363  5 
+    0 50122   3   4    9530000.          0.021560 1.2100-3                                       H.Utsunomiya+        (11)K2363  5 
+    0 50122   3   4    9830000.          0.022570 4.0000-4                                       H.Utsunomiya+        (11)K2363  5 
+    0 50122   3   4    1.0200+7          0.028970 1.0100-3                                       H.Utsunomiya+        (11)K2363  5 
+    0 50122   3   4    1.0740+7          0.036060 1.0700-3                                       H.Utsunomiya+        (11)K2363  5 
+    0 50122   3   4    1.1000+7          0.042660 1.2200-3                                       H.Utsunomiya+        (11)K2363  5 
+    0 50122   3   4    1.1520+7          0.050870 1.4100-3                                       H.Utsunomiya+        (11)K2363  5 
+    0 50122   3   4    1.1940+7          0.067510 1.7700-3                                       H.Utsunomiya+        (11)K2363  5 
+#/DATA      11
+#/DATASET

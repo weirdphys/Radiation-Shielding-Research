@@ -1,0 +1,33 @@
+#ENTRY      R0015
+#AUTHOR1    J.Van de Wiele+
+#YEAR       1978
+#INSTITUTE  (2FR PAR)
+#TITLE      Study of the mechanism of the (3He,a) reaction at 217
+#+          (205) MeV and the excitation of hole states in deep
+#+          layers
+#AUTHOR(S)  J.Van de Wiele, E.Gerlic, H.Langevin-Joliot, G.Duhamel
+#REF-CODE   (J,NP/A,297,61,1978)
+#REFERENCE  Nucl.Phys.A 297 (1978) 61 (doi:10.1016/0375-9474(78)90199-9)
+#DATASETS   0
+#
+#DATASET    R0015023 
+#DATE       20040830
+#REACTION   14-SI-28(HE3,A)14-SI-27,PAR,DA
+#PROJ       2003
+#TARG       14028
+#MF         4
+#MT         800
+#PRODUCT    14-SI-27
+#C4BEGIN    [ 2003 14028   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 14028   4 800  C 2.1700+8          2.3000-3          0.992757          2.7700+7 1.2300+7LVLJ.Van de Wiele+      (78)R0015 23 
+ 2003 14028   4 800  C 2.1700+8          2.5000-3          0.989272          2.7700+7 1.2300+7LVLJ.Van de Wiele+      (78)R0015 23 
+ 2003 14028   4 800  C 2.1700+8          2.6000-3 3.0000-4 0.983885          2.7700+7 1.2300+7LVLJ.Van de Wiele+      (78)R0015 23 
+ 2003 14028   4 800  C 2.1700+8          1.4900-3          0.971549          2.7700+7 1.2300+7LVLJ.Van de Wiele+      (78)R0015 23 
+ 2003 14028   4 800  C 2.1700+8          9.3000-4          0.955793          2.7700+7 1.2300+7LVLJ.Van de Wiele+      (78)R0015 23 
+ 2003 14028   4 800  C 2.1700+8          3.1000-4          0.936672          2.7700+7 1.2300+7LVLJ.Van de Wiele+      (78)R0015 23 
+ 2003 14028   4 800  C 2.1700+8          1.7000-4 7.0000-5 0.912834          2.7700+7 1.2300+7LVLJ.Van de Wiele+      (78)R0015 23 
+#/DATA      7
+#/DATASET

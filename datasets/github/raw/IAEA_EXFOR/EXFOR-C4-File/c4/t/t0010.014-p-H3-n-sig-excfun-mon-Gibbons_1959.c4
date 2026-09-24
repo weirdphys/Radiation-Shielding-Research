@@ -1,0 +1,41 @@
+#ENTRY      T0010
+#AUTHOR1    J.H.Gibbons+
+#YEAR       1959
+#INSTITUTE  (1USAORL)
+#TITLE      Total neutron yields from light elements under proton
+#+          and alpha bombardment
+#AUTHOR(S)  J.H.Gibbons, R.L.Macklin
+#REF-CODE   (J,PR,114,571,1959)
+#REFERENCE  Phys.Rev. 114 (1959) 571 (doi:10.1103/PhysRev.114.571)
+#DATASETS   0
+#
+#DATASET    T0010014 
+#DATE       20181113
+#REACTION   1-H-3(P,N)2-HE-3,,SIG
+#PROJ       1001
+#TARG       1003
+#MF         3
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   3   4 C  2006000.          0.411887 0.041189                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  2212000.          0.457368 0.045737                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  2412000.          0.502854 0.050285                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  2636000.          0.536671 0.053667                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  2853000.          0.557872 0.055787                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  2955000.          0.580000 0.058000                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  3076000.          0.575186 0.057519                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  3317000.          0.557535 0.055754                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  3575000.          0.542783 0.054278                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  3581000.          0.535012 0.053501                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  3834000.          0.514440 0.051444                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  4104000.          0.480262 0.048026                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  4368000.          0.443177 0.044318                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  4638000.          0.414824 0.041482                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  4933000.          0.397134 0.039713                                       J.H.Gibbons+         (59)T0010 14 
+ 1001  1003   3   4 C  5233000.          0.366818 0.036682                                       J.H.Gibbons+         (59)T0010 14 
+#/DATA      16
+#/DATASET

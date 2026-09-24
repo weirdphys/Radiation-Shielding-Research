@@ -1,0 +1,26 @@
+#ENTRY      M0428
+#AUTHOR1    H.E.Jackson+
+#YEAR       1974
+#INSTITUTE  (1USAANL)
+#TITLE      Delbruck and nuclear raman scattering of 10.83 MeV
+#+          photons by deformed and spherical heavy nuclei.
+#AUTHOR(S)  H.E.Jackson, G.E.Thomas, K.J.Wetzel
+#REF-CODE   (J,PR/C,9,1153,1974)
+#REFERENCE  Phys.Rev.C 9 (1974) 1153 (doi:10.1103/PhysRevC.9.1153)
+#DATASETS   0
+#
+#DATASET    M0428010 
+#DATE       20220228
+#REACTION   83-BI-209(G,EL)83-BI-209,,DA
+#PROJ       0
+#TARG       83209
+#MF         4
+#MT         2
+#PRODUCT    83-BI-209
+#C4BEGIN    [    0 83209   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 83209   4   2 D  1.0830+7          1.0100-4 6.2000-6 6.123-17                              H.E.Jackson+         (74)M0428 10 
+#/DATA      1
+#/DATASET

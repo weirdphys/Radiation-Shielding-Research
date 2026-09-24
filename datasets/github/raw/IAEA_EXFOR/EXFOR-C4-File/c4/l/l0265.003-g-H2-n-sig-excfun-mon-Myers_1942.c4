@@ -1,0 +1,25 @@
+#ENTRY      L0265
+#AUTHOR1    F.E.Myers+
+#YEAR       1942
+#INSTITUTE  (1USAMIT)
+#TITLE      On the Photodisintegration of Beryllium and Deuterium
+#AUTHOR(S)  F.E.Myers, L.C.Van Atta
+#REF-CODE   (J,PR,61,19,1942)
+#REFERENCE  Phys.Rev. 61 (1942) 19 (doi:10.1103/PhysRev.61.19)
+#DATASETS   0
+#
+#DATASET    L0265003 
+#DATE       20201209
+#REACTION   1-H-2(G,N)1-H-1,,SIG
+#PROJ       0
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   3   4    2308000. 125000.0 1.0000-4                                                F.E.Myers+           (42)L0265  3 
+#/DATA      1
+#/DATASET

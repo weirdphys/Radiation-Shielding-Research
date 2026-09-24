@@ -1,0 +1,34 @@
+#ENTRY      P0058
+#AUTHOR1    F.S.Houck+
+#YEAR       1961
+#INSTITUTE  (1USACOL)
+#TITLE      Reactions of Alpha Particles with Iron-54 and Nickel-58
+#AUTHOR(S)  F.S.Houck, J.M.Miller
+#REF-CODE   (J,PR,123,231,196107)
+#REFERENCE  Phys.Rev. 123 (1961) 231 (doi:10.1103/PhysRev.123.231)
+#DATASETS   0
+#
+#DATASET    P0058003 
+#DATE       20000817
+#REACTION   28-NI-58(A,P+A)27-CO-57,,SIG
+#PROJ       2004
+#TARG       28058
+#MF         3
+#MT         112
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 2004 28058   3 112  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28058   3 112    1.6800+7          1.7900-3                                                F.S.Houck+           (61)P0058  3 
+ 2004 28058   3 112    2.0100+7          0.043300                                                F.S.Houck+           (61)P0058  3 
+ 2004 28058   3 112    2.3200+7          0.140000                                                F.S.Houck+           (61)P0058  3 
+ 2004 28058   3 112    2.6000+7          0.209000                                                F.S.Houck+           (61)P0058  3 
+ 2004 28058   3 112    2.8500+7          0.259000                                                F.S.Houck+           (61)P0058  3 
+ 2004 28058   3 112    3.1000+7          0.279000                                                F.S.Houck+           (61)P0058  3 
+ 2004 28058   3 112    3.3200+7          0.279000                                                F.S.Houck+           (61)P0058  3 
+ 2004 28058   3 112    3.5400+7          0.279000                                                F.S.Houck+           (61)P0058  3 
+ 2004 28058   3 112    3.7700+7          0.252000                                                F.S.Houck+           (61)P0058  3 
+ 2004 28058   3 112    3.9600+7          0.230000                                                F.S.Houck+           (61)P0058  3 
+#/DATA      10
+#/DATASET

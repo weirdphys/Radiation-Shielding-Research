@@ -1,0 +1,39 @@
+#ENTRY      T0030
+#AUTHOR1    K.K.Harris+
+#YEAR       1965
+#INSTITUTE  (1USALMS)
+#TITLE      The V51(p,n)Cr51 reaction as a neutron source of
+#+          known intensity
+#AUTHOR(S)  K.K.Harris, H.A.Grench, R.G.Johnson, F.J.Vaughn
+#REF-CODE   (J,NIM,33,257,1965)
+#REFERENCE  Nucl.Intrum.Meth. 33 (1965) 257 (doi:10.1016/0029-554X(65)90050-9)
+#DATASETS   0
+#
+#DATASET    T0030002 
+#DATE       19990915
+#REACTION   23-V-51(P,N)24-CR-51,,SIG
+#PROJ       1001
+#TARG       23051
+#MF         3
+#MT         4
+#PRODUCT    24-CR-51
+#C4BEGIN    [ 1001 23051   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 23051   3   4    1580000.          3.0900-4 2.4000-5                                       K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    1590000.          2.2300-4 1.4000-5                                       K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    1600000.          3.6800-4 2.2000-5                                       K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    1620000.          4.7000-4 3.2000-5                                       K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    1640000.          6.5800-4 3.4000-5                                       K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    1660000.          6.7600-4                                                K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    1700000.          1.2400-3                                                K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    1740000.          6.2500-4                                                K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    1800000.          1.5100-3                                                K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    1860000.          1.7300-3                                                K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    1950000.          3.2100-3                                                K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    2090000.          5.5200-3                                                K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    2140000.          9.6400-3                                                K.K.Harris+          (65)T0030  2 
+ 1001 23051   3   4    2280000.          0.011500 3.7200-4                                       K.K.Harris+          (65)T0030  2 
+#/DATA      14
+#/DATASET

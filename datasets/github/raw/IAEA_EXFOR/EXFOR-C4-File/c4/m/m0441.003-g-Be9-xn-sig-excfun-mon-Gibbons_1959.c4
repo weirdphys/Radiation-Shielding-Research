@@ -1,0 +1,26 @@
+#ENTRY      M0441
+#AUTHOR1    J.H.Gibbons+
+#YEAR       1959
+#INSTITUTE  (1USAORL)
+#TITLE      Precision measurement of the Be-9(gamma,n) cross
+#+          section.
+#AUTHOR(S)  J.H.Gibbons, R.L.Macklin, J.B.Marion, H.W.Schmidt
+#REF-CODE   (J,PR,114,1319,1959)
+#REFERENCE  Phys.Rev. 114 (1959) 1319 (doi:10.1103/PhysRev.114.1319)
+#DATASETS   0
+#
+#DATASET    M0441003 
+#DATE       20170127
+#REACTION   4-BE-9(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       4009
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0  4009   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  4009   3 201    1690000.          1.2620-3 6.9000-5                                       J.H.Gibbons+         (59)M0441  3 
+#/DATA      1
+#/DATASET

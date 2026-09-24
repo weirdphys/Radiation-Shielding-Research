@@ -1,0 +1,11 @@
+dataset_id,evidence_type,machine,nominal_photon_energy_MV,field_size_x_cm,field_size_y_cm,flattening_filter,position_id,thermal_neutron_fluence_n_cm2_Gy,uncertainty_n_cm2_Gy,source_table_units_original,normalization
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,Varian TrueBeam,15,10.0,10.0,True,P1,159300.0,3200.0,10^3 neutron cm^-2 Gy^-1,per delivered photon dose at dmax
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,Varian TrueBeam,15,10.0,10.0,True,P2,160300.0,3200.0,10^3 neutron cm^-2 Gy^-1,per delivered photon dose at dmax
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,Varian TrueBeam,15,10.0,10.0,True,P3,193600.0,3900.0,10^3 neutron cm^-2 Gy^-1,per delivered photon dose at dmax
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,Varian TrueBeam,15,10.0,10.0,True,P4,141600.0,2800.0,10^3 neutron cm^-2 Gy^-1,per delivered photon dose at dmax
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,Varian TrueBeam,15,10.0,10.0,True,P5,114900.0,2300.0,10^3 neutron cm^-2 Gy^-1,per delivered photon dose at dmax
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,Elekta Synergy,15,10.0,10.0,True,P1,43600.0,900.0,10^3 neutron cm^-2 Gy^-1,per delivered photon dose at dmax
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,Elekta Synergy,15,10.0,10.0,True,P2,39500.0,800.0,10^3 neutron cm^-2 Gy^-1,per delivered photon dose at dmax
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,Elekta Synergy,15,10.0,10.0,True,P3,39600.0,800.0,10^3 neutron cm^-2 Gy^-1,per delivered photon dose at dmax
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,Elekta Synergy,15,10.0,10.0,True,P4,41200.0,800.0,10^3 neutron cm^-2 Gy^-1,per delivered photon dose at dmax
+NVAL_15MV_ZAMORANO_THERMAL,EXPERIMENTAL,Elekta Synergy,15,10.0,10.0,True,P5,27300.0,500.0,10^3 neutron cm^-2 Gy^-1,per delivered photon dose at dmax

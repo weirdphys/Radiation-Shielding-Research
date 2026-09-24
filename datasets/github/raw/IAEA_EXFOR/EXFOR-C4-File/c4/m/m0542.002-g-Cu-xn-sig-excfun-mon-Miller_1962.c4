@@ -1,0 +1,38 @@
+#ENTRY      M0542
+#AUTHOR1    J.Miller+
+#YEAR       1962
+#INSTITUTE  (2FR SAC)
+#TITLE      Measurement of the absolute values of (g,n)  reaction
+#+          effective cross  sections for Cu, Ce, La, Ta, Au, Pb,
+#+          and Bi.
+#AUTHOR(S)  J.Miller, C.Schuhl, C.Tzara
+#REF-CODE   (J,NP,32,236,1962)
+#REFERENCE  Nucl.Phys. 32 (1962) 236 (doi:10.1016/0029-5582(62)90336-X)
+#DATASETS   0
+#
+#DATASET    M0542002 
+#DATE       20170829
+#REACTION   29-CU-0(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       29000
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 29000   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 29000   3 201    9900000.          6.4000-3 3.2000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.0500+7          8.8000-3 4.1000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.2300+7          7.4000-3 4.1000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.3100+7          0.023700 4.2000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.4100+7          0.032100 4.4000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.4600+7          0.038300 4.9000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.5600+7          0.062700 5.7000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.6100+7          0.090300 7.7000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.7100+7          0.083800 6.3000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.8600+7          0.080400 6.2000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.8800+7          0.080500 6.4000-3                                       J.Miller+            (62)M0542  2 
+    0 29000   3 201    1.9800+7          0.056800 8.6000-3                                       J.Miller+            (62)M0542  2 
+#/DATA      12
+#/DATASET

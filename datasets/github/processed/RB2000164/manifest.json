@@ -1,0 +1,17 @@
+{
+  "dataset": "ISIS RB2000164",
+  "evidence_type": "EXPERIMENTAL",
+  "archive": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/RB2000164_raw.zip",
+  "files_total": 252,
+  "raw_or_nexus_files": 72,
+  "mantid_available": true,
+  "monitor_rows": 0,
+  "transmission_rows": 0,
+  "run_pair_template": "rb2000164_pairs_TEMPLATE.csv",
+  "notes": [
+    "Raw VESUVIO files are not treated as a time series.",
+    "Run/sample/reference mapping must be established before final transmission reduction.",
+    "Monitor 0/1 ratio is used only after explicit run pairing.",
+    "Final analysis target is T(E) and Sigma_R(E), not arbitrary raw event ordering."
+  ]
+}

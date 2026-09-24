@@ -1,0 +1,27 @@
+#ENTRY      M0680
+#AUTHOR1    T.Shima+
+#YEAR       2005
+#INSTITUTE  (2JPNOSA)
+#TITLE      Simultaneous measurement of the photodisintegration
+#+          of 4He in the giant dipole resonance region.
+#AUTHOR(S)  T.Shima, S.Naito, Y.Nagai, T.Baba, K.Tamura, T.Takahashi, 
+#+          T.Kii, H.Ohgaki, H.Toyokawa
+#REF-CODE   (J,PR/C,72,044004,2005)
+#REFERENCE  Phys.Rev.C 72 (2005) 044004 (doi:10.1103/PhysRevC.72.044004)
+#DATASETS   0
+#
+#DATASET    M0680007 
+#DATE       20260120
+#REACTION   1-H-2(G,N)1-H-1,,SIG
+#PROJ       0
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   3   4    2.1000+7 819000.0 5.6000-4 4.0000-5                                       T.Shima+             (05)M0680  7 
+#/DATA      1
+#/DATASET

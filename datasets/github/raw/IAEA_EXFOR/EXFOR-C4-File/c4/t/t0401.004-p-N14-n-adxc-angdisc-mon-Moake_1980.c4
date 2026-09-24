@@ -1,0 +1,50 @@
+#ENTRY      T0401
+#AUTHOR1    G.L.Moake+
+#YEAR       1980
+#INSTITUTE  (1USAPUR)
+#TITLE      Proton-nucleus charge exchange measurements at 144 MeV
+#+          as a test of one-pion exchange and the partially
+#+          conserved axial vector current
+#AUTHOR(S)  G.L.Moake, L.J.Gutay, R.P.Scharenberg, P.T.Debevec, P.A.Qun
+#REF-CODE   (J,PR/C,21,2211,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 2211 (doi:10.1103/PhysRevC.21.2211)
+#DATASETS   0
+#
+#DATASET    T0401004 
+#DATE       20050314
+#REACTION   7-N-14(P,N)8-O-14,PAR,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         50
+#PRODUCT    8-O-14
+#C4BEGIN    [ 1001  7014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4  50  C 1.4400+8          1.2060-4          0.999952          0.000000         LVLG.L.Moake+           (80)T0401  4 
+ 1001  7014   4  50  C 1.4400+8          1.1740-4          0.996109          0.000000         LVLG.L.Moake+           (80)T0401  4 
+ 1001  7014   4  50  C 1.4400+8          8.5160-5          0.987411          0.000000         LVLG.L.Moake+           (80)T0401  4 
+ 1001  7014   4  50  C 1.4400+8          7.4490-5          0.971977          0.000000         LVLG.L.Moake+           (80)T0401  4 
+ 1001  7014   4  50  C 1.4400+8          3.1620-5          0.949961          0.000000         LVLG.L.Moake+           (80)T0401  4 
+#/DATA      5
+#/DATASET
+#
+#DATASET    T0401004 
+#DATE       20050314
+#REACTION   7-N-14(P,N)8-O-14,PAR,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         50
+#PRODUCT    8-O-14
+#C4BEGIN    [ 1001  7014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4  50  C 1.4400+8          6.4490-3          0.999924          7770000.         LVLG.L.Moake+           (80)T0401  4 
+ 1001  7014   4  50  C 1.4400+8          4.6420-3          0.996957          7770000.         LVLG.L.Moake+           (80)T0401  4 
+ 1001  7014   4  50  C 1.4400+8          2.2140-3          0.987527          7770000.         LVLG.L.Moake+           (80)T0401  4 
+ 1001  7014   4  50  C 1.4400+8          1.1790-3          0.972727          7770000.         LVLG.L.Moake+           (80)T0401  4 
+#/DATA      4
+#/DATASET

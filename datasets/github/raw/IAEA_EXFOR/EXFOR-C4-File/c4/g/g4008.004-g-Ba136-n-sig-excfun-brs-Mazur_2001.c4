@@ -1,0 +1,37 @@
+#ENTRY      G4008
+#AUTHOR1    V.M.Mazur+
+#YEAR       2001
+#INSTITUTE  (4UKRIEP)
+#TITLE      Cross section of excitation of isomeric states for
+#+          129mBa,131mBa,135mBa isotopes in  (g,n)  reactions.
+#AUTHOR(S)  V.M.Mazur, Z.M.Bigan
+#REF-CODE   (J,UFZ,46,(5-6),529,2001)
+#REFERENCE  Ukr.Fiz.Zh. 46 No.5-6 (2001) 529
+#DATASETS   0
+#
+#DATASET    G4008004 
+#DATE       20070216
+#REACTION   56-BA-136(G,N)56-BA-135-M,,SIG,,BRS
+#PROJ       0
+#TARG       56136
+#MF         3
+#MT         4
+#PRODUCT    56-BA-135-M
+#C4BEGIN    [    0 56136   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 56136   3   4M   1.2015+7          4.6493-3 1.2821-3                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.2514+7          7.8307-3 1.4103-3                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.3015+7          0.013576 2.5641-3                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.3468+7          0.019965 2.4359-3                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.4020+7          0.032119 2.6929-3                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.4524+7          0.045300 3.7180-3                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.4978+7          0.055407 5.8963-3                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.5478+7          0.058332 6.4108-3                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.5916+7          0.058824 6.1538-3                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.6495+7          0.047386 8.3333-3                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.7048+7          0.033641 0.012565                                       V.M.Mazur+           (01)G4008  4 
+    0 56136   3   4M   1.7507+7          0.025670 0.013719                                       V.M.Mazur+           (01)G4008  4 
+#/DATA      12
+#/DATASET

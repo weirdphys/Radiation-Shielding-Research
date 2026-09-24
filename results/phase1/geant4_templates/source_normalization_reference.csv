@@ -1,0 +1,5 @@
+source_normalization_id,source_proton_MeV,additional_iron_collimator_cm,reference_incident_peak_fluence_n_cm2_per_uC,reference_relative_uncertainty_percent,uncertainty_basis
+JAERI_43MEV_PEAK_3.15E9_N_SR_UC,43,0,19600.0,3.4,PRT absolute source-peak flux uncertainty; shared normalization systematic
+JAERI_43MEV_PEAK_3.45E9_N_SR_UC,43,40,17700.0,3.4,PRT absolute source-peak flux uncertainty; shared normalization systematic
+JAERI_68MEV_PEAK_4.00E9_N_SR_UC,68,0,24900.0,3.9,PRT absolute source-peak flux uncertainty; shared normalization systematic
+JAERI_68MEV_PEAK_4.77E9_N_SR_UC,68,80,20600.0,3.9,PRT absolute source-peak flux uncertainty; shared normalization systematic

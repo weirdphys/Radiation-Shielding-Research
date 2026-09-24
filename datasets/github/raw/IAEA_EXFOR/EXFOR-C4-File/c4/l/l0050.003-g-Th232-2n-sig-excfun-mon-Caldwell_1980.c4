@@ -1,0 +1,54 @@
+#ENTRY      L0050
+#AUTHOR1    J.T.Caldwell+
+#YEAR       1980
+#INSTITUTE  (1USALRL)
+#TITLE      Giant resonance for the actinide nuclei: photoneutron
+#+          and photofission cross sections for 235U, 236U, 238U,
+#+          and 232Th.
+#AUTHOR(S)  J.T.Caldwell, E.J.Dowdy, B.L.Berman, R.A.Alvarez, P.Meyer
+#REF-CODE   (J,PR/C,21,1215,198004)
+#REFERENCE  Phys.Rev.C 21 (1980) 1215 (doi:10.1103/PhysRevC.21.1215)
+#DATASETS   0
+#
+#DATASET    L0050003 
+#DATE       19970129
+#REACTION   90-TH-232(G,2N)90-TH-230,,SIG
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         16
+#PRODUCT    90-TH-230
+#C4BEGIN    [    0 90232   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3  16    1.0780+7          1.8000-4                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.0900+7          1.4000-4                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.1030+7          6.0000-5                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.1270+7          2.9700-3                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.1400+7          0.012970                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.1520+7          5.9500-3                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.1760+7          0.024370                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.1890+7          0.039690                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.2010+7          0.063760                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.2250+7          0.110690                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.2380+7          0.123090                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.2500+7          0.173570                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.2740+7          0.215100                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.2870+7          0.219890                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.2990+7          0.254920                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.3230+7          0.289860                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.3360+7          0.293130                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.3480+7          0.320410                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.3850+7          0.338430                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.4340+7          0.348520                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.4830+7          0.328930                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.5320+7          0.285640                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.5810+7          0.245170                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.6300+7          0.194630                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.6790+7          0.165060                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.7280+7          0.158040                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.7770+7          0.124980                                                J.T.Caldwell+        (80)L0050  3 
+    0 90232   3  16    1.8260+7          0.115850                                                J.T.Caldwell+        (80)L0050  3 
+#/DATA      28
+#/DATASET

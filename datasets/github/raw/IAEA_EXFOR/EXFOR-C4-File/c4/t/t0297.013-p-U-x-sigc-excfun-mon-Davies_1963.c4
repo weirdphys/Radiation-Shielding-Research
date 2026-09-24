@@ -1,0 +1,32 @@
+#ENTRY      T0297
+#AUTHOR1    J.H.Davies+
+#YEAR       1963
+#INSTITUTE  (1CANMCG)
+#TITLE      Nuclear Charge Dispersion in the High-Energy Fission
+#+          of Uranium.
+#AUTHOR(S)  J.H.Davies, L.Yaffe
+#REF-CODE   (J,CJP,41,762,1963)
+#REFERENCE  Can.J.Phys. 41 (1963) 762 (doi:10.1139/p63-082)
+#DATASETS   0
+#
+#DATASET    T0297013 
+#DATE       20040719
+#REACTION   92-U-0(P,F)55-CS-137,CUM,SIG
+#PROJ       1001
+#TARG       92000
+#MF         3
+#MT         459
+#PRODUCT    55-CS-137
+#C4BEGIN    [ 1001 92000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92000   3 459    2.6000+7          0.060000 0.013000           55137.9                     J.H.Davies+          (63)T0297 13 
+ 1001 92000   3 459    3.6000+7          0.065000 0.014000           55137.9                     J.H.Davies+          (63)T0297 13 
+ 1001 92000   3 459    4.5000+7          0.082000 0.033000           55137.9                     J.H.Davies+          (63)T0297 13 
+ 1001 92000   3 459    5.5000+7          0.040000 0.016000           55137.9                     J.H.Davies+          (63)T0297 13 
+ 1001 92000   3 459    6.5000+7          0.051000 0.020000           55137.9                     J.H.Davies+          (63)T0297 13 
+ 1001 92000   3 459    7.5000+7          0.057000 0.023000           55137.9                     J.H.Davies+          (63)T0297 13 
+ 1001 92000   3 459    8.0000+7          0.051000 0.021000           55137.9                     J.H.Davies+          (63)T0297 13 
+#/DATA      7
+#/DATASET

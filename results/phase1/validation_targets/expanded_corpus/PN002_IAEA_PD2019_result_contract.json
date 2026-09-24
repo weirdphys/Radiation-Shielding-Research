@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "PN002_IAEA_PD2019",
+  "expected_result_file": "PN002_pd2019_geant4.csv",
+  "observable": "photonuclear_cross_section",
+  "join_keys": "target_Z,target_A,MT,incident_energy_MeV",
+  "reference_column": "cross_section_barn",
+  "reference_uncertainty_column": "",
+  "mc_column": "mc_cross_section_barn",
+  "mc_uncertainty_column": "",
+  "comparison_ready": false,
+  "required_for_phase1_exit_when_ready": true,
+  "blocker": "Explicit PD-2019 MT -> Geant4 process/model quantity mapping is required."
+}

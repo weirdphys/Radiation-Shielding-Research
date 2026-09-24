@@ -1,0 +1,31 @@
+#ENTRY      S0047
+#AUTHOR1    Z.H.Li+
+#YEAR       2005
+#INSTITUTE  (3CPRAEP)
+#TITLE      The Li-8(d,p)Li-9 reaction and the astrophysical
+#+          Li-8(n,g)Li-9 reaction rate
+#AUTHOR(S)  Z.H.Li, W.P.Liu, X.X.Bai, B.Guo, G.Lian, S.Q.Yan, B.X.Wang, 
+#+          S.Zeng, Y.Lu, J.Su, Y.S.Chen, K.S.Wu, N.C.Shu, T.Kajino
+#REF-CODE   (J,PR/C,71,052801,2005)
+#REFERENCE  Phys.Rev.C 71 (2005) 052801 (doi:10.1103/PhysRevC.71.052801)
+#DATASETS   0
+#
+#DATASET    S0047002 
+#DATE       20091022
+#REACTION   (1-H-2(3-LI-8,P)3-LI-9,PAR,DA,RSD)=(3-LI-8(D,P)3-LI-9,PAR,DA)
+#PROJ       1002
+#TARG       3008
+#MF         4
+#MT         600
+#PRODUCT    3-LI-9
+#C4BEGIN    [ 1002  3008   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3008   4 600 AC 9762315.          7.2000-3 3.3000-3 0.974761 0.014027 0.000000         LVLZ.H.Li+              (05)S0047  2 
+ 1002  3008   4 600 AC 9762315.          6.3000-3 1.3000-3 0.940881 0.021875 0.000000         LVLZ.H.Li+              (05)S0047  2 
+ 1002  3008   4 600 AC 9762315.          3.6000-3 9.0000-4 0.892586 0.029903 0.000000         LVLZ.H.Li+              (05)S0047  2 
+ 1002  3008   4 600 AC 9762315.          1.1000-3 4.0000-4 0.830012 0.038938 0.000000         LVLZ.H.Li+              (05)S0047  2 
+ 1002  3008   4 600 AC 9762315.          6.0000-4 4.0000-4 0.751264 0.048381 0.000000         LVLZ.H.Li+              (05)S0047  2 
+#/DATA      5
+#/DATASET

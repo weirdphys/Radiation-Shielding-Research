@@ -1,0 +1,33 @@
+#ENTRY      B0010
+#AUTHOR1    C.M.McKenna+
+#YEAR       1973
+#INSTITUTE  (1USAFSU)
+#TITLE      Isomeric Level of Mn-50
+#AUTHOR(S)  C.M.McKenna, K.W.Kemper, J.W.Nelson
+#REF-CODE   (J,PR/C,8,711,1973)
+#REFERENCE  Phys.Rev.C 8 (1973) 711 (doi:10.1103/PhysRevC.8.711)
+#DATASETS   0
+#
+#DATASET    B0010002 
+#DATE       20011220
+#REACTION   24-CR-50(P,N)25-MN-50-G,,SIG,,,EXP
+#PROJ       1001
+#TARG       24050
+#MF         3
+#MT         4
+#PRODUCT    25-MN-50-G
+#C4BEGIN    [ 1001 24050   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   3   4G   8589000.          2.6000-4 8.0000-5                                       C.M.McKenna+         (73)B0010  2 
+ 1001 24050   3   4G   8596000.          1.1100-3 8.0000-5                                       C.M.McKenna+         (73)B0010  2 
+ 1001 24050   3   4G   8598000.          1.8500-3 8.0000-5                                       C.M.McKenna+         (73)B0010  2 
+ 1001 24050   3   4G   8602000.          2.0700-3 8.0000-5                                       C.M.McKenna+         (73)B0010  2 
+ 1001 24050   3   4G   8607000.          2.0700-3 8.0000-5                                       C.M.McKenna+         (73)B0010  2 
+ 1001 24050   3   4G   8613000.          2.3600-3 8.0000-5                                       C.M.McKenna+         (73)B0010  2 
+ 1001 24050   3   4G   8619000.          2.6800-3 8.0000-5                                       C.M.McKenna+         (73)B0010  2 
+ 1001 24050   3   4G   8623000.          2.8800-3 8.0000-5                                       C.M.McKenna+         (73)B0010  2 
+ 1001 24050   3   4G   8641000.          3.4300-3 8.0000-5                                       C.M.McKenna+         (73)B0010  2 
+#/DATA      9
+#/DATASET

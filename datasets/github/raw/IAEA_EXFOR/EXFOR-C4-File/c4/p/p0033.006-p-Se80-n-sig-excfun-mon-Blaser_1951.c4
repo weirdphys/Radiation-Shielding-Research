@@ -1,0 +1,46 @@
+#ENTRY      P0033
+#AUTHOR1    J.P.Blaser+
+#YEAR       1951
+#INSTITUTE  (2SWTETH)
+#TITLE      Excitation functions and cross sections of the (p,n)
+#+          reaction  (II)
+#AUTHOR(S)  J.P.Blaser, F.Boehm, P.Marmier, P.Scherrer
+#REF-CODE   (J,HPA,24,441,1951)
+#REFERENCE  Helv.Phys.Acta 24 (1951) 441
+#DATASETS   0
+#
+#DATASET    P0033006 
+#DATE       19830929
+#REACTION   34-SE-80(P,N)35-BR-80-M,,SIG
+#PROJ       1001
+#TARG       34080
+#MF         3
+#MT         4
+#PRODUCT    35-BR-80-M
+#C4BEGIN    [ 1001 34080   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34080   3   4M   3030000.          2.1000-5                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   3330000.          1.2200-4                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   3530000.          5.8300-4                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   3560000.          7.5500-4                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   3750000.          1.3400-3                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   3780000.          1.6400-3                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   4000000.          3.1300-3                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   4210000.          6.1700-3                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   4410000.          0.010600                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   4610000.          0.014000                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   4770000.          0.019700                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   4960000.          0.029000                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   5130000.          0.038400                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   5290000.          0.039800                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   5460000.          0.048100                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   5620000.          0.060300                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   5770000.          0.064000                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   5940000.          0.076600                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   6100000.          0.085100                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   6230000.          0.091600                                                J.P.Blaser+          (51)P0033  6 
+ 1001 34080   3   4M   6380000.          0.099500                                                J.P.Blaser+          (51)P0033  6 
+#/DATA      21
+#/DATASET

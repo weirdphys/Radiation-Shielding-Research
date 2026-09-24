@@ -1,0 +1,43 @@
+#ENTRY      S0265
+#AUTHOR1    K.Wang+
+#YEAR       2021
+#INSTITUTE  (3CPRIMP)
+#TITLE      Elastic scattering and breakup reactions of the
+#+          proton drip-line nucleus 8B on 208Pb at 238 MeV
+#AUTHOR(S)  K.Wang, Y.Y.Yang, A.M.Moro, V.Guimaraes, Jin Lei, D.Y.Pang, 
+#+          F.F.Duan, J.L.Lou, J.C.Zamora, J.S.Wang, Z.Y.Sun, H.J.Ong, 
+#+          X.Liu, S.W.Xu, J.B.Ma, P.Ma, Z.Bai, Q.Hu, X.X.Xu, Z.H.Gao, 
+#+          G.Yang, S.Y.Jin, Y.H.Zhang, X.H.Zhou, Z.G.Hu, H.S.Xu
+#REF-CODE   (J,PR/C,103,024606,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 024606 (doi:10.1103/PhysRevC.103.024606)
+#DATASETS   0
+#
+#DATASET    S0265002 
+#DATE       20220921
+#REACTION   82-PB-208(HE3,EL)82-PB-208,,DA,,RTH
+#PROJ       2003
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 2003 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 82208   4   2  C 5.5000+7          12780.21 77.29969 0.998081                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          4829.046 33.14051 0.996835                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          2087.222 19.01316 0.995261                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          1105.093 11.95283 0.993393                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          604.7791 7.949574 0.991192                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          349.4616 5.948283 0.988704                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          235.5258 4.996003 0.985879                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          154.7535 4.156603 0.982774                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          115.5668 3.885532 0.979329                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          85.73142 3.588757 0.975611                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          54.60070 3.115003 0.971590                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          48.92432 3.267509 0.967223                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          40.21505 3.424723 0.962597                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          25.93790 3.063948 0.957622                              K.Wang+              (21)S0265  2 
+ 2003 82208   4   2  C 5.5000+7          23.46532 3.495727 0.952396                              K.Wang+              (21)S0265  2 
+#/DATA      15
+#/DATASET

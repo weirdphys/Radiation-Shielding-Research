@@ -1,0 +1,33 @@
+#ENTRY      M0429
+#AUTHOR1    O.Y.Mafra+
+#YEAR       1974
+#INSTITUTE  (3BZLIPE)
+#TITLE      The Th-232(gamma,n)Th-231 cross section near
+#+          threshold.
+#AUTHOR(S)  O.Y.Mafra, M.F.Cezar, C.Renner, J.Goldemberg
+#REF-CODE   (J,NP/A,236,1,1974)
+#REFERENCE  Nucl.Phys.A 236 (1974) 1
+#DATASETS   0
+#
+#DATASET    M0429002 
+#DATE       20160121
+#REACTION   90-TH-232(G,N)90-TH-231,,SIG
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         4
+#PRODUCT    90-TH-231
+#C4BEGIN    [    0 90232   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3   4 C  6420000.          6.7000-3 2.6000-3                                       O.Y.Mafra+           (74)M0429  2 
+    0 90232   3   4 C  6730000.          0.030500 4.8000-3                                       O.Y.Mafra+           (74)M0429  2 
+    0 90232   3   4 C  7230000.          6.3000-3 3.0000-3                                       O.Y.Mafra+           (74)M0429  2 
+    0 90232   3   4 C  7380000.          0.017700 2.9000-3                                       O.Y.Mafra+           (74)M0429  2 
+    0 90232   3   4 C  7640000.          0.024800 6.1000-3                                       O.Y.Mafra+           (74)M0429  2 
+    0 90232   3   4 C  7730000.          0.021400 4.3000-3                                       O.Y.Mafra+           (74)M0429  2 
+    0 90232   3   4 C  7880000.          0.025900 4.6000-3                                       O.Y.Mafra+           (74)M0429  2 
+    0 90232   3   4 C  9000000.          0.073800 0.017400                                       O.Y.Mafra+           (74)M0429  2 
+#/DATA      8
+#/DATASET

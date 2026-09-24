@@ -1,0 +1,43 @@
+#ENTRY      M0084
+#AUTHOR1    V.E.Zhuchko+
+#YEAR       1976
+#INSTITUTE  (4RUSIFP)
+#TITLE      Restoration of photofission cross-sections from
+#+          bremsstrahlung experiments.
+#AUTHOR(S)  V.E.Zhuchko, Yu.B.Ostapenko, A.S.Soldatov, Yu.M.Tsipenyuk
+#REF-CODE   (J,NIM,136,373,1976)
+#REFERENCE  Nucl.Intrum.Meth. 136 (1976) 373 (doi:10.1016/0029-554X(76)90222-6)
+#DATASETS   0
+#
+#DATASET    M0084002 
+#DATE       20250506
+#REACTION   92-U-235(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92235   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92235   3  18 A  4830000.          6.1000-7 2.1000-6                                       V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  4940000.          8.5000-7 2.1000-6                                       V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  5040000.          3.1000-6 2.1000-6                                       V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  5140000.          1.5000-5                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  5250000.          5.3000-5                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  5350000.          1.7000-4                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  5450000.          5.5000-4                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  5550000.          9.7000-4                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  5660000.          1.8000-3                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  5760000.          3.1000-3                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  5860000.          5.1000-3                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  5970000.          7.1000-3                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  6080000.          6.1000-3                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  6170000.          6.8000-3                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  6280000.          8.1000-3                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  6370000.          7.9000-3                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  6500000.          8.1000-3                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  6590000.          0.010000                                                V.E.Zhuchko+         (76)M0084  2 
+    0 92235   3  18 A  6690000.          0.016000                                                V.E.Zhuchko+         (76)M0084  2 
+#/DATA      19
+#/DATASET

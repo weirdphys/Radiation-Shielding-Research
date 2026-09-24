@@ -1,0 +1,39 @@
+#ENTRY      P0047
+#AUTHOR1    W.W.Meinke+
+#YEAR       1956
+#INSTITUTE  (1USABRK)
+#TITLE      High-energy excitation functions in the heavy region
+#AUTHOR(S)  W.W.Meinke, G.C.Wick, G.T.Seaborg
+#REF-CODE   (J,JIN,3,69,1956)
+#REFERENCE  J.Inorg.Nucl.Chem. 3 (1956) 69 (doi:10.1016/0022-1902(56)80071-7)
+#DATASETS   0
+#
+#DATASET    P0047011 
+#DATE       19830929
+#REACTION   90-TH-232(D,7N)91-PA-227,,SIG
+#PROJ       1002
+#TARG       90232
+#MF         3
+#MT         160
+#PRODUCT    91-PA-227
+#C4BEGIN    [ 1002 90232   3 160  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 90232   3 160    7600000.          1.0000-5                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    5.2700+7          0.016400                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    6.3500+7          9.5900-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    7.2000+7          8.5900-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    7.4800+7          7.5700-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    7.8900+7          7.3500-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    8.3600+7          7.0000-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    8.7500+7          6.9200-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    9.2700+7          6.9100-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    9.5900+7          7.0600-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    1.0200+8          6.0100-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    1.0600+8          5.7900-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    1.3500+8          4.3200-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    1.6800+8          3.0100-3                                                W.W.Meinke+          (56)P0047 11 
+ 1002 90232   3 160    1.8900+8          2.8100-3                                                W.W.Meinke+          (56)P0047 11 
+#/DATA      15
+#/DATASET

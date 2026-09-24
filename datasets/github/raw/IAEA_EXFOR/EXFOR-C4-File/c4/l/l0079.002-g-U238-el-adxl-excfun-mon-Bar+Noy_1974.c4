@@ -1,0 +1,33 @@
+#ENTRY      L0079
+#AUTHOR1    T.Bar-Noy+
+#YEAR       1974
+#INSTITUTE  (3ISLISL)
+#TITLE      Study of the giant dipole resonance of 232Th and 238U
+#+          using elastic and raman photon scattering
+#AUTHOR(S)  T.Bar-Noy, R.Moreh
+#REF-CODE   (J,NP/A,229,417,1974)
+#REFERENCE  Nucl.Phys.A 229 (1974) 417 (doi:10.1016/0375-9474(74)90661-7)
+#DATASETS   0
+#
+#DATASET    L0079002 
+#DATE       20050713
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    7880000.          1.5100-6 8.6300-7-0.766044                              T.Bar-Noy+           (74)L0079  2 
+    0 92238   4   2    8500000.          8.0600-6 2.9400-6-0.766044                              T.Bar-Noy+           (74)L0079  2 
+    0 92238   4   2    8870000.          1.8500-5 2.7900-6-0.766044                              T.Bar-Noy+           (74)L0079  2 
+    0 92238   4   2    8970000.          2.8200-5 4.2500-6-0.766044                              T.Bar-Noy+           (74)L0079  2 
+    0 92238   4   2    9270000.          5.4900-5 1.4400-5-0.766044                              T.Bar-Noy+           (74)L0079  2 
+    0 92238   4   2    9680000.          7.1100-5 1.7300-5-0.766044                              T.Bar-Noy+           (74)L0079  2 
+    0 92238   4   2    1.0000+7          1.4200-4 5.8100-5-0.766044                              T.Bar-Noy+           (74)L0079  2 
+    0 92238   4   2    1.1300+7          2.9900-4 3.4500-5-0.766044                              T.Bar-Noy+           (74)L0079  2 
+#/DATA      8
+#/DATASET

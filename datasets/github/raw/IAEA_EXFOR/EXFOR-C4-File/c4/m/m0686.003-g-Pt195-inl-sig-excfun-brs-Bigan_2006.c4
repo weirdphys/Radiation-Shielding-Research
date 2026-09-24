@@ -1,0 +1,38 @@
+#ENTRY      M0686
+#AUTHOR1    Z.M.Bigan+
+#YEAR       2006
+#INSTITUTE  (4UKRIJD)
+#TITLE      Excitation of metastable states of 113In,  195Pt  and
+#+          199Hg   in   reactions  of   inelastic  gamma-quanta
+#+          scattering.
+#AUTHOR(S)  Z.M.Bigan, V.A.Zheltonozhsky, V.I.Kirishchuk, V.M.Mazur, 
+#+          D.N.Simochko, P.N.Trifonov
+#REF-CODE   (J,IZV,70,255,2006)
+#REFERENCE  Izv.Ross.AN,Fiz. 70 (2006) 255
+#DATASETS   0
+#
+#DATASET    M0686003 
+#DATE       20060623
+#REACTION   78-PT-195(G,INL)78-PT-195-M,,SIG,,BRS
+#PROJ       0
+#TARG       78195
+#MF         3
+#MT         102
+#PRODUCT    78-PT-195-M
+#C4BEGIN    [    0 78195   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 78195   3 102M   3500000.          1.9000-5 1.9000-5                                       Z.M.Bigan+           (06)M0686  3 
+    0 78195   3 102M   4000000.          9.3000-5 2.2000-5                                       Z.M.Bigan+           (06)M0686  3 
+    0 78195   3 102M   4500000.          1.4000-4 2.4000-5                                       Z.M.Bigan+           (06)M0686  3 
+    0 78195   3 102M   5000000.          1.5300-4 3.4000-5                                       Z.M.Bigan+           (06)M0686  3 
+    0 78195   3 102M   5500000.          2.9500-4 3.4000-5                                       Z.M.Bigan+           (06)M0686  3 
+    0 78195   3 102M   6000000.          4.7600-4 3.3000-5                                       Z.M.Bigan+           (06)M0686  3 
+    0 78195   3 102M   6500000.          3.0300-4 4.4000-5                                       Z.M.Bigan+           (06)M0686  3 
+    0 78195   3 102M   7000000.          9.9000-5 5.2000-5                                       Z.M.Bigan+           (06)M0686  3 
+    0 78195   3 102M   7500000.          4.5000-5 4.5000-5                                       Z.M.Bigan+           (06)M0686  3 
+    0 78195   3 102M   8000000.          5.5000-5 5.5000-5                                       Z.M.Bigan+           (06)M0686  3 
+    0 78195   3 102M   8500000.          1.6300-4 6.0000-5                                       Z.M.Bigan+           (06)M0686  3 
+#/DATA      11
+#/DATASET

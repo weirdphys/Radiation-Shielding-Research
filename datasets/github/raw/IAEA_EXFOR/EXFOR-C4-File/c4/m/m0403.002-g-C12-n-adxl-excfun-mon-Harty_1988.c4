@@ -1,0 +1,28 @@
+#ENTRY      M0403
+#AUTHOR1    P.D.Harty+
+#YEAR       1988
+#INSTITUTE  (2JPNTOH)
+#TITLE      C-12 cross section from 30 to 100 MeV.
+#AUTHOR(S)  P.D.Harty, M.N.Thompson, G.J.O'keefe, R.P.Rassool, K.Mori, 
+#+          Y.Fujii, T.Suda, I.Nomura, O.Konno, T.Terasava, Y.Torizuka
+#REF-CODE   (J,PR/C,37,13,1988)
+#REFERENCE  Phys.Rev.C 37 (1988) 13 (doi:10.1103/PhysRevC.37.13)
+#DATASETS   0
+#
+#DATASET    M0403002 
+#DATE       20160905
+#REACTION   6-C-12(G,N)6-C-11,PAR,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [    0  6012   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4  50    3.1200+7          7.1000-5 9.0000-6 0.422618          0.000000         LVLP.D.Harty+           (88)M0403  2 
+    0  6012   4  50    3.3700+7          6.3700-5 9.0000-6 0.422618          0.000000         LVLP.D.Harty+           (88)M0403  2 
+    0  6012   4  50    3.5800+7          5.9100-5 9.0000-6 0.422618          0.000000         LVLP.D.Harty+           (88)M0403  2 
+#/DATA      3
+#/DATASET

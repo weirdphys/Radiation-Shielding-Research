@@ -1,0 +1,43 @@
+#ENTRY      S0133
+#AUTHOR1    Wang Dayan+
+#YEAR       1986
+#INSTITUTE  (3CPRIMP)
+#TITLE      Influence of the neutron number of target nucleus on
+#+          cross sections of particles emission in 12C + 112,124Sn
+#AUTHOR(S)  Wang Dayan, Jin Genming, Zhang Li, Yue Haikui, Wang Ximing
+#REF-CODE   (J,PHE,10,68,1986)
+#REFERENCE  High En.Nucl.Phy.Ch. 10 (1986) 68
+#DATASETS   0
+#
+#DATASET    S0133005 
+#DATE       20151030
+#REACTION   50-SN-124(6-C-12,X)2-HE-4,,DA
+#PROJ       6012
+#TARG       50124
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012 50124   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 50124   4 207  C 7.0000+7          0.070130 9.0300-3 0.953664                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          0.062130          0.920027                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          0.055040          0.876138                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          0.050470          0.830887                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          0.043570 5.6100-3 0.779447                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          0.038600          0.705624                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          0.032460          0.625787                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          0.028510 3.6700-3 0.552810                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          0.021990          0.484199                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          0.014640          0.397148                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          8.2700-3 1.1500-3 0.215928                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          5.6500-3          0.040132                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          4.3200-3 6.0000-4-0.143493                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          3.0600-3         -0.460510                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          2.9500-3 3.8000-4-0.604738                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          2.9800-3         -0.717397                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          2.8800-3         -0.829038                              Wang Dayan+          (86)S0133  5 
+ 6012 50124   4 207  C 7.0000+7          2.8500-3 3.7000-4-0.906382                              Wang Dayan+          (86)S0133  5 
+#/DATA      18
+#/DATASET

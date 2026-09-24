@@ -1,0 +1,29 @@
+#ENTRY      B0013
+#AUTHOR1    J.Banaigs+
+#YEAR       1971
+#INSTITUTE  (2FR SAC)
+#TITLE      Determination De L'Intensite D'Un Faisceau De Deutons
+#+          Extrait D'Un Synchrotron Et Mesure Des Sections
+#+          Efficaces Des Reactions C-12(D,P2N)C-11 Et
+#+          Al-27(D,3P2N)Na-24 a 2.33 GeV
+#AUTHOR(S)  J.Banaigs, J.Berger, J.Duflo, L.Goldzahl, O.Harff, M.Cottereau, 
+#+          F.Lefebvres, H.Quechon, P.Tardy-Joubert
+#REF-CODE   (J,NIM,95,307,1971)
+#REFERENCE  Nucl.Intrum.Meth. 95 (1971) 307 (doi:10.1016/0029-554X(71)90382-X)
+#DATASETS   0
+#
+#DATASET    B0013002 
+#DATE       20011220
+#REACTION   6-C-12(D,2N+P)6-C-11,,SIG,,,EXP
+#PROJ       1002
+#TARG       6012
+#MF         3
+#MT         41
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1002  6012   3  41  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   3  41    2.3300+9          0.041700 2.9000-3                                       J.Banaigs+           (71)B0013  2 
+#/DATA      1
+#/DATASET

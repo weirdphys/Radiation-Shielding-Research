@@ -1,0 +1,20 @@
+{
+  "dataset": "NIST ESTAR",
+  "stage": "official_code_compiled_and_setup",
+  "compiler": "/home/a/miniconda3/envs/radiation-mantid/bin/x86_64-conda-linux-gnu-gfortran",
+  "build_directory": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/data/processed/NIST_ESTAR/build",
+  "compiled_programs": [
+    "EDCONV",
+    "CONVERT",
+    "COMPOS",
+    "ESTAR"
+  ],
+  "UEDAT_exists": true,
+  "UCOMP_exists": true,
+  "concrete_material_entry": [
+    "144: CONCRETE, PORTLAND"
+  ],
+  "selected_material_for_next_stage": 144,
+  "selected_material_name": "CONCRETE, PORTLAND",
+  "next_step": "Use captured ESTAR prompt/menu structure to run material 144 with full stopping powers, ranges, radiation yields and the standard energy grid."
+}

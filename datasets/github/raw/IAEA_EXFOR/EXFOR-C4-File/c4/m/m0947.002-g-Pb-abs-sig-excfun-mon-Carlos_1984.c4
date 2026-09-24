@@ -1,0 +1,41 @@
+#ENTRY      M0947
+#AUTHOR1    P.Carlos+
+#YEAR       1984
+#INSTITUTE  (2FR SAC)
+#TITLE      The photonuclear absorption cross section for Pb  and
+#+          for heavy nuclei in the DELTA-resonance region.
+#AUTHOR(S)  P.Carlos, H.Beil, R.Bergere, J.Fagot, A.Lepretre, A.De Miniac, 
+#+          A.Veyssiere
+#REF-CODE   (J,NP/A,431,573,1984)
+#REFERENCE  Nucl.Phys.A 431 (1984) 573 (doi:10.1016/0375-9474(84)90269-0)
+#DATASETS   0
+#
+#DATASET    M0947002 
+#DATE       20171130
+#REACTION   82-PB-0(G,ABS),,SIG
+#PROJ       0
+#TARG       82000
+#MF         3
+#MT         27
+#C4BEGIN    [    0 82000   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82000   3  27    1.4500+8          0.017000 2.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    1.7100+8          0.028000 3.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    1.9900+8          0.033000 3.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    2.3000+8          0.052000 4.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    2.3500+8          0.060000 4.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    2.5400+8          0.070000 5.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    2.8000+8          0.076000 5.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    3.0000+8          0.085000 5.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    3.2000+8          0.086000 8.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    3.3000+8          0.089000 6.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    3.3300+8          0.089000 9.0000-3                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    3.7300+8          0.075000 0.010000                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    3.9000+8          0.076000 0.010000                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    4.2000+8          0.069000 0.010000                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    4.2600+8          0.059000 0.010000                                       P.Carlos+            (84)M0947  2 
+    0 82000   3  27    4.4000+8          0.061000 0.010000                                       P.Carlos+            (84)M0947  2 
+#/DATA      16
+#/DATASET

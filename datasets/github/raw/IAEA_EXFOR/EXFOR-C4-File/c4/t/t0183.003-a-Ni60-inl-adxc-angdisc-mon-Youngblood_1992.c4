@@ -1,0 +1,49 @@
+#ENTRY      T0183
+#AUTHOR1    D.H.Youngblood+
+#YEAR       1992
+#INSTITUTE  (1USATAM)
+#TITLE      Giant quarupole resonance in Ni isotopes
+#AUTHOR(S)  D.H.Youngblood, Y.W.Lui, U.Gard, R.J.Peterson
+#REF-CODE   (J,PR/C,45,2172,199205)
+#REFERENCE  Phys.Rev.C 45 (1992) 2172 (doi:10.1103/PhysRevC.45.2172)
+#DATASETS   0
+#
+#DATASET    T0183003 
+#DATE       20020723
+#REACTION   28-NI-60(A,INL)28-NI-60,PAR,DA
+#PROJ       2004
+#TARG       28060
+#MF         4
+#MT         801
+#PRODUCT    28-NI-60
+#C4BEGIN    [ 2004 28060   4 801 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28060   4 801 AC 1.2900+8          0.029557          0.997314          4010000.         LVLD.H.Youngblood+      (92)T0183  3 
+ 2004 28060   4 801 AC 1.2900+8          0.042736          0.993768          4010000.         LVLD.H.Youngblood+      (92)T0183  3 
+ 2004 28060   4 801 AC 1.2900+8          0.061145          0.989776          4010000.         LVLD.H.Youngblood+      (92)T0183  3 
+ 2004 28060   4 801 AC 1.2900+8          0.019815          0.971134          4010000.         LVLD.H.Youngblood+      (92)T0183  3 
+ 2004 28060   4 801 AC 1.2900+8          3.3407-3          0.951057          4010000.         LVLD.H.Youngblood+      (92)T0183  3 
+#/DATA      5
+#/DATASET
+#
+#DATASET    T0183003 
+#DATE       20020723
+#REACTION   28-NI-60(A,INL)28-NI-60,PAR,DA
+#PROJ       2004
+#TARG       28060
+#MF         4
+#MT         801
+#PRODUCT    28-NI-60
+#C4BEGIN    [ 2004 28060   4 801 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28060   4 801 AC 1.2900+8          0.053072 8.6513-3 0.997441          1.6400+7         LVLD.H.Youngblood+      (92)T0183  3 
+ 2004 28060   4 801 AC 1.2900+8          0.055463 9.0411-3 0.994151          1.6400+7         LVLD.H.Youngblood+      (92)T0183  3 
+ 2004 28060   4 801 AC 1.2900+8          0.023056 3.7584-3 0.990024          1.6400+7         LVLD.H.Youngblood+      (92)T0183  3 
+ 2004 28060   4 801 AC 1.2900+8          8.9869-3 1.3979-3 0.971134          1.6400+7         LVLD.H.Youngblood+      (92)T0183  3 
+ 2004 28060   4 801 AC 1.2900+8          8.0344-3 1.2498-3 0.950516          1.6400+7         LVLD.H.Youngblood+      (92)T0183  3 
+#/DATA      5
+#/DATASET

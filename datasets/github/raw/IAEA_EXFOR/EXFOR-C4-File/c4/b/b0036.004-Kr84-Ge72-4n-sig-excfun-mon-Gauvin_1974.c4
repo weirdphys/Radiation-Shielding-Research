@@ -1,0 +1,37 @@
+#ENTRY      B0036
+#AUTHOR1    H.Gauvin+
+#YEAR       1974
+#INSTITUTE  (2FR PAR)
+#TITLE      Observed Differences Between Argon- And Krypton-Induced
+#+          Reactions Leading to the Same Compound Nuclei, Er-158
+#+          And Er-156
+#AUTHOR(S)  H.Gauvin, Y.Le Beyec, M.Lefort, R.L.Hahn
+#REF-CODE   (J,PR/C,10,722,1974)
+#REFERENCE  Phys.Rev.C 10 (1974) 722 (doi:10.1103/PhysRevC.10.722)
+#DATASETS   0
+#
+#DATASET    B0036004 
+#DATE       20011220
+#REACTION   32-GE-72(36-KR-84,4N)68-ER-152,,SIG,,,EXP
+#PROJ       36084
+#TARG       32072
+#MF         3
+#MT         37
+#PRODUCT    68-ER-152
+#C4BEGIN    [36084 32072   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+36084 32072   3  37    3.3000+8          0.000000                                                H.Gauvin+            (74)B0036  4 
+36084 32072   3  37    3.3600+8          4.0000-4 1.6000-4                                       H.Gauvin+            (74)B0036  4 
+36084 32072   3  37    3.4100+8          9.5000-3 4.0000-3                                       H.Gauvin+            (74)B0036  4 
+36084 32072   3  37    3.5400+8          0.016500 2.5000-3                                       H.Gauvin+            (74)B0036  4 
+36084 32072   3  37    3.5700+8          0.021200 5.0000-3                                       H.Gauvin+            (74)B0036  4 
+36084 32072   3  37    3.6600+8          0.019000 5.0000-3                                       H.Gauvin+            (74)B0036  4 
+36084 32072   3  37    3.6600+8          0.014000 6.0000-3                                       H.Gauvin+            (74)B0036  4 
+36084 32072   3  37    3.7600+8          0.019500 3.0000-3                                       H.Gauvin+            (74)B0036  4 
+36084 32072   3  37    3.8600+8          0.019000 4.0000-3                                       H.Gauvin+            (74)B0036  4 
+36084 32072   3  37    3.8600+8          0.011000 5.0000-3                                       H.Gauvin+            (74)B0036  4 
+36084 32072   3  37    3.9500+8          6.0000-3 2.0000-3                                       H.Gauvin+            (74)B0036  4 
+#/DATA      11
+#/DATASET

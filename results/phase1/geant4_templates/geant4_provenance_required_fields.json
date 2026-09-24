@@ -1,0 +1,26 @@
+{
+  "required_fields": [
+    "benchmark_id",
+    "geant4_version",
+    "physics_list",
+    "em_physics",
+    "hadronic_physics",
+    "neutron_data_library",
+    "material_definition",
+    "material_density_g_cm3",
+    "geometry_id",
+    "source_normalization_id",
+    "source_sampling_file",
+    "absolute_normalization_method",
+    "source_solid_angle_sr",
+    "normalization_scale_per_primary_per_uC",
+    "histories",
+    "random_seed",
+    "geometry_definition",
+    "scoring_definition",
+    "run_date",
+    "git_commit"
+  ],
+  "minimum_histories": 1000000,
+  "free_posthoc_normalization_allowed": false
+}

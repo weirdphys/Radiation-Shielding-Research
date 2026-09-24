@@ -1,0 +1,27 @@
+{
+  "dataset_id": "P002",
+  "object_id": "P002.SEQ_TVL",
+  "coordinate_native": "nominal_beam_MV",
+  "coordinate_analysis": "nominal_beam_MV",
+  "coordinate_transform": "identity",
+  "coordinate_reference": NaN,
+  "coordinate_unit": "MV",
+  "source_path": "results/phase1/canonical_data/public_benchmarks/P002_IAEA_SRS47_concrete_TVL.csv",
+  "n_curves_loaded": 2,
+  "max_curve_points": 7,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "TVL_curves": 2
+  },
+  "registry": {
+    "name": "IAEA SRS-47 photon TVLs",
+    "particle": "photon",
+    "evidence": "AUTHORITATIVE REFERENCE",
+    "role": "Broad-beam concrete TVL engineering reference.",
+    "path": "results/phase1/canonical_data/public_benchmarks/P002_IAEA_SRS47_concrete_TVL.csv",
+    "richness": "SPARSE_1D",
+    "guardrail": "Secondary broad-beam check; not direct source-spectrum proof."
+  },
+  "state_group_shapes": {}
+}

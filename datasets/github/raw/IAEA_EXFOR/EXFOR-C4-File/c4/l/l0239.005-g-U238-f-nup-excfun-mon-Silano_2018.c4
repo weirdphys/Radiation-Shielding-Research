@@ -1,0 +1,31 @@
+#ENTRY      L0239
+#AUTHOR1    J.A.Silano+
+#YEAR       2018
+#INSTITUTE  (1USALRL)
+#TITLE      Near-barrier photofission in 232Th and 238U
+#AUTHOR(S)  J.A.Silano, H.J.Karwowski
+#REF-CODE   (J,PR/C,98,054609,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 054609 (doi:10.1103/PhysRevC.98.054609)
+#DATASETS   0
+#
+#DATASET    L0239005 
+#DATE       20190317
+#REACTION   92-U-238(G,F),PR,NU
+#PROJ       0
+#TARG       92238
+#MF         1
+#MT         456
+#C4BEGIN    [    0 92238   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   1 456    5100000. 77000.00 1.400000                                                J.A.Silano+          (18)L0239  5 
+    0 92238   1 456    5150000. 77000.00 1.800000                                                J.A.Silano+          (18)L0239  5 
+    0 92238   1 456    5200000. 78000.00 2.540000                                                J.A.Silano+          (18)L0239  5 
+    0 92238   1 456    5300000. 80000.00 2.540000                                                J.A.Silano+          (18)L0239  5 
+    0 92238   1 456    5400000. 81000.00 2.480000                                                J.A.Silano+          (18)L0239  5 
+    0 92238   1 456    5600000. 84000.00 2.440000                                                J.A.Silano+          (18)L0239  5 
+    0 92238   1 456    5700000. 86000.00 2.610000                                                J.A.Silano+          (18)L0239  5 
+    0 92238   1 456    5800000. 87000.00 2.500000                                                J.A.Silano+          (18)L0239  5 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      P0033
+#AUTHOR1    J.P.Blaser+
+#YEAR       1951
+#INSTITUTE  (2SWTETH)
+#TITLE      Excitation functions and cross sections of the (p,n)
+#+          reaction  (II)
+#AUTHOR(S)  J.P.Blaser, F.Boehm, P.Marmier, P.Scherrer
+#REF-CODE   (J,HPA,24,441,1951)
+#REFERENCE  Helv.Phys.Acta 24 (1951) 441
+#DATASETS   0
+#
+#DATASET    P0033015 
+#DATE       19830929
+#REACTION   40-ZR-96(P,N)41-NB-96,,SIG
+#PROJ       1001
+#TARG       40096
+#MF         3
+#MT         4
+#PRODUCT    41-NB-96
+#C4BEGIN    [ 1001 40096   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40096   3   4    2730000.          1.0000-4                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    2910000.          5.8900-4                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    3050000.          1.0900-3                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    3390000.          4.1800-3                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    3490000.          5.8500-3                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    3750000.          0.011800                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    3900000.          0.016100                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    4350000.          0.031400                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    4700000.          0.052600                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    5080000.          0.086500                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    5400000.          0.124000                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    5700000.          0.163000                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    6040000.          0.201000                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    6360000.          0.249000                                                J.P.Blaser+          (51)P0033 15 
+ 1001 40096   3   4    6670000.          0.304000                                                J.P.Blaser+          (51)P0033 15 
+#/DATA      15
+#/DATASET

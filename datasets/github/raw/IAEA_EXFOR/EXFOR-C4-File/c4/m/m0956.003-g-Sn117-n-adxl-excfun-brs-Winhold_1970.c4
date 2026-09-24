@@ -1,0 +1,37 @@
+#ENTRY      M0956
+#AUTHOR1    E.J.Winhold+
+#YEAR       1970
+#INSTITUTE  (2UK HAR)
+#TITLE      Structure in the gamma-ray strength function of 119Sn
+#+          and 117Sn.
+#AUTHOR(S)  E.J.Winhold, E.M.Bowey, D.B.Gayther, B.H.Patrick
+#REF-CODE   (J,PL/B,32,607,1970)
+#REFERENCE  Phys.Lett.B 32 (1970) 607 (doi:10.1016/0370-2693(70)90557-5)
+#DATASETS   0
+#
+#DATASET    M0956003 
+#DATE       20220228
+#REACTION   50-SN-117(G,N)50-SN-116,PAR,DA,,BRS
+#PROJ       0
+#TARG       50117
+#MF         4
+#MT         50
+#PRODUCT    50-SN-116
+#C4BEGIN    [    0 50117   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 50117   4  50    7582000.          1.4160-3 5.7400-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    7682000.          2.2400-3 3.8600-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    7745000.          2.3560-3 5.1500-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    7808000.          2.1700-3 2.0800-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    7891000.          2.7130-3 2.6700-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    7936000.          2.6200-3 4.1200-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    8096000.          2.2370-3 3.7600-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    8127000.          1.6040-3 3.3700-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    8185000.          7.4000-4 3.5900-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    8391000.          9.9000-4 6.1400-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    8432000.          2.7600-4 3.3700-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+    0 50117   4  50    8709000.          5.5500-4 3.7600-4-0.642788          0.000000         LVLE.J.Winhold+         (70)M0956  3 
+#/DATA      12
+#/DATASET

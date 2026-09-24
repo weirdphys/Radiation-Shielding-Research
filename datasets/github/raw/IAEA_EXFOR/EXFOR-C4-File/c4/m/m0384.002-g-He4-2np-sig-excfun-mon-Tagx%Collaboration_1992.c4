@@ -1,0 +1,36 @@
+#ENTRY      M0384
+#AUTHOR1    Tagx Collaboration+
+#YEAR       1992
+#INSTITUTE  (2JPNTOK)
+#TITLE      The total cross section for the He-4(gamma,npp)n
+#+          reaction in the delta-resonance region.
+#AUTHOR(S)  Tagx Collaboration, T.Emura, I.Endo, S.Endo, H.Itoh, S.Kato, 
+#+          M.Koike, K.Maeda, T.Maki, S.Maruo, K.Maruyama, Y.Murata, 
+#+          K.Niki, C.Rangacharyulu, A.Sasaki, T.Suda, Y.Sumi, Y.Wada, 
+#+          K.Yoshida
+#REF-CODE   (J,PL/B,286,229,1992)
+#REFERENCE  Phys.Lett.B 286 (1992) 229 (doi:10.1016/0370-2693(92)91767-4)
+#DATASETS   0
+#
+#DATASET    M0384002 
+#DATE       20111118
+#REACTION   2-HE-4(G,2N+P)1-H-1,,SIG
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         41
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  2004   3  41  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3  41    1.5500+8 2.0000+7 0.000000 2.6300-5                                       Tagx Collaboration+  (92)M0384  2 
+    0  2004   3  41    1.9500+8 2.0000+7 1.5800-5 7.3000-6                                       Tagx Collaboration+  (92)M0384  2 
+    0  2004   3  41    2.3500+8 2.0000+7 1.5500-5 3.3000-6                                       Tagx Collaboration+  (92)M0384  2 
+    0  2004   3  41    2.7500+8 2.0000+7 3.1600-5 4.8000-6                                       Tagx Collaboration+  (92)M0384  2 
+    0  2004   3  41    3.1500+8 2.0000+7 3.3700-5 4.3000-6                                       Tagx Collaboration+  (92)M0384  2 
+    0  2004   3  41    3.5500+8 2.0000+7 4.3700-5 5.7000-6                                       Tagx Collaboration+  (92)M0384  2 
+    0  2004   3  41    3.9500+8 2.0000+7 4.0500-5 5.8000-6                                       Tagx Collaboration+  (92)M0384  2 
+    0  2004   3  41    4.3500+8 2.0000+7 3.8400-5 7.1000-6                                       Tagx Collaboration+  (92)M0384  2 
+#/DATA      8
+#/DATASET

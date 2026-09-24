@@ -1,0 +1,41 @@
+#ENTRY      M0664
+#AUTHOR1    H.Utsunomiya+
+#YEAR       2003
+#INSTITUTE  (2JPNKON)
+#TITLE      Cross section measurements of the 181Ta(g,n)180Ta
+#+          reaction near threshold and the p-process
+#+          nucleosynthesis
+#AUTHOR(S)  H.Utsunomiya, H.Akimune, S.Goko, M.Ohta, H.Ueda, T.Yamagata, 
+#+          K.Yamasaki, H.Ohgaki, H.Toyokawa, Y.-W.Lui, T.Hayakawa, 
+#+          T.Shizuma, E.Khan, S.Goriely
+#REF-CODE   (J,PR/C,67,015807,2003)
+#REFERENCE  Phys.Rev.C 67 (2003) 015807 (doi:10.1103/PhysRevC.67.015807)
+#DATASETS   0
+#
+#DATASET    M0664002 
+#DATE       20050221
+#REACTION   73-TA-181(G,N)73-TA-180,,SIG
+#PROJ       0
+#TARG       73181
+#MF         3
+#MT         4
+#PRODUCT    73-TA-180
+#C4BEGIN    [    0 73181   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 73181   3   4    7800000.          0.010600 5.5000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    8200000.          0.021500 6.7000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    8600000.          0.030600 6.1000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    8900000.          0.033300 6.7000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    9400000.          0.056700 5.6000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    9700000.          0.052400 8.2000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    1.0200+7          0.093900 6.1000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    1.0300+7          0.076700 5.9000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    1.0500+7          0.097000 5.3000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    1.0600+7          0.137000 6.2000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    1.1100+7          0.185500 5.6000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    1.1500+7          0.288300 5.6000-3                                       H.Utsunomiya+        (03)M0664  2 
+    0 73181   3   4    1.2000+7          0.297700 5.3000-3                                       H.Utsunomiya+        (03)M0664  2 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      T0126
+#AUTHOR1    C.H.Johnson+
+#YEAR       1964
+#INSTITUTE  (1USAORL)
+#TITLE      Thresholds for (p,n) reactions on 26 intermediate-
+#+          weight nuclei
+#AUTHOR(S)  C.H.Johnson, C.C.Trail, A.Galonsky
+#REF-CODE   (J,PR,136,B1719,1964)
+#REFERENCE  Phys.Rev. 136 (1964) B1719 (doi:10.1103/PhysRev.136.B1719)
+#DATASETS   0
+#
+#DATASET    T0126015 
+#DATE       20150115
+#REACTION   31-GA-69(P,N)32-GE-69,,SIG
+#PROJ       1001
+#TARG       31069
+#MF         3
+#MT         4
+#PRODUCT    32-GE-69
+#C4BEGIN    [ 1001 31069   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 31069   3   4 A  3000000.          5.4000-4                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  3030000.          1.4500-3                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  3060000.          2.2800-3                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  3135000.          6.1700-3                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  3395000.          0.017900                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  3625000.          0.034200                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  3905000.          0.049000                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  4165000.          0.064600                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  4435000.          0.096800                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  4730000.          0.117000                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  4855000.          0.136000                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  5020000.          0.148000                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  5160000.          0.167000                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  5330000.          0.176000                                                C.H.Johnson+         (64)T0126 15 
+ 1001 31069   3   4 A  5480000.          0.195000                                                C.H.Johnson+         (64)T0126 15 
+#/DATA      15
+#/DATASET

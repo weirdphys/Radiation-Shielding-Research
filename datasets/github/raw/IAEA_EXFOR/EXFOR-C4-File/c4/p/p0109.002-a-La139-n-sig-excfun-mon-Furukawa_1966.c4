@@ -1,0 +1,41 @@
+#ENTRY      P0109
+#AUTHOR1    M.Furukawa+
+#YEAR       1966
+#INSTITUTE  (2JPNTOK)
+#TITLE      Excitation functions for alpha-particle induced
+#+          reactions on 139La
+#AUTHOR(S)  M.Furukawa
+#REF-CODE   (J,NP,77,565,1966)
+#REFERENCE  Nucl.Phys. 77 (1966) 565 (doi:10.1016/0029-5582(66)90784-X)
+#DATASETS   0
+#
+#DATASET    P0109002 
+#DATE       20241025
+#REACTION   57-LA-139(A,N)59-PR-142,,SIG
+#PROJ       2004
+#TARG       57139
+#MF         3
+#MT         4
+#PRODUCT    59-PR-142
+#C4BEGIN    [ 2004 57139   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 57139   3   4    1.1080+7          2.6000-3                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    1.1440+7          3.8000-3 7.0000-4                                       M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    1.4590+7          0.058000                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    1.7310+7          0.104000                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    1.7520+7          0.114000 0.017000                                       M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    2.0730+7          0.071300                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    2.0790+7          0.062700                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    2.3460+7          0.040000                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    2.3820+7          0.043300                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    2.6860+7          0.026800 4.0000-3                                       M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    2.7020+7          0.027400                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    3.0240+7          0.021400 3.2000-3                                       M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    3.0410+7          0.018800                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    3.3140+7          0.018000                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    3.5940+7          0.014900                                                M.Furukawa           (66)P0109  2 
+ 2004 57139   3   4    3.8480+7          0.012200 1.8000-3                                       M.Furukawa           (66)P0109  2 
+#/DATA      16
+#/DATASET

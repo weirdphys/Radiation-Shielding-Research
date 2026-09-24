@@ -1,0 +1,35 @@
+#ENTRY      L0290
+#AUTHOR1    J.Song+
+#YEAR       2024
+#INSTITUTE  (1USAANL)
+#TITLE      Photonuclear cross sections for 197Au: An update on
+#+          the gold standard
+#AUTHOR(S)  J.Song, D.Rotsch, J.A.Nolen, R.Gampa, R.M.de Kruijff, T.Brossard, 
+#+          C.R.Howell, F.Krishichayan, Y.K.Wu, S.Mikhailov, M.W.Ahmed, 
+#+          R.V.F.Janssens
+#REF-CODE   (J,PR/C,110,064604,2024)
+#REFERENCE  Phys.Rev.C 110 (2024) 064604 (doi:10.1103/PhysRevC.110.064604)
+#DATASETS   0
+#
+#DATASET    L0290007 
+#DATE       20260219
+#REACTION   79-AU-197(G,3N)79-AU-194,,SIG,,AV
+#PROJ       0
+#TARG       79197
+#MF         3
+#MT         17
+#PRODUCT    79-AU-194
+#C4BEGIN    [    0 79197   3  17 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 79197   3  17 D  2.2990+7 830000.0 1.2000-4 1.3800-5                                       J.Song+              (24)L0290  7 
+    0 79197   3  17 D  2.3430+7 1130000. 8.9000-4 7.7430-5                                       J.Song+              (24)L0290  7 
+    0 79197   3  17 D  2.4120+7 570000.0 1.9300-3 1.6405-4                                       J.Song+              (24)L0290  7 
+    0 79197   3  17 D  2.4910+7 950000.0 7.8600-3 6.6024-4                                       J.Song+              (24)L0290  7 
+    0 79197   3  17 D  2.6230+7 660000.0 0.016510 1.3868-3                                       J.Song+              (24)L0290  7 
+    0 79197   3  17 D  2.7240+7 1510000. 0.015960 1.3406-3                                       J.Song+              (24)L0290  7 
+    0 79197   3  17 D  2.9250+7 1260000. 0.022860 1.9202-3                                       J.Song+              (24)L0290  7 
+    0 79197   3  17 D  3.1050+7 840000.0 0.021100 1.7724-3                                       J.Song+              (24)L0290  7 
+#/DATA      8
+#/DATASET

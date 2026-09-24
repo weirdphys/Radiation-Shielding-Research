@@ -1,0 +1,29 @@
+#ENTRY      S0188
+#AUTHOR1    Y.Z.Sun+
+#YEAR       2019
+#INSTITUTE  (3CPRIMP)
+#TITLE      Two-neutron removal cross sections from 15,16C at
+#+          around 240 MeV/nucleon
+#AUTHOR(S)  Y.Z.Sun, S.T.Wang, Z.Y.Sun, X.H.Zhang, D.Yan, B.H.Sun, J.W.Zhao, 
+#+          Y.P.Xu, D.Y.Pang, Y.H.Yu, K.Yue, S.W.Tang, C.Dong, Y.X.Zhao, 
+#+          F.Fang, Y.Sun, Z.H.Cheng, X.M.Liu, P.Ma, H.R.Yang, C.G.Lu, 
+#+          L.M.Duan
+#REF-CODE   (J,PR/C,99,024605,2019)
+#REFERENCE  Phys.Rev.C 99 (2019) 024605 (doi:10.1103/PhysRevC.99.024605)
+#DATASETS   0
+#
+#DATASET    S0188002 
+#DATE       20200218
+#REACTION   6-C-15(8-O-18,X)6-C-13,,SIG
+#PROJ       8018
+#TARG       6015
+#MF         3
+#MT         454
+#PRODUCT    6-C-13
+#C4BEGIN    [ 8018  6015   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8018  6015   3 454    4.3200+9          0.064000 0.010000            6013.9                     Y.Z.Sun+             (19)S0188  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,41 @@
+#ENTRY      L0009
+#AUTHOR1    R.L.Bramblett+
+#YEAR       1966
+#INSTITUTE  (1USALRL)
+#TITLE      Photoneutron cross sections of Pr141 and I127 from
+#+          threshold to 33 MeV.
+#AUTHOR(S)  R.L.Bramblett, J.T.Calswell, B.L.Berman, R.R.Harvey, S.C.Fultz
+#REF-CODE   (J,PR,148,1198,1966)
+#REFERENCE  Phys.Rev. 148 (1966) 1198 (doi:10.1103/PhysRev.148.1198)
+#DATASETS   0
+#
+#DATASET    L0009008 
+#DATE       20240329
+#REACTION   59-PR-141(G,3N)59-PR-138,,SIG
+#PROJ       0
+#TARG       59141
+#MF         3
+#MT         17
+#PRODUCT    59-PR-138
+#C4BEGIN    [    0 59141   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 59141   3  17    2.7989+7          7.4000-4 3.4200-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    2.8299+7          5.7300-3 3.6900-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    2.8918+7          3.8100-3 3.6100-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    2.9228+7          1.6700-3 3.5000-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    2.9538+7          4.1700-3 3.8600-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    2.9847+7          4.0500-3 3.8800-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    3.0150+7          7.6000-3 4.1000-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    3.0450+7          9.1800-3 4.3000-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    3.0780+7          7.5000-3 4.1000-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    3.1080+7          8.7800-3 4.2000-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    3.1380+7          7.6200-3 4.2000-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    3.1700+7          0.012750 4.8000-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    3.2020+7          0.010100 4.2000-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    3.2330+7          0.010680 4.6000-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    3.2650+7          0.016500 5.4000-3                                       R.L.Bramblett+       (66)L0009  8 
+    0 59141   3  17    3.2960+7          0.010780 4.9000-3                                       R.L.Bramblett+       (66)L0009  8 
+#/DATA      16
+#/DATASET

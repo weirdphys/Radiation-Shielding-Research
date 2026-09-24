@@ -1,0 +1,34 @@
+{
+  "dataset_id": "E001",
+  "object_id": "E001.TRAJ_E",
+  "coordinate_native": "electron_energy_MeV",
+  "coordinate_analysis": "log(electron_energy_MeV/E_ref)",
+  "coordinate_transform": "ln(x / dataset_min_positive_energy)",
+  "coordinate_reference": 0.01,
+  "coordinate_unit": "dimensionless_log_energy",
+  "source_path": "data/processed/NIST_ESTAR/estar_portland_concrete.csv",
+  "n_curves_loaded": 4,
+  "max_curve_points": 81,
+  "curve_cap_applied": false,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "csda_range": 1,
+    "radiation_yield": 1,
+    "stopping_power_components": 2
+  },
+  "registry": {
+    "name": "NIST ESTAR Portland concrete",
+    "particle": "electron",
+    "evidence": "EVALUATED/REFERENCE",
+    "role": "81-energy stopping-power, CSDA-range and radiation-yield reference.",
+    "path": "processed_datasets/NIST_ESTAR/estar_portland_concrete.parquet",
+    "richness": "RICH_MULTI_1D",
+    "guardrail": "Material 144 is Portland concrete; direct Geant4 comparison requires composition audit."
+  },
+  "state_group_shapes": {
+    "stopping_power_components": {
+      "n_coordinate_points": 81,
+      "state_dimension": 2
+    }
+  }
+}

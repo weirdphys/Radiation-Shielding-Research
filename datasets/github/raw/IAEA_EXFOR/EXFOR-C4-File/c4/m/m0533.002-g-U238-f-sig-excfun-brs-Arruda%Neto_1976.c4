@@ -1,0 +1,63 @@
+#ENTRY      M0533
+#AUTHOR1    J.D.T.Arruda Neto+
+#YEAR       1976
+#INSTITUTE  (3BZLUSP)
+#TITLE      Electrofission and photofission of U-238 in the
+#+          energy range 6 - 60 MeV.
+#AUTHOR(S)  J.D.T.Arruda Neto, S.B.Herdade, B.S.Bhandari, I.C.Nascimento
+#REF-CODE   (J,PR/C,14,1499,1976)
+#REFERENCE  Phys.Rev.C 14 (1976) 1499 (doi:10.1103/PhysRevC.14.1499)
+#DATASETS   0
+#
+#DATASET    M0533002 
+#DATE       20160202
+#REACTION   92-U-238(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  18    6300000.          7.9000-3                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    7400000.          0.014400                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    8600000.          0.024800                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    9500000.          0.038600                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    9900000.          0.050300                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.0300+7          0.063200                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.0700+7          0.078200                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.1300+7          0.097900                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.1900+7          0.115500                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.2400+7          0.128700                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.3000+7          0.144000                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.4000+7          0.153800                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.5000+7          0.145000                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.5400+7          0.130000                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.5800+7          0.108100                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.6200+7          0.089800                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.6500+7          0.072000                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.7200+7          0.058000                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.8000+7          0.046000                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.9100+7          0.037400                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    1.9900+7          0.032500                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    2.0000+7          0.027700                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    2.2200+7          0.022800                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    2.3500+7          0.020100                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    2.5300+7          0.017700                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    2.7100+7          0.015600                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    2.9000+7          0.015100                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    3.0500+7          0.016400                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    3.2100+7          0.018800                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    3.3900+7          0.019600                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    3.5400+7          0.019000                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    3.7200+7          0.017700                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    3.8900+7          0.015600                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    4.0600+7          0.013700                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    4.2700+7          0.012500                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    4.3600+7          0.012100                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    4.5800+7          0.011200                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    4.8400+7          0.010300                                                J.D.T.Arruda Neto+   (76)M0533  2 
+    0 92238   3  18    5.2000+7          8.9000-3                                                J.D.T.Arruda Neto+   (76)M0533  2 
+#/DATA      39
+#/DATASET

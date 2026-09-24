@@ -1,0 +1,30 @@
+Kakutani / Brouwer Fixed-Point Construction from Processed Radiation Data
+============================================================
+
+Interpretation:
+  Processed N003 transmission responses define a multivariate state vector along uniform log-energy.
+  A two-dimensional PCA state plane is fitted with a one-step affine ordered-coordinate model.
+  The clipped map g(z)=Pi_K(Az+b) is continuous and maps the compact convex box K into itself.
+  Brouwer therefore guarantees a fixed point of g.
+  The set-valued correspondence F(z)=K intersect closed_ball(g(z),epsilon) is the Kakutani construction used here.
+  The numerical candidate satisfies the fixed-inclusion condition when ||z*-g(z*)|| <= epsilon.
+  This is an ordered-coordinate reduced-model result, not a claim of a temporal fixed state in the shielding material.
+
+Source: data/processed/RB2000164/rb2000164_physics_ready_strict.csv.gz
+Radiation object: N003.SEQ_SAMPLE / N003.TRAJ_E
+Observable: transmission T(E)
+Measured samples: 9
+Coordinate states used: 1250
+Coordinate step used: 0.011048438091265211
+PC1 explained fraction: 0.9414929581
+PC2 explained fraction: 0.0133558648
+PC1+PC2 explained fraction: 0.9548488229
+Affine one-step joint R2: 0.8926502083
+Affine one-step 2D RMSE: 0.9558991313
+Epsilon, median one-step residual: 0.3549324022
+Fixed-inclusion residual: 3.6348482571e-14
+Inside F: True
+Inside K: True
+Inclusion margin: 0.3549324022
+Nearest observed state distance: 0.0397171996
+Clipping active at z_star: False

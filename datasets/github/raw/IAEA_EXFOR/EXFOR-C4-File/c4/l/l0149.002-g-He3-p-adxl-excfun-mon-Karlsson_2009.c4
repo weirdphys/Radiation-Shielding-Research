@@ -1,0 +1,42 @@
+#ENTRY      L0149
+#AUTHOR1    M.Karlsson+
+#YEAR       2009
+#INSTITUTE  (2SWDLND)
+#TITLE      Measurement of the differential cross section for
+#+          the two- body photodisintegration of 3He at
+#+          theta(LAB) = 90deg using tagged photons in the
+#+          energy range 14 - 31 MeV
+#AUTHOR(S)  M.Karlsson, J.-O.Adler, L.E.M.Andersson, V.Avdeichikov, 
+#+          B.L.Berman, M.J.Boland, W.J.Br Iscoe, J.Brudvik, J.R.Calarco, 
+#+          G.Feldman, K.G.Fissum, K.Hansen, D.Hornidge, L.Isaksson, 
+#+          N.R.Kolb, A.A.Kotov, P.Lilja, M.Lundin, B.Nilsson, D.Nils Son, 
+#+          G.V.Orielly, G.E.Petrov, B.Schroder
+#REF-CODE   (J,PR/C,80,044001,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 044001 (doi:10.1103/PhysRevC.80.044001)
+#DATASETS   0
+#
+#DATASET    L0149002 
+#DATE       20091213
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103    1.4000+7 270000.0 8.5000-5 5.3000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+    0  2003   4 103    1.4900+7 270000.0 9.4400-5 7.6000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+    0  2003   4 103    1.5700+7 270000.0 8.2300-5 3.3000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+    0  2003   4 103    1.6700+7 270000.0 7.7000-5 8.2000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+    0  2003   4 103    1.7700+7 270000.0 7.1400-5 2.8000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+    0  2003   4 103    1.9900+7 270000.0 5.9000-5 1.8000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+    0  2003   4 103    2.4000+7 270000.0 4.7800-5 2.6000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+    0  2003   4 103    2.5600+7 270000.0 4.2000-5 2.7000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+    0  2003   4 103    2.6200+7 270000.0 4.1300-5 1.8000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+    0  2003   4 103    2.8800+7 270000.0 3.4300-5 1.6000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+    0  2003   4 103    3.1200+7 270000.0 2.8100-5 1.3000-6 6.123-17                              M.Karlsson+          (09)L0149  2 
+#/DATA      11
+#/DATASET

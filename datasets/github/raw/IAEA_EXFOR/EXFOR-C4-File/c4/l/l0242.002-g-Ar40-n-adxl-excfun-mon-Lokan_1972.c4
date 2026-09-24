@@ -1,0 +1,37 @@
+#ENTRY      L0242
+#AUTHOR1    K.H.Lokan+
+#YEAR       1972
+#INSTITUTE  (1CANOTC)
+#TITLE      Excited States of 40Ar Observed in the Reaction
+#+          40Ar(gamma,n0)39Ar
+#AUTHOR(S)  K.H.Lokan, N.K.Sherman, R.W.Gellie, J.W.Jury, J.I.Lodge, 
+#+          R.G.Johnson
+#REF-CODE   (J,PRL,28,1526,1972)
+#REFERENCE  Phys.Rev.Lett. 28 (1972) 1526 (doi:10.1103/PhysRevLett.28.1526)
+#DATASETS   0
+#
+#DATASET    L0242002 
+#DATE       20190206
+#REACTION   18-AR-40(G,N)18-AR-39,PAR,DA
+#PROJ       0
+#TARG       18040
+#MF         4
+#MT         50
+#PRODUCT    18-AR-39
+#C4BEGIN    [    0 18040   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 18040   4  50    1.0553+7          1.1620-3 2.8100-4 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+    0 18040   4  50    1.0731+7          1.3320-3 2.0800-4 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+    0 18040   4  50    1.0913+7          1.1240-3 1.2700-4 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+    0 18040   4  50    1.1083+7          8.1200-4 8.1000-5 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+    0 18040   4  50    1.1277+7          7.1600-4 1.0100-4 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+    0 18040   4  50    1.1447+7          7.7000-4 6.3000-5 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+    0 18040   4  50    1.1617+7          5.0000-4 4.7000-5 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+    0 18040   4  50    1.1824+7          5.2200-4 6.9000-5 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+    0 18040   4  50    1.1994+7          4.0700-4 5.8000-5 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+    0 18040   4  50    1.2188+7          3.3700-4 6.9000-5 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+    0 18040   4  50    1.2395+7          2.6800-4 6.9000-5 6.123-17          0.000000         LVLK.H.Lokan+           (72)L0242  2 
+#/DATA      11
+#/DATASET

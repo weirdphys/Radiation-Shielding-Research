@@ -1,0 +1,136 @@
+COMMAND: /home/a/miniconda3/envs/neutron-g4-native/bin/x86_64-conda-linux-gnu-c++ -std=c++17 -O3 -DNDEBUG -pthread -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -fno-merge-constants -isystem /home/a/miniconda3/envs/neutron-g4-native/include -fdebug-prefix-map=/home/conda/feedstock_root/build_artifacts/geant4_1781788887011/work=/usr/local/src/conda/geant4-11.4.2 -fdebug-prefix-map=/home/a/miniconda3/envs/neutron-g4-native=/usr/local/src/conda-prefix -W -Wall -pedantic -Wno-non-virtual-dtor -Wno-long-long -Wwrite-strings -Wpointer-arith -Woverloaded-virtual -Wno-variadic-macros -Wshadow -pipe -pthread -ftls-model=global-dynamic -std=c++17 -I/home/a/miniconda3/envs/neutron-g4-native/include/Geant4 -I/home/a/miniconda3/envs/neutron-g4-native/include -I/home/a/miniconda3/envs/neutron-g4-native/include /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp -o /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/build/step2_route_c_runner -L/home/a/miniconda3/envs/neutron-g4-native/lib -lG4gdml -lG4interfaces -lG4geomtext -lG4mctruth -lG4analysis -lG4error_propagation -lG4readout -lG4physicslists -lG4run -lG4event -lG4tracking -lG4parmodels -lG4processes_hadronic -lG4processes_core -lG4digits_hits -lG4track -lG4particles -lG4geometry -lG4materials -lG4graphics_reps -lG4intercoms -lG4global -L/home/a/miniconda3/envs/neutron-g4-native/lib -lCLHEP-2.4.7.2 -lG4ptl
+
+--- STDOUT ---
+
+--- STDERR ---
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In function 'std::string trim(std::string)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:50:37: warning: declaration of 's' shadows a global declaration [-Wshadow]
+   50 | static std::string trim(std::string s) {
+      |                         ~~~~~~~~~~~~^
+In file included from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/PhysicalConstants.h:45,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Vector/RotationX.icc:11,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Vector/RotationX.h:281,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Vector/Rotation.h:26,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Geometry/Transform3D.icc:6,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Geometry/Transform3D.h:837,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/Geant4/G4Transform3D.hh:31,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/Geant4/HepPolyhedron.h:210,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/Geant4/G4Polyhedron.hh:129,
+                 from /home/a/miniconda3/envs/neutron-g4-native/include/Geant4/G4Box.hh:50,
+                 from /home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:1:
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:51:10: warning: declaration of 'ns' shadows a global declaration [-Wshadow]
+   51 |     auto ns=[](unsigned char c){return !std::isspace(c);};
+      |          ^~
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:157:27: note: shadowed declaration is here
+  157 |   static constexpr double ns = nanosecond;
+      |                           ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In function 'std::vector<std::__cxx11::basic_string<char> > split(const std::string&, char)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:56:58: warning: declaration of 's' shadows a global declaration [-Wshadow]
+   56 | static std::vector<std::string> split(const std::string& s,char delim=',') {
+      |                                       ~~~~~~~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In static member function 'static SourceSpectrum SourceSpectrum::load(const std::filesystem::__cxx11::path&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:83:46: warning: declaration of 's' shadows a global declaration [-Wshadow]
+   83 |         CsvTable t=readCsv(p);SourceSpectrum s;double cum=0;
+      |                                              ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:86:13: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+   86 |             if(!(b.high>b.low)||b.prob<0)throw std::runtime_error("Invalid source bin");cum+=b.prob;s.bins.push_back(b);s.cdf.push_back(cum);}
+      |             ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:86:89: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+   86 |             if(!(b.high>b.low)||b.prob<0)throw std::runtime_error("Invalid source bin");cum+=b.prob;s.bins.push_back(b);s.cdf.push_back(cum);}
+      |                                                                                         ^~~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:87:9: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+   87 |         if(s.bins.empty()||!(cum>0))throw std::runtime_error("Invalid source spectrum");for(auto& x:s.cdf)x/=cum;return s;
+      |         ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:87:89: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+   87 |         if(s.bins.empty()||!(cum>0))throw std::runtime_error("Invalid source spectrum");for(auto& x:s.cdf)x/=cum;return s;
+      |                                                                                         ^~~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In function 'std::vector<DepthBin> loadDepthBins(const std::filesystem::__cxx11::path&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:95:5: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+   95 |     if(c.size()<2||c.front()<0)throw std::runtime_error("PDD reference requires >=2 nonnegative depths");std::vector<double> e(c.size()+1);e[0]=std::max(0.0,c[0]-0.5*(c[1]-c[0]));
+      |     ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:95:106: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+   95 |     if(c.size()<2||c.front()<0)throw std::runtime_error("PDD reference requires >=2 nonnegative depths");std::vector<double> e(c.size()+1);e[0]=std::max(0.0,c[0]-0.5*(c[1]-c[0]));
+      |                                                                                                          ^~~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:96:5: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+   96 |     for(size_t i=1;i<c.size();++i)e[i]=0.5*(c[i-1]+c[i]);e.back()=c.back()+0.5*(c.back()-c[c.size()-2]);std::vector<DepthBin> out;out.reserve(c.size());
+      |     ^~~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:96:58: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'for'
+   96 |     for(size_t i=1;i<c.size();++i)e[i]=0.5*(c[i-1]+c[i]);e.back()=c.back()+0.5*(c.back()-c[c.size()-2]);std::vector<DepthBin> out;out.reserve(c.size());
+      |                                                          ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In static member function 'static Config Config::load(const std::filesystem::__cxx11::path&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:106:9: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+  106 |         if(c.histories<kMinimumHistories)throw std::runtime_error("Route-C paired run requires >=100,000,000 histories");if(!(c.ssdCm>0&&c.fieldXCm>0&&c.fieldYCm>0&&c.waterDepthCm>0&&c.sourcePlaneOffsetCm>0&&c.pddScoreHalfWidthCm>0&&c.profileDepthHalfWidthCm>0&&c.profileYHalfWidthCm>0&&c.profileBinWidthCm>0&&c.profileHalfExtentCm>0))throw std::runtime_error("Invalid Route-C geometry");if(c.sourcePlaneMode!="water_surface_factorized")throw std::runtime_error("Invalid source_plane_mode");if(c.phaseSpaceModel!="aggregate_energy_uniform_xy_virtual_source_divergence")throw std::runtime_error("Invalid phase_space_model");return c;}
+      |         ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:106:122: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+  106 |         if(c.histories<kMinimumHistories)throw std::runtime_error("Route-C paired run requires >=100,000,000 histories");if(!(c.ssdCm>0&&c.fieldXCm>0&&c.fieldYCm>0&&c.waterDepthCm>0&&c.sourcePlaneOffsetCm>0&&c.pddScoreHalfWidthCm>0&&c.profileDepthHalfWidthCm>0&&c.profileYHalfWidthCm>0&&c.profileBinWidthCm>0&&c.profileHalfExtentCm>0))throw std::runtime_error("Invalid Route-C geometry");if(c.sourcePlaneMode!="water_surface_factorized")throw std::runtime_error("Invalid source_plane_mode");if(c.phaseSpaceModel!="aggregate_energy_uniform_xy_virtual_source_divergence")throw std::runtime_error("Invalid phase_space_model");return c;}
+      |                                                                                                                          ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In member function 'virtual G4VPhysicalVolume* Detector::Construct()':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:109:571: warning: declaration of 'ps' shadows a global declaration [-Wshadow]
+  109 | class Detector final:public G4VUserDetectorConstruction{Config c_;public:explicit Detector(Config c):c_(std::move(c)){}G4VPhysicalVolume* Construct() override{auto*n=G4NistManager::Instance();auto*air=n->FindOrBuildMaterial("G4_AIR");auto*water=n->FindOrBuildMaterial("G4_WATER");double hxy=std::max(100.0,c_.waterHalfXYCm+10.0);double hz=std::max(30.0,c_.waterDepthCm+20.0);auto*ws=new G4Box("routec_world",hxy*cm,hxy*cm,hz*cm);auto*wl=new G4LogicalVolume(ws,air,"routec_world");auto*wp=new G4PVPlacement(nullptr,G4ThreeVector(),wl,"routec_world",nullptr,false,0);auto*ps=new G4Box("routec_water",c_.waterHalfXYCm*cm,c_.waterHalfXYCm*cm,0.5*c_.waterDepthCm*cm);auto*pl=new G4LogicalVolume(ps,water,"routec_water");new G4PVPlacement(nullptr,G4ThreeVector(0,0,0.5*c_.waterDepthCm*cm),pl,"routec_water",wl,false,0);return wp;}};
+      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ^~
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:161:27: note: shadowed declaration is here
+  161 |   static constexpr double ps = picosecond;
+      |                           ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In constructor 'RunAction::RunAction(Shared&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:124:34: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  124 | public:explicit RunAction(Shared&s):s_(s),pdd_(s.pdd.size()),profile_(s.profile.size()){}void addEvent(const std::vector<double>&p,const std::vector<size_t>&tp,const std::vector<double>&x,const std::vector<size_t>&tx){for(auto i:tp)pdd_[i].add(p[i]);for(auto i:tx)profile_[i].add(x[i]);++n_;}void EndOfRunAction(const G4Run*) override{s_.merge(pdd_,profile_,n_);}};
+      |                           ~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In constructor 'Primary::Primary(Config, SourceSpectrum)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:127:149: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  127 | class Primary final:public G4VUserPrimaryGeneratorAction{Config c_;SourceSpectrum src_;G4ParticleGun gun_{1};public:Primary(Config c,SourceSpectrum s):c_(std::move(c)),src_(std::move(s)){gun_.SetParticleDefinition(G4Gamma::Gamma());}void GeneratePrimaries(G4Event*e) override{gun_.SetParticleEnergy(src_.sample()*MeV);double x=(G4UniformRand()-0.5)*c_.fieldXCm;double y=(G4UniformRand()-0.5)*c_.fieldYCm;gun_.SetParticlePosition(G4ThreeVector(x*cm,y*cm,-c_.sourcePlaneOffsetCm*cm));G4ThreeVector d(x*cm,y*cm,c_.ssdCm*cm);gun_.SetParticleMomentumDirection(d.unit());gun_.GeneratePrimaryVertex(e);}};
+      |                                                                                                                                      ~~~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In constructor 'Actions::Actions(Config, SourceSpectrum, std::vector<DepthBin>, Shared&, size_t)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:138:170: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  138 | class Actions final:public G4VUserActionInitialization{Config c_;SourceSpectrum s_;std::vector<DepthBin>d_;Shared& sh_;size_t nx_;public:Actions(Config c,SourceSpectrum s,std::vector<DepthBin>d,Shared&sh,size_t nx):c_(std::move(c)),s_(std::move(s)),d_(std::move(d)),sh_(sh),nx_(nx){}void BuildForMaster()const override{SetUserAction(new RunAction(sh_));}void Build()const override{auto*r=new RunAction(sh_);auto*e=new EventAction(r,sh_.pdd.size(),sh_.profile.size());SetUserAction(new Primary(c_,s_));SetUserAction(r);SetUserAction(e);SetUserAction(new StepAction(c_,d_,*e,nx_));}};
+      |                                                                                                                                                           ~~~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In function 'std::pair<double, double> meanSem(const Accum&, long long int)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:141:120: warning: declaration of 'm' shadows a global declaration [-Wshadow]
+  141 | static std::pair<double,double> meanSem(const Accum&a,long long n){if(n<=0)return{0,0};double N=static_cast<double>(n),m=a.sum/N;if(n<2)return{m,0};double ss=std::max(0.0,a.sumsq-N*m*m);double sample=ss/(N-1.0);return{m,std::sqrt(sample/N)};}
+      |                                                                                                                        ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:113:27: note: shadowed declaration is here
+  113 |   static constexpr double m  = meter;
+      |                           ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In function 'void writeOutputs(const Config&, const std::vector<DepthBin>&, const Shared&)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:142:85: warning: declaration of 's' shadows a global declaration [-Wshadow]
+  142 | static void writeOutputs(const Config&c,const std::vector<DepthBin>&db,const Shared&s){
+      |                                                                        ~~~~~~~~~~~~~^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:158:28: note: shadowed declaration is here
+  158 |   static constexpr double  s = second;
+      |                            ^
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:143:5: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+  143 |     if(s.events!=c.histories)throw std::runtime_error("Merged event count differs from requested histories");std::vector<double> pm(db.size()),ps(db.size());for(size_t i=0;i<db.size();++i){auto q=meanSem(s.pdd[i],c.histories);pm[i]=q.first;ps[i]=q.second;}auto im=std::distance(pm.begin(),std::max_element(pm.begin(),pm.end()));if(!(pm.at(im)>0))throw std::runtime_error("PDD has zero normalization dose");
+      |     ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:143:110: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+  143 |     if(s.events!=c.histories)throw std::runtime_error("Merged event count differs from requested histories");std::vector<double> pm(db.size()),ps(db.size());for(size_t i=0;i<db.size();++i){auto q=meanSem(s.pdd[i],c.histories);pm[i]=q.first;ps[i]=q.second;}auto im=std::distance(pm.begin(),std::max_element(pm.begin(),pm.end()));if(!(pm.at(im)>0))throw std::runtime_error("PDD has zero normalization dose");
+      |                                                                                                              ^~~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:143:144: warning: declaration of 'ps' shadows a global declaration [-Wshadow]
+  143 |     if(s.events!=c.histories)throw std::runtime_error("Merged event count differs from requested histories");std::vector<double> pm(db.size()),ps(db.size());for(size_t i=0;i<db.size();++i){auto q=meanSem(s.pdd[i],c.histories);pm[i]=q.first;ps[i]=q.second;}auto im=std::distance(pm.begin(),std::max_element(pm.begin(),pm.end()));if(!(pm.at(im)>0))throw std::runtime_error("PDD has zero normalization dose");
+      |                                                                                                                                                ^~
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:161:27: note: shadowed declaration is here
+  161 |   static constexpr double ps = picosecond;
+      |                           ^~
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp: In function 'int main(int, char**)':
+/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/step2_route_c_paired_runner.cpp:156:138: warning: declaration of 'm' shadows a global declaration [-Wshadow]
+  156 | int main(int argc,char**argv){try{if(argc<2){std::cerr<<"usage: step2_route_c_runner info | paired <config.ini>\n";return 2;}std::string m=argv[1];if(m=="info"){std::cout<<"IMPLEMENTATION_LANGUAGE=C++17\nREQUIRED_THREADS="<<kRequiredThreads<<"\nMINIMUM_HISTORIES="<<kMinimumHistories<<"\nGEANT4_VERSION="<<G4Version<<"\n";
+      |                                                                                                                                          ^
+/home/a/miniconda3/envs/neutron-g4-native/include/CLHEP/Units/SystemOfUnits.h:113:27: note: shadowed declaration is here
+  113 |   static constexpr double m  = meter;
+      |                           ^

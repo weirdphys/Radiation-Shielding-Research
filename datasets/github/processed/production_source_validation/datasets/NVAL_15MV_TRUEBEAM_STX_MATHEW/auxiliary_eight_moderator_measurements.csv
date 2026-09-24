@@ -1,0 +1,9 @@
+moderator_shells,active_mean_neutron_current_nA,active_std_nA,active_relative_std_percent,passive_mean_specific_saturation_activity_s-1_g-1,passive_std_s-1_g-1,passive_relative_std_percent
+7,0.7375,0.0004,0.06,39405,987,2.51
+6,1.334,0.002,0.17,75038,1165,1.55
+5,1.912,0.001,0.05,115027,1996,1.74
+4,1.949,0.001,0.05,125285,3458,2.76
+3,1.684,0.001,0.06,118062,2269,1.92
+2,1.4283,0.0001,0.01,108746,2110,1.94
+1,1.1024,0.0004,0.03,91328,787,0.86
+0,0.2322,0.0003,0.11,18493,804,4.35

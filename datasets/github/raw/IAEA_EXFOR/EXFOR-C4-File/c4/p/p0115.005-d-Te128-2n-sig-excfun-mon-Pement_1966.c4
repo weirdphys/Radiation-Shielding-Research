@@ -1,0 +1,41 @@
+#ENTRY      P0115
+#AUTHOR1    F.W.Pement+
+#YEAR       1966
+#INSTITUTE  (1USAPUP)
+#TITLE      Compound-statistical features of deuteron-induced
+#+          reactions: (II). The compound nucleus and stripping-
+#+          evaporation mechanisms in (d,2n) reactions
+#AUTHOR(S)  F.W.Pement, R.L.Wolke
+#REF-CODE   (J,NP,86,429,1966)
+#REFERENCE  Nucl.Phys. 86 (1966) 429 (doi:10.1016/0029-5582(66)90550-5)
+#DATASETS   0
+#
+#DATASET    P0115005 
+#DATE       20230112
+#REACTION   52-TE-128(D,2N)53-I-128,,SIG
+#PROJ       1002
+#TARG       52128
+#MF         3
+#MT         16
+#PRODUCT    53-I-128
+#C4BEGIN    [ 1002 52128   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 52128   3  16    6100000.          8.4000-3 8.0000-4                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    6100000.          0.018000 2.0000-3                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    7600000.          0.092000 0.010000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    8400000.          0.223000 0.024000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    8400000.          0.228000 0.025000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    9200000.          0.453000 0.050000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    9300000.          0.394000 0.043000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    1.0000+7          0.407000 0.045000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    1.0700+7          0.538000 0.059000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    1.1400+7          0.468000 0.052000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    1.1600+7          0.646000 0.071000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    1.2300+7          0.804000 0.088000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    1.3100+7          0.638000 0.070000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    1.4000+7          0.635000 0.070000                                       F.W.Pement+          (66)P0115  5 
+ 1002 52128   3  16    1.4100+7          0.616000 0.068000                                       F.W.Pement+          (66)P0115  5 
+#/DATA      15
+#/DATASET

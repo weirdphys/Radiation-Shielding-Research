@@ -1,0 +1,31 @@
+#ENTRY      P0019
+#AUTHOR1    K.Otozai+
+#YEAR       1966
+#INSTITUTE  (2JPNOSA)
+#TITLE      Excitation functions for the reactions induced by
+#+          protons on Cd up to 37 MeV
+#AUTHOR(S)  K.Otozai, S.Kume, A.Mito, H.Okamura, R.Tsujino, Y.Kanchiku, 
+#+          T.Katoh, H.Gotoh
+#REF-CODE   (J,NP,80,335,1966)
+#REFERENCE  Nucl.Phys. 80 (1966) 335 (doi:10.1016/0029-5582(66)90093-9)
+#DATASETS   0
+#
+#DATASET    P0019009 
+#DATE       20000808
+#REACTION   48-CD-112(P,N)49-IN-112-G,,SIG
+#PROJ       1001
+#TARG       48112
+#MF         3
+#MT         4
+#PRODUCT    49-IN-112-G
+#C4BEGIN    [ 1001 48112   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48112   3   4G   9400000.          0.400000 0.060000                                       K.Otozai+            (66)P0019  9 
+ 1001 48112   3   4G   1.3100+7          0.300000 0.200000                                       K.Otozai+            (66)P0019  9 
+ 1001 48112   3   4G   1.4700+7          0.220000 0.040000                                       K.Otozai+            (66)P0019  9 
+ 1001 48112   3   4G   1.7300+7          0.060000 0.020000                                       K.Otozai+            (66)P0019  9 
+ 1001 48112   3   4G   2.2800+7          0.040000 0.010000                                       K.Otozai+            (66)P0019  9 
+#/DATA      5
+#/DATASET

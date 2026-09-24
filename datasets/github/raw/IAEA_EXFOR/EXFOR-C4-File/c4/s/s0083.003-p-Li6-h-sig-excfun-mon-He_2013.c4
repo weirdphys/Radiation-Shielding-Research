@@ -1,0 +1,35 @@
+#ENTRY      S0083
+#AUTHOR1    J.J.He+
+#YEAR       2013
+#INSTITUTE  (3CPRIMP)
+#TITLE      A drop in the 6Li(p,g)7Be reaction at low energies
+#AUTHOR(S)  J.J.He, S.Z.Chen, C.E.Rolfs, S.W.Xu, J.Hu, X.W.Ma, M.Wiescher, 
+#+          R.J.deBoer, T.Kajino, M.Kusakabe, L.Y.Zhang, S.Q.Hou, X.Q.Yu, 
+#+          N.T.Zhang, G.Lian, Y.H.Zhang, X.H.Zhou, H.S.Xu, G.Q.Xiao, 
+#+          W.L.Zhan
+#REF-CODE   (J,PL/B,725,287,2013)
+#REFERENCE  Phys.Lett.B 725 (2013) 287 (doi:10.1016/j.physletb.2013.07.044)
+#DATASETS   0
+#
+#DATASET    S0083003 
+#DATE       20130426
+#REACTION   3-LI-6(P,HE3)2-HE-4,,SIG,,SFC
+#PROJ       1001
+#TARG       3006
+#MF         3
+#MT         106
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  3006   3 106  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   3 106    241919.8          0.031578 1.4210-3                                       J.J.He+              (13)S0083  3 
+ 1001  3006   3 106    221603.9          0.025978 1.1691-3                                       J.J.He+              (13)S0083  3 
+ 1001  3006   3 106    201404.7          0.024419 1.1231-3                                       J.J.He+              (13)S0083  3 
+ 1001  3006   3 106    181205.6          0.017881 8.2249-4                                       J.J.He+              (13)S0083  3 
+ 1001  3006   3 106    161123.3          0.013557 6.2381-4                                       J.J.He+              (13)S0083  3 
+ 1001  3006   3 106    141157.9          9.5503-3 4.2976-4                                       J.J.He+              (13)S0083  3 
+ 1001  3006   3 106    121309.2          4.9697-3 2.2361-4                                       J.J.He+              (13)S0083  3 
+ 1001  3006   3 106    101694.1          3.3622-3 1.5130-4                                       J.J.He+              (13)S0083  3 
+#/DATA      8
+#/DATASET

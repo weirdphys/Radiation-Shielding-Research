@@ -1,0 +1,33 @@
+#ENTRY      B0053
+#AUTHOR1    T.McGee+
+#YEAR       1970
+#INSTITUTE  (1CANMCG)
+#TITLE      Nuclear Interactions of Sc-45 and Zn-68 with Protons
+#+          Of Medium Energy
+#AUTHOR(S)  T.McGee, C.L.Rao, G.B.Saha, L.Yaffe
+#REF-CODE   (J,NP/A,150,11,1970)
+#REFERENCE  Nucl.Phys.A 150 (1970) 11 (doi:10.1016/0375-9474(70)90451-3)
+#DATASETS   0
+#
+#DATASET    B0053004 
+#DATE       20011220
+#REACTION   30-ZN-68(P,3N)31-GA-66,,SIG,,,EXP
+#PROJ       1001
+#TARG       30068
+#MF         3
+#MT         17
+#PRODUCT    31-GA-66
+#C4BEGIN    [ 1001 30068   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30068   3  17    3.0000+7 2000000. 0.061000 7.0000-3                                       T.McGee+             (70)B0053  4 
+ 1001 30068   3  17    3.5000+7 2000000. 0.120000 0.014000                                       T.McGee+             (70)B0053  4 
+ 1001 30068   3  17    4.0000+7 2000000. 0.091000 0.011000                                       T.McGee+             (70)B0053  4 
+ 1001 30068   3  17    4.8000+7 2000000. 0.036000 4.0000-3                                       T.McGee+             (70)B0053  4 
+ 1001 30068   3  17    5.6000+7 2000000. 0.023000 3.0000-3                                       T.McGee+             (70)B0053  4 
+ 1001 30068   3  17    6.4000+7 2000000. 0.016000 2.0000-3                                       T.McGee+             (70)B0053  4 
+ 1001 30068   3  17    7.5000+7 2000000. 0.012000 1.0000-3                                       T.McGee+             (70)B0053  4 
+ 1001 30068   3  17    8.5000+7 2000000. 9.0000-3 1.0000-3                                       T.McGee+             (70)B0053  4 
+#/DATA      8
+#/DATASET

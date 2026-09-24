@@ -1,0 +1,26 @@
+#ENTRY      G4015
+#AUTHOR1    I.G.Goncharov+
+#YEAR       2007
+#INSTITUTE  (4UKRKFT)
+#TITLE      Longliving 178m2Hf, 172Hf, 150Eu and 133Ba isotopes
+#+          photoproduction study
+#AUTHOR(S)  I.G.Goncharov, A.M.Dovbnya, Yu.M.Ranyuk, O.S.Shevchenko
+#REF-CODE   (J,VAT/I,,(5/48),22,2007)
+#REFERENCE  Vopr.At.Nauk.Inv.  No.5/48 (2007) 22
+#DATASETS   0
+#
+#DATASET    G4015011 
+#DATE       20180212
+#REACTION   73-TA-181(G,X)63-EU-150,,SIG,,BRS
+#PROJ       0
+#TARG       73181
+#MF         3
+#MT         454
+#PRODUCT    63-EU-150
+#C4BEGIN    [    0 73181   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 73181   3 454 D  6.0000+8 5.0000+8 1.0000-5                    63150.9                     I.G.Goncharov+       (07)G4015 11 
+#/DATA      1
+#/DATASET

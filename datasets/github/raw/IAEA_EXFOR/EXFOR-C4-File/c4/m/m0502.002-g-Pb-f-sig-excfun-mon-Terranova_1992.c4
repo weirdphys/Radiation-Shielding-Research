@@ -1,0 +1,27 @@
+#ENTRY      M0502
+#AUTHOR1    M.L.Terranova+
+#YEAR       1992
+#INSTITUTE  (2ITYUTV)
+#TITLE      Fission yields of Bi-209 and Pb-nat nuclei induced by
+#+          photon beams of 226 MeV maximum energy from Compton
+#+          backscattered laser light.
+#AUTHOR(S)  M.L.Terranova, A.D'angelo, J.D.Pinheiro F, E.S.De Almeida, 
+#+          E.Z.Bilbao, J.B.Martins
+#REF-CODE   (J,NC/A,105,197,1992)
+#REFERENCE  Nuovo Cim.A 105 (1992) 197 (doi:10.1007/BF02826028)
+#DATASETS   0
+#
+#DATASET    M0502002 
+#DATE       20220816
+#REACTION   82-PB-0(G,F),,SIG
+#PROJ       0
+#TARG       82000
+#MF         3
+#MT         18
+#C4BEGIN    [    0 82000   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82000   3  18    2.2600+8          8.0000-4 4.0000-4                                       M.L.Terranova+       (92)M0502  2 
+#/DATA      1
+#/DATASET

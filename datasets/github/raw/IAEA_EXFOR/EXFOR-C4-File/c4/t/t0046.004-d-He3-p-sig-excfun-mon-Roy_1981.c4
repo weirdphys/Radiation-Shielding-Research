@@ -1,0 +1,32 @@
+#ENTRY      T0046
+#AUTHOR1    R.Roy+
+#YEAR       1981
+#INSTITUTE  (1USABRK)
+#TITLE      Cross section and vector analyzing power iT(11) of
+#+          the processes 3He(d(pol),d)3He(d(pol),p)4He
+#+          between 15 and 40 MeV
+#AUTHOR(S)  R.Roy, F.Seiler, H.E.Conzett, F.N.Rad
+#REF-CODE   (J,PR/C,24,2421,1981)
+#REFERENCE  Phys.Rev.C 24 (1981) 2421 (doi:10.1103/PhysRevC.24.2421)
+#DATASETS   0
+#
+#DATASET    T0046004 
+#DATE       20220418
+#REACTION   2-HE-3(D,P)2-HE-4,,SIG
+#PROJ       1002
+#TARG       2003
+#MF         3
+#MT         103
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  2003   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2003   3 103    1.4600+7 100000.0 0.031700                                                R.Roy+               (81)T0046  4 
+ 1002  2003   3 103    1.9700+7 100000.0 0.027800                                                R.Roy+               (81)T0046  4 
+ 1002  2003   3 103    2.4900+7 100000.0 0.022700                                                R.Roy+               (81)T0046  4 
+ 1002  2003   3 103    3.0000+7 100000.0 0.020200                                                R.Roy+               (81)T0046  4 
+ 1002  2003   3 103    3.4900+7 100000.0 0.013900                                                R.Roy+               (81)T0046  4 
+ 1002  2003   3 103    3.9900+7 100000.0 0.011300                                                R.Roy+               (81)T0046  4 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      P0067
+#AUTHOR1    R.E.Batzel+
+#YEAR       1953
+#INSTITUTE  (1USACRD)
+#TITLE      The Excitation Function for the Al27(d,alpha p)Na24
+#+          Reaction
+#AUTHOR(S)  R.E.Batzel, W.W.T.Crane, G.D.Kelley
+#REF-CODE   (J,PR,91,939,1953)
+#REFERENCE  Phys.Rev. 91 (1953) 939 (doi:10.1103/PhysRev.91.939)
+#DATASETS   0
+#
+#DATASET    P0067005 
+#DATE       20241025
+#REACTION   13-AL-27(D,X)11-NA-24,,SIG
+#PROJ       1002
+#TARG       13027
+#MF         3
+#MT         454
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 1002 13027   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13027   3 454    5.0600+7          0.019300                    11024.9                     R.E.Batzel+          (53)P0067  5 
+ 1002 13027   3 454    9.6100+7          0.019900                    11024.9                     R.E.Batzel+          (53)P0067  5 
+ 1002 13027   3 454    1.2300+8          0.022100                    11024.9                     R.E.Batzel+          (53)P0067  5 
+ 1002 13027   3 454    1.4900+8          0.021800                    11024.9                     R.E.Batzel+          (53)P0067  5 
+ 1002 13027   3 454    1.6900+8          0.022100                    11024.9                     R.E.Batzel+          (53)P0067  5 
+ 1002 13027   3 454    1.8900+8          0.022000                    11024.9                     R.E.Batzel+          (53)P0067  5 
+#/DATA      6
+#/DATASET

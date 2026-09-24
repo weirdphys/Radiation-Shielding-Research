@@ -1,0 +1,31 @@
+#ENTRY      M0467
+#AUTHOR1    R.J.Hughes+
+#YEAR       1976
+#INSTITUTE  (2GERMPM)
+#TITLE      The photodisintegration of deuterium at 0-degree  for
+#+          the outgoing protons.
+#AUTHOR(S)  R.J.Hughes, A.Zieger, H.Waffler, B.Ziegler
+#REF-CODE   (J,NP/A,267,329,1976)
+#REFERENCE  Nucl.Phys.A 267 (1976) 329 (doi:10.1016/0375-9474(76)90722-3)
+#DATASETS   0
+#
+#DATASET    M0467003 
+#DATE       20160426
+#REACTION   1-H-2(G,N)1-H-1,,DA
+#PROJ       0
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   4   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   4   4 D  2.3000+7          5.1000-6 3.0600-7 1.000000 0.000000                     R.J.Hughes+          (76)M0467  3 
+    0  1002   4   4 D  3.2000+7          5.5500-6 3.3300-7 1.000000 0.000000                     R.J.Hughes+          (76)M0467  3 
+    0  1002   4   4 D  4.1500+7          4.7500-6 2.8500-7 1.000000 0.000000                     R.J.Hughes+          (76)M0467  3 
+    0  1002   4   4 D  7.7000+7          4.3000-6 2.5800-7 1.000000 0.000000                     R.J.Hughes+          (76)M0467  3 
+    0  1002   4   4 D  1.0300+8          4.1000-6 2.4600-7 1.000000 0.000000                     R.J.Hughes+          (76)M0467  3 
+    0  1002   4   4 D  1.2150+8          3.7000-6 2.2200-7 1.000000 0.000000                     R.J.Hughes+          (76)M0467  3 
+#/DATA      6
+#/DATASET

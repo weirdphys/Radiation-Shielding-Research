@@ -1,0 +1,10 @@
+sample_id,points,same_length_as_reference,exact_energy_grid_match,numerical_energy_grid_match,max_abs_energy_difference_eV
+A,9208,True,True,True,0.0
+B,9208,True,True,True,0.0
+C,9208,True,True,True,0.0
+D,9208,True,True,True,0.0
+R,9208,True,True,True,0.0
+S,9208,True,True,True,0.0
+T,9208,True,True,True,0.0
+U,9208,True,True,True,0.0
+V,9208,True,True,True,0.0

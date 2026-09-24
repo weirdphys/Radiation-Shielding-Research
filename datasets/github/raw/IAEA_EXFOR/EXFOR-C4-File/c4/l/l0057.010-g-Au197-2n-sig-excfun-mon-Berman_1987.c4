@@ -1,0 +1,31 @@
+#ENTRY      L0057
+#AUTHOR1    B.L.Berman+
+#YEAR       1987
+#INSTITUTE  (1USALRL)
+#TITLE      Absolute photoneutron cross sections for Zr, I, Pr,
+#+          Au, and Pb.
+#AUTHOR(S)  B.L.Berman, R.E.Pywell, S.S.Dietrich, M.N.Thompson, K.G.Mc.upper()eil, 
+#+          J.W.Jury
+#REF-CODE   (J,PR/C,36,1286,8705)
+#REFERENCE  Phys.Rev.C 36 (1987) 1286 (doi:10.1103/PhysRevC.36.1286)
+#DATASETS   0
+#
+#DATASET    L0057010 
+#DATE       19970129
+#REACTION   79-AU-197(G,2N)79-AU-195,,SIG
+#PROJ       0
+#TARG       79197
+#MF         3
+#MT         16
+#PRODUCT    79-AU-195
+#C4BEGIN    [    0 79197   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 79197   3  16    1.4938+7          3.2900-3                                                B.L.Berman+          (87)L0057 10 
+    0 79197   3  16    1.5416+7          0.032150                                                B.L.Berman+          (87)L0057 10 
+    0 79197   3  16    1.5895+7          0.059890                                                B.L.Berman+          (87)L0057 10 
+    0 79197   3  16    1.6373+7          0.095470                                                B.L.Berman+          (87)L0057 10 
+    0 79197   3  16    1.6851+7          0.104780                                                B.L.Berman+          (87)L0057 10 
+#/DATA      5
+#/DATASET

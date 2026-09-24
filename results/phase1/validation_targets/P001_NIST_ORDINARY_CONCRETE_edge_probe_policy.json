@@ -1,0 +1,21 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "policy_id": "ADAPTIVE_GEANT4_EDGE_DISCONTINUITY_SCAN_V1",
+  "reference_semantics": "Duplicate-energy NIST rows are limiting values immediately below/above an elemental absorption edge.",
+  "edge_localization_data_source": "Geant4 G4EmCalculator mu/rho scan only; NIST mu/rho values are not used to locate the Geant4 discontinuity",
+  "scan_relative_half_width": 0.05,
+  "scan_minimum_half_width_MeV": 2e-05,
+  "scan_minimum_half_width_eV": 20.0,
+  "scan_maximum_fraction_of_local_distinct_energy_gap": 0.45,
+  "scan_points_per_side": 201,
+  "minimum_positive_jump_factor": 1.002,
+  "discontinuity_rule": "Within each bounded scan interval, choose the adjacent energy pair with the largest positive log(mu/rho) jump. If the jump factor is at least minimum_positive_jump_factor, the lower/upper scan energies become the official pre/post Geant4 probes.",
+  "fallback_rule": "If no qualifying positive discontinuity is detected, retain the v12.11 bounded-side probe and record the fallback in the edge audit.",
+  "fallback_relative_offset": 0.002,
+  "fallback_minimum_absolute_offset_MeV": 5e-06,
+  "fallback_maximum_fraction_of_local_gap": 0.2,
+  "non_edge_rows": "evaluated at the exact NIST tabulated energy",
+  "acceptance_threshold_changes": "NONE",
+  "geometric_or_material_changes": "NONE",
+  "neutron_transport_changes": "NONE"
+}

@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "N004_ISIS_RB2000209_STANDARD_MONITOR_PROXY",
+  "expected_result_file": "N004_rb2000209_geant4.csv",
+  "observable": "transmission",
+  "join_keys": "sample_id,energy_eV",
+  "reference_column": "transmission",
+  "reference_uncertainty_column": "transmission_uncertainty",
+  "mc_column": "mc_transmission",
+  "mc_uncertainty_column": "mc_transmission_uncertainty",
+  "comparison_ready": false,
+  "required_for_phase1_exit_when_ready": true,
+  "blocker": "Sample composition and complete exact transport geometry are not grounded. No Sigma and no GEM claim allowed."
+}

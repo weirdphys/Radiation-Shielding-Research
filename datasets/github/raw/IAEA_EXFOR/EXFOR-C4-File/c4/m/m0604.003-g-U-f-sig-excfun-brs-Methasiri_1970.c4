@@ -1,0 +1,31 @@
+#ENTRY      M0604
+#AUTHOR1    T.Methasiri+
+#YEAR       1970
+#INSTITUTE  (2SWDLND)
+#TITLE      High-energy photofission cross  sections  of  uranium
+#+          and thorium.
+#AUTHOR(S)  T.Methasiri
+#REF-CODE   (J,NP/A,158,433,1970)
+#REFERENCE  Nucl.Phys.A 158 (1970) 433 (doi:10.1016/0375-9474(70)90194-6)
+#DATASETS   0
+#
+#DATASET    M0604003 
+#DATE       20130627
+#REACTION   92-U-0(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       92000
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92000   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92000   3  18    2.5000+8          0.039560                                                T.Methasiri          (70)M0604  3 
+    0 92000   3  18    3.5000+8          0.078680                                                T.Methasiri          (70)M0604  3 
+    0 92000   3  18    4.5000+8          0.061870                                                T.Methasiri          (70)M0604  3 
+    0 92000   3  18    5.5000+8          0.036370                                                T.Methasiri          (70)M0604  3 
+    0 92000   3  18    6.5000+8          0.021080                                                T.Methasiri          (70)M0604  3 
+    0 92000   3  18    7.5000+8          0.010110                                                T.Methasiri          (70)M0604  3 
+    0 92000   3  18    8.5000+8          4.2900-3                                                T.Methasiri          (70)M0604  3 
+#/DATA      7
+#/DATASET

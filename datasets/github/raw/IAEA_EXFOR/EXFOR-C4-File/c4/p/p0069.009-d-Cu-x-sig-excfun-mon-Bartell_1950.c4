@@ -1,0 +1,34 @@
+#ENTRY      P0069
+#AUTHOR1    F.O.Bartell+
+#YEAR       1950
+#INSTITUTE  (1USABRK)
+#TITLE      Excitation functions for spallation reactions on Cu
+#AUTHOR(S)  F.O.Bartell, A.C.Helmholz, S.D.Softky, D.B.Stewart
+#REF-CODE   (J,PR,80,1006,1950)
+#REFERENCE  Phys.Rev. 80 (1950) 1006 (doi:10.1103/PhysRev.80.1006)
+#DATASETS   0
+#
+#DATASET    P0069009 
+#DATE       20181113
+#REACTION   29-CU-0(D,X)26-FE-52,,SIG
+#PROJ       1002
+#TARG       29000
+#MF         3
+#MT         454
+#PRODUCT    26-FE-52
+#C4BEGIN    [ 1002 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 29000   3 454    2.5500+7          0.000000                    26052.9                     F.O.Bartell+         (50)P0069  9 
+ 1002 29000   3 454    4.1900+7          0.000000                    26052.9                     F.O.Bartell+         (50)P0069  9 
+ 1002 29000   3 454    5.1700+7          0.000000                    26052.9                     F.O.Bartell+         (50)P0069  9 
+ 1002 29000   3 454    6.9600+7          0.000000                    26052.9                     F.O.Bartell+         (50)P0069  9 
+ 1002 29000   3 454    9.0600+7          5.0000-6                    26052.9                     F.O.Bartell+         (50)P0069  9 
+ 1002 29000   3 454    1.1100+8          2.5000-5                    26052.9                     F.O.Bartell+         (50)P0069  9 
+ 1002 29000   3 454    1.3200+8          4.7000-5                    26052.9                     F.O.Bartell+         (50)P0069  9 
+ 1002 29000   3 454    1.5500+8          7.1000-5                    26052.9                     F.O.Bartell+         (50)P0069  9 
+ 1002 29000   3 454    1.7600+8          1.0900-4                    26052.9                     F.O.Bartell+         (50)P0069  9 
+ 1002 29000   3 454    1.9300+8          1.5100-4                    26052.9                     F.O.Bartell+         (50)P0069  9 
+#/DATA      10
+#/DATASET

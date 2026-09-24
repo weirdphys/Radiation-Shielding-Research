@@ -1,0 +1,16 @@
+{
+  "production_models": {
+    "PROJECT_3MV_40x40": "LIMITED_EXPERIMENTAL_SUPPORT_ONLY",
+    "PROJECT_6MV_40x40": "PRIMARY_PUBLIC_EXPERIMENT_FOUND",
+    "PROJECT_10MV_40x40": "PRIMARY_PUBLIC_EXPERIMENT_FOUND",
+    "PROJECT_15MV_40x40": "PRIMARY_PUBLIC_EXPERIMENT_FOUND",
+    "PROJECT_16MV_40x40": "PRIMARY_PUBLIC_EXPERIMENT_FOUND",
+    "PROJECT_18MV_40x40": "PRIMARY_PUBLIC_EXPERIMENT_FOUND"
+  },
+  "important_rule": "Do not mark PROJECT_3MV_40x40 as measurement-validated from Zap-X or 2.5-MV TrueBeam evidence alone.",
+  "next_processing_order": [
+    "IROC_VARIAN_REFERENCE_2016",
+    "KNUST_VARIAN_CLINAC_IX_2024",
+    "Continue search for exact 3-MV conventional large-field experimental evidence"
+  ]
+}

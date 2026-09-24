@@ -1,0 +1,51 @@
+#ENTRY      S0294
+#AUTHOR1    Z.W.Tan+
+#YEAR       2022
+#INSTITUTE  (3CPRBJG)
+#TITLE      Investigation of negative-parity states in 16C via
+#+          deuteron inelastic scattering
+#AUTHOR(S)  Z.W.Tan, J.L.Lou, Y.L.Ye, Y.Liu, D.Y.Pang, C.X.Yuan, J.G.Li, 
+#+          W.Liu, Y.Jiang, B.Yang, L.C.Tao, K.Ma, Z.H.Li, Q.T.Li, X.F.Yang, 
+#+          J.Y.Xu, H.Z.Yu, J.X.Han, S.W.Bai, S.W.Huang, G.Li, H.Y.Wu, 
+#+          H.L.Zang, J.Feng, J.S.Wang, Y.Y.Yang, P.Ma, Q.Hu, Z.Bai, 
+#+          Z.H.Gao, F.F.Duan, L.Y.Hu, J.H.Tan, S.Q.Sun, Y.S.Song, H.J.Ong, 
+#+          D.T.Tran, H.Y.Zhu, B.L.Xia
+#REF-CODE   (J,CPH/C,46,054001,2022)
+#REFERENCE  Chin.Phys.C 46 (2022) 054001 (doi:10.1088/1674-1137/ac488b)
+#DATASETS   0
+#
+#DATASET    S0294002 
+#DATE       20251021
+#REACTION   (1-H-2(6-C-16,INL)1-H-2,PAR,DA)=(6-C-16(D,INL)6-C-16,PAR,DA)
+#PROJ       1002
+#TARG       6016
+#MF         4
+#MT         651
+#PRODUCT    6-C-16
+#C4BEGIN    [ 1002  6016   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6016   4 651  C 4.7000+7          1.0200-3 2.4000-4 0.718248          5450000.         LVLZ.W.Tan+             (22)S0294  2 
+ 1002  6016   4 651  C 4.7000+7          1.5500-3 2.9000-4 0.782282          5450000.         LVLZ.W.Tan+             (22)S0294  2 
+ 1002  6016   4 651  C 4.7000+7          2.6700-3 3.9000-4 0.847307          5450000.         LVLZ.W.Tan+             (22)S0294  2 
+#/DATA      3
+#/DATASET
+#
+#DATASET    S0294002 
+#DATE       20251021
+#REACTION   (1-H-2(6-C-16,INL)1-H-2,PAR,DA)=(6-C-16(D,INL)6-C-16,PAR,DA)
+#PROJ       1002
+#TARG       6016
+#MF         4
+#MT         651
+#PRODUCT    6-C-16
+#C4BEGIN    [ 1002  6016   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6016   4 651  C 4.7000+7          1.0700-3 2.4000-4 0.697665          6890000.         LVLZ.W.Tan+             (22)S0294  2 
+ 1002  6016   4 651  C 4.7000+7          1.2100-3 2.5000-4 0.769177          6890000.         LVLZ.W.Tan+             (22)S0294  2 
+ 1002  6016   4 651  C 4.7000+7          1.9500-3 2.9000-4 0.846658          6890000.         LVLZ.W.Tan+             (22)S0294  2 
+#/DATA      3
+#/DATASET

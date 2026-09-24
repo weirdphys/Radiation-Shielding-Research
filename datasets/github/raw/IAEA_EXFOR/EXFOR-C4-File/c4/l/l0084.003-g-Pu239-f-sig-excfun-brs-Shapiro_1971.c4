@@ -1,0 +1,32 @@
+#ENTRY      L0084
+#AUTHOR1    A.Shapiro+
+#YEAR       1971
+#INSTITUTE  (1USAUCN)
+#TITLE      Photofission Cross Section of Plutonium 238 and
+#+          plutonium 239
+#AUTHOR(S)  A.Shapiro, W.F.Stubbins
+#REF-CODE   (J,NSE,45,47,1971)
+#REFERENCE  Nucl.Sci.Eng. 45 (1971) 47 (doi:10.13182/NSE71-A20344)
+#DATASETS   0
+#
+#DATASET    L0084003 
+#DATE       20131219
+#REACTION   94-PU-239(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       94239
+#MF         3
+#MT         18
+#C4BEGIN    [    0 94239   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 94239   3  18    7500000.          0.021000 4.0000-3                                       A.Shapiro+           (71)L0084  3 
+    0 94239   3  18    8000000.          0.031000 6.0000-3                                       A.Shapiro+           (71)L0084  3 
+    0 94239   3  18    8500000.          0.045000 0.010000                                       A.Shapiro+           (71)L0084  3 
+    0 94239   3  18    9000000.          0.064000 0.016000                                       A.Shapiro+           (71)L0084  3 
+    0 94239   3  18    9500000.          0.090000 0.024000                                       A.Shapiro+           (71)L0084  3 
+    0 94239   3  18    1.0000+7          0.123000 0.035000                                       A.Shapiro+           (71)L0084  3 
+    0 94239   3  18    1.0500+7          0.168000 0.050000                                       A.Shapiro+           (71)L0084  3 
+    0 94239   3  18    1.1000+7          0.221000 0.069000                                       A.Shapiro+           (71)L0084  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      M0435
+#AUTHOR1    V.P.Denisov+
+#YEAR       1975
+#INSTITUTE  (4RUSLIN)
+#TITLE      Emission of deuterons in photodisintegration
+#+          of Li-7.
+#AUTHOR(S)  V.P.Denisov, I.Ya.Chubukov
+#REF-CODE   (J,YF,22,897,1975)
+#REFERENCE  Yad.Fiz. 22 (1975) 897
+#DATASETS   0
+#
+#DATASET    M0435002 
+#DATE       20220201
+#REACTION   3-LI-7(G,D)2-HE-5,PAR,DA,,4PI/BRS
+#PROJ       0
+#TARG       3007
+#MF         4
+#MT         650
+#PRODUCT    2-HE-5
+#C4BEGIN    [    0  3007   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3007   4 650    1.4500+7          4.2972-5 5.5704-6 6.123-17          0.000000         LVLV.P.Denisov+         (75)M0435  2 
+    0  3007   4 650    1.6200+7          4.3768-5 3.9789-6 6.123-17          0.000000         LVLV.P.Denisov+         (75)M0435  2 
+    0  3007   4 650    1.7200+7          3.2627-5 3.1831-6 6.123-17          0.000000         LVLV.P.Denisov+         (75)M0435  2 
+    0  3007   4 650    1.8500+7          3.4218-5 3.1831-6 6.123-17          0.000000         LVLV.P.Denisov+         (75)M0435  2 
+    0  3007   4 650    2.0200+7          3.1035-5 3.9789-6 6.123-17          0.000000         LVLV.P.Denisov+         (75)M0435  2 
+    0  3007   4 650    2.1600+7          2.0690-5 3.1831-6 6.123-17          0.000000         LVLV.P.Denisov+         (75)M0435  2 
+    0  3007   4 650    2.3000+7          1.1141-5 2.3873-6 6.123-17          0.000000         LVLV.P.Denisov+         (75)M0435  2 
+    0  3007   4 650    2.5200+7          2.1486-5 3.1831-6 6.123-17          0.000000         LVLV.P.Denisov+         (75)M0435  2 
+    0  3007   4 650    2.8000+7          2.3077-5 3.9789-6 6.123-17          0.000000         LVLV.P.Denisov+         (75)M0435  2 
+#/DATA      9
+#/DATASET

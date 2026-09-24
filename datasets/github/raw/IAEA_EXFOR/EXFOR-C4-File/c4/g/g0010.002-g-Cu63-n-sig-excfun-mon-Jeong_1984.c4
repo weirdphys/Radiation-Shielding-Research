@@ -1,0 +1,26 @@
+#ENTRY      G0010
+#AUTHOR1    S.C.Jeong+
+#YEAR       1984
+#INSTITUTE  (3KORNSU)
+#TITLE      Cross section measurement for the Cu-63(gamma,n)Cu-62
+#+          reaction
+#AUTHOR(S)  S.C.Jeong, J.C.Kim, B.N.Sung
+#REF-CODE   (J,KPS,17,(4),359,198412)
+#REFERENCE  J.Korean.Phys.Soc. 17 No.4 (1984) 359
+#DATASETS   0
+#
+#DATASET    G0010002 
+#DATE       20060729
+#REACTION   29-CU-63(G,N)29-CU-62,,SIG
+#PROJ       0
+#TARG       29063
+#MF         3
+#MT         4
+#PRODUCT    29-CU-62
+#C4BEGIN    [    0 29063   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 29063   3   4    1.6150+7 1450000. 0.046000 6.0000-3                                       S.C.Jeong+           (84)G0010  2 
+#/DATA      1
+#/DATASET

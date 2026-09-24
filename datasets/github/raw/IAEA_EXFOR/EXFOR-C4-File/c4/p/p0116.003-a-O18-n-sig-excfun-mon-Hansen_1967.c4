@@ -1,0 +1,36 @@
+#ENTRY      P0116
+#AUTHOR1    L.F.Hansen+
+#YEAR       1967
+#INSTITUTE  (1USALRL)
+#TITLE      The (alpha,n) cross sections on 17O and 18O between 5
+#+          and 12.5 MeV
+#AUTHOR(S)  L.F.Hansen, J.D.Anderson, J.W.McClure, B.A.Pohl, M.L.Stelts, 
+#+          J.J.Wesolowski, C.Wong
+#REF-CODE   (J,NP/A,98,25,1967)
+#REFERENCE  Nucl.Phys.A 98 (1967) 25 (doi:10.1016/0375-9474(67)90895-0)
+#DATASETS   0
+#
+#DATASET    P0116003 
+#DATE       20220421
+#REACTION   8-O-18(A,N)10-NE-21,,SIG
+#PROJ       2004
+#TARG       8018
+#MF         3
+#MT         4
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 2004  8018   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8018   3   4    4700000. 2460000. 0.379000 0.038000                                       L.F.Hansen+          (67)P0116  3 
+ 2004  8018   3   4    5730000. 2180000. 0.457000 0.046000                                       L.F.Hansen+          (67)P0116  3 
+ 2004  8018   3   4    6170000. 900000.0 0.463000 0.046000                                       L.F.Hansen+          (67)P0116  3 
+ 2004  8018   3   4    6450000. 1980000. 0.491000 0.047000                                       L.F.Hansen+          (67)P0116  3 
+ 2004  8018   3   4    7100000. 770000.0 0.569000 0.057000                                       L.F.Hansen+          (67)P0116  3 
+ 2004  8018   3   4    9740000. 760000.0 0.641000 0.064000                                       L.F.Hansen+          (67)P0116  3 
+ 2004  8018   3   4    1.0400+7 590000.0 0.715000 0.078000                                       L.F.Hansen+          (67)P0116  3 
+ 2004  8018   3   4    1.0700+7 1460000. 0.734000 0.075000                                       L.F.Hansen+          (67)P0116  3 
+ 2004  8018   3   4    1.1700+7 580000.0 0.787000 0.080000                                       L.F.Hansen+          (67)P0116  3 
+ 2004  8018   3   4    1.2500+7 590000.0 0.778000 0.079000                                       L.F.Hansen+          (67)P0116  3 
+#/DATA      10
+#/DATASET

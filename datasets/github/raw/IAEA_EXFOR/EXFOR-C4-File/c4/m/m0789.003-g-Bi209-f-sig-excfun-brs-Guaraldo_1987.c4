@@ -1,0 +1,38 @@
+#ENTRY      M0789
+#AUTHOR1    C.Guaraldo+
+#YEAR       1987
+#INSTITUTE  (2ITYFRA)
+#TITLE      Photoexcitation mechanisms   and   photofission  cross
+#+          sections for Bi by 100 - 300 MeV quasi-monochromatic
+#+          photons.
+#AUTHOR(S)  C.Guaraldo, V.Lucherini, E.De Sanctis, P.Levi Sandri, E.Polli, 
+#+          A.R.Reolon, S.Lo Nigro, S.Aiello, V.Bellini, V.Emma, C.Milone, 
+#+          G.S.Paparaldo
+#REF-CODE   (J,PR/C,36,1027,1987)
+#REFERENCE  Phys.Rev.C 36 (1987) 1027 (doi:10.1103/PhysRevC.36.1027)
+#DATASETS   0
+#
+#DATASET    M0789003 
+#DATE       20100329
+#REACTION   83-BI-209(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [    0 83209   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 83209   3  18 D  1.0000+8          4.3600-4 9.5000-5                                       C.Guaraldo+          (87)M0789  3 
+    0 83209   3  18 D  1.2000+8          6.7800-4 8.4000-5                                       C.Guaraldo+          (87)M0789  3 
+    0 83209   3  18 D  1.4000+8          1.0300-3 8.4000-5                                       C.Guaraldo+          (87)M0789  3 
+    0 83209   3  18 D  1.6000+8          1.7300-3 2.0000-4                                       C.Guaraldo+          (87)M0789  3 
+    0 83209   3  18 D  1.8000+8          2.8100-3 2.6000-4                                       C.Guaraldo+          (87)M0789  3 
+    0 83209   3  18 D  2.0000+8          3.7100-3 3.9000-4                                       C.Guaraldo+          (87)M0789  3 
+    0 83209   3  18 D  2.2000+8          4.1600-3 4.6000-4                                       C.Guaraldo+          (87)M0789  3 
+    0 83209   3  18 D  2.4000+8          5.1600-3 5.6000-4                                       C.Guaraldo+          (87)M0789  3 
+    0 83209   3  18 D  2.6000+8          5.9700-3 5.5000-4                                       C.Guaraldo+          (87)M0789  3 
+    0 83209   3  18 D  2.8000+8          7.0600-3 5.1000-4                                       C.Guaraldo+          (87)M0789  3 
+    0 83209   3  18 D  3.0000+8          8.0900-3 9.2000-4                                       C.Guaraldo+          (87)M0789  3 
+#/DATA      11
+#/DATASET

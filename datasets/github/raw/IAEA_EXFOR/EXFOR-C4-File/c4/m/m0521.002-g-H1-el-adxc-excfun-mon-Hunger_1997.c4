@@ -1,0 +1,49 @@
+#ENTRY      M0521
+#AUTHOR1    A.Hunger+
+#YEAR       1997
+#INSTITUTE  (2GERGOE)
+#TITLE      Compton scattering by the proton  through theta-cms  =
+#+          75 degree  and  90  degree  in  the   delta-resonsnce
+#+          region.
+#AUTHOR(S)  A.Hunger, J.Peise, A.Robbiano, J.Ahrens, I.Anthony, H.-J.Arends, 
+#+          R.Beck, G.P.Capitani, B.Dolbilkin, H.Falkenberg, G.Galler, 
+#+          S.J.Hall, J.D.Kellie, R.Kondratjev, R.Kordsmeier, V.Lisin, 
+#+          A.V.L'vov, G.J.Miller, C.Molinari, P.Ottonello, A.R.Reolon, 
+#+          M.Sanzone, M.Schmitz, M.Schneider, M.Schumacher, O.Selke, 
+#+          Th.Walcher, F.Wissmann, S.Wolf, A.Zucchiatti
+#REF-CODE   (J,NP/A,620,385,1997)
+#REFERENCE  Nucl.Phys.A 620 (1997) 385 (doi:10.1016/S0375-9474(97)00184-X)
+#DATASETS   0
+#
+#DATASET    M0521002 
+#DATE       20160205
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.0730+8          3.3900-8 1.2400-8 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 2.1930+8          2.5600-8 1.0400-8 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 2.3130+8          7.1200-8 1.0200-8 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 2.4330+8          6.0300-8 1.0400-8 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 2.5520+8          7.9900-8 1.0700-8 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 2.6720+8          1.1230-7 1.0700-8 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 2.7920+8          1.3830-7 1.1100-8 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 2.9120+8          1.5470-7 1.1200-8 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 3.0500+8          2.1250-7 1.2600-8 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 3.1530+8          2.0450-7 1.1000-8 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 3.2750+8          2.0660-7 9.3000-9 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 3.3920+8          1.9550-7 9.7000-9 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 3.5120+8          1.8420-7 7.9000-9 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 3.6320+8          1.7170-7 8.5000-9 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 3.7530+8          1.4500-7 7.1000-9 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 3.8700+8          1.2950-7 7.5000-9 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 3.9910+8          1.0420-7 5.8000-9 0.258819                              A.Hunger+            (97)M0521  2 
+    0  1001   4   2  C 4.0860+8          1.0020-7 8.6000-9 0.258819                              A.Hunger+            (97)M0521  2 
+#/DATA      18
+#/DATASET

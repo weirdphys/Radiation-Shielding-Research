@@ -1,0 +1,51 @@
+#ENTRY      S0101
+#AUTHOR1    Lu Zhaohui+
+#YEAR       2002
+#INSTITUTE  (3CPRIMP)
+#TITLE      Angular distribution of elastic scattering of l7F and
+#+          18Ne on proton
+#AUTHOR(S)  Lu Zhaohui, Wu Heyu, Hu Rongjiang, Zhu Yongtai, Zhang Baoguo, 
+#+          Li Zuyu, Wei Zhiyong, Duan Limin, Wang Hongwei, Xiao Zhigang, 
+#+          Wang Sufang, Jin Genming, Guo Zhongyan, Xiao Guoqing, Zhu Haidong, 
+#+          Liu Yongying, Chen Keliang, Chen Tao, Li Xiangqing, Li Zhihuan
+#REF-CODE   (J,PHE,26,594,2002)
+#REFERENCE  High En.Nucl.Phy.Ch. 26 (2002) 594
+#DATASETS   0
+#
+#DATASET    S0101003 
+#DATE       20141028
+#REACTION   (1-H-1(10-NE-18,EL)1-H-1,,DA)=(10-NE-18(P,EL)10-NE-18,,DA)
+#PROJ       1001
+#TARG       10018
+#MF         4
+#MT         2
+#PRODUCT    10-NE-18
+#C4BEGIN    [ 1001 10018   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10018   4   2  C 1.7700+7          0.023000 1.7000-3 0.817145                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          0.018500 1.4000-3 0.796530                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          0.014200 1.1000-3 0.774944                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          0.010400 1.0000-3 0.752415                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          9.6000-3 1.0000-3 0.728969                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          7.5000-3 7.0000-4 0.704634                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          5.9000-3 7.0000-4 0.679441                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          4.9000-3 6.0000-4 0.653421                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          4.7000-3 6.0000-4 0.626604                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          3.8000-3 6.0000-4 0.599024                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          3.2000-3 5.0000-4 0.570714                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          4.5000-3 5.0000-4 0.541708                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          5.0000-3 6.0000-4 0.512043                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          4.3000-3 6.0000-4 0.481754                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          4.0000-3 5.0000-4 0.450878                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          5.5000-3 6.0000-4 0.419452                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          5.4000-3 6.0000-4 0.387516                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          4.9000-3 6.0000-4 0.355107                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          6.6000-3 6.0000-4 0.322266                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          5.6000-3 6.0000-4 0.289032                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          6.7000-3 6.0000-4 0.255446                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          6.4000-3 6.0000-4 0.221548                              Lu Zhaohui+          (02)S0101  3 
+ 1001 10018   4   2  C 1.7700+7          6.2000-3 6.0000-4 0.187381                              Lu Zhaohui+          (02)S0101  3 
+#/DATA      23
+#/DATASET

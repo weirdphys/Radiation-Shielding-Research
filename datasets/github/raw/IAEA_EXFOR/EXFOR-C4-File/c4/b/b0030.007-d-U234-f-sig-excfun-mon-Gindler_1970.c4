@@ -1,0 +1,26 @@
+#ENTRY      B0030
+#AUTHOR1    J.Gindler+
+#YEAR       1970
+#INSTITUTE  (2GERKFK)
+#TITLE      Fragment Angular Distributions in the Fission of Heavy
+#+          Nuclei by 103 MeV Helium Ions and 51.5 MeV Deuterons
+#AUTHOR(S)  J.Gindler, H.Muenzel, J.Buschmann, G.Christaller, F.Michel, 
+#+          G.Rohde
+#REF-CODE   (J,NP/A,145,337,1970)
+#REFERENCE  Nucl.Phys.A 145 (1970) 337 (doi:10.1016/0375-9474(70)90427-6)
+#DATASETS   0
+#
+#DATASET    B0030007 
+#DATE       20011220
+#REACTION   92-U-234(D,F),,SIG,,,EXP
+#PROJ       1002
+#TARG       92234
+#MF         3
+#MT         18
+#C4BEGIN    [ 1002 92234   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 92234   3  18    5.1500+7          2.500000                                                J.Gindler+           (70)B0030  7 
+#/DATA      1
+#/DATASET

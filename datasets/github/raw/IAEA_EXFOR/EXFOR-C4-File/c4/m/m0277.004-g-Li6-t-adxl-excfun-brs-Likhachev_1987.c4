@@ -1,0 +1,44 @@
+#ENTRY      M0277
+#AUTHOR1    V.P.Likhachev+
+#YEAR       1987
+#INSTITUTE  (4UKRKFT)
+#TITLE      Two-particles photodisintegration of Li-6.
+#AUTHOR(S)  V.P.Likhachev, I.G.Evseev, A.Yu.Buki, Yu.V.Vladimirov, S.A.Pashchuk, 
+#+          G.A.Savitskiy, V.M.Khvastunov, V.A.Fartushnyy, V.B.Shostak, 
+#+          V.A.Stepanenko
+#REF-CODE   (J,UFZ,32,1293,1987)
+#REFERENCE  Ukr.Fiz.Zh. 32 (1987) 1293
+#DATASETS   0
+#
+#DATASET    M0277004 
+#DATE       20130613
+#REACTION   3-LI-6(G,T)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       3006
+#MF         4
+#MT         105
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  3006   4 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   4 105    2.4600+7          1.3300-4 5.0000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    2.5400+7          1.2000-4 4.0000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    2.6100+7          1.1800-4 5.0000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    2.7300+7          1.0100-4 6.0000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    2.8400+7          1.1400-4 6.0000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    2.9500+7          9.9500-5 6.2000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    3.0400+7          7.1500-5 4.3000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    3.1000+7          7.6100-5 5.9000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    3.2100+7          5.7400-5 5.1000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    3.4300+7          3.7200-5 7.6000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    3.5700+7          4.7900-5 4.6000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    3.8000+7          4.1300-5 5.4000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    4.0700+7          2.8100-5 4.8000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    4.2600+7          4.0200-5 5.7000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    4.4700+7          2.0400-5 5.7000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    4.6900+7          1.0400-5 4.6000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    4.9400+7          8.0000-6 4.9000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+    0  3006   4 105    5.1900+7          1.1900-5 4.1000-6 6.123-17                              V.P.Likhachev+       (87)M0277  4 
+#/DATA      18
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      B0002
+#AUTHOR1    H.E.Kurz+
+#YEAR       1971
+#INSTITUTE  (2GERBON)
+#TITLE      Measurement and equilibrium statistical-model
+#+          calculation of excitation functions of the
+#+          197Au(a,xn) reactions in the energy range from 16 to
+#+          103 MeV
+#AUTHOR(S)  H.E.Kurz, E.W.Jasper, K.Fischer, F.Hermes
+#REF-CODE   (J,NP/A,168,129,1971)
+#REFERENCE  Nucl.Phys.A 168 (1971) 129 (doi:10.1016/0375-9474(71)90654-3)
+#DATASETS   0
+#
+#DATASET    B0002010 
+#DATE       20220930
+#REACTION   79-AU-197(A,8N)81-TL-193-G,M+,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         459
+#PRODUCT    81-TL-193-G
+#C4BEGIN    [ 2004 79197   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3 459    8.7800+7 1000000. 0.065000                    81193.0                     H.E.Kurz+            (71)B0002 10 
+ 2004 79197   3 459    9.1000+7 1000000. 0.161000                    81193.0                     H.E.Kurz+            (71)B0002 10 
+ 2004 79197   3 459    9.4200+7 1000000. 0.252000                    81193.0                     H.E.Kurz+            (71)B0002 10 
+ 2004 79197   3 459    9.7300+7 1000000. 0.286000                    81193.0                     H.E.Kurz+            (71)B0002 10 
+ 2004 79197   3 459    1.0030+8 1000000. 0.295000                    81193.0                     H.E.Kurz+            (71)B0002 10 
+ 2004 79197   3 459    1.0330+8 1000000. 0.271000                    81193.0                     H.E.Kurz+            (71)B0002 10 
+#/DATA      6
+#/DATASET

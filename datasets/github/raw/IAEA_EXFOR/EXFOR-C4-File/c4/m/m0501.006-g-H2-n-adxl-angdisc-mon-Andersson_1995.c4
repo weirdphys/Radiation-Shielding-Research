@@ -1,0 +1,33 @@
+#ENTRY      M0501
+#AUTHOR1    B.-E.Andersson+
+#YEAR       1995
+#INSTITUTE  (2SWDLND)
+#TITLE      16O(gamma,n) reaction at intermediate energy.
+#AUTHOR(S)  B.-E.Andersson, J.-O.Adler, S.A.Bulychjev, L.Isaksson, H.Ruijter, 
+#+          B.Schroder, J.R.M.Annand, G.I.Crawford, P.D.Harty, J.C.McGeorge, 
+#+          G.J.Miller, J.Ryckebusch
+#REF-CODE   (J,PR/C,51,2553,1995)
+#REFERENCE  Phys.Rev.C 51 (1995) 2553 (doi:10.1103/PhysRevC.51.2553)
+#DATASETS   0
+#
+#DATASET    M0501006 
+#DATE       20170330
+#REACTION   1-H-2(G,N)1-H-1,,DA
+#PROJ       0
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   4   4  C 5.8000+7 174000.0 1.5100-5 2.2000-6 0.500000                              B.-E.Andersson+      (95)M0501  6 
+    0  1002   4   4  C 5.8000+7 174000.0 1.4400-5 2.2000-6 0.173648                              B.-E.Andersson+      (95)M0501  6 
+    0  1002   4   4  C 5.8000+7 174000.0 1.0000-5 2.4000-6 6.123-17                              B.-E.Andersson+      (95)M0501  6 
+    0  1002   4   4  C 5.8000+7 174000.0 1.1500-5 2.2000-6-0.173648                              B.-E.Andersson+      (95)M0501  6 
+    0  1002   4   4  C 5.8000+7 174000.0 7.4000-6 1.3000-6-0.573576                              B.-E.Andersson+      (95)M0501  6 
+    0  1002   4   4  C 5.8000+7 174000.0 6.9000-6 1.5000-6-0.766044                              B.-E.Andersson+      (95)M0501  6 
+    0  1002   4   4  C 5.8000+7 174000.0 6.5000-6 1.5000-6-0.819152                              B.-E.Andersson+      (95)M0501  6 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      M0439
+#AUTHOR1    Yu.M.Volkov+
+#YEAR       1966
+#INSTITUTE  (4RUSFTI)
+#TITLE      Excitation functions for Be-9(gamma,p), Be-9(gamma,d),
+#+          Be-9(gamma,t), O-16(gamma,d), and Cu(gamma,d)
+#+          reactions with emission of particles of fixed
+#+          energies.
+#AUTHOR(S)  Yu.M.Volkov, A.P.Komar, V.P.Chizhov
+#REF-CODE   (J,YF,3,277,1966)
+#REFERENCE  Yad.Fiz. 3 (1966) 277
+#DATASETS   0
+#
+#DATASET    M0439003 
+#DATE       20121104
+#REACTION   4-BE-9(G,D)3-LI-7,PAR,DA,,BRS
+#PROJ       0
+#TARG       4009
+#MF         4
+#MT         650
+#PRODUCT    3-LI-7
+#C4BEGIN    [    0  4009   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  4009   4 650    2.2000+7          5.0000-6 1.5000-6 6.123-17          4800000. 1200000. E2Yu.M.Volkov+         (66)M0439  3 
+    0  4009   4 650    2.5000+7          7.5000-6 2.0000-6 6.123-17          4800000. 1200000. E2Yu.M.Volkov+         (66)M0439  3 
+    0  4009   4 650    2.8000+7          2.5000-6 3.5000-6 6.123-17          4800000. 1200000. E2Yu.M.Volkov+         (66)M0439  3 
+    0  4009   4 650    3.2000+7          1.0100-5 2.5000-6 6.123-17          4800000. 1200000. E2Yu.M.Volkov+         (66)M0439  3 
+    0  4009   4 650    3.7000+7          8.0000-6 2.5000-6 6.123-17          4800000. 1200000. E2Yu.M.Volkov+         (66)M0439  3 
+    0  4009   4 650    4.2000+7          3.5000-6 2.5000-6 6.123-17          4800000. 1200000. E2Yu.M.Volkov+         (66)M0439  3 
+    0  4009   4 650    4.7000+7          1.7500-5 4.0000-6 6.123-17          4800000. 1200000. E2Yu.M.Volkov+         (66)M0439  3 
+    0  4009   4 650    6.2000+7          1.6000-5 6.5000-6 6.123-17          4800000. 1200000. E2Yu.M.Volkov+         (66)M0439  3 
+#/DATA      8
+#/DATASET

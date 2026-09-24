@@ -1,0 +1,25 @@
+#ENTRY      G4014
+#AUTHOR1    I.G.Goncharov+
+#YEAR       2007
+#INSTITUTE  (4UKRKFT)
+#TITLE      Production of 178m2Hf on a 1.2-GeV electron accelerator
+#AUTHOR(S)  I.G.Goncharov, A.M.Dovbnya, Yu.M.Ranyuk, O.S.Shevchenko
+#REF-CODE   (J,UJP,52,823,2007)
+#REFERENCE  Ukr.J.Phys. 52 (2007) 823
+#DATASETS   0
+#
+#DATASET    G4014003 
+#DATE       20180212
+#REACTION   73-TA-181(G,X)72-HF-178-M2,,SIG,,BRS
+#PROJ       0
+#TARG       73181
+#MF         3
+#MT         454
+#PRODUCT    72-HF-178-M2
+#C4BEGIN    [    0 73181   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 73181   3 454    5.5000+8 5.0000+8 3.0000-5                    72178.2                     I.G.Goncharov+       (07)G4014  3 
+#/DATA      1
+#/DATASET

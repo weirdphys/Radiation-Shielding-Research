@@ -1,0 +1,58 @@
+#ENTRY      M0112
+#AUTHOR1    Yu.I.Sorokin+
+#YEAR       1969
+#INSTITUTE  (4RUSMOS)
+#TITLE      Photodisintegration of Li-6 and Li-7 by bremsstrahlung
+#+          gamma-beam with end-point energy Eg-max = 12 MeV.
+#AUTHOR(S)  Yu.I.Sorokin, A.Kh.Shardanov, V.G.Shevchenko, B.A.Yur'ev
+#REF-CODE   (J,IZV,23,721,1969)
+#REFERENCE  Izv.Ross.AN,Fiz. 23 (1969) 721
+#DATASETS   0
+#
+#DATASET    M0112005 
+#DATE       20130604
+#REACTION   3-LI-7(G,T)2-HE-4,,SIG,,BRS
+#PROJ       0
+#TARG       3007
+#MF         3
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    0  3007   3 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3007   3 105    5200000.          4.0000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    5400000.          6.5000-5 4.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    5500000.          5.2000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    5700000.          3.3000-5 4.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    5900000.          4.5000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    6200000.          7.6000-5 5.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    6500000.          5.9000-5 4.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    6600000.          9.5000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    6800000.          1.3500-4 6.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    7000000.          9.9000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    7170000.          7.3000-5 5.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    7330000.          8.7000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    7500000.          1.0200-4                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    7680000.          1.1500-4                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    7840000.          1.3500-4 7.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    8020000.          1.0200-4                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    8170000.          7.1000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    8340000.          9.2000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    8500000.          1.0800-4 6.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    8680000.          7.3000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    8870000.          3.8000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    9060000.          6.2000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    9250000.          6.5000-5 5.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    9440000.          4.5000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    9610000.          3.5000-5 5.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    9780000.          3.8000-5 5.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    9970000.          2.5000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    1.0140+7          3.8000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    1.0320+7          5.2000-5 6.0000-6                                       Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    1.0500+7          1.6000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    1.0680+7          2.1000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    1.0850+7          2.9000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+    0  3007   3 105    1.1200+7          2.5000-5                                                Yu.I.Sorokin+        (69)M0112  5 
+#/DATA      33
+#/DATASET

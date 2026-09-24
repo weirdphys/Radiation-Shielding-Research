@@ -1,0 +1,9 @@
+{
+  "gfortran_found": false,
+  "gfortran_path": null,
+  "estar_source_directory": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/archive/phase1/working/processed_datasets_working/NIST_STAR_extracted/ESTAR",
+  "estar_f_exists": true,
+  "edconv_f_exists": true,
+  "convert_f_exists": true,
+  "compos_f_exists": true
+}

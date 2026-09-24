@@ -1,0 +1,52 @@
+#ENTRY      M0521
+#AUTHOR1    A.Hunger+
+#YEAR       1997
+#INSTITUTE  (2GERGOE)
+#TITLE      Compton scattering by the proton  through theta-cms  =
+#+          75 degree  and  90  degree  in  the   delta-resonsnce
+#+          region.
+#AUTHOR(S)  A.Hunger, J.Peise, A.Robbiano, J.Ahrens, I.Anthony, H.-J.Arends, 
+#+          R.Beck, G.P.Capitani, B.Dolbilkin, H.Falkenberg, G.Galler, 
+#+          S.J.Hall, J.D.Kellie, R.Kondratjev, R.Kordsmeier, V.Lisin, 
+#+          A.V.L'vov, G.J.Miller, C.Molinari, P.Ottonello, A.R.Reolon, 
+#+          M.Sanzone, M.Schmitz, M.Schneider, M.Schumacher, O.Selke, 
+#+          Th.Walcher, F.Wissmann, S.Wolf, A.Zucchiatti
+#REF-CODE   (J,NP/A,620,385,1997)
+#REFERENCE  Nucl.Phys.A 620 (1997) 385 (doi:10.1016/S0375-9474(97)00184-X)
+#DATASETS   0
+#
+#DATASET    M0521003 
+#DATE       20160205
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.5040+8          9.0200-8 7.9000-9 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 2.6600+8          1.2470-7 8.4000-9 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 2.7680+8          1.3430-7 9.2000-9 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 2.8880+8          1.7580-7 8.7000-9 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 3.0080+8          2.0140-7 8.9000-9 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 3.1280+8          2.1370-7 9.1000-9 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 3.2480+8          1.9430-7 8.9000-9 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 3.3680+8          2.0070-7 9.3000-9 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 3.4880+8          1.6800-7 1.0200-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 3.6070+8          1.5580-7 1.1400-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 3.7260+8          1.4500-7 1.0300-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 3.8450+8          1.2880-7 1.0700-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 3.9630+8          1.2780-7 1.2100-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 4.0810+8          1.2050-7 1.3200-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 4.1990+8          1.1300-7 1.6100-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 4.3150+8          1.0410-7 1.8300-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 4.4320+8          8.8000-8 2.0000-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 4.5470+8          1.1330-7 2.7200-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 4.6620+8          4.2500-8 2.6500-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 4.7770+8          3.5900-8 3.2800-8 6.123-17                              A.Hunger+            (97)M0521  3 
+    0  1001   4   2  C 4.8900+8          8.8600-8 3.9500-8 6.123-17                              A.Hunger+            (97)M0521  3 
+#/DATA      21
+#/DATASET

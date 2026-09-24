@@ -1,0 +1,10 @@
+sample_id,delay_samples,delay_log_energy,delay_fraction_of_coordinate_span,selection_method,decimation_factor
+A,27,0.07457695711604018,0.005401080216043473,coarse: first local minimum; refined: first local minimum,1
+B,39,0.10772227138983581,0.007801560312062795,coarse: first local minimum; refined: first local minimum,1
+C,49,0.13534336661799884,0.009801960392078896,coarse: first local minimum; refined: first local minimum,1
+D,27,0.07457695711604018,0.005401080216043473,coarse: first local minimum; refined: first local minimum,1
+R,27,0.07457695711604018,0.005401080216043473,coarse: first local minimum; refined: first local minimum,1
+S,49,0.13534336661799884,0.009801960392078896,coarse: first local minimum; refined: first local minimum,1
+T,39,0.10772227138983581,0.007801560312062795,coarse: first local minimum; refined: first local minimum,1
+U,38,0.10496016186701951,0.007601520304061185,coarse: first local minimum; refined: first local minimum,1
+V,38,0.10496016186701951,0.007601520304061185,coarse: first local minimum; refined: first local minimum,1

@@ -1,0 +1,33 @@
+#ENTRY      M0217
+#AUTHOR1    L.Green+
+#YEAR       1964
+#INSTITUTE  (1USAPEN)
+#TITLE      Photoneutron cross   sections   with    monoenergetic
+#+          neutron capture gamma rays.
+#AUTHOR(S)  L.Green, D.J.Donahue
+#REF-CODE   (J,PR,135,B701,1964)
+#REFERENCE  Phys.Rev. 135 (1964) B701 (doi:10.1103/PhysRev.135.B701)
+#DATASETS   0
+#
+#DATASET    M0217003 
+#DATE       20160224
+#REACTION   3-LI-7(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       3007
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0  3007   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3007   3 201    7380000.          6.8000-5 3.5000-5                                       L.Green+             (64)M0217  3 
+    0  3007   3 201    7640000.          7.9000-5 1.4000-5                                       L.Green+             (64)M0217  3 
+    0  3007   3 201    7720000.          6.0000-5 1.0000-5                                       L.Green+             (64)M0217  3 
+    0  3007   3 201    7910000.          7.0000-5 1.0000-5                                       L.Green+             (64)M0217  3 
+    0  3007   3 201    8560000.          1.7000-4 1.2000-4                                       L.Green+             (64)M0217  3 
+    0  3007   3 201    9000000.          1.6000-4 6.0000-5                                       L.Green+             (64)M0217  3 
+    0  3007   3 201    9720000.          5.5000-4 2.5000-4                                       L.Green+             (64)M0217  3 
+    0  3007   3 201    1.0830+7          1.0700-3 2.5000-4                                       L.Green+             (64)M0217  3 
+#/DATA      8
+#/DATASET

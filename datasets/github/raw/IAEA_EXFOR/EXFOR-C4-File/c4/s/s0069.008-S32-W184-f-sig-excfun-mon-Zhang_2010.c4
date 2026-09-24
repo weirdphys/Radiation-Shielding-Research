@@ -1,0 +1,32 @@
+#ENTRY      S0069
+#AUTHOR1    H.Q.Zhang+
+#YEAR       2010
+#INSTITUTE  (3CPRAEP)
+#TITLE      Competition between fusion-fission and quasifission
+#+          processes in the 32S+184W reaction
+#AUTHOR(S)  H.Q.Zhang, C.L.Zhang, C.J.Lin, Z.H.Liu, F.Yang, A.K.Nasirov, 
+#+          G.Mandaglio, M.Manganaro, G.Giardina
+#REF-CODE   (J,PR/C,81,034611,2010)
+#REFERENCE  Phys.Rev.C 81 (2010) 034611 (doi:10.1103/PhysRevC.81.034611)
+#DATASETS   0
+#
+#DATASET    S0069008 
+#DATE       20210120
+#REACTION   74-W-184(16-S-32,F),,SIG
+#PROJ       16032
+#TARG       74184
+#MF         3
+#MT         18
+#C4BEGIN    [16032 74184   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+16032 74184   3  18 D  1.3949+8          4.0000-5 4.8200-5                                       H.Q.Zhang+           (10)S0069  8 
+16032 74184   3  18 D  1.4454+8          2.3500-3 7.1000-4                                       H.Q.Zhang+           (10)S0069  8 
+16032 74184   3  18 D  1.4947+8          0.022970 6.3000-3                                       H.Q.Zhang+           (10)S0069  8 
+16032 74184   3  18 D  1.5441+8          0.081010 0.018200                                       H.Q.Zhang+           (10)S0069  8 
+16032 74184   3  18 D  1.5946+8          0.132270 0.020500                                       H.Q.Zhang+           (10)S0069  8 
+16032 74184   3  18 D  1.6568+8          0.189330 0.032600                                       H.Q.Zhang+           (10)S0069  8 
+16032 74184   3  18 D  1.6956+8          0.237060 0.053000                                       H.Q.Zhang+           (10)S0069  8 
+#/DATA      7
+#/DATASET

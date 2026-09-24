@@ -1,0 +1,112 @@
+#ENTRY      T0256
+#AUTHOR1    M.H.Mortensen+
+#YEAR       1980
+#INSTITUTE  (1USAYAL)
+#TITLE      W(p,t) reactions. II. Odd targets.
+#AUTHOR(S)  M.H.Mortensen, R.R.Betts, C.K.Bockelman
+#REF-CODE   (J,PR/C,21,2288,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 2288 (doi:10.1103/PhysRevC.21.2288)
+#DATASETS   0
+#
+#DATASET    T0256002 
+#DATE       20031219
+#REACTION   74-W-183(P,T)74-W-181,PAR,DA
+#PROJ       1001
+#TARG       74183
+#MF         4
+#MT         700
+#PRODUCT    74-W-181
+#C4BEGIN    [ 1001 74183   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74183   4 700  C 2.1000+7          7.0000-5          0.974173          365000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          5.1400-5          0.937889          365000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          2.2000-5          0.882291          365000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          3.3500-5          0.805722          365000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          4.1500-5          0.721639          365000.0         LVLM.H.Mortensen+       (80)T0256  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    T0256002 
+#DATE       20031219
+#REACTION   74-W-183(P,T)74-W-181,PAR,DA
+#PROJ       1001
+#TARG       74183
+#MF         4
+#MT         700
+#PRODUCT    74-W-181
+#C4BEGIN    [ 1001 74183   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74183   4 700  C 2.1000+7          4.2200-5          0.976710          454000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          2.1050-4          0.938794          454000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          2.8000-4          0.887172          454000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          1.0710-4          0.813608          454000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          3.4000-5          0.734086          454000.0         LVLM.H.Mortensen+       (80)T0256  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    T0256002 
+#DATE       20031219
+#REACTION   74-W-183(P,T)74-W-181,PAR,DA
+#PROJ       1001
+#TARG       74183
+#MF         4
+#MT         700
+#PRODUCT    74-W-181
+#C4BEGIN    [ 1001 74183   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74183   4 700  C 2.1000+7          3.2190-5          0.994721          531000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          3.4000-5          0.970884          531000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          2.8400-5          0.935814          531000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          1.6850-5          0.881138          531000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          1.3870-5 1.5257-6 0.808196          531000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          7.6800-6 6.9120-7 0.723329          531000.0         LVLM.H.Mortensen+       (80)T0256  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    T0256002 
+#DATE       20031219
+#REACTION   74-W-183(P,T)74-W-181,PAR,DA
+#PROJ       1001
+#TARG       74183
+#MF         4
+#MT         700
+#PRODUCT    74-W-181
+#C4BEGIN    [ 1001 74183   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74183   4 700  C 2.1000+7          6.3000-5          0.994916          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          5.3800-5          0.975535          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          3.3300-5          0.935197          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          1.3870-5 1.5257-6 0.883684          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          1.2970-5 1.2970-6 0.811676          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          6.6800-6 6.0120-7 0.721760          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    T0256002 
+#DATE       20031219
+#REACTION   74-W-183(P,T)74-W-181,PAR,DA
+#PROJ       1001
+#TARG       74183
+#MF         4
+#MT         700
+#PRODUCT    74-W-181
+#C4BEGIN    [ 1001 74183   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74183   4 700  C 2.1000+7          2.7400-5          0.997696          1864000.         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          4.7200-6 5.1920-7 0.980237          1864000.         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          3.6900-5          0.943454          1864000.         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          4.4000-5          0.901228          1864000.         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          1.1550-5          0.836477          1864000.         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          4.2700-6 3.8430-7 0.743612          1864000.         LVLM.H.Mortensen+       (80)T0256  2 
+#/DATA      6
+#/DATASET

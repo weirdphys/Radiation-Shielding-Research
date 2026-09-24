@@ -1,0 +1,36 @@
+#ENTRY      B0054
+#AUTHOR1    J.W.Meadows+
+#YEAR       1953
+#INSTITUTE  (1USAHRV)
+#TITLE      Excitation Functions For Proton-Induced Reactions
+#+          With Copper
+#AUTHOR(S)  J.W.Meadows
+#REF-CODE   (J,PR,91,885,1953)
+#REFERENCE  Phys.Rev. 91 (1953) 885 (doi:10.1103/PhysRev.91.885)
+#DATASETS   0
+#
+#DATASET    B0054010 
+#DATE       20011220
+#REACTION   29-CU-65(P,4N)30-ZN-62,,SIG,,,EXP
+#PROJ       1001
+#TARG       29065
+#MF         3
+#MT         37
+#PRODUCT    30-ZN-62
+#C4BEGIN    [ 1001 29065   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29065   3  37    3.4000+7          1.0000-3                                                J.W.Meadows          (53)B0054 10 
+ 1001 29065   3  37    3.8000+7          4.0000-3                                                J.W.Meadows          (53)B0054 10 
+ 1001 29065   3  37    4.4000+7          8.0000-3                                                J.W.Meadows          (53)B0054 10 
+ 1001 29065   3  37    5.0000+7          0.020000                                                J.W.Meadows          (53)B0054 10 
+ 1001 29065   3  37    5.4000+7          0.016000                                                J.W.Meadows          (53)B0054 10 
+ 1001 29065   3  37    6.0000+7          0.010000                                                J.W.Meadows          (53)B0054 10 
+ 1001 29065   3  37    6.5000+7          8.0000-3                                                J.W.Meadows          (53)B0054 10 
+ 1001 29065   3  37    7.0000+7          8.0000-3                                                J.W.Meadows          (53)B0054 10 
+ 1001 29065   3  37    8.0000+7          5.0000-3                                                J.W.Meadows          (53)B0054 10 
+ 1001 29065   3  37    9.0000+7          4.0000-3                                                J.W.Meadows          (53)B0054 10 
+ 1001 29065   3  37    9.9000+7          4.0000-3                                                J.W.Meadows          (53)B0054 10 
+#/DATA      11
+#/DATASET

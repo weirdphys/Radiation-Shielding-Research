@@ -1,0 +1,30 @@
+#ENTRY      T0197
+#AUTHOR1    S.Mirzadeh+
+#YEAR       1991
+#INSTITUTE  (1USAORL)
+#TITLE      Production of gallium-66, a positron emiting nuclide
+#+          for radioimmunotherapy
+#AUTHOR(S)  S.Mirzadeh, Y.Y.Chu
+#REF-CODE   (C,91JUELIC,,619,1991)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 619
+#DATASETS   0
+#
+#DATASET    T0197009 
+#DATE       20020312
+#REACTION   30-ZN-64(A,X)31-GA-66,CUM,SIG
+#PROJ       2004
+#TARG       30064
+#MF         3
+#MT         459
+#PRODUCT    31-GA-66
+#C4BEGIN    [ 2004 30064   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30064   3 459 A  2.7300+7          0.835000 0.150000           31066.9                     S.Mirzadeh+          (91)T0197  9 
+ 2004 30064   3 459 A  2.4400+7          0.414000 8.0000-3           31066.9                     S.Mirzadeh+          (91)T0197  9 
+ 2004 30064   3 459 A  2.1200+7          0.095600 1.8000-3           31066.9                     S.Mirzadeh+          (91)T0197  9 
+ 2004 30064   3 459 A  1.7600+7          1.0600-3 7.0000-5           31066.9                     S.Mirzadeh+          (91)T0197  9 
+ 2004 30064   3 459 A  1.3400+7          5.5000-4 3.1000-4           31066.9                     S.Mirzadeh+          (91)T0197  9 
+#/DATA      5
+#/DATASET

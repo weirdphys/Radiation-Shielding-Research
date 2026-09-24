@@ -1,0 +1,22 @@
+{
+  "reuse_contract_version": "PDD_REUSE_SEMANTIC_V3",
+  "run_id": "PDD_PROJECT_6MV_40x40",
+  "source_model_id": "PROJECT_6MV_40x40",
+  "attested_by_notebook_revision": "v12_16_3_restructured_path_reconciliation",
+  "attested_at_utc": "2026-09-18T21:42:53.141515+00:00",
+  "source_bundle": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/releases/phase1/Phase1_v12_16_1_verification_bundle.zip",
+  "source_bundle_sha256": "eab6059a620e0c4c17bcccbe7453c37bb723be523ad6739127e68f5a4c661bea",
+  "original_provenance_sha256": "1fff7d5db33e75127500995bc2f607907ab479c4dc7056762cc0d8b5b49be2aa",
+  "result_sha256": "537a690124ceb64386cbe30dceefc4a575b98dbe82748fbd21749062696adf38",
+  "reference_sha256": "a89ed290287c5668c13a03e458313774d9118701e61f222ddcaba4fec4118e46",
+  "source_sampling_semantic_sha256": "83431b024b3a969c2d1cb0f6d5d24d1b684f1fa7cd0cd5df6e52ecaf5d561b91",
+  "current_source_raw_sha256": "b8f5d26d4729735369717fccd4fa2318dcc8b89bda49cd76f159e2457539f9f7",
+  "archived_source_raw_sha256": "b8f5d26d4729735369717fccd4fa2318dcc8b89bda49cd76f159e2457539f9f7",
+  "pdd_config_semantic_sha256": "6060967e2ad929754591a5a961de050d0da94245b3891e0a59997feeb7e1f0a2",
+  "current_config_raw_sha256": "076bb5df663d978a90f0b005e05e930df1d8d1c6f442d1948d5e719ec84f3e94",
+  "archived_config_raw_sha256": "48c2d347016311f0499bce1f2dcc350ecc88ad3753e09f602dd7617c4ffcf0a2",
+  "pdd_cpp_semantics_sha256": "ef7363fc6bb74742d029105b98cca3c638715c76152072f071e47d7d392fa4e0",
+  "histories_required": 100000000,
+  "transport_threads_required": 16,
+  "note": "Attests semantic equivalence across metadata-only source/config export changes; original simulation provenance is preserved unchanged."
+}

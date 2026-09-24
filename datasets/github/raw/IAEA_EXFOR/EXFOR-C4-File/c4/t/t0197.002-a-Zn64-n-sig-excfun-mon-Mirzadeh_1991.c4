@@ -1,0 +1,36 @@
+#ENTRY      T0197
+#AUTHOR1    S.Mirzadeh+
+#YEAR       1991
+#INSTITUTE  (1USAORL)
+#TITLE      Production of gallium-66, a positron emiting nuclide
+#+          for radioimmunotherapy
+#AUTHOR(S)  S.Mirzadeh, Y.Y.Chu
+#REF-CODE   (C,91JUELIC,,619,1991)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 619
+#DATASETS   0
+#
+#DATASET    T0197002 
+#DATE       20020312
+#REACTION   30-ZN-64(A,N)32-GE-67,,SIG
+#PROJ       2004
+#TARG       30064
+#MF         3
+#MT         4
+#PRODUCT    32-GE-67
+#C4BEGIN    [ 2004 30064   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30064   3   4 A  4.1000+7          0.016900 2.5000-3                                       S.Mirzadeh+          (91)T0197  2 
+ 2004 30064   3   4 A  3.9200+7          0.017800 2.7000-3                                       S.Mirzadeh+          (91)T0197  2 
+ 2004 30064   3   4 A  3.7100+7          0.017600 2.6000-3                                       S.Mirzadeh+          (91)T0197  2 
+ 2004 30064   3   4 A  3.5000+7          0.022600 3.4000-3                                       S.Mirzadeh+          (91)T0197  2 
+ 2004 30064   3   4 A  3.2700+7          0.015500 2.3000-3                                       S.Mirzadeh+          (91)T0197  2 
+ 2004 30064   3   4 A  3.0300+7          0.037600 5.7000-3                                       S.Mirzadeh+          (91)T0197  2 
+ 2004 30064   3   4 A  2.7700+7          0.092600 9.9000-3                                       S.Mirzadeh+          (91)T0197  2 
+ 2004 30064   3   4 A  2.5000+7          0.177000 0.018000                                       S.Mirzadeh+          (91)T0197  2 
+ 2004 30064   3   4 A  2.2200+7          0.288000 0.029000                                       S.Mirzadeh+          (91)T0197  2 
+ 2004 30064   3   4 A  1.8700+7          0.308000 0.046000                                       S.Mirzadeh+          (91)T0197  2 
+ 2004 30064   3   4 A  1.5000+7          0.129000 0.021000                                       S.Mirzadeh+          (91)T0197  2 
+#/DATA      11
+#/DATASET

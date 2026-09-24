@@ -1,0 +1,34 @@
+#ENTRY      S0231
+#AUTHOR1    D.Wu+
+#YEAR       2020
+#INSTITUTE  (3CPRAEP)
+#TITLE      New measurement of the 74Ge(p,g)75As reaction cross
+#+          sections in the p-process nucleosynthesis
+#AUTHOR(S)  D.Wu, N.Y.Wang, B.Guo, C.Y.He, Y.Tian, X.Tao, T.L.Ma, F.L.Liu, 
+#+          W.S.Yang, J.H.Wei, Y.P.Shen, S.L.Guo, Q.W.Fan, X.G.Wu, Y.Zheng, 
+#+          T.X.Li, Z.Q.Wang, H.L.Luo, Y.N.Liu, M.L.Qiu
+#REF-CODE   (J,PL/B,805,135431,2020)
+#REFERENCE  Phys.Lett.B 805 (2020) 135431 (doi:10.1016/j.physletb.2020.135431)
+#DATASETS   0
+#
+#DATASET    S0231002 
+#DATE       20210120
+#REACTION   32-GE-74(P,G)33-AS-75,,SIG
+#PROJ       1001
+#TARG       32074
+#MF         3
+#MT         102
+#PRODUCT    33-AS-75
+#C4BEGIN    [ 1001 32074   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32074   3 102    1399842.          1.1500-5 1.8000-6                                       D.Wu+                (20)S0231  2 
+ 1001 32074   3 102    1500193.          2.8600-5 4.1000-6                                       D.Wu+                (20)S0231  2 
+ 1001 32074   3 102    1600545.          5.5200-5 5.6000-6                                       D.Wu+                (20)S0231  2 
+ 1001 32074   3 102    1800236.          2.0000-4 1.9000-5                                       D.Wu+                (20)S0231  2 
+ 1001 32074   3 102    1999927.          6.0400-4 5.9000-5                                       D.Wu+                (20)S0231  2 
+ 1001 32074   3 102    2400325.          2.1500-3 2.1000-4                                       D.Wu+                (20)S0231  2 
+ 1001 32074   3 102    2800725.          7.7500-3 7.5000-4                                       D.Wu+                (20)S0231  2 
+#/DATA      7
+#/DATASET

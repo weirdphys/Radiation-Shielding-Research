@@ -1,0 +1,27 @@
+#ENTRY      S0221
+#AUTHOR1    Y.X.Zhao+
+#YEAR       2019
+#INSTITUTE  (3CPRIMP)
+#TITLE      One-proton knockout from 16C at around 240 MeV/nucleon
+#AUTHOR(S)  Y.X.Zhao, Y.Z.Sun, S.T.Wang, Z.Y.Sun, X.H.Zhang, D.Yan, 
+#+          D.Y.Pang, P.Ma, Y.H.Yu, K.Yue, S.W.Tang, S.M.Wang, F.Fang, 
+#+          Y.Sun, Z.H.Cheng, X.M.Liu, H.R.Yang, C.G.Lu, L.M.Duan
+#REF-CODE   (J,PR/C,100,044609,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 044609 (doi:10.1103/PhysRevC.100.044609)
+#DATASETS   0
+#
+#DATASET    S0221002 
+#DATE       20210119
+#REACTION   6-C-12(6-C-16,X)5-B-15,,SIG
+#PROJ       6016
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    5-B-15
+#C4BEGIN    [ 6016  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6016  6012   3 454    3.8240+9          0.016000 2.0000-3            5015.9                     Y.X.Zhao+            (19)S0221  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      M0440
+#AUTHOR1    A.P.Komar+
+#YEAR       1965
+#INSTITUTE  (4RUSFTI)
+#TITLE      Photodisintegration of Be-9.
+#AUTHOR(S)  A.P.Komar, E.D.Makhnovsky
+#REF-CODE   (J,NP,65,662,1965)
+#REFERENCE  Nucl.Phys. 65 (1965) 662 (doi:10.1016/0029-5582(65)90333-0)
+#DATASETS   0
+#
+#DATASET    M0440002 
+#DATE       20170126
+#REACTION   4-BE-9(G,P)3-LI-8,,DA,,4PI
+#PROJ       0
+#TARG       4009
+#MF         4
+#MT         103
+#PRODUCT    3-LI-8
+#C4BEGIN    [    0  4009   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  4009   4 103    1.9000+7          8.4352-5 1.2732-5 0.342020 0.820037                     A.P.Komar+           (65)M0440  2 
+    0  4009   4 103    2.1000+7          1.4244-4 1.7507-5 0.342020 0.820037                     A.P.Komar+           (65)M0440  2 
+    0  4009   4 103    2.3400+7          1.3369-4 1.9099-5 0.342020 0.820037                     A.P.Komar+           (65)M0440  2 
+    0  4009   4 103    2.5700+7          9.4697-5 1.7507-5 0.342020 0.820037                     A.P.Komar+           (65)M0440  2 
+    0  4009   4 103    2.8200+7          6.1275-5 1.4324-5 0.342020 0.820037                     A.P.Komar+           (65)M0440  2 
+    0  4009   4 103    3.0500+7          4.0585-5 1.3528-5 0.342020 0.820037                     A.P.Komar+           (65)M0440  2 
+#/DATA      6
+#/DATASET

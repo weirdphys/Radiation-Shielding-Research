@@ -1,0 +1,39 @@
+#ENTRY      M0962
+#AUTHOR1    P.Picozza+
+#YEAR       1970
+#INSTITUTE  (2ITYPAV)
+#TITLE      An experimental investigation  of  meson  effects  in
+#+          high-energy photodisintegration of light nuclei.
+#AUTHOR(S)  P.Picozza, C.Schaerf, R.Scrimaglio, G.Goggi, A.Piazzoli, 
+#+          D.Scannicchio
+#REF-CODE   (J,NP/A,157,190,1970)
+#REFERENCE  Nucl.Phys.A 157 (1970) 190 (doi:10.1016/0375-9474(70)90108-9)
+#DATASETS   0
+#
+#DATASET    M0962002 
+#DATE       20171208
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 1.9500+8 1.5000+7 8.9000-7 6.1000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 2.2500+8 1.5000+7 4.7600-7 1.7000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 2.5500+8 1.5000+7 3.7400-7 1.5000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 2.8500+8 1.5000+7 2.9600-7 1.6000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 3.1500+8 1.5000+7 2.3000-7 1.9000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 3.4500+8 1.5000+7 1.7200-7 1.4000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 3.7500+8 1.5000+7 1.2800-7 1.2000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 4.0500+8 1.5000+7 1.5100-7 1.8000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 4.3500+8 1.5000+7 6.8000-8 1.1000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 4.6500+8 1.5000+7 9.6000-8 1.8000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 4.9500+8 1.5000+7 3.1000-8 1.1000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 5.2500+8 1.5000+7 1.8000-8 1.1000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+    0  2003   4 103  C 5.5500+8 1.5000+7 2.9000-8 2.0000-8 6.123-17                              P.Picozza+           (70)M0962  2 
+#/DATA      13
+#/DATASET

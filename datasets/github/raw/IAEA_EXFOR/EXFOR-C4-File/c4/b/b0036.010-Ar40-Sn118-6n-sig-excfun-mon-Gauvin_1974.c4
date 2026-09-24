@@ -1,0 +1,41 @@
+#ENTRY      B0036
+#AUTHOR1    H.Gauvin+
+#YEAR       1974
+#INSTITUTE  (2FR PAR)
+#TITLE      Observed Differences Between Argon- And Krypton-Induced
+#+          Reactions Leading to the Same Compound Nuclei, Er-158
+#+          And Er-156
+#AUTHOR(S)  H.Gauvin, Y.Le Beyec, M.Lefort, R.L.Hahn
+#REF-CODE   (J,PR/C,10,722,1974)
+#REFERENCE  Phys.Rev.C 10 (1974) 722 (doi:10.1103/PhysRevC.10.722)
+#DATASETS   0
+#
+#DATASET    B0036010 
+#DATE       20011220
+#REACTION   50-SN-118(18-AR-40,6N)68-ER-152,,SIG,,,EXP
+#PROJ       18040
+#TARG       50118
+#MF         3
+#MT         153
+#PRODUCT    68-ER-152
+#C4BEGIN    [18040 50118   3 153  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 50118   3 153    1.6200+8          3.0000-4 2.0000-4                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    1.7200+8          1.0000-3 5.0000-4                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    1.7900+8          4.0000-3 1.0000-3                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    1.8750+8          0.027000 3.0000-3                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    1.9000+8          0.060000 0.010000                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    1.9500+8          0.054000 0.010000                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    1.9750+8          0.080000 0.015000                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    2.0000+8          0.071000 0.010000                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    2.0400+8          0.110000 0.030000                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    2.1600+8          0.070000 0.012000                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    2.1700+8          0.052000 0.010000                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    2.2600+8          0.040000 7.0000-3                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    2.3500+8          0.020000 3.0000-3                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    2.5600+8          0.023000 3.0000-3                                       H.Gauvin+            (74)B0036 10 
+18040 50118   3 153    2.5900+8          5.8000-3 2.0000-3                                       H.Gauvin+            (74)B0036 10 
+#/DATA      15
+#/DATASET

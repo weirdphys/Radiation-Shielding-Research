@@ -1,0 +1,32 @@
+#ENTRY      S0107
+#AUTHOR1    Li Chen+
+#YEAR       2005
+#INSTITUTE  (3CPRIMP)
+#TITLE      Measurement of total reaction cross sections for
+#+          neutron-rich nucleus 8He on 28Si
+#AUTHOR(S)  Li Chen, Zhan Wenlong, Xiao Guoqing, Guo Zhongyan, Sun Zhiyu, 
+#+          Li Jiaxing, Chen Zhiqiang, Wang Meng, Wang Wusheng, Mao Ruishi, 
+#+          Chen Lixin, Bai Jie, Hu Zhengguo
+#REF-CODE   (J,PHE,29,944,2005)
+#REFERENCE  High En.Nucl.Phy.Ch. 29 (2005) 944
+#DATASETS   0
+#
+#DATASET    S0107002 
+#DATE       20141024
+#REACTION   14-SI-0(2-HE-8,NON),,SIG
+#PROJ       2008
+#TARG       14000
+#MF         3
+#MT         3
+#C4BEGIN    [ 2008 14000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2008 14000   3   3    2.8520+8 240000.0 1.951000 0.090000                                       Li Chen+             (05)S0107  2 
+ 2008 14000   3   3    2.7352+8 560000.0 1.613000 0.090000                                       Li Chen+             (05)S0107  2 
+ 2008 14000   3   3    2.6512+8 560000.0 1.637000 0.090000                                       Li Chen+             (05)S0107  2 
+ 2008 14000   3   3    2.4024+8 880000.0 1.660000 0.090000                                       Li Chen+             (05)S0107  2 
+ 2008 14000   3   3    2.2704+8 640000.0 1.686000 0.095000                                       Li Chen+             (05)S0107  2 
+ 2008 14000   3   3    2.1328+8 6160000. 1.714000 0.100000                                       Li Chen+             (05)S0107  2 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      M0273
+#AUTHOR1    L.Katz+
+#YEAR       1951
+#INSTITUTE  (1CANSAS)
+#TITLE      The solution of x-ray activation curves for
+#+          photonuclear cross sections.
+#AUTHOR(S)  L.Katz, A.G.W.Cameron
+#REF-CODE   (J,CJP,29,518,1951)
+#REFERENCE  Can.J.Phys. 29 (1951) 518 (doi:10.1139/p51-056)
+#DATASETS   0
+#
+#DATASET    M0273012 
+#DATE       20240810
+#REACTION   16-S-32(G,X)15-P-30,,SIG,,BRS
+#PROJ       0
+#TARG       16032
+#MF         3
+#MT         454
+#PRODUCT    15-P-30
+#C4BEGIN    [    0 16032   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 16032   3 454    2.0000+7          1.8500-5                    15030.9                     L.Katz+              (51)M0273 12 
+    0 16032   3 454    2.1000+7          4.8000-5                    15030.9                     L.Katz+              (51)M0273 12 
+    0 16032   3 454    2.2000+7          2.9000-4                    15030.9                     L.Katz+              (51)M0273 12 
+    0 16032   3 454    2.3000+7          1.6200-3                    15030.9                     L.Katz+              (51)M0273 12 
+    0 16032   3 454    2.4000+7          2.3500-3                    15030.9                     L.Katz+              (51)M0273 12 
+    0 16032   3 454    2.5000+7          3.6300-3                    15030.9                     L.Katz+              (51)M0273 12 
+    0 16032   3 454    2.6000+7          6.0000-3                    15030.9                     L.Katz+              (51)M0273 12 
+    0 16032   3 454    2.7000+7          2.0000-3                    15030.9                     L.Katz+              (51)M0273 12 
+#/DATA      8
+#/DATASET

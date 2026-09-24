@@ -1,0 +1,28 @@
+#ENTRY      M0402
+#AUTHOR1    J.B.Martins+
+#YEAR       1989
+#INSTITUTE  (2ITYFRA)
+#TITLE      Nuclear fission of Au-197, Pb-nat, and Bi-209 induced
+#+          by polarized and monocromatic photons of
+#+          60 and 64 MeV.
+#AUTHOR(S)  J.B.Martins, E.L.Moreira, O.A.P.Tavares, J.L.Vieira, J.D.Pinheiro Filho, 
+#+          R.Bernabei, S.D'angelo, M.P.De Pascale, C.Schaerf, B.Girolami
+#REF-CODE   (J,NC/A,101,789,1989)
+#REFERENCE  Nuovo Cim.A 101 (1989) 789 (doi:10.1007/BF02844870)
+#DATASETS   0
+#
+#DATASET    M0402002 
+#DATE       20161222
+#REACTION   83-BI-209(G,F),,SIG
+#PROJ       0
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [    0 83209   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 83209   3  18    6.0000+7          9.0000-5 2.0000-5                                       J.B.Martins+         (89)M0402  2 
+    0 83209   3  18    6.4000+7 3200000. 4.1000-4 9.0000-5                                       J.B.Martins+         (89)M0402  2 
+#/DATA      2
+#/DATASET

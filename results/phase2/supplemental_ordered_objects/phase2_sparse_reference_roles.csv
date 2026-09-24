@@ -1,0 +1,6 @@
+dataset_id,supplemental_role,recommended_use,high_order_sequence_status
+P002,engineering_reference,TVL trend and reference constraints,insufficient ordered support
+C001,nuclear_data_anchor,capture-gamma line/reference constraint,single-line reference object
+PN001,benchmark_anchor,three-energy photoneutron yield trend,insufficient ordered support
+P004,material_response_field,material-by-energy response/regression with explicit material descriptors,five energy samples per material
+NVAL_ZAMORANO,spatial_validation,five-position measured validation,insufficient spatial samples

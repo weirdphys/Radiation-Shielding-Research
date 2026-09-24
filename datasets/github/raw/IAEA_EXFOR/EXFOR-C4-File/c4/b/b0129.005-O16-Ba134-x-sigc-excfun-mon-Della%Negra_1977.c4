@@ -1,0 +1,30 @@
+#ENTRY      B0129
+#AUTHOR1    S.Della Negra+
+#YEAR       1977
+#INSTITUTE  (2FR PAR)
+#TITLE      Mechanism of Formation and Decay of the Compound
+#+          Nuclei Gd-150 Produced by Two Entrance Channels
+#+          (O-16 + BA-134) And (AR-40 + PD-110).
+#AUTHOR(S)  S.Della Negra, H.Gauvin, H.Jungclas, Y.Le Beyec, M.Lefort
+#REF-CODE   (J,ZP/A,282,65,1977)
+#REFERENCE  Z.Phys.A 282 (1977) 65 (doi:10.1007/BF01881007)
+#DATASETS   0
+#
+#DATASET    B0129005 
+#DATE       20011220
+#REACTION   56-BA-134(8-O-16,X)63-EU-147,(CUM),SIG,,,EXP
+#PROJ       8016
+#TARG       56134
+#MF         3
+#MT         459
+#PRODUCT    63-EU-147
+#C4BEGIN    [ 8016 56134   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 56134   3 459    6.9000+7          9.6000-3                    63147.9                     S.Della Negra+       (77)B0129  5 
+ 8016 56134   3 459    7.4000+7          6.9000-3                    63147.9                     S.Della Negra+       (77)B0129  5 
+ 8016 56134   3 459    7.6500+7          7.2000-3                    63147.9                     S.Della Negra+       (77)B0129  5 
+ 8016 56134   3 459    8.2000+7          3.0000-3 3.0000-3           63147.9                     S.Della Negra+       (77)B0129  5 
+#/DATA      4
+#/DATASET

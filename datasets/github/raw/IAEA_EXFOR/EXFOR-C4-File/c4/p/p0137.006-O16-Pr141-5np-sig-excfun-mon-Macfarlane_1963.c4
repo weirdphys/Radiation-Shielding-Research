@@ -1,0 +1,31 @@
+#ENTRY      P0137
+#AUTHOR1    R.D.Macfarlane+
+#YEAR       1963
+#INSTITUTE  (1USABRK)
+#TITLE      Alpha Decay Properties of some Holmium Isotopes near
+#+          the 82-Neutron Closed Shell
+#AUTHOR(S)  R.D.Macfarlane, R.D.Griffioen
+#REF-CODE   (J,PR,130,1491,1963)
+#REFERENCE  Phys.Rev. 130 (1963) 1491 (doi:10.1103/PhysRev.130.1491)
+#DATASETS   0
+#
+#DATASET    P0137006 
+#DATE       20000815
+#REACTION   59-PR-141(8-O-16,5N+P)66-DY-151,,SIG
+#PROJ       8016
+#TARG       59141
+#MF         3
+#MT         162
+#PRODUCT    66-DY-151
+#C4BEGIN    [ 8016 59141   3 162  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 59141   3 162    9.2000+7          3.6000-3                                                R.D.Macfarlane+      (63)P0137  6 
+ 8016 59141   3 162    1.0300+8          0.100000                                                R.D.Macfarlane+      (63)P0137  6 
+ 8016 59141   3 162    1.1100+8          0.289000                                                R.D.Macfarlane+      (63)P0137  6 
+ 8016 59141   3 162    1.2100+8          0.432000                                                R.D.Macfarlane+      (63)P0137  6 
+ 8016 59141   3 162    1.3000+8          0.400000                                                R.D.Macfarlane+      (63)P0137  6 
+ 8016 59141   3 162    1.3700+8          0.293000                                                R.D.Macfarlane+      (63)P0137  6 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      P0074
+#AUTHOR1    S.Amiel+
+#YEAR       1959
+#INSTITUTE  (1USABNL)
+#TITLE      Reactions of Alpha Particles with Germanium-70 and
+#+          Zinc-70
+#AUTHOR(S)  S.Amiel
+#REF-CODE   (J,PR,116,415,1959)
+#REFERENCE  Phys.Rev. 116 (1959) 415 (doi:10.1103/PhysRev.116.415)
+#DATASETS   0
+#
+#DATASET    P0074002 
+#DATE       20000817
+#REACTION   32-GE-70(A,2N)34-SE-72,,SIG
+#PROJ       2004
+#TARG       32070
+#MF         3
+#MT         16
+#PRODUCT    34-SE-72
+#C4BEGIN    [ 2004 32070   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 32070   3  16    2.0700+7          0.027200 0.028000                                       S.Amiel              (59)P0074  2 
+ 2004 32070   3  16    2.4900+7          0.136000 0.014400                                       S.Amiel              (59)P0074  2 
+ 2004 32070   3  16    2.7800+7          0.238000 0.022800                                       S.Amiel              (59)P0074  2 
+ 2004 32070   3  16    3.0100+7          0.283000 0.026600                                       S.Amiel              (59)P0074  2 
+ 2004 32070   3  16    3.0700+7          0.318000 0.031400                                       S.Amiel              (59)P0074  2 
+ 2004 32070   3  16    3.3500+7          0.308000 0.029800                                       S.Amiel              (59)P0074  2 
+ 2004 32070   3  16    3.4100+7          0.324000 0.031400                                       S.Amiel              (59)P0074  2 
+ 2004 32070   3  16    3.7300+7          0.275000 0.027000                                       S.Amiel              (59)P0074  2 
+ 2004 32070   3  16    3.8300+7          0.237000 0.023400                                       S.Amiel              (59)P0074  2 
+ 2004 32070   3  16    4.1100+7          0.147000 0.015000                                       S.Amiel              (59)P0074  2 
+#/DATA      10
+#/DATASET

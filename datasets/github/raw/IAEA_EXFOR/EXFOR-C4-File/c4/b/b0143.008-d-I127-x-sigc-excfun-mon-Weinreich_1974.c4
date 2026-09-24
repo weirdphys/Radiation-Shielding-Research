@@ -1,0 +1,27 @@
+#ENTRY      B0143
+#AUTHOR1    R.Weinreich+
+#YEAR       1974
+#INSTITUTE  (2GERJUL)
+#TITLE      Production of I-123 Via the I-127(D,6N)Xe-123(BETA+,EC)
+#+          I-123 Process.
+#AUTHOR(S)  R.Weinreich, O.Schult, G.Stoecklin
+#REF-CODE   (J,ARI,25,535,1974)
+#REFERENCE  Appl.Radiat.Isot. 25 (1974) 535 (doi:10.1016/0020-708X(74)90080-5)
+#DATASETS   0
+#
+#DATASET    B0143008 
+#DATE       20011220
+#REACTION   53-I-127(D,X)53-I-119,CUM,SIG,,,EXP
+#PROJ       1002
+#TARG       53127
+#MF         3
+#MT         459
+#PRODUCT    53-I-119
+#C4BEGIN    [ 1002 53127   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 53127   3 459    8.7800+7          1.2000-4                    53119.9                     R.Weinreich+         (74)B0143  8 
+ 1002 53127   3 459    8.9200+7          1.7000-4                    53119.9                     R.Weinreich+         (74)B0143  8 
+#/DATA      2
+#/DATASET

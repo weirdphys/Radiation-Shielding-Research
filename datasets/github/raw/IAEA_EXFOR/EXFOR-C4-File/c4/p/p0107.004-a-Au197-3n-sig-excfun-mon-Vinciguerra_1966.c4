@@ -1,0 +1,42 @@
+#ENTRY      P0107
+#AUTHOR1    D.Vinciguerra+
+#YEAR       1966
+#INSTITUTE  (2NEDIKO)
+#TITLE      Excitation functions of the reaction induced by 23 to
+#+          52 MeV alpha particles on 197Au
+#AUTHOR(S)  D.Vinciguerra, K.Kotajima, R.E.Vandevijver
+#REF-CODE   (J,NP,77,337,1966)
+#REFERENCE  Nucl.Phys. 77 (1966) 337 (doi:10.1016/0029-5582(66)90178-7)
+#DATASETS   0
+#
+#DATASET    P0107004 
+#DATE       20000815
+#REACTION   79-AU-197(A,3N)81-TL-198,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         17
+#PRODUCT    81-TL-198
+#C4BEGIN    [ 2004 79197   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3  17    2.8800+7 300000.0 0.034000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    3.0500+7 300000.0 0.213000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    3.2100+7 300000.0 0.570000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    3.3700+7 300000.0 0.865000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    3.5300+7 300000.0 1.170000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    3.6800+7 300000.0 1.360000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    3.8400+7 200000.0 1.410000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    3.9800+7 200000.0 1.390000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    4.1100+7 200000.0 1.250000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    4.2500+7 200000.0 1.030000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    4.3900+7 200000.0 0.810000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    4.5300+7 200000.0 0.652000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    4.6600+7 200000.0 0.529000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    4.8000+7 200000.0 0.422000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    4.9300+7 200000.0 0.379000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    5.0500+7 200000.0 0.329000                                                D.Vinciguerra+       (66)P0107  4 
+ 2004 79197   3  17    5.1700+7 200000.0 0.302000                                                D.Vinciguerra+       (66)P0107  4 
+#/DATA      17
+#/DATASET

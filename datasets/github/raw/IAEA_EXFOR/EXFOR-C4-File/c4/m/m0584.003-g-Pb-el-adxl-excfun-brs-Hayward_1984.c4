@@ -1,0 +1,30 @@
+#ENTRY      M0584
+#AUTHOR1    E.Hayward+
+#YEAR       1984
+#INSTITUTE  (2GERMNZ)
+#TITLE      Photon scattering from 12C and 208Pb in the
+#+          delta-region.
+#AUTHOR(S)  E.Hayward, B.Ziegler
+#REF-CODE   (J,NP/A,414,333,1984)
+#REFERENCE  Nucl.Phys.A 414 (1984) 333 (doi:10.1016/0375-9474(84)90606-7)
+#DATASETS   0
+#
+#DATASET    M0584003 
+#DATE       20190625
+#REACTION   82-PB-0(G,EL)82-PB-0,,DA,,BRS
+#PROJ       0
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    0 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82000   4   2    2.0000+8 2.0000+7 5.6800-7 4.9800-7-0.422618                              E.Hayward+           (84)M0584  3 
+    0 82000   4   2    2.5000+8 2.5000+7 8.3400-7 4.5000-7-0.422618                              E.Hayward+           (84)M0584  3 
+    0 82000   4   2    3.0000+8 3.0000+7 2.1400-6 1.8800-6-0.422618                              E.Hayward+           (84)M0584  3 
+    0 82000   4   2    3.5000+8 3.5000+7 1.9400-6 8.4600-7-0.422618                              E.Hayward+           (84)M0584  3 
+    0 82000   4   2    4.0000+8 4.0000+7 2.7200-7 5.0400-7-0.422618                              E.Hayward+           (84)M0584  3 
+#/DATA      5
+#/DATASET

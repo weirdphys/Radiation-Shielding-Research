@@ -1,0 +1,6 @@
+machine,position_id,evidence_type,thermal_neutron_fluence_n_cm2_Gy,stat_uncertainty_n_cm2_Gy
+Varian TrueBeam,P1,SIMULATED,159300.0,300.0
+Varian TrueBeam,P2,SIMULATED,160400.0,300.0
+Varian TrueBeam,P3,SIMULATED,172900.0,300.0
+Varian TrueBeam,P4,SIMULATED,147800.0,300.0
+Varian TrueBeam,P5,SIMULATED,128100.0,200.0

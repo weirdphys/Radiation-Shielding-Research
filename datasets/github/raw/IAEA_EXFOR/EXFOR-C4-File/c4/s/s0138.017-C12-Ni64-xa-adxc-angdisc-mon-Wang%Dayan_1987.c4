@@ -1,0 +1,35 @@
+#ENTRY      S0138
+#AUTHOR1    Wang Dayan+
+#YEAR       1987
+#INSTITUTE  (3CPRIMP)
+#TITLE      Dependence of the mechanism and cross section of the
+#+          alpha particles emitted from 12C + 64Ni reaction on
+#+          incident energy
+#AUTHOR(S)  Wang Dayan, Jin Genming, Zhang Li, Wang Ximing, Yue Haikui, 
+#+          Zhang Baoguo
+#REF-CODE   (J,PHE,11,92,1987)
+#REFERENCE  High En.Nucl.Phy.Ch. 11 (1987) 92
+#DATASETS   0
+#
+#DATASET    S0138017 
+#DATE       20151009
+#REACTION   28-NI-64(6-C-12,X)2-HE-4,,DA
+#PROJ       6012
+#TARG       28064
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012 28064   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 28064   4 207  C 3.6500+7          4.7762-3 9.3131-4 0.827375                              Wang Dayan+          (87)S0138 17 
+ 6012 28064   4 207  C 3.6500+7          6.5557-3          0.692143                              Wang Dayan+          (87)S0138 17 
+ 6012 28064   4 207  C 3.6500+7          9.0577-3 1.6243-3 0.469626                              Wang Dayan+          (87)S0138 17 
+ 6012 28064   4 207  C 3.6500+7          9.3000-3          0.270600                              Wang Dayan+          (87)S0138 17 
+ 6012 28064   4 207  C 3.6500+7          7.6805-3 1.2586-3 0.015358                              Wang Dayan+          (87)S0138 17 
+ 6012 28064   4 207  C 3.6500+7          6.0169-3         -0.164359                              Wang Dayan+          (87)S0138 17 
+ 6012 28064   4 207  C 3.6500+7          4.2977-3 6.7135-4-0.426727                              Wang Dayan+          (87)S0138 17 
+ 6012 28064   4 207  C 3.6500+7          2.6376-3 4.3220-4-0.839904                              Wang Dayan+          (87)S0138 17 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      B0043
+#AUTHOR1    S.Tanaka+
+#YEAR       1959
+#INSTITUTE  (2JPNTOK)
+#TITLE      Excitation Functions For (P,N) Reactions with Titanium,
+#+          Vanadium, Chromium, Iron and Nickel Up to 14 MeV
+#AUTHOR(S)  S.Tanaka, M.Furukawa
+#REF-CODE   (J,JPJ,14,1269,1959)
+#REFERENCE  J.Phys.Soc.Jpn. 14 (1959) 1269 (doi:10.1143/JPSJ.14.1269)
+#DATASETS   0
+#
+#DATASET    B0043004 
+#DATE       20011220
+#REACTION   23-V-51(P,N)24-CR-51,,SIG,,,EXP
+#PROJ       1001
+#TARG       23051
+#MF         3
+#MT         4
+#PRODUCT    24-CR-51
+#C4BEGIN    [ 1001 23051   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 23051   3   4    6700000.          0.551000                                                S.Tanaka+            (59)B0043  4 
+ 1001 23051   3   4    7800000.          0.510000                                                S.Tanaka+            (59)B0043  4 
+ 1001 23051   3   4    8800000.          0.491000                                                S.Tanaka+            (59)B0043  4 
+ 1001 23051   3   4    9900000.          0.562000                                                S.Tanaka+            (59)B0043  4 
+ 1001 23051   3   4    1.0800+7          0.531000                                                S.Tanaka+            (59)B0043  4 
+ 1001 23051   3   4    1.1500+7          0.560000                                                S.Tanaka+            (59)B0043  4 
+ 1001 23051   3   4    1.2400+7          0.512000                                                S.Tanaka+            (59)B0043  4 
+ 1001 23051   3   4    1.3300+7          0.482000                                                S.Tanaka+            (59)B0043  4 
+#/DATA      8
+#/DATASET

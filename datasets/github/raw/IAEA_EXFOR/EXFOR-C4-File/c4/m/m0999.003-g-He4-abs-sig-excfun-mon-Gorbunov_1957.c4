@@ -1,0 +1,34 @@
+#ENTRY      M0999
+#AUTHOR1    A.N.Gorbunov+
+#YEAR       1957
+#INSTITUTE  (4RUSLEB)
+#TITLE      Photodisintegration of helium. III.
+#AUTHOR(S)  A.N.Gorbunov, V.M.Spiridonov
+#REF-CODE   (J,ZET,34,866,1957)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 34 (1957) 866
+#DATASETS   0
+#
+#DATASET    M0999003 
+#DATE       20191120
+#REACTION   2-HE-4(G,ABS),,SIG
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         27
+#C4BEGIN    [    0  2004   3  27 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3  27 D  2.2600+7 2400000. 1.5828-3 1.3240-4                                       A.N.Gorbunov+        (57)M0999  3 
+    0  2004   3  27 D  2.6250+7 1250000. 3.0703-3 2.2330-4                                       A.N.Gorbunov+        (57)M0999  3 
+    0  2004   3  27 D  2.8750+7 1250000. 2.6276-3 1.5520-4                                       A.N.Gorbunov+        (57)M0999  3 
+    0  2004   3  27 D  3.2500+7 2500000. 2.5214-3 1.6390-4                                       A.N.Gorbunov+        (57)M0999  3 
+    0  2004   3  27 D  3.7500+7 2500000. 2.2138-3 1.5660-4                                       A.N.Gorbunov+        (57)M0999  3 
+    0  2004   3  27 D  4.2500+7 2500000. 1.6835-3 1.4070-4                                       A.N.Gorbunov+        (57)M0999  3 
+    0  2004   3  27 D  5.0000+7 5000000. 1.0552-3 9.3100-5                                       A.N.Gorbunov+        (57)M0999  3 
+    0  2004   3  27 D  6.0000+7 5000000. 7.6550-4 2.0340-4                                       A.N.Gorbunov+        (57)M0999  3 
+    0  2004   3  27 D  7.0000+7 5000000. 4.0340-4 7.2400-5                                       A.N.Gorbunov+        (57)M0999  3 
+    0  2004   3  27 D  8.7500+7 1.2500+7 2.8450-4 7.2400-5                                       A.N.Gorbunov+        (57)M0999  3 
+    0  2004   3  27 D  1.3500+8 3.5000+7 1.0340-4 1.7000-5                                       A.N.Gorbunov+        (57)M0999  3 
+#/DATA      11
+#/DATASET

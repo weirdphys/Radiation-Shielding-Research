@@ -1,0 +1,36 @@
+#ENTRY      S0012
+#AUTHOR1    Long Xianguan+
+#YEAR       1987
+#INSTITUTE  (3CPRSIU)
+#TITLE      Excitation functions for 197Au(d,p)198Au,
+#+          191Au(d,2n)197mHg, 197Au(d,2n)197Hg and
+#+          197Au(d,p2n)196Au
+#AUTHOR(S)  Long Xianguan, Peng Xiufeng, He Fuqing
+#REF-CODE   (J,CNP,9,48,1987)
+#REFERENCE  Chin.J.Nucl.Phys. 9 (1987) 48
+#DATASETS   0
+#
+#DATASET    S0012007 
+#DATE       20220927
+#REACTION   79-AU-197(D,2N)80-HG-197-M,,SIG
+#PROJ       1002
+#TARG       79197
+#MF         3
+#MT         16
+#PRODUCT    80-HG-197-M
+#C4BEGIN    [ 1002 79197   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 79197   3  16M   1.3100+7          0.228000 0.014000                                       Long Xianguan+       (87)S0012  7 
+ 1002 79197   3  16M   1.2500+7          0.183000 0.011000                                       Long Xianguan+       (87)S0012  7 
+ 1002 79197   3  16M   1.1800+7          0.148000 9.0000-3                                       Long Xianguan+       (87)S0012  7 
+ 1002 79197   3  16M   1.1200+7          0.103000 6.0000-3                                       Long Xianguan+       (87)S0012  7 
+ 1002 79197   3  16M   1.0600+7          0.082000 5.0000-3                                       Long Xianguan+       (87)S0012  7 
+ 1002 79197   3  16M   1.0200+7          0.053000 3.0000-3                                       Long Xianguan+       (87)S0012  7 
+ 1002 79197   3  16M   9700000.          0.030000 2.0000-3                                       Long Xianguan+       (87)S0012  7 
+ 1002 79197   3  16M   9200000.          0.017000 1.0000-3                                       Long Xianguan+       (87)S0012  7 
+ 1002 79197   3  16M   8800000.          7.3000-3 6.0000-4                                       Long Xianguan+       (87)S0012  7 
+ 1002 79197   3  16M   8300000.          2.8000-3 3.0000-4                                       Long Xianguan+       (87)S0012  7 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      B0128
+#AUTHOR1    H.Muramatsu+
+#YEAR       1978
+#INSTITUTE  (2JPNTMU)
+#TITLE      Alpha particle bombardments of natural nickel target
+#+          for the production of 61Cu
+#AUTHOR(S)  H.Muramatsu, E.Shirai, H.Nakahara, Y.Murakami
+#REF-CODE   (J,ARI,29,611,1978)
+#REFERENCE  Appl.Radiat.Isot. 29 (1978) 611 (doi:10.1016/0020-708X(78)90094-7)
+#DATASETS   0
+#
+#DATASET    B0128004 
+#DATE       20160824
+#REACTION   28-NI-0(A,X)30-ZN-65,,SIG
+#PROJ       2004
+#TARG       28000
+#MF         3
+#MT         454
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 2004 28000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28000   3 454    9600000.          0.019000                    30065.9                     H.Muramatsu+         (78)B0128  4 
+ 2004 28000   3 454    1.1400+7          0.021000                    30065.9                     H.Muramatsu+         (78)B0128  4 
+ 2004 28000   3 454    1.5700+7          0.020000                    30065.9                     H.Muramatsu+         (78)B0128  4 
+ 2004 28000   3 454    1.9100+7          0.014000                    30065.9                     H.Muramatsu+         (78)B0128  4 
+ 2004 28000   3 454    2.2500+7          7.7000-3                    30065.9                     H.Muramatsu+         (78)B0128  4 
+ 2004 28000   3 454    2.5400+7          4.2000-3                    30065.9                     H.Muramatsu+         (78)B0128  4 
+ 2004 28000   3 454    2.8300+7          4.0000-3                    30065.9                     H.Muramatsu+         (78)B0128  4 
+ 2004 28000   3 454    3.1100+7          4.1000-3                    30065.9                     H.Muramatsu+         (78)B0128  4 
+ 2004 28000   3 454    3.3900+7          5.2000-3                    30065.9                     H.Muramatsu+         (78)B0128  4 
+ 2004 28000   3 454    3.6800+7          6.5000-3                    30065.9                     H.Muramatsu+         (78)B0128  4 
+#/DATA      10
+#/DATASET

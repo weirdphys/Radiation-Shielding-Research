@@ -1,0 +1,39 @@
+#ENTRY      P0012
+#AUTHOR1    V.T.Gritsyna+
+#YEAR       1963
+#INSTITUTE  (4UKRKFT)
+#TITLE      Ratio of the cross sections for the production of the
+#+          isomer and ground states of nuclei in the (p,n)
+#+          reaction at the energies from the threshold to 20 MeV
+#AUTHOR(S)  V.T.Gritsyna, A.P.Klyucharev, V.V.Remaev, L.N.Reshetova
+#REF-CODE   (J,JET,17,1186,1963)
+#REFERENCE  J.Exp.Theor.Phys. 17 (1963) 1186
+#DATASETS   0
+#
+#DATASET    P0012006 
+#DATE       20241025
+#REACTION   79-AU-197(P,N)80-HG-197-G,,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         4
+#PRODUCT    80-HG-197-G
+#C4BEGIN    [ 1001 79197   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3   4G   8300000.          0.024600                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   9100000.          0.045000                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.0000+7          0.049100                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.1100+7          0.043900                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.2100+7          0.036600                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.3000+7          0.029400                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.4000+7          0.024100                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.5000+7          0.019500                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.5700+7          0.017800                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.6600+7          0.013900                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.7500+7          0.012700                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.8300+7          0.010800                                                V.T.Gritsyna+        (63)P0012  6 
+ 1001 79197   3   4G   1.9500+7          0.010800                                                V.T.Gritsyna+        (63)P0012  6 
+#/DATA      13
+#/DATASET

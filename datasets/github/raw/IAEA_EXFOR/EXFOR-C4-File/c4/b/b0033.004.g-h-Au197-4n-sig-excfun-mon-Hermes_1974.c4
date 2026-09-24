@@ -1,0 +1,33 @@
+#ENTRY      B0033
+#AUTHOR1    F.Hermes+
+#YEAR       1974
+#INSTITUTE  (2GERBON)
+#TITLE      Analysis For (PARTICLE,XN) Reactions on Tantalum and
+#+          Gold. Ta-181,Au-197(HE-3,XN) Excitation Functions and
+#+          Equilibrium Statistical Model Analysis
+#AUTHOR(S)  F.Hermes, E.W.Jasper, H.E.Kurz, T.Mayer-Kuckuk, P.F.A.Goudsmit, 
+#+          H.Arnold
+#REF-CODE   (J,NP/A,228,175,1974)
+#REFERENCE  Nucl.Phys.A 228 (1974) 175 (doi:10.1016/0375-9474(74)90453-9)
+#DATASETS   0
+#
+#DATASET    B0033004G
+#DATE       20020311
+#REACTION   79-AU-197(HE3,4N)81-TL-196-G,,SIG,,,EXP
+#PROJ       2003
+#TARG       79197
+#MF         3
+#MT         37
+#PRODUCT    81-TL-196-G
+#C4BEGIN    [ 2003 79197   3  37G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 79197   3  37G   2.5200+7          0.010200                                                F.Hermes+            (74)B0033  4G
+ 2003 79197   3  37G   3.1300+7          0.075600                                                F.Hermes+            (74)B0033  4G
+ 2003 79197   3  37G   3.6600+7          0.111000                                                F.Hermes+            (74)B0033  4G
+ 2003 79197   3  37G   4.1600+7          0.064000                                                F.Hermes+            (74)B0033  4G
+ 2003 79197   3  37G   4.6200+7          0.028000                                                F.Hermes+            (74)B0033  4G
+ 2003 79197   3  37G   5.0400+7          0.024000                                                F.Hermes+            (74)B0033  4G
+#/DATA      6
+#/DATASET

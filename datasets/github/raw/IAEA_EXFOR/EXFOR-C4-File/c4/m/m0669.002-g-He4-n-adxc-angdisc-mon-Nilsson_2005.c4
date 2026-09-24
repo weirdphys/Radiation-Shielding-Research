@@ -1,0 +1,35 @@
+#ENTRY      M0669
+#AUTHOR1    B.Nilsson+
+#YEAR       2005
+#INSTITUTE  (2SWDLND)
+#TITLE      Near threshold measurement of the 4He(g,n) reaction.
+#AUTHOR(S)  B.Nilsson, J.-O.Adler, B.-E.Andersson, J.R.M.Annand, I.Akkurt, 
+#+          M.J.Boland, G.I.Crawford, K.G.Fissum, K.Hansen, P.D.Harty, 
+#+          D.G.Ireland, L.Isaksson, M.Karlsson, M.Lundin, J.C.Mc.upper()eorge, 
+#+          G.J.Miller, H.Ruijter, A.Sandell, B.Schroder, D.A.Sims, 
+#+          D.Watts
+#REF-CODE   (J,PL/B,626,65,2005)
+#REFERENCE  Phys.Lett.B 626 (2005) 65 (doi:10.1016/j.physletb.2005.08.081)
+#DATASETS   0
+#
+#DATASET    M0669002 
+#DATE       20210620
+#REACTION   2-HE-4(G,N)2-HE-3,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 2.8800+7 300000.0 7.8000-8 7.0000-9 0.707107                              B.Nilsson+           (05)M0669  2 
+    0  2004   4   4  C 2.8800+7 300000.0 1.0800-7 5.0000-9 0.500000                              B.Nilsson+           (05)M0669  2 
+    0  2004   4   4  C 2.8800+7 300000.0 1.4600-7 5.0000-9 0.258819                              B.Nilsson+           (05)M0669  2 
+    0  2004   4   4  C 2.8800+7 300000.0 1.4400-7 6.0000-9 6.123-17                              B.Nilsson+           (05)M0669  2 
+    0  2004   4   4  C 2.8800+7 300000.0 1.5500-7 5.0000-9-0.258819                              B.Nilsson+           (05)M0669  2 
+    0  2004   4   4  C 2.8800+7 300000.0 1.4500-7 6.0000-9-0.500000                              B.Nilsson+           (05)M0669  2 
+    0  2004   4   4  C 2.8800+7 300000.0 1.0900-7 6.0000-9-0.707107                              B.Nilsson+           (05)M0669  2 
+#/DATA      7
+#/DATASET

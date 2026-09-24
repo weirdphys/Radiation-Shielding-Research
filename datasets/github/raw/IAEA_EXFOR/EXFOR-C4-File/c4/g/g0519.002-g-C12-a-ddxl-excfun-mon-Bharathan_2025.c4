@@ -1,0 +1,65 @@
+#ENTRY      G0519
+#AUTHOR1    R.K.Bharathan+
+#YEAR       2025
+#INSTITUTE  (3INDCCT)
+#TITLE      Measurement of the sequential 3 alpha process in the
+#+          photodissociation of 12C
+#AUTHOR(S)  R.K.Bharathan, C.V.Midhun, M.M.Musthafa, M.Sreena, S.Ajaykumar, 
+#+          M.P.F.Thesni, B.Swapna, T.T.V.Thaslim, A.Shaima, K.Nived, 
+#+          R.Akhil, P.K.Anagha, T.V.A.Dev, E.S.Keerthi, K.S.Akshay, 
+#+          P.V.Arun, S.Ghugre
+#REF-CODE   (J,PR/C,111,014608,2025)
+#REFERENCE  Phys.Rev.C 111 (2025) 014608 (doi:10.1103/PhysRevC.111.014608)
+#DATASETS   0
+#
+#DATASET    G0519002 
+#DATE       20250127
+#REACTION   6-C-12(G,A)4-BE-8,PAR,DA/DE
+#PROJ       0
+#TARG       6012
+#MF         6
+#MT         800
+#PRODUCT    4-BE-8
+#C4BEGIN    [    0  6012   6 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   6 800    9700000.          9.5700-6 4.6600-6 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.0000+7          6.5600-6 1.2200-6 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.0300+7          7.2300-6 5.7000-7 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.0700+7          9.2800-6 5.2000-7 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.1000+7          9.5900-6 7.4000-7 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.1400+7          1.1270-5 1.5800-6 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.1700+7          1.4190-5 1.9300-6 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.2000+7          1.4250-5 2.1400-6 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.2300+7          1.4220-5 2.3700-6 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.2700+7          1.3830-5 2.5000-6 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.2900+7          1.4090-5 2.5400-6 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.3300+7          1.4160-5 2.4900-6 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.3500+7          1.3790-5 3.5400-6 0.500000          0.000000         LVLR.K.Bharathan+       (25)G0519  2 
+#/DATA      13
+#/DATASET
+#
+#DATASET    G0519002 
+#DATE       20250127
+#REACTION   6-C-12(G,A)4-BE-8,PAR,DA/DE
+#PROJ       0
+#TARG       6012
+#MF         6
+#MT         800
+#PRODUCT    4-BE-8
+#C4BEGIN    [    0  6012   6 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   6 800    1.1000+7          1.3000-5 5.4000-7 0.500000          3030000.         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.1400+7          2.6700-5 1.7300-6 0.500000          3030000.         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.1700+7          2.7390-5 1.9300-6 0.500000          3030000.         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.2000+7          2.5470-5 2.1400-6 0.500000          3030000.         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.2300+7          2.7550-5 2.3700-6 0.500000          3030000.         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.2700+7          2.5310-5 2.5000-6 0.500000          3030000.         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.2900+7          2.3090-5 2.5400-6 0.500000          3030000.         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.3300+7          2.2290-5 2.4900-6 0.500000          3030000.         LVLR.K.Bharathan+       (25)G0519  2 
+    0  6012   6 800    1.3500+7          1.7870-5 3.5400-6 0.500000          3030000.         LVLR.K.Bharathan+       (25)G0519  2 
+#/DATA      9
+#/DATASET

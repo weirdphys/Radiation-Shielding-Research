@@ -1,0 +1,26 @@
+#ENTRY      M0684
+#AUTHOR1    I.Akkurt+
+#YEAR       2002
+#INSTITUTE  (2TUKTUK)
+#TITLE      The (g,N) reaction mechanism at intermediate energies.
+#AUTHOR(S)  I.Akkurt, J.R.M.Annand
+#REF-CODE   (J,CHP,40,277,2002)
+#REFERENCE  Chin.J.Phys. 40 (2002) 277
+#DATASETS   0
+#
+#DATASET    M0684002 
+#DATE       20060324
+#REACTION   8-O-16(G,N)8-O-15,PAR,DA
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    8-O-15
+#C4BEGIN    [    0  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4  50  C 6.0000+7 3000000. 7.9300-6 1.0500-6 0.707107          0.000000         LVLI.Akkurt+            (02)M0684  2 
+    0  8016   4  50  C 6.0000+7 3000000. 1.4400-6 2.5000-7-0.258819          0.000000         LVLI.Akkurt+            (02)M0684  2 
+#/DATA      2
+#/DATASET

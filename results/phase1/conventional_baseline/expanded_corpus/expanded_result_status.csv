@@ -1,0 +1,8 @@
+benchmark_id,comparison_ready,required_for_phase1_exit_when_ready,result_state,blocker
+P004_BROAD_BEAM_CONCRETE_CONSTITUENTS,False,True,ABSENT,Exact constituent material composition contract not encoded.
+N003_ISIS_RB2000164,False,True,ABSENT,Exact sample elemental/material composition must be grounded.
+N004_ISIS_RB2000209_STANDARD_MONITOR_PROXY,False,True,ABSENT,Sample composition and complete exact transport geometry are not grounded. No Sigma and no GEM claim allowed.
+E001_NIST_ESTAR_PORTLAND_CONCRETE,False,True,ABSENT,Audit Geant4 concrete composition against NIST ESTAR material 144 before declaring exact material equivalence.
+PN002_IAEA_PD2019,False,True,ABSENT,Explicit PD-2019 MT -> Geant4 process/model quantity mapping is required.
+P005_PSSD_INDEPENDENT_SIMULATION,False,False,REFERENCE_ONLY_SIMULATION,Independent simulation only. Exact RMC geometry/scoring reproduction required for code-to-code interpretation.
+PN003_IAEA_EXFOR_EXPERIMENTAL,False,True,EXPERIMENTAL_REFERENCE_READY_GEANT4_CONTRACT_BLOCKED,Exact reaction mapping + ENDF interpolation + group-aware uncertainty/dependence treatment required.

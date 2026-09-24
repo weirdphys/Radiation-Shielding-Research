@@ -1,0 +1,32 @@
+{
+  "dataset_id": "PVAL_10MV_TRUEBEAM_40x40_LANDAUER",
+  "case_id": "PVAL_10MV_TRUEBEAM_40x40_LANDAUER",
+  "title": "LANDauer Varian TrueBeam 10 MV 40x40 measured PDD and crossplane profiles",
+  "evidence_type": "EXPERIMENTAL",
+  "source": {
+    "filename": "LANDAUER Cancer Institute DataBookn_Sep_2020 - Final.pdf",
+    "sha256": "2d4d392cdfd1c769d2327ac4a48eefa4cc0b4033c3b5c9cdd926ed495c1f5ebb",
+    "size_bytes": 8419630
+  },
+  "source_document": "Sample Clinical Databook, Landauer Cancer Institute - Jackson, WY, Varian TrueBeam #9999, 2020",
+  "machine": "Varian TrueBeam #9999",
+  "nominal_energy_MV": 10,
+  "field_size_cm": [
+    40,
+    40
+  ],
+  "measurement_contract": {
+    "pdd": "Open-field CAX depth-dose scan, 100 cm SSD; PTW 31021 Semiflex 3D 0.070cc; PDF reports scans collected for 3,6,10,30,40 cm square fields.",
+    "crossplane": "40x40 crossplane tabular profiles at dmax, 5, 10, 20, 30 cm; the databook states 40x40 profiles were collected at 80 cm SSD and converted to 100 cm SSD in PTW Beamscan.",
+    "data_processing": "Databook states photon PDD scans smoothed once and interpolated to 1 mm spacing; open-field profiles shifted to CAX 50% lines, symmetrized and interpolated."
+  },
+  "canonical_file": "/mnt/data/phase1_remaining_data/processed/datasets/PVAL_10MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+  "canonical_csv": "/mnt/data/phase1_remaining_data/processed/datasets/PVAL_10MV_TRUEBEAM_40x40_LANDAUER/canonical_pdd_40x40.csv",
+  "auxiliary_files": [
+    "/mnt/data/phase1_remaining_data/processed/datasets/PVAL_10MV_TRUEBEAM_40x40_LANDAUER/auxiliary_crossplane_40x40.csv",
+    null
+  ],
+  "extraction_notes": "PDD and crossplane values transcribed directly from machine-readable PDF text tables; no graph digitization. PDD table exposed in the PDF is retained exactly without extrapolation.",
+  "row_count": 71,
+  "profile_row_count": 445
+}

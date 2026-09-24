@@ -1,0 +1,26 @@
+#ENTRY      S0202
+#AUTHOR1    Z.Y.Sun+
+#YEAR       2014
+#INSTITUTE  (3CPRIMP)
+#TITLE      Knockout reactions from 14O at 305 MeV/nucleon
+#AUTHOR(S)  Z.Y.Sun, D.Yan, S.T.Wang, S.W.Tang, X.H.Zhang, Y.H.Yu, K.Yue, 
+#+          L.X.Liu, Y.Zhou, F.Fang, J.D.Chen, J.L.Chen, P.Ma, C.G.Lu
+#REF-CODE   (J,PR/C,90,037601,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 037601 (doi:10.1103/PhysRevC.90.037601)
+#DATASETS   0
+#
+#DATASET    S0202003 
+#DATE       20181112
+#REACTION   6-C-12(8-O-14,X)7-N-12,,SIG
+#PROJ       8014
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    7-N-12
+#C4BEGIN    [ 8014  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8014  6012   3 454    4.2700+9          0.030000 6.0000-3            7012.9                     Z.Y.Sun+             (14)S0202  3 
+#/DATA      1
+#/DATASET

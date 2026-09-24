@@ -1,0 +1,34 @@
+#ENTRY      B0084
+#AUTHOR1    Z.Randa+
+#YEAR       1977
+#INSTITUTE  (3CZRCZR)
+#TITLE      Excitation functions and yields of (d,a) reaction on
+#+          natural molybdenum up to the deuteron energy of 13 MeV
+#AUTHOR(S)  Z.Randa, K.Svoboda
+#REF-CODE   (J,ARI,28,555,1977)
+#REFERENCE  Appl.Radiat.Isot. 28 (1977) 555 (doi:10.1016/0020-708X(77)90035-7)
+#DATASETS   0
+#
+#DATASET    B0084004G
+#DATE       20160824
+#REACTION   42-MO-97(D,A)41-NB-95-G,M-,SIG
+#PROJ       1002
+#TARG       42097
+#MF         3
+#MT         107
+#PRODUCT    41-NB-95-G
+#C4BEGIN    [ 1002 42097   3 107G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 42097   3 107G   1.2700+7          0.014300                                                Z.Randa+             (77)B0084  4G
+ 1002 42097   3 107G   1.1900+7          9.8000-3                                                Z.Randa+             (77)B0084  4G
+ 1002 42097   3 107G   1.1200+7          8.2000-3                                                Z.Randa+             (77)B0084  4G
+ 1002 42097   3 107G   1.0200+7          5.8000-3                                                Z.Randa+             (77)B0084  4G
+ 1002 42097   3 107G   9300000.          4.2000-3                                                Z.Randa+             (77)B0084  4G
+ 1002 42097   3 107G   8400000.          3.8000-3                                                Z.Randa+             (77)B0084  4G
+ 1002 42097   3 107G   7400000.          1.9400-3                                                Z.Randa+             (77)B0084  4G
+ 1002 42097   3 107G   6400000.          5.3000-4                                                Z.Randa+             (77)B0084  4G
+ 1002 42097   3 107G   3400000.          2.5000-5                                                Z.Randa+             (77)B0084  4G
+#/DATA      9
+#/DATASET

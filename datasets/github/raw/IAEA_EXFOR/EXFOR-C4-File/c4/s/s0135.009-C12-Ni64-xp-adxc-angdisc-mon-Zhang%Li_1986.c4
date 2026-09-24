@@ -1,0 +1,38 @@
+#ENTRY      S0135
+#AUTHOR1    Zhang Li+
+#YEAR       1986
+#INSTITUTE  (3CPRIMP)
+#TITLE      Analysis for energy spectra of light particles emitted
+#+          from 12C + 64Ni reaction
+#AUTHOR(S)  Zhang Li, Jin Genming, Wang Dayan, Zhang Baoguo, Wang Ximing
+#REF-CODE   (J,PHE,10,583,1986)
+#REFERENCE  High En.Nucl.Phy.Ch. 10 (1986) 583
+#DATASETS   0
+#
+#DATASET    S0135009 
+#DATE       20151009
+#REACTION   28-NI-64(6-C-12,X)1-H-1,,DA
+#PROJ       6012
+#TARG       28064
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 6012 28064   4 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 28064   4 203  C 6.9000+7          0.098740 0.014050 0.955123                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.087540 0.013090 0.922066                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.088100 0.013820 0.877565                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.082690 9.9900-3 0.825606                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.074250 8.4400-3 0.769288                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.071030 8.5800-3 0.704139                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.067090 0.011020 0.641584                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.065420 9.3100-3 0.562228                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.061400 7.4200-3 0.401308                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.058370 0.010450 0.212178                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.053080 8.3200-3 0.026700                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.055830 0.010000-0.150743                              Zhang Li+            (86)S0135  9 
+ 6012 28064   4 203  C 6.9000+7          0.050770 6.4900-3-0.560494                              Zhang Li+            (86)S0135  9 
+#/DATA      13
+#/DATASET

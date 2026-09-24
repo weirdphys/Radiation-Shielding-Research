@@ -1,0 +1,40 @@
+#ENTRY      L0090
+#AUTHOR1    L.G.Moretto+
+#YEAR       1969
+#INSTITUTE  (1USABRK)
+#TITLE      Electron- and Bremsstrahlung-Induced Fission of Heavy
+#+          and Medium-Heavy Nuclei
+#AUTHOR(S)  L.G.Moretto, R.C.Gatti, S.G.Thompson, J.T.Routti, J.H.Heisenberg, 
+#+          L.M.Middleman, M.R.Yearian, R.Hofstadter
+#REF-CODE   (J,PR,179,1176,1969)
+#REFERENCE  Phys.Rev. 179 (1969) 1176 (doi:10.1103/PhysRev.179.1176)
+#DATASETS   0
+#
+#DATASET    L0090003 
+#DATE       20050714
+#REACTION   83-BI-209(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [    0 83209   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 83209   3  18    5.0200+7          1.8000-6                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    8.2100+7          1.2000-5                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    1.1000+8          6.4000-5                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    1.4300+8          1.4500-4                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    1.7700+8          3.3700-4                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    2.1500+8          5.8500-4                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    2.3400+8          9.2600-4                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    2.5600+8          1.4600-3                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    2.8000+8          2.1000-3                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    3.0300+8          2.8700-3                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    3.3100+8          3.7400-3                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    3.4900+8          3.7300-3                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    3.6800+8          4.0100-3                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    3.9200+8          3.9000-3                                                L.G.Moretto+         (69)L0090  3 
+    0 83209   3  18    4.1500+8          3.6200-3                                                L.G.Moretto+         (69)L0090  3 
+#/DATA      15
+#/DATASET

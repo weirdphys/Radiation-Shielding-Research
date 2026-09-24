@@ -1,0 +1,33 @@
+#ENTRY      P0109
+#AUTHOR1    M.Furukawa+
+#YEAR       1966
+#INSTITUTE  (2JPNTOK)
+#TITLE      Excitation functions for alpha-particle induced
+#+          reactions on 139La
+#AUTHOR(S)  M.Furukawa
+#REF-CODE   (J,NP,77,565,1966)
+#REFERENCE  Nucl.Phys. 77 (1966) 565 (doi:10.1016/0029-5582(66)90784-X)
+#DATASETS   0
+#
+#DATASET    P0109004 
+#DATE       20241025
+#REACTION   57-LA-139(A,3N)59-PR-140,,SIG
+#PROJ       2004
+#TARG       57139
+#MF         3
+#MT         17
+#PRODUCT    59-PR-140
+#C4BEGIN    [ 2004 57139   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 57139   3  17    2.7060+7          0.087000 0.020000                                       M.Furukawa           (66)P0109  4 
+ 2004 57139   3  17    2.7290+7          0.144000                                                M.Furukawa           (66)P0109  4 
+ 2004 57139   3  17    2.8240+7          0.505000 0.090000                                       M.Furukawa           (66)P0109  4 
+ 2004 57139   3  17    3.2020+7          0.807000                                                M.Furukawa           (66)P0109  4 
+ 2004 57139   3  17    3.2110+7          1.042000 0.190000                                       M.Furukawa           (66)P0109  4 
+ 2004 57139   3  17    3.2930+7          1.275000                                                M.Furukawa           (66)P0109  4 
+ 2004 57139   3  17    3.6480+7          1.190000                                                M.Furukawa           (66)P0109  4 
+ 2004 57139   3  17    3.7310+7          1.470000 0.300000                                       M.Furukawa           (66)P0109  4 
+#/DATA      8
+#/DATASET

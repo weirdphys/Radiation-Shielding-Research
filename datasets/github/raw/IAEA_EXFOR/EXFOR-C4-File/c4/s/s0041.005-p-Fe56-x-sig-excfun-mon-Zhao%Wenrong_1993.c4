@@ -1,0 +1,33 @@
+#ENTRY      S0041
+#AUTHOR1    Zhao Wenrong+
+#YEAR       1993
+#INSTITUTE  (3CPRAEP)
+#TITLE      Measurement of cross sections by bombarding Fe with
+#+          protons up to 19 MeV
+#AUTHOR(S)  Zhao Wenrong, Lu Hanlin, Yu Weixiang
+#REF-CODE   (J,CNP,15,(4),337,199312)
+#REFERENCE  Chin.J.Nucl.Phys. 15 No.4 (1993) 337
+#DATASETS   0
+#
+#DATASET    S0041005 
+#DATE       20080311
+#REACTION   26-FE-56(P,X)25-MN-54,,SIG
+#PROJ       1001
+#TARG       26056
+#MF         3
+#MT         454
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 1001 26056   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   3 454    1.4381+7 121000.0 1.1000-3 8.0000-5           25054.9                     Zhao Wenrong+        (93)S0041  5 
+ 1001 26056   3 454    1.5433+7 110000.0 1.2400-3 9.0000-5           25054.9                     Zhao Wenrong+        (93)S0041  5 
+ 1001 26056   3 454    1.6233+7 112000.0 1.2200-3 9.0000-5           25054.9                     Zhao Wenrong+        (93)S0041  5 
+ 1001 26056   3 454    1.6776+7 109000.0 1.1700-3 8.0000-5           25054.9                     Zhao Wenrong+        (93)S0041  5 
+ 1001 26056   3 454    1.7305+7 95000.00 1.1800-3 8.0000-4           25054.9                     Zhao Wenrong+        (93)S0041  5 
+ 1001 26056   3 454    1.7833+7 116000.0 8.4000-4 6.0000-5           25054.9                     Zhao Wenrong+        (93)S0041  5 
+ 1001 26056   3 454    1.8360+7 101000.0 9.5000-4 7.0000-5           25054.9                     Zhao Wenrong+        (93)S0041  5 
+ 1001 26056   3 454    1.8864+7 101000.0 8.8000-4 6.0000-5           25054.9                     Zhao Wenrong+        (93)S0041  5 
+#/DATA      8
+#/DATASET

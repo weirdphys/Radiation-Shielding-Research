@@ -1,0 +1,26 @@
+#ENTRY      M0455
+#AUTHOR1    A.Zieger+
+#YEAR       1986
+#INSTITUTE  (2GERMPH)
+#TITLE      Forward photodisintegration of the deuteron
+#+          at 10.74 MeV photon energy.
+#AUTHOR(S)  A.Zieger, P.Grewer, B.Ziegler
+#REF-CODE   (J,FBS,1,135,1986)
+#REFERENCE  Few-Body Sys. 1 (1986) 135 (doi:10.1007/BF01077004)
+#DATASETS   0
+#
+#DATASET    M0455002 
+#DATE       20130621
+#REACTION   1-H-2(G,N)1-H-1,,DA
+#PROJ       0
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   4   4    1.0740+7          4.7000-6 8.5000-7 1.000000 0.000000                     A.Zieger+            (86)M0455  2 
+#/DATA      1
+#/DATASET

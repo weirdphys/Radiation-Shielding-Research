@@ -1,0 +1,11 @@
+{
+  "notebook_revision": "v12_18_0_step2c_operational_validation_amendment",
+  "production_source_library": "/home/a/projects/particle-accelerator-shielding-simulator/geant4sim/GUI/geant4GUI/photon_neutron_bpe_app/photon_wall_simulation_core.py",
+  "production_source_library_sha256": "9f2f53dab99971884f4a97bea897d6a0ebb61dd1d6a65daf7b634f589941222e",
+  "snapshot_file": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/source_library_snapshot/photon_wall_simulation_core__9f2f53dab9997188.py",
+  "snapshot_sha256": "9f2f53dab99971884f4a97bea897d6a0ebb61dd1d6a65daf7b634f589941222e",
+  "extraction_method": "RESTRICTED_AST_FINAL_SPECTRUM_LIBRARY_REPLAY",
+  "extraction_note": "Final production source library reconstructed without importing the application module; only dependency-closed spectrum definitions and recognized SPECTRUM_LIBRARY mutation calls were replayed.",
+  "ast_extraction_report": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/source_library_snapshot/production_source_ast_extraction_report.json",
+  "full_application_module_imported": false
+}

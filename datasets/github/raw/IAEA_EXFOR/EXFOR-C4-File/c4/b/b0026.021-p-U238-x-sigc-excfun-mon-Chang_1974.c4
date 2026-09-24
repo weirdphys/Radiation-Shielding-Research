@@ -1,0 +1,26 @@
+#ENTRY      B0026
+#AUTHOR1    S.K.Chang+
+#YEAR       1974
+#INSTITUTE  (1USACHI)
+#TITLE      Interaction of 300-GeV protons with uranium
+#AUTHOR(S)  S.K.Chang, N.Sugarman
+#REF-CODE   (J,PR/C,9,1138,1974)
+#REFERENCE  Phys.Rev.C 9 (1974) 1138 (doi:10.1103/PhysRevC.9.1138)
+#DATASETS   0
+#
+#DATASET    B0026021 
+#DATE       20220316
+#REACTION   92-U-238(P,X)46-PD-112,CUM,SIG
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         459
+#PRODUCT    46-PD-112
+#C4BEGIN    [ 1001 92238   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3 459    1.150+10          0.015000                    46112.9                     S.K.Chang+           (74)B0026 21 
+ 1001 92238   3 459    3.000+11          0.014300                    46112.9                     S.K.Chang+           (74)B0026 21 
+#/DATA      2
+#/DATASET

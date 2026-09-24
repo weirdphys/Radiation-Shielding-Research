@@ -1,0 +1,32 @@
+#ENTRY      B0084
+#AUTHOR1    Z.Randa+
+#YEAR       1977
+#INSTITUTE  (3CZRCZR)
+#TITLE      Excitation functions and yields of (d,a) reaction on
+#+          natural molybdenum up to the deuteron energy of 13 MeV
+#AUTHOR(S)  Z.Randa, K.Svoboda
+#REF-CODE   (J,ARI,28,555,1977)
+#REFERENCE  Appl.Radiat.Isot. 28 (1977) 555 (doi:10.1016/0020-708X(77)90035-7)
+#DATASETS   0
+#
+#DATASET    B00840052
+#DATE       20160824
+#REACTION   42-MO-98(D,A)41-NB-96,,SIG
+#PROJ       1002
+#TARG       42098
+#MF         3
+#MT         107
+#PRODUCT    41-NB-96
+#C4BEGIN    [ 1002 42098   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 42098   3 107    1.1300+7          6.3000-3                                                Z.Randa+             (77)B0084  52
+ 1002 42098   3 107    1.0600+7          6.2000-3                                                Z.Randa+             (77)B0084  52
+ 1002 42098   3 107    9850000.          5.4000-3                                                Z.Randa+             (77)B0084  52
+ 1002 42098   3 107    9000000.          3.8500-3                                                Z.Randa+             (77)B0084  52
+ 1002 42098   3 107    8200000.          3.7800-3                                                Z.Randa+             (77)B0084  52
+ 1002 42098   3 107    7300000.          2.9000-3                                                Z.Randa+             (77)B0084  52
+ 1002 42098   3 107    6300000.          1.6300-3                                                Z.Randa+             (77)B0084  52
+#/DATA      7
+#/DATASET

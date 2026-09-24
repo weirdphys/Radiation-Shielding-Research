@@ -1,0 +1,32 @@
+#ENTRY      L0181
+#AUTHOR1    G.Laskaris+
+#YEAR       2014
+#INSTITUTE  (1USATNL)
+#TITLE      Spin-dependent cross sections from the three-body
+#+          photodisintegration of 3He at incident energies of
+#+          12.8 and 14.7 MeV
+#AUTHOR(S)  G.Laskaris, Q.Ye, B.Lalremruata, Q.J.Ye, M.W.Ahmed, T.Averett, 
+#+          A.Deltuva, D.Dutta, A.C.Fonseca, H.Gao, J.Golak, M.Huang, 
+#+          H.J.Karwowski, J.M.Mueller, L.S.Myers, C.Peng, B.A.Perdue, 
+#+          X.Qian, P.U.Sauer, R.Skibinski, S.Stave, J.R.Tompkins, H.R.Weller, 
+#+          H.Witala, Y.K.Wu, Y.Zhang, W.Zheng
+#REF-CODE   (J,PR/C,89,024002,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 024002 (doi:10.1103/PhysRevC.89.024002)
+#DATASETS   0
+#
+#DATASET    L0181005 
+#DATE       20150217
+#REACTION   2-HE-3(G,N+P)1-H-1,,SIG
+#PROJ       0
+#TARG       2003
+#MF         3
+#MT         28
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  2003   3  28 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   3  28 D  1.2800+7          8.1300-4 7.7000-5                                       G.Laskaris+          (14)L0181  5 
+    0  2003   3  28 D  1.4700+7          9.3400-4 8.4000-5                                       G.Laskaris+          (14)L0181  5 
+#/DATA      2
+#/DATASET

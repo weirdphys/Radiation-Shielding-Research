@@ -1,0 +1,50 @@
+#ENTRY      L0082
+#AUTHOR1    R.Bergere+
+#YEAR       1972
+#INSTITUTE  (2FR SAC)
+#TITLE      Study of the giant resonance of fissile nuclei
+#AUTHOR(S)  R.Bergere, H.Beil, B.Carlos, A.Veyssiere, A.Lepretre
+#REF-CODE   (C,72SENDAI,273,1972)
+#REFERENCE  Proceedings of Conf.Nucl.Structure Studies, Sendai, Japan, 1972
+#DATASETS   0
+#
+#DATASET    L0082002 
+#DATE       20050713
+#REACTION   90-TH-232(G,N)90-TH-231,,SIG
+#PROJ       0
+#TARG       90232
+#MF         3
+#MT         4
+#PRODUCT    90-TH-231
+#C4BEGIN    [    0 90232   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   3   4    9240000.          0.154000 0.028500                                       R.Bergere+           (72)L0082  2 
+    0 90232   3   4    9520000.          0.188000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    9780000.          0.224000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.0000+7          0.259000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.0300+7          0.282000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.0600+7          0.309000 0.023900                                       R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.0800+7          0.335000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.1100+7          0.360000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.1400+7          0.373000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.1700+7          0.368000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.1900+7          0.340000 0.023900                                       R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.2200+7          0.312000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.2500+7          0.323000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.2700+7          0.229000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.3000+7          0.233000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.3500+7          0.177000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.3800+7          0.187000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.4100+7          0.169000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.4400+7          0.173000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.4600+7          0.112000 0.031600                                       R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.4900+7          0.069200                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.5200+7          0.067000                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.5400+7          0.059500                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.5700+7          0.084400                                                R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.6000+7          0.081500 0.037700                                       R.Bergere+           (72)L0082  2 
+    0 90232   3   4    1.6300+7          0.061600                                                R.Bergere+           (72)L0082  2 
+#/DATA      26
+#/DATASET

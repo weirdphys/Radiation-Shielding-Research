@@ -1,0 +1,33 @@
+#ENTRY      B0113
+#AUTHOR1    D.Gardes+
+#YEAR       1978
+#INSTITUTE  (2FR PAR)
+#TITLE      Excitation functions for quasielastic transfer
+#+          reactions induced with heavy ions in bismuth
+#AUTHOR(S)  D.Gardes, R.Bimbot, J.Maison, L.De Relihac, M.F.Rivet, A.Fleury, 
+#+          F.Hubert, Y.Llabador
+#REF-CODE   (J,PR/C,18,1298,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 1298 (doi:10.1103/PhysRevC.18.1298)
+#DATASETS   0
+#
+#DATASET    B0113017 
+#DATE       20190123
+#REACTION   83-BI-209(10-NE-20,X)84-PO-210,CUM,SIG
+#PROJ       10020
+#TARG       83209
+#MF         3
+#MT         459
+#PRODUCT    84-PO-210
+#C4BEGIN    [10020 83209   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 83209   3 459    9.7000+7 1.8000+7 5.1000-3 6.0000-4           84210.9                     D.Gardes+            (78)B0113 17 
+10020 83209   3 459    1.1100+8 1.6000+7 0.041000 2.5000-3           84210.9                     D.Gardes+            (78)B0113 17 
+10020 83209   3 459    1.2300+8 1.4000+7 0.081000 6.0000-3           84210.9                     D.Gardes+            (78)B0113 17 
+10020 83209   3 459    1.4100+8 1.2000+7 0.089600 0.010000           84210.9                     D.Gardes+            (78)B0113 17 
+10020 83209   3 459    1.6100+8 1.0000+7 0.098600 6.0000-3           84210.9                     D.Gardes+            (78)B0113 17 
+10020 83209   3 459    1.7700+8 7000000. 0.134000 0.012000           84210.9                     D.Gardes+            (78)B0113 17 
+10020 83209   3 459    1.9200+8 5000000. 0.113000 0.010000           84210.9                     D.Gardes+            (78)B0113 17 
+#/DATA      7
+#/DATASET

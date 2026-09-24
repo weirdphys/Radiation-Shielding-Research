@@ -1,0 +1,122 @@
+#ENTRY      M1011
+#AUTHOR1    P.S.Baranov+
+#YEAR       1961
+#INSTITUTE  (4RUSLEB)
+#TITLE      Elastic scattering of 247-MeV gamma rays on hydrogen.
+#AUTHOR(S)  P.S.Baranov, L.I.Slovokhotov, G.A.Sokol, L.N.Shtarkov
+#REF-CODE   (J,ZET,41,1713,1961)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 41 (1961) 1713
+#DATASETS   0
+#
+#DATASET    M1011002 
+#DATE       20200110
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.3260+8          1.3400-7 1.8000-8 0.576432                              P.S.Baranov+         (61)M1011  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M1011002 
+#DATE       20200110
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.3700+8          1.6000-7 2.2000-8 0.337095                              P.S.Baranov+         (61)M1011  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M1011002 
+#DATE       20200110
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.4520+8          2.0800-7 2.4000-8-0.054079                              P.S.Baranov+         (61)M1011  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M1011002 
+#DATE       20200110
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.4700+8          1.3400-7 3.6000-8 0.576432                              P.S.Baranov+         (61)M1011  2 
+    0  1001   4   2  C 2.4700+8          1.3800-7 3.3000-8 0.337095                              P.S.Baranov+         (61)M1011  2 
+#/DATA      2
+#/DATASET
+#
+#DATASET    M1011002 
+#DATE       20200110
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.4720+8          3.0900-7 3.3000-8-0.322266                              P.S.Baranov+         (61)M1011  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M1011002 
+#DATE       20200110
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.4770+8          4.1700-7 3.5000-8-0.848048                              P.S.Baranov+         (61)M1011  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M1011002 
+#DATE       20200110
+#REACTION   1-H-1(G,EL)1-H-1,,DA
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.4780+8          3.3300-7 2.8000-8-0.671721                              P.S.Baranov+         (61)M1011  2 
+#/DATA      1
+#/DATASET

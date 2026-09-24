@@ -1,0 +1,2 @@
+actual_file,required_columns,rule
+geant4_run_manifest.csv,"run_id,benchmark_id,result_type,result_file,geometry_id,source_normalization_id,histories,random_seed,provenance_file",One row per actual run. Required Phase I run_ids must cover the expected run manifest. P001 may use histories/random_seed = NOT_APPLICABLE.

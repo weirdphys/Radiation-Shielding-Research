@@ -1,0 +1,44 @@
+#ENTRY      M0166
+#AUTHOR1    B.S.Ishkhanov+
+#YEAR       1963
+#INSTITUTE  (4RUSMOS)
+#TITLE      Cross section of the Rh-103(g,p) reaction.
+#AUTHOR(S)  B.S.Ishkhanov, E.N.Kornienko, Yu.I.Sorokin, V.G.Shevchenco, 
+#+          B.A.Yur'ev
+#REF-CODE   (J,ZET,45,38,1963)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 45 (1963) 38
+#DATASETS   0
+#
+#DATASET    M0166003 
+#DATE       20220129
+#REACTION   45-RH-103(G,P)44-RU-102,,SIG,,BRS
+#PROJ       0
+#TARG       45103
+#MF         3
+#MT         103
+#PRODUCT    44-RU-102
+#C4BEGIN    [    0 45103   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 45103   3 103    1.4000+7          1.5000-3 7.5000-4                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    1.5000+7          2.7000-3 1.3500-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    1.6000+7          4.1000-3 2.0500-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    1.7000+7          5.4000-3 2.7000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    1.8000+7          6.8000-3 3.4000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    1.9000+7          8.0000-3 4.0000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    2.0000+7          6.6000-3 3.3000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    2.1000+7          4.7000-3 2.3500-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    2.2000+7          3.6000-3 1.8000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    2.3000+7          3.5000-3 1.7500-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    2.4000+7          3.6000-3 1.8000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    2.5000+7          4.0000-3 2.0000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    2.6000+7          4.5000-3 2.2500-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    2.7000+7          5.0000-3 2.5000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    2.8000+7          5.2000-3 2.6000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    2.9000+7          5.3000-3 2.6500-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    3.0000+7          5.1000-3 2.5500-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    3.1000+7          5.0000-3 2.5000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+    0 45103   3 103    3.2000+7          5.0000-3 2.5000-3                                       B.S.Ishkhanov+       (63)M0166  3 
+#/DATA      19
+#/DATASET

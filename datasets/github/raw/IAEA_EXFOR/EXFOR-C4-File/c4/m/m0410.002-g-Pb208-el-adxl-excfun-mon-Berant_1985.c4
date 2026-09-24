@@ -1,0 +1,28 @@
+#ENTRY      M0410
+#AUTHOR1    Z.Berant+
+#YEAR       1985
+#INSTITUTE  (3ISLNEG)
+#TITLE      Probing the microstructure of the giant dipole
+#+          resonance in Pb-208.
+#AUTHOR(S)  Z.Berant, S.Kahane, R.Moreh, O.Shahal
+#REF-CODE   (J,PR/C,31,1553,1985)
+#REFERENCE  Phys.Rev.C 31 (1985) 1553 (doi:10.1103/PhysRevC.31.1553)
+#DATASETS   0
+#
+#DATASET    M0410002 
+#DATE       20160905
+#REACTION   82-PB-208(G,EL)82-PB-208,,DA
+#PROJ       0
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [    0 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82208   4   2    8999000.          7.7000-6 1.7000-6-0.642788                              Z.Berant+            (85)M0410  2 
+    0 82208   4   2    1.0055+7          3.3400-4 4.3000-5-0.642788                              Z.Berant+            (85)M0410  2 
+    0 82208   4   2    1.1388+7          2.2100-4 2.5000-5-0.642788                              Z.Berant+            (85)M0410  2 
+#/DATA      3
+#/DATASET

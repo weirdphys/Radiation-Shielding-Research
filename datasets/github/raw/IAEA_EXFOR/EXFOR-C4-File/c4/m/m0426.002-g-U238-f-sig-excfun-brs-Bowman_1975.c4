@@ -1,0 +1,30 @@
+#ENTRY      M0426
+#AUTHOR1    C.D.Bowman+
+#YEAR       1975
+#INSTITUTE  (1USANIS)
+#TITLE      Very low energy photofission of U-238.
+#AUTHOR(S)  C.D.Bowman, I.G.Schroder, C.E.Dick, H.E.Jackson
+#REF-CODE   (J,PR/C,12,863,1975)
+#REFERENCE  Phys.Rev.C 12 (1975) 863 (doi:10.1103/PhysRevC.12.863)
+#DATASETS   0
+#
+#DATASET    M0426002 
+#DATE       20130621
+#REACTION   92-U-238(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  18    2750000.          1.900-11 1.000-11                                       C.D.Bowman+          (75)M0426  2 
+    0 92238   3  18    3250000.          8.200-10 2.900-10                                       C.D.Bowman+          (75)M0426  2 
+    0 92238   3  18    3750000.          3.5000-9 8.000-10                                       C.D.Bowman+          (75)M0426  2 
+    0 92238   3  18    4250000.          3.9000-8 9.0000-9                                       C.D.Bowman+          (75)M0426  2 
+    0 92238   3  18    4750000.          1.3000-6 3.0000-7                                       C.D.Bowman+          (75)M0426  2 
+    0 92238   3  18    5250000.          4.4000-5 1.0000-5                                       C.D.Bowman+          (75)M0426  2 
+    0 92238   3  18    5750000.          1.3000-3 3.0000-4                                       C.D.Bowman+          (75)M0426  2 
+#/DATA      7
+#/DATASET

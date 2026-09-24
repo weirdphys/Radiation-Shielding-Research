@@ -1,0 +1,27 @@
+#ENTRY      L0185
+#AUTHOR1    J.T.Caldwell+
+#YEAR       1980
+#INSTITUTE  (1USALAS)
+#TITLE      Experimental Determination of Photofission Neutron
+#+          Multiplicities for 235U, 236U, 238U, and 232Th Using
+#+          Monoenergetic Photons
+#AUTHOR(S)  J.T.Caldwell, E.J.Dowdy, R.A.Alvarez, B.L.Berman, P.Meyer
+#REF-CODE   (J,NSE,73,(2),153,1980)
+#REFERENCE  Nucl.Sci.Eng. 73 No.2 (1980) 153 (doi:10.13182/NSE80-A18695)
+#DATASETS   0
+#
+#DATASET    L0185008 
+#DATE       20131209
+#REACTION   92-U-238(G,F),DL,NU
+#PROJ       0
+#TARG       92238
+#MF         1
+#MT         455
+#C4BEGIN    [    0 92238   1 455  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   1 455    1.0900+7          0.041460 5.8070-3                                       J.T.Caldwell+        (80)L0185  8 
+    0 92238   1 455    1.6800+7          0.035080 8.3160-3                                       J.T.Caldwell+        (80)L0185  8 
+#/DATA      2
+#/DATASET

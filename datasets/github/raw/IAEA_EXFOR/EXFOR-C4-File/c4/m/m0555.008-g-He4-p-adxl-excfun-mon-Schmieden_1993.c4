@@ -1,0 +1,36 @@
+#ENTRY      M0555
+#AUTHOR1    H.Schmieden+
+#YEAR       1993
+#INSTITUTE  (2GERMNZ)
+#TITLE      Scaling of the 4He(g,p)t reaction in the Egamma = 80
+#+          - 160 MeV region.
+#AUTHOR(S)  H.Schmieden, I.J.D.Macgregor, R.O.Owens, B.Schoch, J.R.M.Annand, 
+#+          R.Beck, S.M.Doran, S.J.Hall, J.D.Kellie, J.C.Mc.upper()eorge, 
+#+          J.M.Vogt
+#REF-CODE   (J,PL/B,314,284,199309)
+#REFERENCE  Phys.Lett.B 314 (1993) 284 (doi:10.1016/0370-2693(93)91237-H)
+#DATASETS   0
+#
+#DATASET    M0555008 
+#DATE       19990305
+#REACTION   2-HE-4(G,P)1-H-3,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 103    8.1400+7          3.1900-6 1.9000-7-0.342020 0.082004                     H.Schmieden+         (93)M0555  8 
+    0  2004   4 103    8.8000+7          2.7100-6 1.2000-7-0.342020 0.082004                     H.Schmieden+         (93)M0555  8 
+    0  2004   4 103    9.7100+7          1.9800-6 1.1000-7-0.342020 0.082004                     H.Schmieden+         (93)M0555  8 
+    0  2004   4 103    1.0610+8          1.4300-6 1.0000-7-0.342020 0.082004                     H.Schmieden+         (93)M0555  8 
+    0  2004   4 103    1.1510+8          1.0100-6 1.0000-7-0.342020 0.082004                     H.Schmieden+         (93)M0555  8 
+    0  2004   4 103    1.2410+8          8.7000-7 1.0000-7-0.342020 0.082004                     H.Schmieden+         (93)M0555  8 
+    0  2004   4 103    1.3410+8          4.9000-7 8.0000-8-0.342020 0.082004                     H.Schmieden+         (93)M0555  8 
+    0  2004   4 103    1.4440+8          4.5000-7 5.0000-8-0.342020 0.082004                     H.Schmieden+         (93)M0555  8 
+    0  2004   4 103    1.5430+8          3.6000-7 5.0000-8-0.342020 0.082004                     H.Schmieden+         (93)M0555  8 
+#/DATA      9
+#/DATASET

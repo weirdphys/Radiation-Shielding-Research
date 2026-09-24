@@ -1,0 +1,86 @@
+#ENTRY      S0089
+#AUTHOR1    J.P.Zhu+
+#YEAR       2017
+#INSTITUTE  (3CPRBJG)
+#TITLE      Measurement of differential cross section of
+#+          D(3He,p)4He from 0.8 MeV to 3.6 MeV
+#AUTHOR(S)  J.P.Zhu, X.Xiao, S.Yan, Y.Gao, J.M.Xue, Y.G.Wang
+#REF-CODE   (J,NIM/B,412,81,2017)
+#REFERENCE  Nucl.Instrum.Meth.B 412 (2017) 81 (doi:10.1016/j.nimb.2017.07.020)
+#DATASETS   0
+#
+#DATASET    S0089003 
+#DATE       20200219
+#REACTION   1-H-2(HE3,P)2-HE-4,,DA
+#PROJ       2003
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2003  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1002   4 103  C 1800000.          0.015700 1.0205-3-0.650774                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 1800000.          0.015900 9.6990-4-0.763796                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 1800000.          0.015800 9.7960-4-0.856267                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 1800000.          0.015700 9.4200-4-0.926529                              J.P.Zhu+             (17)S0089  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    S0089003 
+#DATE       20200219
+#REACTION   1-H-2(HE3,P)2-HE-4,,DA
+#PROJ       2003
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2003  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1002   4 103  C 2400000.          0.010600 6.4660-4-0.661312                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 2400000.          0.010500 6.5100-4-0.771625                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 2400000.          0.010500 6.4050-4-0.861629                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 2400000.          0.010600 6.4660-4-0.929133                              J.P.Zhu+             (17)S0089  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    S0089003 
+#DATE       20200219
+#REACTION   1-H-2(HE3,P)2-HE-4,,DA
+#PROJ       2003
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2003  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1002   4 103  C 3000000.          8.9000-3 5.5180-4-0.671721                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 3000000.          9.0000-3 5.6700-4-0.779338                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 3000000.          9.0000-3 5.4000-4-0.866025                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 3000000.          9.1000-3 5.6420-4-0.931691                              J.P.Zhu+             (17)S0089  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    S0089003 
+#DATE       20200219
+#REACTION   1-H-2(HE3,P)2-HE-4,,DA
+#PROJ       2003
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2003  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1002   4 103  C 3600000.          8.1000-3 5.1840-4-0.679441                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 3600000.          8.2000-3 5.1660-4-0.784776                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 3600000.          8.3000-3 5.0630-4-0.870356                              J.P.Zhu+             (17)S0089  3 
+ 2003  1002   4 103  C 3600000.          8.6000-3 5.5900-4-0.933580                              J.P.Zhu+             (17)S0089  3 
+#/DATA      4
+#/DATASET

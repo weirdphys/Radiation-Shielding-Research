@@ -1,0 +1,35 @@
+#ENTRY      G0002
+#AUTHOR1    Marilia T.F.Cesar Khouri+
+#YEAR       1983
+#INSTITUTE  (3BZLIPE)
+#TITLE      Photofission and photoneutron cross section for Np-237
+#+          in the energy region near threshold
+#AUTHOR(S)  Marilia T.F.Cesar Khouri
+#REF-CODE   (W,CESAR KHOURI,19830524)
+#REFERENCE  Private communication  (1983)
+#DATASETS   0
+#
+#DATASET    G0002004 
+#DATE       20060729
+#REACTION   93-NP-237(G,N)93-NP-236,,SIG
+#PROJ       0
+#TARG       93237
+#MF         3
+#MT         4
+#PRODUCT    93-NP-236
+#C4BEGIN    [    0 93237   3   4 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 93237   3   4 P  6730000.          0.032700 7.2000-3                                       Marilia T.F.Cesar Khouri(83)G0002  4 
+    0 93237   3   4 P  7230000.          0.016400 4.0000-3                                       Marilia T.F.Cesar Khouri(83)G0002  4 
+    0 93237   3   4 P  7380000.          0.027800 6.4000-3                                       Marilia T.F.Cesar Khouri(83)G0002  4 
+    0 93237   3   4 P  7640000.          0.023900 4.5000-3                                       Marilia T.F.Cesar Khouri(83)G0002  4 
+    0 93237   3   4 P  7720000.          0.032100 6.1000-3                                       Marilia T.F.Cesar Khouri(83)G0002  4 
+    0 93237   3   4 P  7880000.          0.046900 0.010800                                       Marilia T.F.Cesar Khouri(83)G0002  4 
+    0 93237   3   4 P  7910000.          0.053900 0.010900                                       Marilia T.F.Cesar Khouri(83)G0002  4 
+    0 93237   3   4 P  9000000.          0.057300 9.8000-3                                       Marilia T.F.Cesar Khouri(83)G0002  4 
+    0 93237   3   4 P  9720000.          0.088100 0.016200                                       Marilia T.F.Cesar Khouri(83)G0002  4 
+    0 93237   3   4 P  1.0830+7          0.272200 0.171900                                       Marilia T.F.Cesar Khouri(83)G0002  4 
+#/DATA      10
+#/DATASET

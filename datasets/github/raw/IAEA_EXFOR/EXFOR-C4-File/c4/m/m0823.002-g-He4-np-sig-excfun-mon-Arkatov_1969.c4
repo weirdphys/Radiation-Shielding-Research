@@ -1,0 +1,38 @@
+#ENTRY      M0823
+#AUTHOR1    Yu.M.Arkatov+
+#YEAR       1969
+#INSTITUTE  (4UKRKFT)
+#TITLE      Three-particle and total photodisintegration of 4He.
+#AUTHOR(S)  Yu.M.Arkatov, A.V.Bazaeva, P.I.Vatset, V.I.Voloshchuk, A.P.Klyucharev, 
+#+          A.F.Khodyachikh
+#REF-CODE   (J,YF,10,1123,1969)
+#REFERENCE  Yad.Fiz. 10 (1969) 1123
+#DATASETS   0
+#
+#DATASET    M0823002 
+#DATE       20180326
+#REACTION   2-HE-4(G,N+P)1-H-2,,SIG
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         28
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2004   3  28  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3  28    2.8900+7 1100000. 9.7000-6 5.6000-6                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    3.2500+7 2500000. 7.2200-5 1.3200-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    3.7500+7 2500000. 1.4240-4 1.9400-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    4.2500+7 2500000. 1.6940-4 2.2200-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    4.7500+7 2500000. 2.0000-4 2.5000-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    5.2500+7 2500000. 1.6740-4 2.5000-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    5.7500+7 2500000. 1.3680-4 2.3600-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    6.2500+7 2500000. 1.2500-4 2.2900-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    6.7500+7 2500000. 1.6940-4 2.7000-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    7.5000+7 5000000. 1.7550-4 2.0000-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    8.5000+7 5000000. 1.4200-4 2.1000-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    9.7500+7 7500000. 8.1900-5 1.3200-5                                       Yu.M.Arkatov+        (69)M0823  2 
+    0  2004   3  28    1.1250+8 7500000. 5.9700-5 1.4000-5                                       Yu.M.Arkatov+        (69)M0823  2 
+#/DATA      13
+#/DATASET

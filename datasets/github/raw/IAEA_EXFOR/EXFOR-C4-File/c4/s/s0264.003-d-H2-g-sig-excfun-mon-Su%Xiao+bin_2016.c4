@@ -1,0 +1,26 @@
+#ENTRY      S0264
+#AUTHOR1    Su Xiao-bin+
+#YEAR       2016
+#INSTITUTE  (3CPRAEP)
+#TITLE      Experimental study on yield of high energy gamma-ray
+#+          in deuterium-deuterium fusion reaction
+#AUTHOR(S)  Su Xiao-bin, Hou Long, Zhang Kai, Huang Zheng-de, Xia Hai-hong
+#REF-CODE   (J,CST,50,395,2016)
+#REFERENCE  At.En.Sci.Technol. 50 (2016) 395
+#DATASETS   0
+#
+#DATASET    S0264003 
+#DATE       20220526
+#REACTION   1-H-2(D,G)2-HE-4,,SIG
+#PROJ       1002
+#TARG       1002
+#MF         3
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1002   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   3 102 C  145000.0          2.4700-9 6.100-10                                       Su Xiao-bin+         (16)S0264  3 
+#/DATA      1
+#/DATASET

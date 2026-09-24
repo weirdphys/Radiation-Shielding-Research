@@ -1,0 +1,51 @@
+#ENTRY      M0004
+#AUTHOR1    Yu.B.Ostapenko+
+#YEAR       1978
+#INSTITUTE  (4RUSIFP)
+#TITLE      Yields and cross sections of photofission for isotopes
+#+          Th, U, Np, and Am in energy range from 4.5 MeV to
+#+          7.0 MeV.
+#AUTHOR(S)  Yu.B.Ostapenko, G.N.Smirenkin, A.S.Soldatov, V.E.Zhuchko, 
+#+          Yu.M.Tsipenyuk
+#REF-CODE   (J,YK,,(3/30),3,1978)
+#REFERENCE  Yad.Reak.Konst.  No.3/30 (1978) 3
+#DATASETS   0
+#
+#DATASET    M0004017 
+#DATE       20180206
+#REACTION   94-PU-241(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       94241
+#MF         3
+#MT         18
+#C4BEGIN    [    0 94241   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 94241   3  18 D  4300000.          9.1400-8 2.9000-8                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  4500000.          9.5200-7 1.7900-7                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  4750000.          1.9400-6 4.2000-7                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  4850000.          1.3800-5 2.9000-6                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  4950000.          3.6400-5 8.6000-6                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  5050000.          9.4200-5 8.0000-6                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  5150000.          2.6800-4 4.6000-5                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  5250000.          6.6600-4 6.5000-5                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  5350000.          8.6500-4 5.2000-5                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  5450000.          1.0400-3 7.0000-5                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  5550000.          1.0800-3 9.0000-5                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  5650000.          1.6400-3 2.2000-4                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  5750000.          2.8600-3 3.9000-4                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  5850000.          4.1600-3 3.2000-4                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  5950000.          5.2300-3 3.6000-4                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  6050000.          6.5800-3 6.2000-4                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  6150000.          0.011800 1.1000-3                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  6250000.          0.012400 1.8000-3                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  6350000.          0.011100 1.2000-3                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  6450000.          0.011000 1.1000-3                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  6550000.          0.012900 2.0000-3                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  6650000.          0.013300 2.1000-3                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  6750000.          0.013600 2.7000-3                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  6850000.          0.017500 5.4000-3                                       Yu.B.Ostapenko+      (78)M0004 17 
+    0 94241   3  18 D  6950000.          0.022800 0.010700                                       Yu.B.Ostapenko+      (78)M0004 17 
+#/DATA      25
+#/DATASET

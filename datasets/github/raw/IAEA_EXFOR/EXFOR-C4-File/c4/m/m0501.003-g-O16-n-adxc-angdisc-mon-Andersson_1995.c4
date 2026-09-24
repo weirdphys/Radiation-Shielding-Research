@@ -1,0 +1,35 @@
+#ENTRY      M0501
+#AUTHOR1    B.-E.Andersson+
+#YEAR       1995
+#INSTITUTE  (2SWDLND)
+#TITLE      16O(gamma,n) reaction at intermediate energy.
+#AUTHOR(S)  B.-E.Andersson, J.-O.Adler, S.A.Bulychjev, L.Isaksson, H.Ruijter, 
+#+          B.Schroder, J.R.M.Annand, G.I.Crawford, P.D.Harty, J.C.McGeorge, 
+#+          G.J.Miller, J.Ryckebusch
+#REF-CODE   (J,PR/C,51,2553,1995)
+#REFERENCE  Phys.Rev.C 51 (1995) 2553 (doi:10.1103/PhysRevC.51.2553)
+#DATASETS   0
+#
+#DATASET    M0501003 
+#DATE       20170330
+#REACTION   8-O-16(G,N)8-O-15,PAR,DA
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    8-O-15
+#C4BEGIN    [    0  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4  50  C 5.8000+7 174000.0 1.7100-5 3.4000-6 0.866025          5700000. 500000.0LVLB.-E.Andersson+      (95)M0501  3 
+    0  8016   4  50  C 5.8000+7 174000.0 1.7000-5 3.2000-6 0.819152          5700000. 500000.0LVLB.-E.Andersson+      (95)M0501  3 
+    0  8016   4  50  C 5.8000+7 174000.0 1.7500-5 4.0000-6 0.766044          5700000. 500000.0LVLB.-E.Andersson+      (95)M0501  3 
+    0  8016   4  50  C 5.8000+7 174000.0 2.7000-5 3.0000-6 0.642788          5700000. 500000.0LVLB.-E.Andersson+      (95)M0501  3 
+    0  8016   4  50  C 5.8000+7 174000.0 2.0200-5 4.0000-6 0.500000          5700000. 500000.0LVLB.-E.Andersson+      (95)M0501  3 
+    0  8016   4  50  C 5.8000+7 174000.0 1.8900-5 3.0000-6 0.342020          5700000. 500000.0LVLB.-E.Andersson+      (95)M0501  3 
+    0  8016   4  50  C 5.8000+7 174000.0 1.3200-5 2.1000-6 0.173648          5700000. 500000.0LVLB.-E.Andersson+      (95)M0501  3 
+    0  8016   4  50  C 5.8000+7 174000.0 1.0500-5 1.5000-6 6.123-17          5700000. 500000.0LVLB.-E.Andersson+      (95)M0501  3 
+    0  8016   4  50  C 5.8000+7 174000.0 5.5000-6 1.0000-6-0.342020          5700000. 500000.0LVLB.-E.Andersson+      (95)M0501  3 
+#/DATA      9
+#/DATASET

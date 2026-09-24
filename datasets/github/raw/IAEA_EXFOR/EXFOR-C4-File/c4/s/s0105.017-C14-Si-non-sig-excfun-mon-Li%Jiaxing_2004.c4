@@ -1,0 +1,26 @@
+#ENTRY      S0105
+#AUTHOR1    Li Jiaxing+
+#YEAR       2004
+#INSTITUTE  (3CPRIMP)
+#TITLE      Experimental study of the exotic-nuclei
+#AUTHOR(S)  Li Jiaxing, Xiao Guoqing, Guo Zhongyan, Zhan Wenlong, Sun Zhiyu, 
+#+          Wang Meng, Wang Jinchuan, Hu Zhengguo, Li Chen, Chen Lixin, 
+#+          Mao Ruishi
+#REF-CODE   (J,PHE,28,1256,2004)
+#REFERENCE  High En.Nucl.Phy.Ch. 28 (2004) 1256
+#DATASETS   0
+#
+#DATASET    S0105017 
+#DATE       20141115
+#REACTION   14-SI-0(6-C-14,NON),,SIG
+#PROJ       6014
+#TARG       14000
+#MF         3
+#MT         3
+#C4BEGIN    [ 6014 14000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6014 14000   3   3    4.2000+8          1.871000 0.168000                                       Li Jiaxing+          (04)S0105 17 
+#/DATA      1
+#/DATASET

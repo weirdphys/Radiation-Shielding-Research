@@ -1,0 +1,28 @@
+#ENTRY      M0842
+#AUTHOR1    H.Arenhoevel+
+#YEAR       1970
+#INSTITUTE  (2GERMPM)
+#TITLE      Study of the giant resonance by photon scattering  in
+#+          medium spherical nuclei.
+#AUTHOR(S)  H.Arenhoevel, J.M.Maison
+#REF-CODE   (J,NP/A,147,305,1970)
+#REFERENCE  Nucl.Phys.A 147 (1970) 305 (doi:10.1016/0375-9474(70)90270-8)
+#DATASETS   0
+#
+#DATASET    M0842016 
+#DATE       20120130
+#REACTION   49-IN-115(G,INL)49-IN-115,,DA,,BRS
+#PROJ       0
+#TARG       49115
+#MF         4
+#MT         102
+#PRODUCT    49-IN-115
+#C4BEGIN    [    0 49115   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 49115   4 102    1.4500+7 1000000. 3.3620-5 4.3100-6-0.866025                              H.Arenhoevel+        (70)M0842 16 
+    0 49115   4 102    1.6500+7 1000000. 5.4956-5 4.5260-6-0.866025                              H.Arenhoevel+        (70)M0842 16 
+    0 49115   4 102    1.8450+7 950000.0 3.0474-5 5.3450-6-0.866025                              H.Arenhoevel+        (70)M0842 16 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,23 @@
+{
+  "template_only": true,
+  "benchmark_id": "P001_NIST_ORDINARY_CONCRETE",
+  "geant4_version": null,
+  "physics_list": null,
+  "em_physics": null,
+  "hadronic_physics": null,
+  "neutron_data_library": null,
+  "material_definition": null,
+  "material_density_g_cm3": null,
+  "geometry_id": "P001_INFINITE_MEDIUM_COEFFICIENT",
+  "source_normalization_id": "NOT_APPLICABLE",
+  "source_sampling_file": "NOT_APPLICABLE",
+  "absolute_normalization_method": "NOT_APPLICABLE",
+  "source_solid_angle_sr": "NOT_APPLICABLE",
+  "normalization_scale_per_primary_per_uC": "NOT_APPLICABLE",
+  "histories": null,
+  "random_seed": null,
+  "geometry_definition": null,
+  "scoring_definition": null,
+  "run_date": null,
+  "git_commit": null
+}

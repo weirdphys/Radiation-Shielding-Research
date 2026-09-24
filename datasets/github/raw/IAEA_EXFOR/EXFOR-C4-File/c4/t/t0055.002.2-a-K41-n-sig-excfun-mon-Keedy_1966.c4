@@ -1,0 +1,35 @@
+#ENTRY      T0055
+#AUTHOR1    C.R.Keedy+
+#YEAR       1966
+#INSTITUTE  (1USAWIS)
+#TITLE      Isomer ratios for the 41K(a,n)44,44mSc and
+#+          55Mn(a,n)58,58mCo reactions.
+#AUTHOR(S)  C.R.Keedy, L.Haskin, J.Wing, J.R.Huizenga
+#REF-CODE   (J,NP,82,1,1966)
+#REFERENCE  Nucl.Phys. 82 (1966) 1
+#DATASETS   0
+#
+#DATASET    T00550022
+#DATE       20080724
+#REACTION   19-K-41(A,N)21-SC-44-G,,SIG
+#PROJ       2004
+#TARG       19041
+#MF         3
+#MT         4
+#PRODUCT    21-SC-44-G
+#C4BEGIN    [ 2004 19041   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 19041   3   4G   7500000. 20000.00 0.114000 0.011400                                       C.R.Keedy+           (66)T0055  22
+ 2004 19041   3   4G   7950000. 20000.00 0.143000 0.014300                                       C.R.Keedy+           (66)T0055  22
+ 2004 19041   3   4G   8000000. 20000.00 0.136000 0.013600                                       C.R.Keedy+           (66)T0055  22
+ 2004 19041   3   4G   8930000. 20000.00 0.192000 0.019200                                       C.R.Keedy+           (66)T0055  22
+ 2004 19041   3   4G   9000000. 20000.00 0.189000 0.018900                                       C.R.Keedy+           (66)T0055  22
+ 2004 19041   3   4G   9870000. 20000.00 0.223000 0.022300                                       C.R.Keedy+           (66)T0055  22
+ 2004 19041   3   4G   1.1000+7 30000.00 0.284000 0.028400                                       C.R.Keedy+           (66)T0055  22
+ 2004 19041   3   4G   1.1830+7 30000.00 0.274000 0.027400                                       C.R.Keedy+           (66)T0055  22
+ 2004 19041   3   4G   1.2000+7 30000.00 0.309000 0.030900                                       C.R.Keedy+           (66)T0055  22
+ 2004 19041   3   4G   1.2500+7 30000.00 0.281000 0.028100                                       C.R.Keedy+           (66)T0055  22
+#/DATA      10
+#/DATASET

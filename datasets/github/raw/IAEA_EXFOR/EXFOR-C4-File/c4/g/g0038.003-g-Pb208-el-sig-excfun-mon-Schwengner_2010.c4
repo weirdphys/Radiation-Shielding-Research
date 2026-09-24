@@ -1,0 +1,44 @@
+#ENTRY      G0038
+#AUTHOR1    R.Schwengner+
+#YEAR       2010
+#INSTITUTE  (2GERZFK)
+#TITLE      E1 strength in 208Pb within the shell model
+#AUTHOR(S)  R.Schwengner, R.Massarczyk, B.A.Brown, R.Beyer, F.Doenau, 
+#+          M.Erhard, E.Grosse, A.R.Junghans, K.Kosev, C.Nair, G.Rusev, 
+#+          K.D.Schilling, A.Wagner
+#REF-CODE   (J,PR/C,81,054315,2010)
+#REFERENCE  Phys.Rev.C 81 (2010) 054315 (doi:10.1103/PhysRevC.81.054315)
+#DATASETS   0
+#
+#DATASET    G0038003 
+#DATE       20140726
+#REACTION   82-PB-208(G,EL)82-PB-208,,SIG,,AV
+#PROJ       0
+#TARG       82208
+#MF         3
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [    0 82208   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82208   3   2 D  4100000. 100000.0 0.000000 0.000000                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  4300000. 100000.0 0.000000 0.000000                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  4500000. 100000.0 0.000000 0.000000                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  4700000. 100000.0 0.000000 0.000000                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  4900000. 100000.0 0.010868 1.2510-3                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  5100000. 100000.0 0.000000 0.000000                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  5300000. 100000.0 0.011912 1.3630-3                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  5500000. 100000.0 0.042274 4.8960-3                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  5700000. 100000.0 0.000000 0.000000                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  5900000. 100000.0 1.1275-3 2.8350-4                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  6100000. 100000.0 0.000000 0.000000                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  6300000. 100000.0 0.012351 9.3600-4                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  6500000. 100000.0 0.000000 0.000000                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  6700000. 100000.0 0.013730 1.5850-3                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  6900000. 100000.0 0.000000 0.000000                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  7100000. 100000.0 0.035231 2.9509-3                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  7300000. 100000.0 0.038577 4.1745-3                                       R.Schwengner+        (10)G0038  3 
+    0 82208   3   2 D  7500000. 100000.0 9.7950-4 2.0700-4                                       R.Schwengner+        (10)G0038  3 
+#/DATA      18
+#/DATASET

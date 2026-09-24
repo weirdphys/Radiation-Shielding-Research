@@ -1,0 +1,23 @@
+{
+  "template_only": true,
+  "benchmark_id": "N001_JAERI_TIARA_43MEV",
+  "geant4_version": null,
+  "physics_list": null,
+  "em_physics": null,
+  "hadronic_physics": null,
+  "neutron_data_library": null,
+  "material_definition": null,
+  "material_density_g_cm3": null,
+  "geometry_id": null,
+  "source_normalization_id": null,
+  "source_sampling_file": null,
+  "absolute_normalization_method": null,
+  "source_solid_angle_sr": null,
+  "normalization_scale_per_primary_per_uC": null,
+  "histories": null,
+  "random_seed": null,
+  "geometry_definition": null,
+  "scoring_definition": null,
+  "run_date": null,
+  "git_commit": null
+}

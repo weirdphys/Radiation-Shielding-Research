@@ -1,0 +1,32 @@
+#ENTRY      S0224
+#AUTHOR1    G.S.Li+
+#YEAR       2020
+#INSTITUTE  (3CPRIMP)
+#TITLE      Fusion reaction studies for the 9Be + 89Y system at
+#+          above-barrier energies
+#AUTHOR(S)  G.S.Li, M.L.Liu, D.Patel, Y.D.Fang, X.H.Zhou, Y.H.Zhang, 
+#+          A.Diaz-Torres, C.S.Palshetkar, J.Lubian, N.T.Zhang, J.G.Wang, 
+#+          B.S.Gao, Y.H.Qiang, S.Guo, Y.Zheng, K.L.Wang, K.K.Zheng, 
+#+          R.Li, S.Mukherjee
+#REF-CODE   (J,PR/C,101,014606,2020)
+#REFERENCE  Phys.Rev.C 101 (2020) 014606 (doi:10.1103/PhysRevC.101.014606)
+#DATASETS   0
+#
+#DATASET    S0224006 
+#DATE       20201015
+#REACTION   39-Y-89(4-BE-9,X)41-NB-90,,SIG
+#PROJ       4009
+#TARG       39089
+#MF         3
+#MT         454
+#PRODUCT    41-NB-90
+#C4BEGIN    [ 4009 39089   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 39089   3 454    5.0100+7          2.7000-3 3.5000-4           41090.9                     G.S.Li+              (20)S0224  6 
+ 4009 39089   3 454    4.9100+7          2.2400-3 3.0000-4           41090.9                     G.S.Li+              (20)S0224  6 
+ 4009 39089   3 454    4.8100+7          8.3000-4 1.2000-4           41090.9                     G.S.Li+              (20)S0224  6 
+ 4009 39089   3 454    4.7000+7          3.9000-4 8.0000-5           41090.9                     G.S.Li+              (20)S0224  6 
+#/DATA      4
+#/DATASET

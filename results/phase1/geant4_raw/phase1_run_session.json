@@ -1,0 +1,323 @@
+{
+  "run_session_id": "20260917T132354Z_62bdc9864b",
+  "notebook_revision": "v12_15_1_cross_revision_pdd_reuse_fix",
+  "phase1_mode": "run",
+  "started_utc": "2026-09-17T13:23:54.802979+00:00",
+  "requested_implementation_language": "C++17",
+  "requested_transport_threads": 16,
+  "minimum_histories_per_stochastic_run": 1000000,
+  "host": "ab",
+  "logical_cpu_count": 32,
+  "status": "EXECUTION_CONTROLLER_FINISHED",
+  "resolved_toolchain": {
+    "status": "resolved",
+    "geant4_config": "/home/a/miniconda3/envs/neutron-g4-native/bin/geant4-config",
+    "geant4_prefix": "/home/a/miniconda3/envs/neutron-g4-native",
+    "geant4_version": "11.4.2",
+    "geant4_cxxstd": "17",
+    "geant4_multithreading_feature": "yes",
+    "environment_source": "geant4-config --sh",
+    "cxx": "/home/a/miniconda3/envs/neutron-g4-native/bin/x86_64-conda-linux-gnu-c++",
+    "cmake": "/home/a/miniconda3/envs/neutron-g4-native/bin/cmake",
+    "Geant4_DIR": "/home/a/miniconda3/envs/neutron-g4-native/lib/cmake/Geant4",
+    "datasets": "G4NDL G4NEUTRONHPDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1\nG4EMLOW G4LEDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8\nPhotonEvaporation G4LEVELGAMMADATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2\nRadioactiveDecay G4RADIOACTIVEDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2\nG4PARTICLEXS G4PARTICLEXSDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2\nG4PII G4PIIDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3\nRealSurface G4REALSURFACEDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2\nG4SAIDDATA G4SAIDXSDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0\nG4ABLA G4ABLADATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3\nG4INCL G4INCLDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3\nG4ENSDFSTATE G4ENSDFSTATEDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0\nG4CHANNELING G4CHANNELINGDATA /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0",
+    "dataset_check": "G4NDL INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1\nG4EMLOW INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8\nPhotonEvaporation INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2\nRadioactiveDecay INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2\nG4PARTICLEXS INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2\nG4PII INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3\nRealSurface INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2\nG4SAIDDATA INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0\nG4ABLA INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3\nG4INCL INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3\nG4ENSDFSTATE INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0\nG4CHANNELING INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0",
+    "available_build_backends": [
+      "geant4-config-direct",
+      "cmake"
+    ],
+    "attempts": [],
+    "dataset_check_before": "G4NDL INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1\nG4EMLOW INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8\nPhotonEvaporation INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2\nRadioactiveDecay INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2\nG4PARTICLEXS INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2\nG4PII INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3\nRealSurface INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2\nG4SAIDDATA INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0\nG4ABLA INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3\nG4INCL INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3\nG4ENSDFSTATE INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0\nG4CHANNELING INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0",
+    "dataset_preflight_report": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/geant4_raw/phase1_geant4_dataset_preflight.json",
+    "dataset_preflight": {
+      "notebook_revision": "v12_15_1_cross_revision_pdd_reuse_fix",
+      "generated_at_utc": "2026-09-17T13:23:55.038991+00:00",
+      "started_at_utc": "2026-09-17T13:23:54.935975+00:00",
+      "geant4_config": "/home/a/miniconda3/envs/neutron-g4-native/bin/geant4-config",
+      "geant4_version": "11.4.2",
+      "geant4_prefix": "/home/a/miniconda3/envs/neutron-g4-native",
+      "require_all_declared_datasets": true,
+      "auto_install_enabled": true,
+      "search_alternate_installs_enabled": true,
+      "missing_before": [],
+      "install_attempted": false,
+      "install_succeeded": false,
+      "install_returncode": null,
+      "install_error": "",
+      "install_stdout_tail": "",
+      "install_stderr_tail": "",
+      "dataset_check_before": "G4NDL INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1\nG4EMLOW INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8\nPhotonEvaporation INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2\nRadioactiveDecay INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2\nG4PARTICLEXS INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2\nG4PII INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3\nRealSurface INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2\nG4SAIDDATA INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0\nG4ABLA INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3\nG4INCL INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3\nG4ENSDFSTATE INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0\nG4CHANNELING INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0",
+      "dataset_check_after": "G4NDL INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1\nG4EMLOW INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8\nPhotonEvaporation INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2\nRadioactiveDecay INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2\nG4PARTICLEXS INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2\nG4PII INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3\nRealSurface INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2\nG4SAIDDATA INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0\nG4ABLA INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3\nG4INCL INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3\nG4ENSDFSTATE INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0\nG4CHANNELING INSTALLED /home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0",
+      "datasets": [
+        {
+          "dataset_name": "G4NDL",
+          "environment_variable": "G4NEUTRONHPDATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1"
+        },
+        {
+          "dataset_name": "G4EMLOW",
+          "environment_variable": "G4LEDATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8"
+        },
+        {
+          "dataset_name": "PhotonEvaporation",
+          "environment_variable": "G4LEVELGAMMADATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2"
+        },
+        {
+          "dataset_name": "RadioactiveDecay",
+          "environment_variable": "G4RADIOACTIVEDATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2"
+        },
+        {
+          "dataset_name": "G4PARTICLEXS",
+          "environment_variable": "G4PARTICLEXSDATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2"
+        },
+        {
+          "dataset_name": "G4PII",
+          "environment_variable": "G4PIIDATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3"
+        },
+        {
+          "dataset_name": "RealSurface",
+          "environment_variable": "G4REALSURFACEDATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2"
+        },
+        {
+          "dataset_name": "G4SAIDDATA",
+          "environment_variable": "G4SAIDXSDATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0"
+        },
+        {
+          "dataset_name": "G4ABLA",
+          "environment_variable": "G4ABLADATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3"
+        },
+        {
+          "dataset_name": "G4INCL",
+          "environment_variable": "G4INCLDATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3"
+        },
+        {
+          "dataset_name": "G4ENSDFSTATE",
+          "environment_variable": "G4ENSDFSTATEDATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0",
+          "resolution_source": "environment",
+          "payload_check": "ENSDFSTATE.dat_present",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0",
+              "usable": true,
+              "reason": "ENSDFSTATE.dat_present"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0"
+        },
+        {
+          "dataset_name": "G4CHANNELING",
+          "environment_variable": "G4CHANNELINGDATA",
+          "expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0",
+          "resolved": true,
+          "resolved_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0",
+          "resolution_source": "environment",
+          "payload_check": "directory_has_payload",
+          "candidates_checked": [
+            {
+              "source": "environment",
+              "path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0",
+              "usable": true,
+              "reason": "directory_has_payload"
+            }
+          ],
+          "geant4_config_status": "INSTALLED",
+          "geant4_config_expected_path": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0"
+        }
+      ],
+      "missing_after": [],
+      "all_required_datasets_resolved": true,
+      "effective_dataset_environment": {
+        "G4NEUTRONHPDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1",
+        "G4LEDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8",
+        "G4LEVELGAMMADATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2",
+        "G4RADIOACTIVEDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2",
+        "G4PARTICLEXSDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2",
+        "G4PIIDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3",
+        "G4REALSURFACEDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2",
+        "G4SAIDXSDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0",
+        "G4ABLADATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3",
+        "G4INCLDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3",
+        "G4ENSDFSTATEDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0",
+        "G4CHANNELINGDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0"
+      }
+    },
+    "effective_dataset_environment": {
+      "G4NEUTRONHPDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4NDL4.7.1",
+      "G4PARTICLEXSDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PARTICLEXS4.2",
+      "G4LEDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4EMLOW8.8",
+      "G4LEVELGAMMADATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/PhotonEvaporation6.1.2",
+      "G4RADIOACTIVEDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RadioactiveDecay6.1.2",
+      "G4SAIDXSDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4SAIDDATA2.0",
+      "G4ENSDFSTATEDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ENSDFSTATE3.0",
+      "G4INCLDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4INCL1.3",
+      "G4ABLADATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4ABLA3.3",
+      "G4PIIDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4PII1.3",
+      "G4REALSURFACEDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/RealSurface2.2",
+      "G4CHANNELINGDATA": "/home/a/miniconda3/envs/neutron-g4-native/share/Geant4/data/G4CHANNELING2.0"
+    },
+    "selected_build_backend": "geant4-config-direct",
+    "runner_info": "IMPLEMENTATION_LANGUAGE=C++17\nREQUIRED_THREADS=16\nMULTITHREADED=1\nGEANT4_VERSION=$Name: geant4-11-04-patch-02 [MT]$",
+    "build_errors_before_success": []
+  },
+  "finished_utc": "2026-09-17T13:24:00.663300+00:00",
+  "geant4_version": "$Name: geant4-11-04-patch-02 [MT]$",
+  "actual_completed_run_manifest_present": true,
+  "execution_errors": [],
+  "photon_pdd_validation_runs_complete": 5,
+  "photon_pdd_diagnostic_complete": true,
+  "photon_pdd_validation_gate": false
+}

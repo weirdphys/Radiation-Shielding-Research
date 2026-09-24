@@ -1,0 +1,35 @@
+#ENTRY      S0017
+#AUTHOR1    Cai Dunjiu+
+#YEAR       1985
+#INSTITUTE  (3CPRAEP)
+#TITLE      Cross section measurements of Li-6(d,alpha)He-4,
+#+          Li-6(d,p)Li-7, and Li-7(d,alpha) reactions.
+#AUTHOR(S)  Cai Dunjiu, Zhou Enchen, Jiang Chenglie
+#REF-CODE   (W,JIANG,1985)
+#REFERENCE  Private communication  (1985)
+#DATASETS   0
+#
+#DATASET    S0017002 
+#DATE       20080311
+#REACTION   3-LI-6(D,A)2-HE-4,,SIG
+#PROJ       1002
+#TARG       3006
+#MF         3
+#MT         107
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  3006   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   3 107    500000.0 5000.000 0.038100 2.3000-3                                       Cai Dunjiu+          (85)S0017  2 
+ 1002  3006   3 107    800000.0 8000.000 0.036000 2.2000-3                                       Cai Dunjiu+          (85)S0017  2 
+ 1002  3006   3 107    1100000. 6000.000 0.028800 1.8000-3                                       Cai Dunjiu+          (85)S0017  2 
+ 1002  3006   3 107    1300000. 7000.000 0.024100 1.5000-3                                       Cai Dunjiu+          (85)S0017  2 
+ 1002  3006   3 107    1500000. 8000.000 0.021200 1.3000-3                                       Cai Dunjiu+          (85)S0017  2 
+ 1002  3006   3 107    1689000. 8000.000 0.019400 1.2000-3                                       Cai Dunjiu+          (85)S0017  2 
+ 1002  3006   3 107    2000000. 10000.00 0.017900 1.1000-3                                       Cai Dunjiu+          (85)S0017  2 
+ 1002  3006   3 107    2196000. 15000.00 0.017800 1.1000-3                                       Cai Dunjiu+          (85)S0017  2 
+ 1002  3006   3 107    2300000. 20000.00 0.017300 1.0000-3                                       Cai Dunjiu+          (85)S0017  2 
+ 1002  3006   3 107    2480000. 24000.00 0.017600 1.1000-3                                       Cai Dunjiu+          (85)S0017  2 
+#/DATA      10
+#/DATASET

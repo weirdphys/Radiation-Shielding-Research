@@ -1,0 +1,38 @@
+#ENTRY      M0674
+#AUTHOR1    A.G.Belov+
+#YEAR       1996
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Measurement of isomeric ratios in the reactions
+#+          (gamma,n) on barium isotopes in the
+#+          Giant-Dipole-Resonance region.
+#AUTHOR(S)  A.G.Belov, Yu.P.Gangrsy, A.P.Tonchev, N.P.Balabanov, H.G.Khristov
+#REF-CODE   (J,PAN,59,367,1996)
+#REFERENCE  Phys.At.Nucl. 59 (1996) 367
+#DATASETS   0
+#
+#DATASET    M0674004 
+#DATE       20250418
+#REACTION   56-BA-0(G,X)56-BA-133-M,,SIG,,BRS
+#PROJ       0
+#TARG       56000
+#MF         3
+#MT         454
+#PRODUCT    56-BA-133-M
+#C4BEGIN    [    0 56000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 56000   3 454    1.1600+7          8.8000-3 1.2800-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    1.2500+7          0.020550 1.6600-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    1.3500+7          0.036360 3.3200-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    1.4700+7          0.046960 4.6000-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    1.5700+7          0.051140 5.1100-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    1.6900+7          0.026940 2.5500-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    1.8000+7          0.012770 1.4000-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    1.9000+7          7.6600-3 1.1500-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    2.0000+7          4.9800-3 1.1500-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    2.1200+7          1.4100-3 1.4000-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    2.2250+7          1.4000-3 1.5000-3           56133.7                     A.G.Belov+           (96)M0674  4 
+    0 56000   3 454    2.3300+7          1.3900-3 1.4000-3           56133.7                     A.G.Belov+           (96)M0674  4 
+#/DATA      12
+#/DATASET

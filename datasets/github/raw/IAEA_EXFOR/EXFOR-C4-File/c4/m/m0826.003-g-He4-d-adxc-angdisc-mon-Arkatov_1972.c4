@@ -1,0 +1,34 @@
+#ENTRY      M0826
+#AUTHOR1    Yu.M.Arkatov+
+#YEAR       1972
+#INSTITUTE  (4UKRKFT)
+#TITLE      Photodisintegration of 4He into two deuterons.
+#AUTHOR(S)  Yu.M.Arkatov, P.I.Vatset, V.I.Voloshchuk, I.M.Prokhoretz, 
+#+          A.F.Khodyachikh, V.I.Chmil
+#REF-CODE   (J,YF,16,12,1972)
+#REFERENCE  Yad.Fiz. 16 (1972) 12
+#DATASETS   0
+#
+#DATASET    M0826003 
+#DATE       20110922
+#REACTION   2-HE-4(G,D)1-H-2,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         104
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2004   4 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 104  C 4.0000+7 1.0000+7 1.9300-7 1.9300-7 0.984808 0.030307                     Yu.M.Arkatov+        (72)M0826  3 
+    0  2004   4 104  C 4.0000+7 1.0000+7 4.0000-7 1.6400-7 0.866025 0.087266                     Yu.M.Arkatov+        (72)M0826  3 
+    0  2004   4 104  C 4.0000+7 1.0000+7 4.8300-7 1.9700-7 0.642788 0.133700                     Yu.M.Arkatov+        (72)M0826  3 
+    0  2004   4 104  C 4.0000+7 1.0000+7 5.1000-7 1.3600-7 0.342020 0.164007                     Yu.M.Arkatov+        (72)M0826  3 
+    0  2004   4 104  C 4.0000+7 1.0000+7 3.3800-7 1.0000-7 6.123-17 0.174533                     Yu.M.Arkatov+        (72)M0826  3 
+    0  2004   4 104  C 4.0000+7 1.0000+7 4.9800-7 1.3500-7-0.342020 0.164007                     Yu.M.Arkatov+        (72)M0826  3 
+    0  2004   4 104  C 4.0000+7 1.0000+7 4.7900-7 1.9700-7-0.642788 0.133700                     Yu.M.Arkatov+        (72)M0826  3 
+    0  2004   4 104  C 4.0000+7 1.0000+7 3.9900-7 1.6400-7-0.866025 0.087266                     Yu.M.Arkatov+        (72)M0826  3 
+    0  2004   4 104  C 4.0000+7 1.0000+7 1.9300-7 1.9300-7-0.984808 0.030307                     Yu.M.Arkatov+        (72)M0826  3 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,83 @@
+{
+  "benchmark_id": "P001_NIST_ORDINARY_CONCRETE",
+  "phase": 1,
+  "particle": "photon",
+  "source": {
+    "organization": "NIST",
+    "dataset": "X-Ray Mass Attenuation Coefficients",
+    "material_name": "Concrete, Ordinary"
+  },
+  "material": {
+    "density_g_cm3": 2.3,
+    "composition_basis": "mass_fraction",
+    "composition": [
+      {
+        "atomic_number": 1,
+        "element": "Hydrogen",
+        "mass_fraction": 0.0221
+      },
+      {
+        "atomic_number": 6,
+        "element": "Carbon",
+        "mass_fraction": 0.002484
+      },
+      {
+        "atomic_number": 8,
+        "element": "Oxygen",
+        "mass_fraction": 0.57493
+      },
+      {
+        "atomic_number": 11,
+        "element": "Sodium",
+        "mass_fraction": 0.015208
+      },
+      {
+        "atomic_number": 12,
+        "element": "Magnesium",
+        "mass_fraction": 0.001266
+      },
+      {
+        "atomic_number": 13,
+        "element": "Aluminum",
+        "mass_fraction": 0.019953
+      },
+      {
+        "atomic_number": 14,
+        "element": "Silicon",
+        "mass_fraction": 0.304627
+      },
+      {
+        "atomic_number": 19,
+        "element": "Potassium",
+        "mass_fraction": 0.010045
+      },
+      {
+        "atomic_number": 20,
+        "element": "Calcium",
+        "mass_fraction": 0.042951
+      },
+      {
+        "atomic_number": 26,
+        "element": "Iron",
+        "mass_fraction": 0.006435
+      }
+    ],
+    "mean_Z_over_A": 0.50932,
+    "mean_excitation_energy_eV": 124.5
+  },
+  "observables": [
+    "mu_over_rho_cm2_g",
+    "mu_en_over_rho_cm2_g",
+    "mu_cm_inv",
+    "mu_en_cm_inv"
+  ],
+  "energy_range_MeV": [
+    0.001,
+    20.0
+  ],
+  "working_files": [
+    "nist_ordinary_concrete_attenuation.csv",
+    "nist_ordinary_concrete_composition.csv"
+  ],
+  "audit_passed": true
+}

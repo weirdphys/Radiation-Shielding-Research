@@ -1,0 +1,55 @@
+#ENTRY      S0002
+#AUTHOR1    Liang Qichang+
+#YEAR       1977
+#INSTITUTE  (3CPRAEP)
+#TITLE      Cross sections for 6Li, 7Li and 16O(d,n) reactions
+#+          with incident energies 3.70 and 5.03 MeV
+#AUTHOR(S)  Liang Qichang, Wu Zongxi, Zeng Naigong, Shi Zongren
+#REF-CODE   (J,CST,11,10,1977)
+#REFERENCE  At.En.Sci.Technol. 11 (1977) 10
+#DATASETS   0
+#
+#DATASET    S0002005 
+#DATE       20200409
+#REACTION   3-LI-6(D,X)0-NN-1,,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1002  3006   4 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 201    3700000.          0.067500 9.5000-3 0.980000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    3700000.          0.055800 5.3000-3 0.860000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    3700000.          0.036600 3.2000-3 0.640000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    3700000.          0.024300 2.3000-3 0.330000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    3700000.          0.027200 1.6000-3 6.123-17                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    3700000.          0.026200 2.4000-3-0.350000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    3700000.          0.022000 2.6000-3-0.660000                              Liang Qichang+       (77)S0002  5 
+#/DATA      7
+#/DATASET
+#
+#DATASET    S0002005 
+#DATE       20200409
+#REACTION   3-LI-6(D,X)0-NN-1,,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1002  3006   4 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 201    5030000.          0.092200 9.4000-3 0.900000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    5030000.          0.053500 4.7000-3 0.730000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    5030000.          0.045800 4.1000-3 0.640000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    5030000.          0.040000 3.4000-3 0.350000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    5030000.          0.024600 2.5000-3 0.010000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    5030000.          0.027400 2.5000-3-0.340000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    5030000.          0.028800 2.0000-3-0.630000                              Liang Qichang+       (77)S0002  5 
+ 1002  3006   4 201    5030000.          0.027200 2.3000-3-0.710000                              Liang Qichang+       (77)S0002  5 
+#/DATA      8
+#/DATASET

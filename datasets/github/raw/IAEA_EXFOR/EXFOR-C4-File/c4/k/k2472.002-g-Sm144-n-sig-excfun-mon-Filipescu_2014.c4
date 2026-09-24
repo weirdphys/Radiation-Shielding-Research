@@ -1,0 +1,34 @@
+#ENTRY      K2472
+#AUTHOR1    D.M.Filipescu+
+#YEAR       2014
+#INSTITUTE  (3RUMBUC)
+#TITLE      Photoneutron cross sections for samarium isotopes:
+#+          Toward a unified understanding of (gamma,n) and
+#+          (n,gamma) reactions in the rare earth region
+#AUTHOR(S)  D.M.Filipescu, I.Gheorghe, H.Utsunomiya, S.Goriely, T.Renstrom, 
+#+          H.-T.Nyhus, O.Tesileanu, T.Glodariu, T.Shima, K.Takahisa, 
+#+          S.Miyamoto, Y.-W.Lu, S.Hilaire, S.Peru, M.Martini, A.J.Koning
+#REF-CODE   (J,PR/C,90,064616,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 064616 (doi:10.1103/PhysRevC.90.064616)
+#DATASETS   0
+#
+#DATASET    K2472002 
+#DATE       20150624
+#REACTION   62-SM-144(G,N)62-SM-143,,SIG
+#PROJ       0
+#TARG       62144
+#MF         3
+#MT         4
+#PRODUCT    62-SM-143
+#C4BEGIN    [    0 62144   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 62144   3   4 A  1.0660+7          0.021420 1.4200-3                                       D.M.Filipescu+       (14)K2472  2 
+    0 62144   3   4 A  1.1040+7          0.037750 2.0800-3                                       D.M.Filipescu+       (14)K2472  2 
+    0 62144   3   4 A  1.1260+7          0.042730 2.4500-3                                       D.M.Filipescu+       (14)K2472  2 
+    0 62144   3   4 A  1.1720+7          0.055920 2.7200-3                                       D.M.Filipescu+       (14)K2472  2 
+    0 62144   3   4 A  1.2170+7          0.069430 3.7600-3                                       D.M.Filipescu+       (14)K2472  2 
+    0 62144   3   4 A  1.2660+7          0.095720 4.4100-3                                       D.M.Filipescu+       (14)K2472  2 
+#/DATA      6
+#/DATASET

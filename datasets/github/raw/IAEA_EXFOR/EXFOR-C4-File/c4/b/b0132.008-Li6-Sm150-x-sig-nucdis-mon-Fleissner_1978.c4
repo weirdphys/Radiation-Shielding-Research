@@ -1,0 +1,69 @@
+#ENTRY      B0132
+#AUTHOR1    J.G.Fleissner+
+#YEAR       1978
+#INSTITUTE  (1USANOT)
+#TITLE      Investigation of 54- to 99-MeV 6Li induced reactions
+#+          on rare earth targets
+#AUTHOR(S)  J.G.Fleissner, D.A.Rakel, F.P.Venezia, E.G.Funk, J.W.Mihelich, 
+#+          H.A.Smith Jr
+#REF-CODE   (J,PR/C,17,1001,1978)
+#REFERENCE  Phys.Rev.C 17 (1978) 1001 (doi:10.1103/PhysRevC.17.1001)
+#DATASETS   0
+#
+#DATASET    B0132008 
+#DATE       20011220
+#REACTION   62-SM-150(3-LI-6,X)ELEM/MASS,,SIG,,,EXP
+#PROJ       3006
+#TARG       62150
+#MF         3
+#MT         454
+#C4BEGIN    [ 3006 62150   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 62150   3 454    5.4000+7          0.032000                    63151.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    5.4000+7          0.042000                    63150.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    5.4000+7          0.108000                    63149.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    5.4000+7          0.031000                    63148.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    5.4000+7          0.014000                    63147.9                     J.G.Fleissner+       (78)B0132  8 
+#/DATA      5
+#/DATASET
+#
+#DATASET    B0132008 
+#DATE       20011220
+#REACTION   62-SM-150(3-LI-6,X)ELEM/MASS,,SIG,,,EXP
+#PROJ       3006
+#TARG       62150
+#MF         3
+#MT         454
+#C4BEGIN    [ 3006 62150   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 62150   3 454    6.6000+7          0.036000                    63151.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    6.6000+7          0.041000                    63150.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    6.6000+7          0.102000                    63149.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    6.6000+7          0.091000                    63148.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    6.6000+7          0.068000                    63147.9                     J.G.Fleissner+       (78)B0132  8 
+#/DATA      5
+#/DATASET
+#
+#DATASET    B0132008 
+#DATE       20011220
+#REACTION   62-SM-150(3-LI-6,X)ELEM/MASS,,SIG,,,EXP
+#PROJ       3006
+#TARG       62150
+#MF         3
+#MT         454
+#C4BEGIN    [ 3006 62150   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 62150   3 454    7.7000+7          0.024000                    63151.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    7.7000+7          0.034000                    63150.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    7.7000+7          0.088000                    63149.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    7.7000+7          0.090000                    63148.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    7.7000+7          0.058000                    63147.9                     J.G.Fleissner+       (78)B0132  8 
+ 3006 62150   3 454    7.7000+7          0.042000                    63146.9                     J.G.Fleissner+       (78)B0132  8 
+#/DATA      6
+#/DATASET

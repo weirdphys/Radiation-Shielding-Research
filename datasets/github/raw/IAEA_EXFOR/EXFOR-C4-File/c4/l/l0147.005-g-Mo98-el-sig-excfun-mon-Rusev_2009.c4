@@ -1,0 +1,50 @@
+#ENTRY      L0147
+#AUTHOR1    G.Rusev+
+#YEAR       2009
+#INSTITUTE  (2GERZFK)
+#TITLE      Enhanced electric dipole strength below
+#+          particle-threshold as a consequence of nuclear
+#+          deformation
+#AUTHOR(S)  G.Rusev, R.Schwengner, R.Beyer, M.Erhard, E.Grosse, A.R.Junghans, 
+#+          K.Kosev, C.Nair, K.D.Schilling, A.Wagner, F.Donau, S.Frauendorf
+#REF-CODE   (J,PR/C,79,061302,2009)
+#REFERENCE  Phys.Rev.C 79 (2009) 061302 (doi:10.1103/PhysRevC.79.061302)
+#DATASETS   0
+#
+#DATASET    L0147005 
+#DATE       20101103
+#REACTION   42-MO-98(G,EL)42-MO-98,,SIG
+#PROJ       0
+#TARG       42098
+#MF         3
+#MT         2
+#PRODUCT    42-MO-98
+#C4BEGIN    [    0 42098   3   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 42098   3   2 C  4100000.          7.0000-4 6.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  4300000.          2.0000-3 9.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  4500000.          1.8000-3 4.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  4700000.          1.0000-3 2.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  4900000.          1.9000-3 3.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  5100000.          2.2000-3 3.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  5300000.          2.3000-3 3.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  5500000.          3.1000-3 4.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  5700000.          4.5000-3 5.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  5900000.          4.1000-3 4.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  6100000.          4.9000-3 5.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  6300000.          5.0000-3 5.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  6500000.          6.7000-3 6.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  6700000.          5.6000-3 6.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  6900000.          5.5000-3 6.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  7100000.          6.8000-3 6.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  7300000.          6.2000-3 6.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  7500000.          6.2000-3 6.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  7700000.          7.5000-3 7.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  7900000.          6.3000-3 6.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  8100000.          7.2000-3 6.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  8300000.          7.4000-3 6.0000-4                                       G.Rusev+             (09)L0147  5 
+    0 42098   3   2 C  8500000.          7.9000-3 6.0000-4                                       G.Rusev+             (09)L0147  5 
+#/DATA      23
+#/DATASET

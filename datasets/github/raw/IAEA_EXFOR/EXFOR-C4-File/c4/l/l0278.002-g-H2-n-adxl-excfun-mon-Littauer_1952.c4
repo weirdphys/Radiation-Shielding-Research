@@ -1,0 +1,25 @@
+#ENTRY      L0278
+#AUTHOR1    R.Littauer+
+#YEAR       1952
+#INSTITUTE  (1USACOR)
+#TITLE      Photodisintegration of Deuterium at 180-260 Mev*
+#AUTHOR(S)  R.Littauer, J.Keck
+#REF-CODE   (J,PR,87,195(H2),1952)
+#REFERENCE  Phys.Rev. 87 (1952) 195(H2)
+#DATASETS   0
+#
+#DATASET    L0278002 
+#DATE       20220314
+#REACTION   1-H-2(G,N)1-H-1,,DA
+#PROJ       0
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   4   4    2.2000+8 4.0000+7 4.0000-6          6.123-17                              R.Littauer+          (52)L0278  2 
+#/DATA      1
+#/DATASET

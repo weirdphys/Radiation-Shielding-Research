@@ -1,0 +1,21 @@
+{
+  "files": [
+    "README.md",
+    "neutron/jaeri_tiara_bc501a_transmission_spectra.csv",
+    "neutron/jaeri_tiara_concrete.npz",
+    "neutron/jaeri_tiara_concrete_composition.csv",
+    "neutron/jaeri_tiara_dose_equivalent.csv",
+    "neutron/jaeri_tiara_experiment_setup.csv",
+    "neutron/jaeri_tiara_source_spectra.csv",
+    "neutron/metadata.json",
+    "photon/metadata.json",
+    "photon/nist_ordinary_concrete.npz",
+    "photon/nist_ordinary_concrete_attenuation.csv",
+    "photon/nist_ordinary_concrete_composition.csv",
+    "radiation_benchmarks_core.npz"
+  ],
+  "photon_rows": 53,
+  "neutron_source_rows": 107,
+  "neutron_transmission_rows": 765,
+  "neutron_dose_rows": 11
+}

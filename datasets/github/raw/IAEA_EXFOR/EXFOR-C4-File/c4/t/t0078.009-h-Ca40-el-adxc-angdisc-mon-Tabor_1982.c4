@@ -1,0 +1,38 @@
+#ENTRY      T0078
+#AUTHOR1    S.L.Tabor+
+#YEAR       1982
+#INSTITUTE  (1USAFSU)
+#TITLE      Survey of the (3He,t) reaction: Excitation of the
+#+          isobaric analog of the giant dipole resonance
+#AUTHOR(S)  S.L.Tabor, C.C.Chang, M.T.Collins, G.J.Wagner, J.R.Wu, D.W.Halderson, 
+#+          F.Petrovich
+#REF-CODE   (J,PR/C,25,1253,198203)
+#REFERENCE  Phys.Rev.C 25 (1982) 1253 (doi:10.1103/PhysRevC.25.1253)
+#DATASETS   0
+#
+#DATASET    T0078009 
+#DATE       20120318
+#REACTION   20-CA-40(HE3,EL)20-CA-40,,DA,,RTH
+#PROJ       2003
+#TARG       20040
+#MF         4
+#MT         2
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 2003 20040   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 20040   4   2 AC 1.3000+8          1.025854 0.307756 0.982287                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          0.625265 0.187580 0.973976                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          0.047309 0.014193 0.965016                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          0.105952 0.031786 0.954761                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          0.151322 0.045397 0.942057                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          0.065727 0.019718 0.929776                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          0.032195 9.6584-3 0.914254                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          0.043617 0.013085 0.898028                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          0.038159 0.011448 0.882127                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          0.020811 6.2432-3 0.862514                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          0.011899 3.5698-3 0.844328                              S.L.Tabor+           (82)T0078  9 
+ 2003 20040   4   2 AC 1.3000+8          9.2367-3 2.7710-3 0.823136                              S.L.Tabor+           (82)T0078  9 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,76 @@
+#ENTRY      M0571
+#AUTHOR1    R.Nolte+
+#YEAR       1989
+#INSTITUTE  (2GERGOE)
+#TITLE      Nuclear-structure dependence of the E1 strength
+#+          located in the giant dipole resonance of heavy
+#+          nuclei.
+#AUTHOR(S)  R.Nolte, F.Schroder, A.Baumann, K.W.Rose, K.Fuhrberg, M.Schumacher, 
+#+          P.Fettweis, R.Carchon
+#REF-CODE   (J,PR/C,40,1175,1989)
+#REFERENCE  Phys.Rev.C 40 (1989) 1175 (doi:10.1103/PhysRevC.40.1175)
+#DATASETS   0
+#
+#DATASET    M0571003 
+#DATE       20110119
+#REACTION   81-TL-0(G,EL)81-TL-0,,DA
+#PROJ       0
+#TARG       81000
+#MF         4
+#MT         2
+#PRODUCT    81-TL-0
+#C4BEGIN    [    0 81000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 81000   4   2    8533000.          5.0000-6 3.0000-6-0.719340                              R.Nolte+             (89)M0571  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0571003 
+#DATE       20110119
+#REACTION   81-TL-0(G,EL)81-TL-0,,DA
+#PROJ       0
+#TARG       81000
+#MF         4
+#MT         2
+#PRODUCT    81-TL-0
+#C4BEGIN    [    0 81000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 81000   4   2    8999000.          1.4500-5 2.5000-6-0.719340                              R.Nolte+             (89)M0571  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0571003 
+#DATE       20110119
+#REACTION   81-TL-0(G,EL)81-TL-0,,DA
+#PROJ       0
+#TARG       81000
+#MF         4
+#MT         2
+#PRODUCT    81-TL-0
+#C4BEGIN    [    0 81000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 81000   4   2    1.1388+7          2.0000-4 2.8000-5-0.719340                              R.Nolte+             (89)M0571  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0571003 
+#DATE       20110119
+#REACTION   81-TL-0(G,EL)81-TL-0,,DA
+#PROJ       0
+#TARG       81000
+#MF         4
+#MT         2
+#PRODUCT    81-TL-0
+#C4BEGIN    [    0 81000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 81000   4   2    1.7640+7          4.3300-4 2.8000-5-0.694658                              R.Nolte+             (89)M0571  3 
+#/DATA      1
+#/DATASET

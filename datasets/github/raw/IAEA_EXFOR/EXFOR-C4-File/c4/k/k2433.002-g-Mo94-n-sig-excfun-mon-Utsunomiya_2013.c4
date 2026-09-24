@@ -1,0 +1,36 @@
+#ENTRY      K2433
+#AUTHOR1    H.Utsunomiya+
+#YEAR       2013
+#INSTITUTE  (2JPNKON)
+#TITLE      Photoneutron cross sections for Mo isotopes: A step
+#+          towards a unified understanding of (gamma,n) and
+#+          (n,gamma) reactions
+#AUTHOR(S)  H.Utsunomiya, S.Goriely, T.Kondo, C.Iwamoto, H.Akimune, 
+#+          T.Yamagata, H.Toyokawa, H.Harada, F.Kitatani, Y.W.Lui, A.C.Larsen, 
+#+          M.Guttormsen, P.E.Koehler, S.Hilaire, S.Peru, M.Martini, 
+#+          A.J.Koning
+#REF-CODE   (J,PR/C,88,015805,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 015805 (doi:10.1103/PhysRevC.88.015805)
+#DATASETS   0
+#
+#DATASET    K2433002 
+#DATE       20140124
+#REACTION   42-MO-94(G,N)42-MO-93,,SIG
+#PROJ       0
+#TARG       42094
+#MF         3
+#MT         4
+#PRODUCT    42-MO-93
+#C4BEGIN    [    0 42094   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 42094   3   4    9900000.          0.011480 1.2600-3                                       H.Utsunomiya+        (13)K2433  2 
+    0 42094   3   4    1.0220+7          9.5700-3 1.0200-3                                       H.Utsunomiya+        (13)K2433  2 
+    0 42094   3   4    1.0400+7          0.014870 1.0600-3                                       H.Utsunomiya+        (13)K2433  2 
+    0 42094   3   4    1.0720+7          0.015910 7.4000-4                                       H.Utsunomiya+        (13)K2433  2 
+    0 42094   3   4    1.1040+7          0.017450 1.1500-3                                       H.Utsunomiya+        (13)K2433  2 
+    0 42094   3   4    1.1460+7          0.029710 1.0100-3                                       H.Utsunomiya+        (13)K2433  2 
+    0 42094   3   4    1.1780+7          0.028280 1.1900-3                                       H.Utsunomiya+        (13)K2433  2 
+#/DATA      7
+#/DATASET

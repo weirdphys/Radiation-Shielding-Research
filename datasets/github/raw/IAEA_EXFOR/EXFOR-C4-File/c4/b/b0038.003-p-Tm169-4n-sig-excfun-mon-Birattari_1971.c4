@@ -1,0 +1,34 @@
+#ENTRY      B0038
+#AUTHOR1    C.Birattari+
+#YEAR       1971
+#INSTITUTE  (2ITYMIL)
+#TITLE      (p,xn) reactions induced in Tm-169, Ta-181 and Bi-209
+#+          with 20 to 45 MeV protons
+#AUTHOR(S)  C.Birattari, E.Gadioli, A.M.Grassi Strini, G.Strini, G.Tagliaferri, 
+#+          L.Zetta
+#REF-CODE   (J,NP/A,166,605,1971)
+#REFERENCE  Nucl.Phys.A 166 (1971) 605 (doi:10.1016/0375-9474(71)90909-2)
+#DATASETS   0
+#
+#DATASET    B0038003 
+#DATE       20011220
+#REACTION   69-TM-169(P,4N)70-YB-166,,SIG,,,EXP
+#PROJ       1001
+#TARG       69169
+#MF         3
+#MT         37
+#PRODUCT    70-YB-166
+#C4BEGIN    [ 1001 69169   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 69169   3  37    3.0600+7          0.046300 8.5000-3                                       C.Birattari+         (71)B0038  3 
+ 1001 69169   3  37    3.2600+7          0.214000 0.021000                                       C.Birattari+         (71)B0038  3 
+ 1001 69169   3  37    3.4400+7          0.428000 0.041000                                       C.Birattari+         (71)B0038  3 
+ 1001 69169   3  37    3.6400+7          0.462000 0.043000                                       C.Birattari+         (71)B0038  3 
+ 1001 69169   3  37    3.8300+7          0.589000 0.059000                                       C.Birattari+         (71)B0038  3 
+ 1001 69169   3  37    4.0400+7          0.589000 0.059000                                       C.Birattari+         (71)B0038  3 
+ 1001 69169   3  37    4.2100+7          0.418000 0.039000                                       C.Birattari+         (71)B0038  3 
+ 1001 69169   3  37    4.4300+7          0.392000 0.040000                                       C.Birattari+         (71)B0038  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,17 @@
+{
+  "status": "RECOVERED_COMPLETED_TRANSPORT_WITHOUT_RERUN",
+  "run_id": "PROJECT_16MV_40x40__ROUTE_C_PAIRED",
+  "official_pdd": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/mc_results/PROJECT_16MV_40x40__ROUTE_C_PDD.csv",
+  "official_profile": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/mc_results/PROJECT_16MV_40x40__ROUTE_C_PROFILE_10cm.csv",
+  "provenance": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/source_models/validation/route_c_paired_transport_v1/provenance/PROJECT_16MV_40x40__ROUTE_C_PAIRED.json",
+  "reference_duplicate_rows_collapsed": 3,
+  "acceptance_thresholds_changed": false,
+  "production_spectrum_changed": false,
+  "smoothing": false,
+  "symmetrization": false,
+  "translation": false,
+  "pdd_sha256": "727ce6e85c94712c159f1d5b587cd5bd10af0f410c733f27e7a16c28bf3cc1fb",
+  "profile_sha256": "da0dc10358a8a882e370a467bb211dc36cc49ee10c40cc20cd58b4770378a842",
+  "provenance_sha256": "00434b5ce63e3d04647e43b747d54f098611dca01d930bc5b6407c6c012063bf",
+  "recovery_hotfix": "v1.1_profile_reference_resolved_from_frozen_holdout_registry"
+}

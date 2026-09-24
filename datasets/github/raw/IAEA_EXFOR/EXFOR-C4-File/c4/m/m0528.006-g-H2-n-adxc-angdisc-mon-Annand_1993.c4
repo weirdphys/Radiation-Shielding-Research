@@ -1,0 +1,30 @@
+#ENTRY      M0528
+#AUTHOR1    J.R.M.Annand+
+#YEAR       1993
+#INSTITUTE  (2UK GLS)
+#TITLE      High resolution mesurements of C-12(gamma,n) and the
+#+          inplications   for   the  (gamma,nucleon)  reaction
+#+          mechanism at intermediate energy.
+#AUTHOR(S)  J.R.M.Annand, G.I.Crawford, P.D.Harty, J.C.Mc.upper()eorge, 
+#+          G.J.Miller, B.-E.Andersson, J.-O.Adler, S.A.Bulychjev, L.Isaksson, 
+#+          H.Ruijter, B.Schroder
+#REF-CODE   (J,PRL,71,2703,1993)
+#REFERENCE  Phys.Rev.Lett. 71 (1993) 2703 (doi:10.1103/PhysRevLett.71.2703)
+#DATASETS   0
+#
+#DATASET    M0528006 
+#DATE       20160209
+#REACTION   1-H-2(G,N)1-H-1,,DA
+#PROJ       0
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   4   4  C 5.8000+7 300000.0 8.0000-6 1.5000-6 0.829038                              J.R.M.Annand+        (93)M0528  6 
+    0  1002   4   4  C 5.8000+7 300000.0 1.0400-5 2.3000-6 0.052336                              J.R.M.Annand+        (93)M0528  6 
+#/DATA      2
+#/DATASET

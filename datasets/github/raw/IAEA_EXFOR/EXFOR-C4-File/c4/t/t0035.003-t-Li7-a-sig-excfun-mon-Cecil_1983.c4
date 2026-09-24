@@ -1,0 +1,28 @@
+#ENTRY      T0035
+#AUTHOR1    F.E.Cecil+
+#YEAR       1983
+#INSTITUTE  (1USACSM)
+#TITLE      Low-energy 7Li(t,alpha)6He cross sections
+#AUTHOR(S)  F.E.Cecil, R.F.Fahlsing, N.Jarmie, R.A.Hardekopf, R.Martinez
+#REF-CODE   (J,PR/C,27,6,198301)
+#REFERENCE  Phys.Rev.C 27 (1983) 6 (doi:10.1103/PhysRevC.27.6)
+#DATASETS   0
+#
+#DATASET    T0035003 
+#DATE       19990603
+#REACTION   3-LI-7(T,A)2-HE-6,PAR,SIG
+#PROJ       1003
+#TARG       3007
+#MF         3
+#MT         800
+#PRODUCT    2-HE-6
+#C4BEGIN    [ 1003  3007   3 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  3007   3 800 D  5.5164+7 25.14727 1.0000-7                            1810000.         LVLF.E.Cecil+           (83)T0035  3 
+ 1003  3007   3 800 D  8.1320+7 25.21689 3.6400-6                            1810000.         LVLF.E.Cecil+           (83)T0035  3 
+ 1003  3007   3 800 D  9.5425+7 25.25438 1.3100-5                            1810000.         LVLF.E.Cecil+           (83)T0035  3 
+ 1003  3007   3 800 D  1.0551+8 25.28116 2.1000-5                            1810000.         LVLF.E.Cecil+           (83)T0035  3 
+#/DATA      4
+#/DATASET

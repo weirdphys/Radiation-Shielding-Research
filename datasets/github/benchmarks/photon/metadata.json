@@ -1,0 +1,21 @@
+{
+  "benchmark_id": "P001_NIST_ORDINARY_CONCRETE",
+  "material": "Concrete, Ordinary",
+  "density_g_cm3": 2.3,
+  "mean_Z_over_A": 0.50932,
+  "mean_excitation_energy_eV": 124.5,
+  "source": "NIST X-Ray Mass Attenuation Coefficients / material composition tables",
+  "source_url_attenuation": "https://physics.nist.gov/PhysRefData/XrayMassCoef/ComTab/concrete.html",
+  "source_url_composition": "https://physics.nist.gov/PhysRefData/XrayMassCoef/tab2.html",
+  "columns": {
+    "mu_over_rho_cm2_g": "Published mass attenuation coefficient",
+    "mu_en_over_rho_cm2_g": "Published mass energy-absorption coefficient",
+    "mu_cm_inv": "Derived linear attenuation coefficient = (mu/rho)*2.300 g/cm^3",
+    "mu_en_cm_inv": "Derived linear energy-absorption coefficient = (mu_en/rho)*2.300 g/cm^3"
+  },
+  "notes": [
+    "Duplicate energies at absorption edges are intentionally preserved.",
+    "edge_label identifies the post-edge row where NIST labels a K edge.",
+    "The linear coefficients are derived columns; the mass coefficients are the published reference values."
+  ]
+}

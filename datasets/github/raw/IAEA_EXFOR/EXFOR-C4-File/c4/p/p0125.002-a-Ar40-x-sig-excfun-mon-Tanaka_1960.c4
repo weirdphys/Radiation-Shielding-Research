@@ -1,0 +1,31 @@
+#ENTRY      P0125
+#AUTHOR1    S.Tanaka+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Reactions of Argon-40 with Alpha-Particles
+#AUTHOR(S)  S.Tanaka, M.Furukawa, T.Mikumo, S.Iwata, M.Yagi, H.Amano
+#REF-CODE   (J,JPJ,15,952,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 952 (doi:10.1143/JPSJ.15.952)
+#DATASETS   0
+#
+#DATASET    P0125002 
+#DATE       20241025
+#REACTION   18-AR-40(A,X)19-K-42,,SIG
+#PROJ       2004
+#TARG       18040
+#MF         3
+#MT         454
+#PRODUCT    19-K-42
+#C4BEGIN    [ 2004 18040   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 18040   3 454    1.8600+7 575000.0 8.0900-3 9.6400-4           19042.9                     S.Tanaka+            (60)P0125  2 
+ 2004 18040   3 454    2.2400+7 400000.0 0.059700                    19042.9                     S.Tanaka+            (60)P0125  2 
+ 2004 18040   3 454    2.6300+7 550000.0 0.134000                    19042.9                     S.Tanaka+            (60)P0125  2 
+ 2004 18040   3 454    2.8800+7 500000.0 0.179000 0.020200           19042.9                     S.Tanaka+            (60)P0125  2 
+ 2004 18040   3 454    3.1600+7 400000.0 0.164000                    19042.9                     S.Tanaka+            (60)P0125  2 
+ 2004 18040   3 454    3.4300+7 375000.0 0.160000                    19042.9                     S.Tanaka+            (60)P0125  2 
+ 2004 18040   3 454    3.6800+7 400000.0 0.120000 0.013300           19042.9                     S.Tanaka+            (60)P0125  2 
+#/DATA      7
+#/DATASET

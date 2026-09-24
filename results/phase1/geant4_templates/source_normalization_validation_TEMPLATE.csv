@@ -1,0 +1,5 @@
+source_normalization_id,source_proton_MeV,additional_iron_collimator_cm,run_id,mc_incident_peak_fluence_n_cm2_per_uC,mc_sigma_incident_peak_fluence_n_cm2_per_uC
+JAERI_43MEV_PEAK_3.15E9_N_SR_UC,43,0,,,
+JAERI_43MEV_PEAK_3.45E9_N_SR_UC,43,40,,,
+JAERI_68MEV_PEAK_4.00E9_N_SR_UC,68,0,,,
+JAERI_68MEV_PEAK_4.77E9_N_SR_UC,68,80,,,

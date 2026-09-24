@@ -1,0 +1,40 @@
+#ENTRY      B0002
+#AUTHOR1    H.E.Kurz+
+#YEAR       1971
+#INSTITUTE  (2GERBON)
+#TITLE      Measurement and equilibrium statistical-model
+#+          calculation of excitation functions of the
+#+          197Au(a,xn) reactions in the energy range from 16 to
+#+          103 MeV
+#AUTHOR(S)  H.E.Kurz, E.W.Jasper, K.Fischer, F.Hermes
+#REF-CODE   (J,NP/A,168,129,1971)
+#REFERENCE  Nucl.Phys.A 168 (1971) 129 (doi:10.1016/0375-9474(71)90654-3)
+#DATASETS   0
+#
+#DATASET    B0002007S
+#DATE       20220930
+#REACTION   79-AU-197(A,5N)81-TL-196,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         152
+#PRODUCT    81-TL-196
+#C4BEGIN    [ 2004 79197   3 152  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3 152    4.8200+7 1000000. 0.050000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    5.0700+7 1000000. 0.261000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    5.3000+7 1000000. 0.540000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    5.5200+7 1000000. 0.852000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    5.7600+7 1000000. 1.076000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    5.9800+7 1000000. 1.137000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    6.2000+7 1000000. 0.981000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    6.4000+7 1000000. 0.862000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    6.6000+7 1000000. 0.694000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    6.8000+7 1000000. 0.536000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    7.0000+7 1000000. 0.442000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    7.9300+7 1000000. 0.226000                                                H.E.Kurz+            (71)B0002  7S
+ 2004 79197   3 152    8.6100+7 1000000. 0.161000                                                H.E.Kurz+            (71)B0002  7S
+#/DATA      13
+#/DATASET

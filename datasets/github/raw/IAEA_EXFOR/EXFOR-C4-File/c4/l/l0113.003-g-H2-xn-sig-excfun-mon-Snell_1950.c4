@@ -1,0 +1,28 @@
+#ENTRY      L0113
+#AUTHOR1    A.H.Snell+
+#YEAR       1950
+#INSTITUTE  (1USAORL)
+#TITLE      Photo-Disintegration Cross Sections of Deuterium and
+#+          Beryllium for the Gamma-Rays of Sodium 24 and
+#+          Gallium 72
+#AUTHOR(S)  A.H.Snell, E.C.Barker, R.L.Sternberg
+#REF-CODE   (J,PR,80,637,1950)
+#REFERENCE  Phys.Rev. 80 (1950) 637 (doi:10.1103/PhysRev.80.637)
+#DATASETS   0
+#
+#DATASET    L0113003 
+#DATE       20060406
+#REACTION   1-H-2(G,X)0-NN-1,,SIG
+#PROJ       0
+#TARG       1002
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0  1002   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   3 201    2760000.          2.8100-4 4.0000-6                                       A.H.Snell+           (50)L0113  3 
+    0  1002   3 201    2500000.          2.1600-4 3.0000-6                                       A.H.Snell+           (50)L0113  3 
+#/DATA      2
+#/DATASET

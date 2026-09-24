@@ -1,0 +1,7 @@
+sample_id,points,same_grid,max_abs_energy_difference_eV
+1,9024,True,0.0
+2,9064,False,
+3M,9060,False,
+4M,9096,False,
+5I,9122,False,
+6I,9080,False,

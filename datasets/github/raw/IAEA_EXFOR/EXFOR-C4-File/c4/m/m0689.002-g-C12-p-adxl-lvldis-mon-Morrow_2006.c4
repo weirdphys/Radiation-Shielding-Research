@@ -1,0 +1,31 @@
+#ENTRY      M0689
+#AUTHOR1    S.A.Morrow+
+#YEAR       2006
+#INSTITUTE  (2UK EDG)
+#TITLE      High-resolution study  of  the 12C(g,pg')11B reaction
+#+          using a HpGe detector to resolve excited  states  of
+#+          11B  through  the  observation  of  their  gamma-ray
+#+          decays.
+#AUTHOR(S)  S.A.Morrow, D.Branford, K.Fohl, J.C.Mc.upper()eorge, J.-O.Adler, 
+#+          K.Hansen, L.Isakson, M.Lundin, I.J.D.Macgregor, B.Schroder
+#REF-CODE   (J,PR/C,73,044611,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 044611 (doi:10.1103/PhysRevC.73.044611)
+#DATASETS   0
+#
+#DATASET    M0689002 
+#DATE       20060505
+#REACTION   6-C-12(G,P)5-B-11,PAR,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 600    5.9900+7 1.0400+7 5.6100-6 1.1800-6 0.342020          6740000.         LVLS.A.Morrow+          (06)M0689  2 
+    0  6012   4 600    5.9900+7 1.0400+7 1.1200-6 7.5000-7 0.342020          6790000.         LVLS.A.Morrow+          (06)M0689  2 
+    0  6012   4 600    5.9900+7 1.0400+7 7.8000-7 7.8000-7 0.342020          7290000.         LVLS.A.Morrow+          (06)M0689  2 
+#/DATA      3
+#/DATASET

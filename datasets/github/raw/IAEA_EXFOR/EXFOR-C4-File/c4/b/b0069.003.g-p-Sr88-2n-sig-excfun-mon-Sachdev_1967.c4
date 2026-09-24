@@ -1,0 +1,32 @@
+#ENTRY      B0069
+#AUTHOR1    D.R.Sachdev+
+#YEAR       1967
+#INSTITUTE  (1CANMCG)
+#TITLE      Reactions of 88Sr with protons of energies 7-85 MeV
+#AUTHOR(S)  D.R.Sachdev, N.T.Porile, L.Yaffe
+#REF-CODE   (J,CJC,45,1149,1967)
+#REFERENCE  Can.J.Chem. 45 (1967) 1149 (doi:10.1139/v67-193)
+#DATASETS   0
+#
+#DATASET    B0069003G
+#DATE       20160824
+#REACTION   38-SR-88(P,2N)39-Y-87-G,M-,SIG
+#PROJ       1001
+#TARG       38088
+#MF         3
+#MT         16
+#PRODUCT    39-Y-87-G
+#C4BEGIN    [ 1001 38088   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38088   3  16G   1.5000+7          0.130000 0.014300                                       D.R.Sachdev+         (67)B0069  3G
+ 1001 38088   3  16G   1.8000+7          0.250000 0.027500                                       D.R.Sachdev+         (67)B0069  3G
+ 1001 38088   3  16G   2.1000+7          0.270000 0.029700                                       D.R.Sachdev+         (67)B0069  3G
+ 1001 38088   3  16G   2.4000+7          0.510000 0.056100                                       D.R.Sachdev+         (67)B0069  3G
+ 1001 38088   3  16G   2.5000+7          0.520000 0.057200                                       D.R.Sachdev+         (67)B0069  3G
+ 1001 38088   3  16G   2.6000+7          0.420000 0.046200                                       D.R.Sachdev+         (67)B0069  3G
+ 1001 38088   3  16G   3.0000+7          0.330000 0.049500                                       D.R.Sachdev+         (67)B0069  3G
+ 1001 38088   3  16G   3.3000+7          0.180000 0.027000                                       D.R.Sachdev+         (67)B0069  3G
+#/DATA      8
+#/DATASET

@@ -1,0 +1,91 @@
+#ENTRY      M0579
+#AUTHOR1    R.A.Schumacher+
+#YEAR       1986
+#INSTITUTE  (1USAMIT)
+#TITLE      Two-body photodisintegration of 4He in the
+#+          100 - 360 MeV region.
+#AUTHOR(S)  R.A.Schumacher, J.L.Matthews, W.W.Sapp, R.S.Turley, G.S.Adams, 
+#+          R.O.Owens
+#REF-CODE   (J,PR/C,33,50,1986)
+#REFERENCE  Phys.Rev.C 33 (1986) 50 (doi:10.1103/PhysRevC.33.50)
+#DATASETS   0
+#
+#DATASET    M0579006 
+#DATE       20190625
+#REACTION   2-HE-4(G,P)1-H-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 103  C 1.9100+8 5000000. 5.8200-7 3.4000-8-0.043619                              R.A.Schumacher+      (86)M0579  6 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579006 
+#DATE       20190625
+#REACTION   2-HE-4(G,P)1-H-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 103  C 1.9900+8 2000000. 5.2300-7 5.0000-8-0.040132                              R.A.Schumacher+      (86)M0579  6 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579006 
+#DATE       20190625
+#REACTION   2-HE-4(G,P)1-H-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 103  C 2.6600+8 5000000. 1.4000-7 1.1000-8-5.2360-3                              R.A.Schumacher+      (86)M0579  6 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579006 
+#DATE       20190625
+#REACTION   2-HE-4(G,P)1-H-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 103  C 2.7700+8 5000000. 1.2800-7 1.1000-8 6.123-17                              R.A.Schumacher+      (86)M0579  6 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0579006 
+#DATE       20190625
+#REACTION   2-HE-4(G,P)1-H-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4 103  C 2.8400+8 1000000. 7.6000-8 1.9000-8 3.4907-3                              R.A.Schumacher+      (86)M0579  6 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      B0025
+#AUTHOR1    J.J.Hogan+
+#YEAR       1972
+#INSTITUTE  (1CANMCG)
+#TITLE      Mo-96(P,XN)Reaction from 10 to 80 MeV.
+#AUTHOR(S)  J.J.Hogan
+#REF-CODE   (J,PR/C,6,810,1972)
+#REFERENCE  Phys.Rev.C 6 (1972) 810 (doi:10.1103/PhysRevC.6.810)
+#DATASETS   0
+#
+#DATASET    B0025005G
+#DATE       20011220
+#REACTION   42-MO-96(P,4N)43-TC-93-G,,SIG,,,EXP
+#PROJ       1001
+#TARG       42096
+#MF         3
+#MT         37
+#PRODUCT    43-TC-93-G
+#C4BEGIN    [ 1001 42096   3  37G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42096   3  37G   3.0000+7          1.5000-3 3.0000-3                                       J.J.Hogan            (72)B0025  5G
+ 1001 42096   3  37G   3.5000+7          0.012300 4.0000-4                                       J.J.Hogan            (72)B0025  5G
+ 1001 42096   3  37G   4.0000+7          0.158000 1.0000-3                                       J.J.Hogan            (72)B0025  5G
+ 1001 42096   3  37G   4.5000+7          0.243000 5.0000-3                                       J.J.Hogan            (72)B0025  5G
+ 1001 42096   3  37G   5.0000+7          0.226000 3.0000-3                                       J.J.Hogan            (72)B0025  5G
+ 1001 42096   3  37G   6.5000+7          0.085000 1.0000-3                                       J.J.Hogan            (72)B0025  5G
+#/DATA      6
+#/DATASET

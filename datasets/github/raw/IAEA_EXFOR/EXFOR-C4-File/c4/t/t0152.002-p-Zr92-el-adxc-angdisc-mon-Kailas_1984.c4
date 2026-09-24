@@ -1,0 +1,41 @@
+#ENTRY      T0152
+#AUTHOR1    S.Kailas+
+#YEAR       1984
+#INSTITUTE  (3INDTRM)
+#TITLE      Excitation of low-lying levels and giant multipole
+#+          resonances in 92Zr, 120Sn and 208Pb by inelastic
+#+          scattering of 104 MeV polarized protons.
+#AUTHOR(S)  S.Kailas, P.P.Singh, D.L.Friesel, C.C.Foster, P.Schwandt, 
+#+          J.Wiggins
+#REF-CODE   (J,PR/C,29,2075,198406)
+#REFERENCE  Phys.Rev.C 29 (1984) 2075 (doi:10.1103/PhysRevC.29.2075)
+#DATASETS   0
+#
+#DATASET    T0152002 
+#DATE       20010430
+#REACTION   40-ZR-92(P,EL)40-ZR-92,,DA
+#PROJ       1001
+#TARG       40092
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-92
+#C4BEGIN    [ 1001 40092   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40092   4   2  C 1.0350+8          2.081000 0.104000 0.976485                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          0.575000 0.029000 0.968279                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          0.073800 3.7000-3 0.958820                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          0.062000 3.1000-3 0.948213                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          0.153000 7.7000-3 0.936427                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          0.183000 9.2000-3 0.923478                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          0.143000 7.2000-3 0.909381                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          0.076800 3.8000-3 0.894076                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          0.030200 1.5000-3 0.877732                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          0.011700 6.0000-4 0.860297                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          0.014600 7.0000-4 0.812084                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          6.5600-3 3.3000-4 0.757565                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          1.9200-3 9.6000-5 0.697290                              S.Kailas+            (84)T0152  2 
+ 1001 40092   4   2  C 1.0350+8          1.6400-3 8.2000-5 0.631488                              S.Kailas+            (84)T0152  2 
+#/DATA      14
+#/DATASET

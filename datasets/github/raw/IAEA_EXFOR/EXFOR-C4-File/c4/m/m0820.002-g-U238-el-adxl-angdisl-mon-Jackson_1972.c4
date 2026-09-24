@@ -1,0 +1,32 @@
+#ENTRY      M0820
+#AUTHOR1    H.E.Jackson+
+#YEAR       1972
+#INSTITUTE  (1USAUI)
+#TITLE      Nuclear  Raman  scattering  of  10.83  MeV photons by
+#+          238U, 232Th, and 209Bi.
+#AUTHOR(S)  H.E.Jackson, K.J.Wetzel
+#REF-CODE   (J,PRL,28,513,1972)
+#REFERENCE  Phys.Rev.Lett. 28 (1972) 513 (doi:10.1103/PhysRevLett.28.513)
+#DATASETS   0
+#
+#DATASET    M0820002 
+#DATE       20110622
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    1.0830+7          1.7200-3 1.7000-4 0.939693                              H.E.Jackson+         (72)M0820  2 
+    0 92238   4   2    1.0830+7          9.7000-4 1.2000-4 0.866025                              H.E.Jackson+         (72)M0820  2 
+    0 92238   4   2    1.0830+7          4.3000-4 5.0000-5 0.642788                              H.E.Jackson+         (72)M0820  2 
+    0 92238   4   2    1.0830+7          3.1000-4 3.0000-5 0.342020                              H.E.Jackson+         (72)M0820  2 
+    0 92238   4   2    1.0830+7          2.3000-4 2.0000-5 6.123-17                              H.E.Jackson+         (72)M0820  2 
+    0 92238   4   2    1.0830+7          2.5000-4 2.0000-5-0.500000                              H.E.Jackson+         (72)M0820  2 
+    0 92238   4   2    1.0830+7          3.9000-4 4.0000-5-0.866025                              H.E.Jackson+         (72)M0820  2 
+#/DATA      7
+#/DATASET

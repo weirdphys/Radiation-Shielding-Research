@@ -1,0 +1,28 @@
+#ENTRY      M0215
+#AUTHOR1    M.Miwa+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Further study of the reaction Li-7(g,t)He-4.
+#AUTHOR(S)  M.Miwa, M.Yamanouchi
+#REF-CODE   (J,JPJ,15,(6),947,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 No.6 (1960) 947 (doi:10.1143/JPSJ.15.947)
+#DATASETS   0
+#
+#DATASET    M0215005 
+#DATE       20130607
+#REACTION   3-LI-7(G,T)2-HE-4,,SIG
+#PROJ       0
+#TARG       3007
+#MF         3
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    0  3007   3 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3007   3 105    7100000.          9.9000-5 1.9000-5                                       M.Miwa+              (60)M0215  5 
+    0  3007   3 105    8100000.          1.7600-4 3.0000-5                                       M.Miwa+              (60)M0215  5 
+    0  3007   3 105    8700000.          1.8300-4 3.1000-5                                       M.Miwa+              (60)M0215  5 
+    0  3007   3 105    9200000.          1.6700-4 3.0000-5                                       M.Miwa+              (60)M0215  5 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      M0833
+#AUTHOR1    H.Wolf+
+#YEAR       1974
+#INSTITUTE  (2GERJLU)
+#TITLE      Charged particles  from the giant dipole resonance of
+#+          26Mg.
+#AUTHOR(S)  H.Wolf, R.Stock, U.E.P.Berg, K.Wienhard
+#REF-CODE   (J,NP/A,234,365,1974)
+#REFERENCE  Nucl.Phys.A 234 (1974) 365 (doi:10.1016/0375-9474(74)90569-7)
+#DATASETS   0
+#
+#DATASET    M0833003 
+#DATE       20220201
+#REACTION   12-MG-26(G,A)10-NE-22,,DA,,BRS
+#PROJ       0
+#TARG       12026
+#MF         4
+#MT         107
+#PRODUCT    10-NE-22
+#C4BEGIN    [    0 12026   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 12026   4 107    1.6500+7          3.4000-5          6.123-17                              H.Wolf+              (74)M0833  3 
+    0 12026   4 107    1.7020+7          1.9300-4          6.123-17                              H.Wolf+              (74)M0833  3 
+    0 12026   4 107    1.7230+7          1.8300-4          6.123-17                              H.Wolf+              (74)M0833  3 
+    0 12026   4 107    1.7700+7          1.9000-4 3.4000-5 6.123-17                              H.Wolf+              (74)M0833  3 
+    0 12026   4 107    1.8210+7          9.9000-5 3.7000-5 6.123-17                              H.Wolf+              (74)M0833  3 
+    0 12026   4 107    1.8700+7          1.6700-4          6.123-17                              H.Wolf+              (74)M0833  3 
+    0 12026   4 107    1.9410+7          1.1600-4          6.123-17                              H.Wolf+              (74)M0833  3 
+    0 12026   4 107    2.0420+7          1.1500-5          6.123-17                              H.Wolf+              (74)M0833  3 
+    0 12026   4 107    2.2030+7          3.0000-5          6.123-17                              H.Wolf+              (74)M0833  3 
+#/DATA      9
+#/DATASET

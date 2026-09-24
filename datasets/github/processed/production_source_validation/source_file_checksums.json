@@ -1,0 +1,32 @@
+{
+  "landauer": {
+    "filename": "LANDAUER Cancer Institute DataBookn_Sep_2020 - Final.pdf",
+    "sha256": "2d4d392cdfd1c769d2327ac4a48eefa4cc0b4033c3b5c9cdd926ed495c1f5ebb",
+    "size_bytes": 8419630
+  },
+  "pacyniak": {
+    "filename": "analytic-derivation-of-central-axis-percent-depth-dose-4gaft1xs7n.pdf",
+    "sha256": "ac905cd6f4c3a592ed1807510a4e7f7903d87cbf23f0a7108f1ec6a63e9c66cc",
+    "size_bytes": 995533
+  },
+  "sawkey": {
+    "filename": "MPHYA6-000036-005622_1.pdf",
+    "sha256": "9fb4eaaabf0bc32d2d351d72d65b21ba5b12ee2fa736a218863c7471ef4dcf1f",
+    "size_bytes": 429907
+  },
+  "mathew": {
+    "filename": "elsevier-3.pdf",
+    "sha256": "e921548fbbd220866866dc2412020a30ac730541e6115a1b3d443a99fd9a66fc",
+    "size_bytes": 945815
+  },
+  "zamorano_paper": {
+    "filename": "Out-of-field_thermal_neutron_characterization_with.pdf",
+    "sha256": "f9acf18733585bfc296843f35e4967a162f78eecf22169ac42362666a3905ec8",
+    "size_bytes": 2638101
+  },
+  "zamorano_zip": {
+    "filename": "Replication data for Out-of-field thermal neutron characterization with thin 3D-silicon detectors in Varian TrueBeam and Elekta Synergy LINACs(1).zip",
+    "sha256": "e805c3fc2f200c07c0017cf093a8fa181b73ca61fffb6f07f6bbdd1fea072053",
+    "size_bytes": 14969
+  }
+}

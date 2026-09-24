@@ -1,0 +1,27 @@
+#ENTRY      S0162
+#AUTHOR1    Yang Weifan+
+#YEAR       1993
+#INSTITUTE  (3CPRIMP)
+#TITLE      Measurement of the iodine isotopic yields from the
+#+          interaction of 47 MeV/u 12C with 133Cs
+#AUTHOR(S)  Yang Weifan, Zhao Zhizheng, Li Zongwei, Sun Xiurong, Xie Xiujun, 
+#+          Mu Wantong, Qin Zhi, Zhang Li, Yang Yongfeng, Sun Rulin
+#REF-CODE   (J,PHE,17,873,1993)
+#REFERENCE  High En.Nucl.Phy.Ch. 17 (1993) 873
+#DATASETS   0
+#
+#DATASET    S01620026
+#DATE       20151009
+#REACTION   55-CS-133(6-C-12,X)53-I-130-G,M+,SIG
+#PROJ       6012
+#TARG       55133
+#MF         3
+#MT         459
+#PRODUCT    53-I-130-G
+#C4BEGIN    [ 6012 55133   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 55133   3 459    5.6400+8          1.2000-3 3.0000-4           53130.0                     Yang Weifan+         (93)S0162  26
+#/DATA      1
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      B0110
+#AUTHOR1    B.Lagarde+
+#YEAR       1978
+#INSTITUTE  (2FR PAR)
+#TITLE      Decay of the Compound Nucleus Po-204. Excitation
+#+          Function Measurements For the Reactions
+#+          Dy-164(AR-40,XN)Po-204-X and W-184(NE-20,XN)Po-204-X
+#AUTHOR(S)  B.Lagarde, Y.Le Beyec
+#REF-CODE   (J,ZP/A,288,415,1978)
+#REFERENCE  Z.Phys.A 288 (1978) 415 (doi:10.1007/BF01417726)
+#DATASETS   0
+#
+#DATASET    B0110009 
+#DATE       20011220
+#REACTION   66-DY-164(18-AR-40,5N)84-PO-199-M,,SIG,,,EXP
+#PROJ       18040
+#TARG       66164
+#MF         3
+#MT         152
+#PRODUCT    84-PO-199-M
+#C4BEGIN    [18040 66164   3 152M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 66164   3 152M   1.8200+8          0.017000                                                B.Lagarde+           (78)B0110  9 
+18040 66164   3 152M   1.8400+8          0.023500                                                B.Lagarde+           (78)B0110  9 
+18040 66164   3 152M   1.8900+8          0.025500                                                B.Lagarde+           (78)B0110  9 
+18040 66164   3 152M   1.9500+8          0.014000                                                B.Lagarde+           (78)B0110  9 
+18040 66164   3 152M   2.0400+8          8.8000-4                                                B.Lagarde+           (78)B0110  9 
+#/DATA      5
+#/DATASET

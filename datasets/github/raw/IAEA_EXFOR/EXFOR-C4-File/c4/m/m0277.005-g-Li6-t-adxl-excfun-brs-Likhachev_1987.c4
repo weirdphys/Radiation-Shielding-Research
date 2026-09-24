@@ -1,0 +1,34 @@
+#ENTRY      M0277
+#AUTHOR1    V.P.Likhachev+
+#YEAR       1987
+#INSTITUTE  (4UKRKFT)
+#TITLE      Two-particles photodisintegration of Li-6.
+#AUTHOR(S)  V.P.Likhachev, I.G.Evseev, A.Yu.Buki, Yu.V.Vladimirov, S.A.Pashchuk, 
+#+          G.A.Savitskiy, V.M.Khvastunov, V.A.Fartushnyy, V.B.Shostak, 
+#+          V.A.Stepanenko
+#REF-CODE   (J,UFZ,32,1293,1987)
+#REFERENCE  Ukr.Fiz.Zh. 32 (1987) 1293
+#DATASETS   0
+#
+#DATASET    M0277005 
+#DATE       20130613
+#REACTION   3-LI-6(G,T)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       3006
+#MF         4
+#MT         105
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  3006   4 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  3006   4 105    3.3600+7          5.6800-5 5.6000-6 6.123-17                              V.P.Likhachev+       (87)M0277  5 
+    0  3006   4 105    3.5200+7          5.4800-5 4.8000-6 6.123-17                              V.P.Likhachev+       (87)M0277  5 
+    0  3006   4 105    3.6700+7          4.5200-5 4.9000-6 6.123-17                              V.P.Likhachev+       (87)M0277  5 
+    0  3006   4 105    3.7300+7          3.8800-5 4.8000-6 6.123-17                              V.P.Likhachev+       (87)M0277  5 
+    0  3006   4 105    3.9700+7          3.5500-5 5.1000-6 6.123-17                              V.P.Likhachev+       (87)M0277  5 
+    0  3006   4 105    4.2200+7          2.6800-5 5.6000-6 6.123-17                              V.P.Likhachev+       (87)M0277  5 
+    0  3006   4 105    4.3700+7          1.5700-5 5.9000-6 6.123-17                              V.P.Likhachev+       (87)M0277  5 
+    0  3006   4 105    4.6000+7          1.0800-5 5.4000-6 6.123-17                              V.P.Likhachev+       (87)M0277  5 
+#/DATA      8
+#/DATASET

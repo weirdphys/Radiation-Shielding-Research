@@ -1,0 +1,26 @@
+#ENTRY      M0562
+#AUTHOR1    R.T.Jones+
+#YEAR       1991
+#INSTITUTE  (1USAVIP)
+#TITLE      Absolute measurement of the differential cross section
+#+          for the reaction 4He(gamma,p)3H from 63 to 71 MeV.
+#AUTHOR(S)  R.T.Jones, D.A.Jenkis, P.T.Debevec, P.D.Harty, J.E.Knott
+#REF-CODE   (J,PR/C,43,2052,1991)
+#REFERENCE  Phys.Rev.C 43 (1991) 2052 (doi:10.1103/PhysRevC.43.2052)
+#DATASETS   0
+#
+#DATASET    M0562003 
+#DATE       20190527
+#REACTION   2-HE-4(G,P)1-H-3,,SIG
+#PROJ       0
+#TARG       2004
+#MF         3
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [    0  2004   3 103 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   3 103 D  6.7000+7 4000000. 0.218000 8.0000-3                                       R.T.Jones+           (91)M0562  3 
+#/DATA      1
+#/DATASET

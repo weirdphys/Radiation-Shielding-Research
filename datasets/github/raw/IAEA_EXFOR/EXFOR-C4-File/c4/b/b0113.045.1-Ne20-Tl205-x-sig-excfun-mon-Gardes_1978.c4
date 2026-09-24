@@ -1,0 +1,27 @@
+#ENTRY      B0113
+#AUTHOR1    D.Gardes+
+#YEAR       1978
+#INSTITUTE  (2FR PAR)
+#TITLE      Excitation functions for quasielastic transfer
+#+          reactions induced with heavy ions in bismuth
+#AUTHOR(S)  D.Gardes, R.Bimbot, J.Maison, L.De Relihac, M.F.Rivet, A.Fleury, 
+#+          F.Hubert, Y.Llabador
+#REF-CODE   (J,PR/C,18,1298,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 1298 (doi:10.1103/PhysRevC.18.1298)
+#DATASETS   0
+#
+#DATASET    B01130451
+#DATE       20190123
+#REACTION   81-TL-205(10-NE-20,X)85-AT-211,,SIG
+#PROJ       10020
+#TARG       81205
+#MF         3
+#MT         454
+#PRODUCT    85-AT-211
+#C4BEGIN    [10020 81205   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 81205   3 454    1.9350+8 5000000. 1.5000-4 4.0000-5           85211.9                     D.Gardes+            (78)B0113 451
+#/DATA      1
+#/DATASET

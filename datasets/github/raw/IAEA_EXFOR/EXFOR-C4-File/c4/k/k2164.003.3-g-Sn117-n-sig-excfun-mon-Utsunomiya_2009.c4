@@ -1,0 +1,47 @@
+#ENTRY      K2164
+#AUTHOR1    H.Utsunomiya+
+#YEAR       2009
+#INSTITUTE  (2JPNKON)
+#TITLE      Gamma-ray strength function for 116,117Sn with the
+#+          pygmy dipole resonance balanced in the photoneutron
+#+          and neutron capture channels
+#AUTHOR(S)  H.Utsunomiya, S.Goriely, M.Kamata, T.Kondo, O.Itoh, H.Akimune, 
+#+          T.Yamagata, H.Toyokawa, Y.-W.Lui, S.Hilaire, A.J.Koning
+#REF-CODE   (J,PR/C,80,055806,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 055806 (doi:10.1103/PhysRevC.80.055806)
+#DATASETS   0
+#
+#DATASET    K21640033
+#DATE       20231113
+#REACTION   50-SN-117(G,N)50-SN-116,,SIG,,AV
+#PROJ       0
+#TARG       50117
+#MF         3
+#MT         4
+#PRODUCT    50-SN-116
+#C4BEGIN    [    0 50117   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 50117   3   4 A  7090000.          8.9600-3 5.5000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  7230000.          9.2500-3 4.5000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  7230000.          9.5500-3 3.6000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  7350000.          0.010820 9.4000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  7550000.          0.010870 2.8000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  7680000.          0.011230 4.1000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  7890000.          0.011790 4.4000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  8140000.          0.012710 3.6000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  8400000.          0.013660 5.5000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  8610000.          0.013670 1.0300-3                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  8750000.          0.015340 4.5000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  9100000.          0.018900 2.0700-3                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  9210000.          0.017290 4.3000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  9430000.          0.020090 8.6000-4                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  9860000.          0.023310 1.1200-3                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  9960000.          0.023620 1.9900-3                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  1.0510+7          0.030130 1.5900-3                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  1.1140+7          0.039240 2.3100-3                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  1.1500+7          0.048010 2.3300-3                                       H.Utsunomiya+        (09)K2164  33
+    0 50117   3   4 A  1.2120+7          0.074070 3.9600-3                                       H.Utsunomiya+        (09)K2164  33
+#/DATA      20
+#/DATASET

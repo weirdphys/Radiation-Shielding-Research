@@ -1,0 +1,182 @@
+RB2000209 DETECTOR / METADATA DISCOVERY
+======================================================================
+Files in raw directory: 721
+GEM-named files: 0
+Representative NeXus datasets inspected: 2576 dataset nodes
+NeXus keyword hits: 398
+NeXus rows explicitly mentioning GEM: 12
+Text/log keyword hits: 2221
+Unique text/log lines: 2221
+Mantid workspace summaries: 11
+Mantid detector rows explicitly named GEM: 0
+
+FILE EXTENSIONS
+----------------------------------------------------------------------
+extension  count
+     .txt    412
+     .nxs    103
+     .log    103
+     .raw    103
+
+GEM-NAMED FILES
+----------------------------------------------------------------------
+<none>
+
+MANTID WORKSPACE SUMMARY
+----------------------------------------------------------------------
+ run_number                 role                 workspace  histograms  blocksize x_unit  x_min   x_max  spectrum_min  spectrum_max  unique_detector_names  gem_named_detector_count
+      44712  early_empty_control    rb0209_discovery_44712         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+      44724    concrete_sample_1    rb0209_discovery_44724         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+      44749   concrete_sample_3M    rb0209_discovery_44749         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+      44779   concrete_sample_5I    rb0209_discovery_44779         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+      44792   late_empty_control    rb0209_discovery_44792         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+      45130 sample_1_RT_Cd_frame rb0209_discovery_45130[0]         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+      45130 sample_1_RT_Cd_frame rb0209_discovery_45130[1]         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+      45130 sample_1_RT_Cd_frame rb0209_discovery_45130[2]         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+      45130 sample_1_RT_Cd_frame rb0209_discovery_45130[3]         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+      45130 sample_1_RT_Cd_frame rb0209_discovery_45130[4]         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+      45130 sample_1_RT_Cd_frame rb0209_discovery_45130[5]         198       9729    TOF    5.0 39999.0             1           198                    135                         0
+
+GEM HDF5 METADATA — FIRST 80
+----------------------------------------------------------------------
+ run_number                role                            path shape dtype                                                                              value
+      44712 early_empty_control  raw_data_1/isis_vms_compat/HDR  (1,)  |S80 [VES44712Martellucci         Empty tank with GEM     08-MAY-2021 16:01:23   30.06]
+      44712 early_empty_control raw_data_1/isis_vms_compat/TITL  (1,)  |S80 [Empty tank with GEM                                                             ]
+      44712 early_empty_control                raw_data_1/title  (1,)  |S19                                                              [Empty tank with GEM]
+      44724   concrete_sample_1 raw_data_1/isis_vms_compat/TITL  (1,)  |S80 [Concrete sample 1 (117.77g) in tank with GEM                                    ]
+      44724   concrete_sample_1                raw_data_1/title  (1,)  |S44                                     [Concrete sample 1 (117.77g) in tank with GEM]
+      44749  concrete_sample_3M raw_data_1/isis_vms_compat/TITL  (1,)  |S80 [Concrete sample 3M (163.72g) in tank with GEM                                   ]
+      44749  concrete_sample_3M                raw_data_1/title  (1,)  |S45                                    [Concrete sample 3M (163.72g) in tank with GEM]
+      44779  concrete_sample_5I raw_data_1/isis_vms_compat/TITL  (1,)  |S80 [Concrete sample 5I (146.51g) in tank with GEM                                   ]
+      44779  concrete_sample_5I                raw_data_1/title  (1,)  |S45                                    [Concrete sample 5I (146.51g) in tank with GEM]
+      44792  late_empty_control  raw_data_1/isis_vms_compat/HDR  (1,)  |S80 [VES44792Martellucci         Empty tank with GEM     10-MAY-2021 17:40:37  180.07]
+      44792  late_empty_control raw_data_1/isis_vms_compat/TITL  (1,)  |S80 [Empty tank with GEM                                                             ]
+      44792  late_empty_control                raw_data_1/title  (1,)  |S19                                                              [Empty tank with GEM]
+
+SAMPLE / DIMENSION / ENVIRONMENT TEXT — FIRST 120
+----------------------------------------------------------------------
+keywords                                         text
+  sample 2021-04-28T13:16:52 Sample 829.4179356845098
+  sample 2021-04-28T13:46:52 Sample 829.4179356845098
+  sample 2021-04-28T14:16:52 Sample 829.4179356845098
+  sample 2021-04-28T14:46:52 Sample 829.4179356845098
+  sample 2021-04-28T15:16:52 Sample 829.4179356845098
+  sample 2021-04-28T15:46:52 Sample 829.4179356845098
+  sample 2021-04-28T16:16:52 Sample 829.4179356845098
+  sample 2021-04-28T16:46:52 Sample 829.4179356845098
+  sample 2021-04-28T17:16:52 Sample 829.4179356845098
+  sample 2021-04-28T17:46:52 Sample 829.4179356845098
+  sample 2021-04-28T18:16:52 Sample 829.4179356845098
+  sample 2021-04-28T18:46:52 Sample 829.4179356845098
+  sample 2021-04-28T19:16:52 Sample 829.4179356845098
+  sample 2021-04-28T19:38:23 Sample 829.4179356845098
+  sample 2021-04-28T20:05:23 Sample 829.4179356845098
+  sample 2021-04-28T20:12:15 Sample 829.4179356845098
+  sample 2021-04-28T20:16:54 Sample 829.4179356845098
+  sample 2021-04-28T20:20:08 Sample 829.4179356845098
+  sample 2021-04-28T20:50:07 Sample 829.4179356845098
+  sample 2021-04-28T21:20:07 Sample 829.4179356845098
+  sample 2021-04-28T21:25:08 Sample 829.4179356845098
+  sample 2021-04-28T21:25:19 Sample 829.4179356845098
+  sample 2021-04-28T21:55:18 Sample 829.4179356845098
+  sample 2021-04-28T22:25:18 Sample 829.4179356845098
+  sample 2021-04-28T22:31:35 Sample 829.4179356845098
+  sample 2021-04-28T22:31:47 Sample 829.4179356845098
+  sample 2021-04-28T22:34:35 Sample 829.4179356845098
+  sample 2021-04-28T23:04:35 Sample 829.4179356845098
+  sample 2021-04-28T23:34:35 Sample 829.4179356845098
+  sample 2021-04-28T23:39:34 Sample 829.4179356845098
+  sample 2021-04-28T23:39:45 Sample 829.4179356845098
+  sample 2021-04-29T00:09:44 Sample 829.4179356845098
+  sample 2021-04-29T00:39:44 Sample 829.4179356845098
+  sample 2021-04-29T00:46:51 Sample 829.4179356845098
+  sample 2021-04-29T00:47:04 Sample 829.4179356845098
+  sample 2021-04-29T01:17:03 Sample 829.4179356845098
+  sample 2021-04-29T01:47:03 Sample 829.4179356845098
+  sample 2021-04-29T01:53:52 Sample 829.4179356845098
+  sample 2021-04-29T01:54:05 Sample 829.4179356845098
+  sample 2021-04-29T02:24:04 Sample 829.4179356845098
+  sample 2021-04-29T02:54:04 Sample 829.4179356845098
+  sample 2021-04-29T03:24:04 Sample 829.4179356845098
+  sample 2021-04-29T03:54:04 Sample 829.4179356845098
+  sample 2021-04-29T04:24:04 Sample 829.4179356845098
+  sample 2021-04-29T04:54:04 Sample 829.4179356845098
+  sample 2021-04-29T05:24:04 Sample 829.4179356845098
+  sample 2021-04-29T05:54:04 Sample 829.4179356845098
+  sample 2021-04-29T06:02:17 Sample 829.4179356845098
+  sample 2021-04-29T06:02:30 Sample 829.4179356845098
+  sample 2021-04-29T06:32:29 Sample 829.4179356845098
+  sample 2021-04-29T07:02:29 Sample 829.4179356845098
+  sample 2021-04-29T07:13:51 Sample 829.4179356845098
+  sample 2021-04-29T07:14:02 Sample 829.4179356845098
+  sample 2021-04-29T07:44:01 Sample 829.4179356845098
+  sample 2021-04-29T08:14:01 Sample 829.4179356845098
+  sample 2021-04-29T08:20:40 Sample 829.4179356845098
+  sample 2021-04-29T08:20:51 Sample 829.4179356845098
+  sample 2021-04-29T08:50:51 Sample 829.4179356845098
+  sample 2021-04-29T09:20:51 Sample 829.4179356845098
+  sample 2021-04-29T09:27:53 Sample 829.4179356845098
+  sample 2021-04-29T09:28:04 Sample 829.4179356845098
+  sample 2021-04-29T09:58:03 Sample 829.4179356845098
+  sample 2021-04-29T10:28:03 Sample 829.4179356845098
+  sample 2021-04-29T10:34:35 Sample 829.4179356845098
+  sample 2021-05-08T15:46:45 Sample 829.4179356845098
+  sample 2021-05-08T16:01:26 Sample 829.4179356845098
+  sample 2021-05-08T16:11:59 Sample 829.4179356845098
+  sample 2021-05-08T16:12:08 Sample 829.4179356845098
+  sample 2021-05-08T16:22:44 Sample 829.4179356845098
+  sample 2021-05-08T16:22:53 Sample 829.4179356845098
+  sample 2021-05-08T16:33:26 Sample 829.4179356845098
+  sample 2021-05-08T16:38:10 Sample 829.4179356845098
+  sample 2021-05-08T16:48:44 Sample 829.4179356845098
+  sample 2021-05-08T16:48:53 Sample 829.4179356845098
+  sample 2021-05-08T16:59:28 Sample 829.4179356845098
+  sample 2021-05-08T17:12:01 Sample 829.4179356845098
+  sample 2021-05-08T17:22:35 Sample 829.4179356845098
+  sample 2021-05-08T17:22:44 Sample 829.4179356845098
+  sample 2021-05-08T17:33:19 Sample 829.4179356845098
+  sample 2021-05-08T17:33:28 Sample 829.4179356845098
+  sample 2021-05-08T17:44:02 Sample 829.4179356845098
+  sample 2021-05-08T17:44:11 Sample 829.4179356845098
+  sample 2021-05-08T17:54:46 Sample 829.4179356845098
+  sample 2021-05-08T17:54:56 Sample 829.4179356845098
+  sample 2021-05-08T18:05:30 Sample 829.4179356845098
+  sample 2021-05-08T18:09:12 Sample 829.4179356845098
+  sample 2021-05-08T18:19:49 Sample 829.4179356845098
+  sample 2021-05-08T18:27:29 Sample 829.4179356845098
+  sample 2021-05-08T18:38:05 Sample 829.4179356845098
+  sample 2021-05-08T18:38:14 Sample 829.4179356845098
+  sample 2021-05-08T18:42:17 Sample 829.4179356845098
+  sample 2021-05-08T18:43:20 Sample 829.4179356845098
+  sample 2021-05-08T18:53:54 Sample 829.4179356845098
+  sample 2021-05-08T18:54:03 Sample 829.4179356845098
+  sample 2021-05-08T19:04:37 Sample 829.4179356845098
+  sample 2021-05-08T19:04:46 Sample 829.4179356845098
+  sample 2021-05-08T19:15:22 Sample 829.4179356845098
+  sample 2021-05-08T19:15:31 Sample 829.4179356845098
+  sample 2021-05-08T19:26:06 Sample 829.4179356845098
+  sample 2021-05-08T19:26:15 Sample 829.4179356845098
+  sample 2021-05-08T19:36:48 Sample 829.4179356845098
+  sample 2021-05-08T19:47:33 Sample 829.4179356845098
+  sample 2021-05-08T20:17:32 Sample 829.4179356845098
+  sample 2021-05-08T20:47:32 Sample 829.4179356845098
+  sample 2021-05-08T20:50:59 Sample 829.4179356845098
+  sample 2021-05-08T20:52:07 Sample 829.4179356845098
+  sample 2021-05-08T21:22:06 Sample 829.4179356845098
+  sample 2021-05-08T21:52:06 Sample 829.4179356845098
+  sample 2021-05-08T21:55:32 Sample 829.4179356845098
+  sample 2021-05-08T21:56:41 Sample 829.4179356845098
+  sample 2021-05-08T22:26:40 Sample 829.4179356845098
+  sample 2021-05-08T22:56:40 Sample 829.4179356845098
+  sample 2021-05-08T23:18:05 Sample 829.4179356845098
+  sample 2021-05-08T23:19:13 Sample 829.4179356845098
+  sample 2021-05-08T23:49:12 Sample 829.4179356845098
+  sample 2021-05-09T00:19:12 Sample 829.4179356845098
+  sample 2021-05-09T00:23:18 Sample 829.4179356845098
+  sample 2021-05-09T00:24:26 Sample 829.4179356845098
+  sample 2021-05-09T00:54:25 Sample 829.4179356845098
+  sample 2021-05-09T01:24:25 Sample 829.4179356845098
+
+MANTID NOTES
+----------------------------------------------------------------------
+<none>

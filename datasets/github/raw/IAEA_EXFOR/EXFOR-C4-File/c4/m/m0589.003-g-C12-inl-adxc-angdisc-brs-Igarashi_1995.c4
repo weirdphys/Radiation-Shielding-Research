@@ -1,0 +1,192 @@
+#ENTRY      M0589
+#AUTHOR1    R.Igarashi+
+#YEAR       1995
+#INSTITUTE  (1CANSAS)
+#TITLE      Photon scattering from 12C and 4He nuclei near the
+#+          DELTA (1232) resonance.
+#AUTHOR(S)  R.Igarashi, J.C.Bergstrom, H.S.Caplan, K.G.E.Doss, E.L.Hallin, 
+#+          D.M.Skopik, D.Delli Carpini, E.C.Booth, E.K.Mc.upper()ntyre, 
+#+          J.P.Miller, M.A.Lucas, B.E.Macgibbon, A.M.Nathan, D.Wells
+#REF-CODE   (J,PR/C,52,755,1995)
+#REFERENCE  Phys.Rev.C 52 (1995) 755 (doi:10.1103/PhysRevC.52.755)
+#DATASETS   0
+#
+#DATASET    M0589003 
+#DATE       20260120
+#REACTION   6-C-12(G,INL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 102  C 1.3710+8          3.4500-7 4.9000-8 0.938493                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 1.3710+8          2.5400-7 1.7000-8 0.758134                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 1.3710+8          1.6200-7 6.0000-9 0.495459                              R.Igarashi+          (95)M0589  3 
+#/DATA      3
+#/DATASET
+#
+#DATASET    M0589003 
+#DATE       20260120
+#REACTION   6-C-12(G,INL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 102  C 1.5090+8          4.1800-7 9.1000-8 0.937889                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 1.5090+8          3.1400-7 2.9000-8 0.758134                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 1.5090+8          2.2600-7 1.1000-8 0.493942                              R.Igarashi+          (95)M0589  3 
+#/DATA      3
+#/DATASET
+#
+#DATASET    M0589003 
+#DATE       20260120
+#REACTION   6-C-12(G,INL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 102  C 1.7250+8          1.1400-6 1.1000-7 0.945519                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 1.7250+8          1.0100-6 7.0000-8 0.862514                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 1.7250+8          6.3000-7 3.1000-8 0.699663                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 1.7250+8          3.9200-7 1.4000-8 0.487860                              R.Igarashi+          (95)M0589  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    M0589003 
+#DATE       20260120
+#REACTION   6-C-12(G,INL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 102  C 1.7450+8          1.0600-6 5.0000-8 0.862514                              R.Igarashi+          (95)M0589  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0589003 
+#DATE       20260120
+#REACTION   6-C-12(G,INL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 102  C 1.8630+8          1.8200-6 2.0000-7 0.945519                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 1.8630+8          1.4200-6 1.1000-7 0.861629                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 1.8630+8          8.8700-7 5.4000-8 0.698415                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 1.8630+8          4.2300-7 2.2000-8 0.487860                              R.Igarashi+          (95)M0589  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    M0589003 
+#DATE       20260120
+#REACTION   6-C-12(G,INL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 102  C 1.8830+8          1.7000-6 9.0000-8 0.861629                              R.Igarashi+          (95)M0589  3 
+#/DATA      1
+#/DATASET
+#
+#DATASET    M0589003 
+#DATE       20260120
+#REACTION   6-C-12(G,INL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 102  C 2.2560+8          7.9500-6 4.3000-7 0.937282                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 2.2560+8          4.7900-6 2.0000-7 0.859852                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 2.2560+8          2.3000-6 1.2000-7 0.695913                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 2.2560+8          6.6800-7 2.9000-8 0.486335                              R.Igarashi+          (95)M0589  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    M0589003 
+#DATE       20260120
+#REACTION   6-C-12(G,INL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 102  C 2.3640+8          1.3500-5 8.0000-7 0.937282                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 2.3640+8          6.2100-6 3.6000-7 0.859852                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 2.3640+8          2.6400-6 1.9000-7 0.695913                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 2.3640+8          6.8700-7 4.6000-8 0.484810                              R.Igarashi+          (95)M0589  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    M0589003 
+#DATE       20260120
+#REACTION   6-C-12(G,INL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 102  C 2.7110+8          1.4100-5 1.3000-6 0.936672                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 2.7110+8          8.2300-6 4.7000-7 0.858960                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 2.7110+8          2.4600-6 1.5000-7 0.694658                              R.Igarashi+          (95)M0589  3 
+#/DATA      3
+#/DATASET
+#
+#DATASET    M0589003 
+#DATE       20260120
+#REACTION   6-C-12(G,INL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 102  C 2.7750+8          1.7700-5 1.5000-6 0.936672                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 2.7750+8          9.0300-6 5.1000-7 0.858960                              R.Igarashi+          (95)M0589  3 
+    0  6012   4 102  C 2.7750+8          2.9800-6 1.7000-7 0.694658                              R.Igarashi+          (95)M0589  3 
+#/DATA      3
+#/DATASET

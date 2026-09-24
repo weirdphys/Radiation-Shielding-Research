@@ -1,0 +1,41 @@
+#ENTRY      P0123
+#AUTHOR1    R.H.Lindsay+
+#YEAR       1960
+#INSTITUTE  (1USAWSU)
+#TITLE      He-Ion Induced Reactions of Aluminum and Magnesium
+#AUTHOR(S)  R.H.Lindsay, R.J.Carr
+#REF-CODE   (J,PR,118,1293,1960)
+#REFERENCE  Phys.Rev. 118 (1960) 1293 (doi:10.1103/PhysRev.118.1293)
+#DATASETS   0
+#
+#DATASET    P0123002 
+#DATE       20220421
+#REACTION   12-MG-26(A,2P)12-MG-28,,SIG
+#PROJ       2004
+#TARG       12026
+#MF         3
+#MT         111
+#PRODUCT    12-MG-28
+#C4BEGIN    [ 2004 12026   3 111  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12026   3 111    1.8900+7          2.6100-4                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    2.1800+7          3.4700-4                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    2.2800+7          1.7600-4                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    2.4200+7          2.3400-4                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    2.4500+7          8.8700-4                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    2.5000+7          9.5100-4                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    2.5300+7          9.6800-4                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    2.5700+7          1.0300-3                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    2.7300+7          3.6500-4                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    2.8300+7          1.3900-3                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    2.9400+7          1.4300-3                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    3.0900+7          1.5500-3                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    3.1900+7          1.6700-3                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    3.3400+7          1.6700-3                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    3.4300+7          1.6700-3                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    3.5800+7          1.6400-3                                                R.H.Lindsay+         (60)P0123  2 
+ 2004 12026   3 111    3.6600+7          1.6100-3                                                R.H.Lindsay+         (60)P0123  2 
+#/DATA      17
+#/DATASET

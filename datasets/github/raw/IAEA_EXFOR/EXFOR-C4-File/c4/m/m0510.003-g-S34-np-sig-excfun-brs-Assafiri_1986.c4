@@ -1,0 +1,30 @@
+#ENTRY      M0510
+#AUTHOR1    Y.I.Assafiri+
+#YEAR       1986
+#INSTITUTE  (3AULAML)
+#TITLE      Photoproton cross section of S-34.
+#AUTHOR(S)  Y.I.Assafiri, M.N.Thompson
+#REF-CODE   (J,NP/A,460,455,1986)
+#REFERENCE  Nucl.Phys.A 460 (1986) 455 (doi:10.1016/0375-9474(86)90424-0)
+#DATASETS   0
+#
+#DATASET    M0510003 
+#DATE       20060125
+#REACTION   16-S-34(G,N+P)15-P-32,,SIG,,BRS
+#PROJ       0
+#TARG       16034
+#MF         3
+#MT         28
+#PRODUCT    15-P-32
+#C4BEGIN    [    0 16034   3  28  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 16034   3  28    2.2410+7          1.1000-3 6.4000-4                                       Y.I.Assafiri+        (86)M0510  3 
+    0 16034   3  28    2.3170+7          2.7500-3 5.5000-4                                       Y.I.Assafiri+        (86)M0510  3 
+    0 16034   3  28    2.3940+7          6.6100-3 9.2000-4                                       Y.I.Assafiri+        (86)M0510  3 
+    0 16034   3  28    2.4700+7          8.7200-3 9.0000-4                                       Y.I.Assafiri+        (86)M0510  3 
+    0 16034   3  28    2.5460+7          0.010730 1.1000-3                                       Y.I.Assafiri+        (86)M0510  3 
+    0 16034   3  28    2.6220+7          9.1700-3 1.3800-3                                       Y.I.Assafiri+        (86)M0510  3 
+#/DATA      6
+#/DATASET

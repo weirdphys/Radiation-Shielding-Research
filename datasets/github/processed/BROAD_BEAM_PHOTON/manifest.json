@@ -1,0 +1,27 @@
+{
+  "dataset": "Low-energy broad-beam photon shielding data for constituents of concrete",
+  "paper": "Ogundare et al., JACMP 13(2), 2012",
+  "source_pdf": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/ACM2-13-176.pdf",
+  "source_pdf_sha256": "0edaa63ad0cd35de49e81b9779e8c6c3074caeac7495b21b046c56e5278de8b4",
+  "evidence_type": "EXPERIMENTAL",
+  "energies_keV": [
+    60.0,
+    661.6,
+    1173.2,
+    1274.5,
+    1332.5
+  ],
+  "materials": [
+    "Limestone",
+    "Beach Soil",
+    "Ordinary Sand",
+    "River Soil",
+    "Hill Soil",
+    "Land Soil",
+    "Cement"
+  ],
+  "physics_rows": 35,
+  "long_measurement_rows": 70,
+  "data_entry_method": "Exact numerical transcription of published Tables 1 and 3; not OCR-derived.",
+  "important_note": "Reported zero uncertainties such as 0.000 are retained exactly as printed and must not be interpreted as truly zero physical uncertainty."
+}

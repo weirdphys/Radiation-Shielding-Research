@@ -1,0 +1,40 @@
+#ENTRY      K2179
+#AUTHOR1    H.Utsunomiya+
+#YEAR       2010
+#INSTITUTE  (2JPNKON)
+#TITLE      Photoneutron cross sections for 96Zr: A systematic
+#+          experimental study of photoneutron and radiative
+#+          neutron capture cross sections for zirconium isotopes
+#AUTHOR(S)  H.Utsunomiya, S.Goriely, H.Akimune, H.Harada, F.Kitatani, 
+#+          S.Goko, H.Toyokawa, K.Yamada, T.Kondo, O.Itoh, M.Kamata, 
+#+          T.Yamagata, Y.-W.Lui, S.Hilaire, A.J.Koning
+#REF-CODE   (J,PR/C,81,(3),035801,201003)
+#REFERENCE  Phys.Rev.C 81 No.3 (2010) 035801 (doi:10.1103/PhysRevC.81.035801)
+#DATASETS   0
+#
+#DATASET    K21790022
+#DATE       20100816
+#REACTION   40-ZR-96(G,N)40-ZR-95,,SIG
+#PROJ       0
+#TARG       40096
+#MF         3
+#MT         4
+#PRODUCT    40-ZR-95
+#C4BEGIN    [    0 40096   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 40096   3   4    7970000.          0.010790 1.3300-3                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    8150000.          0.011570 1.0300-3                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    8500000.          0.011510 7.6000-4                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    8660000.          0.010660 1.4000-3                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    8880000.          0.011900 5.5000-4                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    9060000.          0.012890 2.6800-3                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    9290000.          0.015010 1.2200-3                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    9670000.          0.017520 1.1400-3                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    1.0050+7          0.017720 6.7000-4                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    1.0980+7          0.027440 9.3000-4                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    1.1860+7          0.039590 1.2900-3                                       H.Utsunomiya+        (10)K2179  22
+    0 40096   3   4    1.2670+7          0.054880 1.4800-3                                       H.Utsunomiya+        (10)K2179  22
+#/DATA      12
+#/DATASET

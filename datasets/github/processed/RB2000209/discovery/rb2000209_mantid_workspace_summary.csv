@@ -1,0 +1,12 @@
+run_number,role,workspace,histograms,blocksize,x_unit,x_min,x_max,spectrum_min,spectrum_max,unique_detector_names,gem_named_detector_count
+44712,early_empty_control,rb0209_discovery_44712,198,9729,TOF,5.0,39999.0,1,198,135,0
+44724,concrete_sample_1,rb0209_discovery_44724,198,9729,TOF,5.0,39999.0,1,198,135,0
+44749,concrete_sample_3M,rb0209_discovery_44749,198,9729,TOF,5.0,39999.0,1,198,135,0
+44779,concrete_sample_5I,rb0209_discovery_44779,198,9729,TOF,5.0,39999.0,1,198,135,0
+44792,late_empty_control,rb0209_discovery_44792,198,9729,TOF,5.0,39999.0,1,198,135,0
+45130,sample_1_RT_Cd_frame,rb0209_discovery_45130[0],198,9729,TOF,5.0,39999.0,1,198,135,0
+45130,sample_1_RT_Cd_frame,rb0209_discovery_45130[1],198,9729,TOF,5.0,39999.0,1,198,135,0
+45130,sample_1_RT_Cd_frame,rb0209_discovery_45130[2],198,9729,TOF,5.0,39999.0,1,198,135,0
+45130,sample_1_RT_Cd_frame,rb0209_discovery_45130[3],198,9729,TOF,5.0,39999.0,1,198,135,0
+45130,sample_1_RT_Cd_frame,rb0209_discovery_45130[4],198,9729,TOF,5.0,39999.0,1,198,135,0
+45130,sample_1_RT_Cd_frame,rb0209_discovery_45130[5],198,9729,TOF,5.0,39999.0,1,198,135,0

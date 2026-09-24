@@ -1,0 +1,35 @@
+#ENTRY      R0007
+#AUTHOR1    D.B.Syme+
+#YEAR       1978
+#INSTITUTE  (2UK HAR)
+#TITLE      Yield curves for cyclotron production of 123I,125I
+#+          and 121I by 127I(p,xn)Xe ->(beta decay)-> I reactions
+#AUTHOR(S)  D.B.Syme, E.Wood, I.M.Blair, S.Kew, M.Perry, P.Cooper
+#REF-CODE   (J,ARI,29,29,1978)
+#REFERENCE  Appl.Radiat.Isot. 29 (1978) 29 (doi:10.1016/0020-708X(78)90154-0)
+#DATASETS   0
+#
+#DATASET    R0007006 
+#DATE       20190118
+#REACTION   53-I-127(P,3N)54-XE-125,,SIG
+#PROJ       1001
+#TARG       53127
+#MF         3
+#MT         17
+#PRODUCT    54-XE-125
+#C4BEGIN    [ 1001 53127   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 53127   3  17    2.0800+7          0.261000 0.017000                                       D.B.Syme+            (78)R0007  6 
+ 1001 53127   3  17    2.8600+7          0.651000 0.036000                                       D.B.Syme+            (78)R0007  6 
+ 1001 53127   3  17    3.7200+7          0.577000 0.031000                                       D.B.Syme+            (78)R0007  6 
+ 1001 53127   3  17    4.4900+7          0.247000 0.015000                                       D.B.Syme+            (78)R0007  6 
+ 1001 53127   3  17    6.5500+7          0.095000 8.0000-3                                       D.B.Syme+            (78)R0007  6 
+ 1001 53127   3  17    7.9500+7          0.070000 6.0000-3                                       D.B.Syme+            (78)R0007  6 
+ 1001 53127   3  17    8.5500+7          0.064000 7.0000-3                                       D.B.Syme+            (78)R0007  6 
+ 1001 53127   3  17    1.0130+8          0.054000 7.0000-3                                       D.B.Syme+            (78)R0007  6 
+ 1001 53127   3  17    1.2250+8          0.047000 7.0000-3                                       D.B.Syme+            (78)R0007  6 
+ 1001 53127   3  17    1.5850+8          0.037000 6.0000-3                                       D.B.Syme+            (78)R0007  6 
+#/DATA      10
+#/DATASET

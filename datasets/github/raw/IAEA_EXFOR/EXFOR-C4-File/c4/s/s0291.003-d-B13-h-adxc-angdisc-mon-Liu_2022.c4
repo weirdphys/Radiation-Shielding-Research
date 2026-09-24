@@ -1,0 +1,68 @@
+#ENTRY      S0291
+#AUTHOR1    W.Liu+
+#YEAR       2022
+#INSTITUTE  (3CPRBJG)
+#TITLE      New investigation of low-lying states in 12Be via
+#+          2H(13B,3He) reaction
+#AUTHOR(S)  W.Liu, J.L.Lou, Y.L.Ye, S.M.Wang, Z.W.Tan, Z.H.Li, Q.T.Li, 
+#+          H.Hua, X.F.Yang, J.Y.Xu, H.J.Ong, D.T.Tran, N.Aoi, E.Ideguchi, 
+#+          D.Y.Pang, C.X.Yuan, Y.Jiang, B.Yang, Y.Liu, J.G.Li, Z.Q.Chen, 
+#+          J.X.Han, S.W.Bai, G.Li, K.Ma, H.Y.Zhu, B.L.Xia
+#REF-CODE   (J,PR/C,105,034613,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 034613 (doi:10.1103/PhysRevC.105.034613)
+#DATASETS   0
+#
+#DATASET    S0291003 
+#DATE       20251010
+#REACTION   (1-H-2(5-B-13,HE3)4-BE-12,PAR,DA,RSD)=(5-B-13(D,HE3)4-BE-12,PAR,DA)
+#PROJ       1002
+#TARG       5013
+#MF         4
+#MT         750
+#PRODUCT    4-BE-12
+#C4BEGIN    [ 1002  5013   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5013   4 750  C 4.6000+7 495000.0 8.0000-4 1.8000-4 0.967046          0.000000         LVLW.Liu+               (22)S0291  3 
+ 1002  5013   4 750  C 4.6000+7 495000.0 1.8000-4 7.0000-5 0.945234          0.000000         LVLW.Liu+               (22)S0291  3 
+ 1002  5013   4 750  C 4.6000+7 495000.0 8.0000-5 4.0000-5 0.906086          0.000000         LVLW.Liu+               (22)S0291  3 
+ 1002  5013   4 750  C 4.6000+7 495000.0 6.0000-5 2.0000-5 0.800731          0.000000         LVLW.Liu+               (22)S0291  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    S0291003 
+#DATE       20251010
+#REACTION   (1-H-2(5-B-13,HE3)4-BE-12,PAR,DA,RSD)=(5-B-13(D,HE3)4-BE-12,PAR,DA)
+#PROJ       1002
+#TARG       5013
+#MF         4
+#MT         750
+#PRODUCT    4-BE-12
+#C4BEGIN    [ 1002  5013   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5013   4 750  C 4.6000+7 495000.0 3.0000-4 9.0000-5 0.957269          2200000.         LVLW.Liu+               (22)S0291  3 
+ 1002  5013   4 750  C 4.6000+7 495000.0 1.4000-4 5.0000-5 0.927576          2200000.         LVLW.Liu+               (22)S0291  3 
+ 1002  5013   4 750  C 4.6000+7 495000.0 2.0000-4 4.0000-5 0.869322          2200000.         LVLW.Liu+               (22)S0291  3 
+#/DATA      3
+#/DATASET
+#
+#DATASET    S0291003 
+#DATE       20251010
+#REACTION   (1-H-2(5-B-13,HE3)4-BE-12,PAR,DA,RSD)=(5-B-13(D,HE3)4-BE-12,PAR,DA)
+#PROJ       1002
+#TARG       5013
+#MF         4
+#MT         750
+#PRODUCT    4-BE-12
+#C4BEGIN    [ 1002  5013   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5013   4 750  C 4.6000+7 495000.0 2.9000-4 8.0000-5 0.942174          4800000.         LVLW.Liu+               (22)S0291  3 
+ 1002  5013   4 750  C 4.6000+7 495000.0 2.6000-4 6.0000-5 0.898794          4800000.         LVLW.Liu+               (22)S0291  3 
+ 1002  5013   4 750  C 4.6000+7 495000.0 1.2000-4 2.0000-5 0.795791          4800000.         LVLW.Liu+               (22)S0291  3 
+#/DATA      3
+#/DATASET

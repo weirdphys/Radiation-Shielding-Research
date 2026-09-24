@@ -1,0 +1,34 @@
+#ENTRY      R0039
+#AUTHOR1    K.G.Porges+
+#YEAR       1956
+#INSTITUTE  (1USABRK)
+#TITLE      Alpha excitation functions of silver and copper
+#AUTHOR(S)  K.G.Porges
+#REF-CODE   (J,PR,101,225,1956)
+#REFERENCE  Phys.Rev. 101 (1956) 225 (doi:10.1103/PhysRev.101.225)
+#DATASETS   0
+#
+#DATASET    R0039013 
+#DATE       20190118
+#REACTION   47-AG-107(A,X)48-CD-109,IND,SIG
+#PROJ       2004
+#TARG       47107
+#MF         3
+#MT         454
+#PRODUCT    48-CD-109
+#C4BEGIN    [ 2004 47107   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 47107   3 454 D  1.9600+7          0.170000 0.050000           48109.9                     K.G.Porges           (56)R0039 13 
+ 2004 47107   3 454 D  2.1000+7          0.210000 0.080000           48109.9                     K.G.Porges           (56)R0039 13 
+ 2004 47107   3 454 D  2.2100+7          0.190000                    48109.9                     K.G.Porges           (56)R0039 13 
+ 2004 47107   3 454 D  2.2800+7          0.210000                    48109.9                     K.G.Porges           (56)R0039 13 
+ 2004 47107   3 454 D  2.4100+7          0.160000                    48109.9                     K.G.Porges           (56)R0039 13 
+ 2004 47107   3 454 D  2.4900+7          0.110000                    48109.9                     K.G.Porges           (56)R0039 13 
+ 2004 47107   3 454 D  2.6000+7          0.100000                    48109.9                     K.G.Porges           (56)R0039 13 
+ 2004 47107   3 454 D  3.0000+7          0.090000 0.110000           48109.9                     K.G.Porges           (56)R0039 13 
+ 2004 47107   3 454 D  3.3100+7          0.090000                    48109.9                     K.G.Porges           (56)R0039 13 
+ 2004 47107   3 454 D  3.4300+7          0.040000                    48109.9                     K.G.Porges           (56)R0039 13 
+#/DATA      10
+#/DATASET

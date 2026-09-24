@@ -1,0 +1,32 @@
+#ENTRY      R0025
+#AUTHOR1    W.W.Jacobs+
+#YEAR       1974
+#INSTITUTE  (1USAWAU)
+#TITLE      Production of Li and B in proton and alpha-particle
+#+          reactions on 14N at low energies
+#AUTHOR(S)  W.W.Jacobs, D.Bodansky, D.Chamberlin, D.L.Oberg
+#REF-CODE   (J,PR/C,9,(6),2134,197406)
+#REFERENCE  Phys.Rev.C 9 No.6 (1974) 2134 (doi:10.1103/PhysRevC.9.2134)
+#DATASETS   0
+#
+#DATASET    R0025011 
+#DATE       20070909
+#REACTION   7-N-14(A,X)5-B-10,,SIG
+#PROJ       2004
+#TARG       7014
+#MF         3
+#MT         454
+#PRODUCT    5-B-10
+#C4BEGIN    [ 2004  7014   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  7014   3 454    2.1000+7          0.014000 4.2000-3            5010.9                     W.W.Jacobs+          (74)R0025 11 
+ 2004  7014   3 454    2.3000+7          0.046100 5.5000-3            5010.9                     W.W.Jacobs+          (74)R0025 11 
+ 2004  7014   3 454    2.5000+7          0.079800 0.010100            5010.9                     W.W.Jacobs+          (74)R0025 11 
+ 2004  7014   3 454    2.6000+7          0.099600 0.012000            5010.9                     W.W.Jacobs+          (74)R0025 11 
+ 2004  7014   3 454    3.1500+7          0.163300 0.031300            5010.9                     W.W.Jacobs+          (74)R0025 11 
+ 2004  7014   3 454    3.4400+7          0.152100 0.023000            5010.9                     W.W.Jacobs+          (74)R0025 11 
+ 2004  7014   3 454    4.2100+7          0.071400 0.011800            5010.9                     W.W.Jacobs+          (74)R0025 11 
+#/DATA      7
+#/DATASET

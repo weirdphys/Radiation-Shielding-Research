@@ -1,0 +1,33 @@
+#ENTRY      T0003
+#AUTHOR1    K.Murphy+
+#YEAR       1981
+#INSTITUTE  (1USATNL)
+#TITLE      The 15N(p,n)15O reaction below 9.3 MeV
+#AUTHOR(S)  K.Murphy, R.C.Byrd, P.P.Guss, C.E.Floyd, R.L.Walter
+#REF-CODE   (J,NP/A,355,1,1981)
+#REFERENCE  Nucl.Phys.A 355 (1981) 1
+#DATASETS   0
+#
+#DATASET    T0003003 
+#DATE       19990404
+#REACTION   7-N-15(P,N)8-O-15,,SIG
+#PROJ       1001
+#TARG       7015
+#MF         3
+#MT         4
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1001  7015   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   3   4 D  5530000.          0.144900 0.010143                                       K.Murphy+            (81)T0003  3 
+ 1001  7015   3   4 D  5680000.          0.124800 8.7360-3                                       K.Murphy+            (81)T0003  3 
+ 1001  7015   3   4 D  6040000.          0.163500 0.011445                                       K.Murphy+            (81)T0003  3 
+ 1001  7015   3   4 D  6310000.          0.207000 0.014490                                       K.Murphy+            (81)T0003  3 
+ 1001  7015   3   4 D  6620000.          0.169000 0.011830                                       K.Murphy+            (81)T0003  3 
+ 1001  7015   3   4 D  7160000.          0.159600 0.011172                                       K.Murphy+            (81)T0003  3 
+ 1001  7015   3   4 D  7690000.          0.182700 0.012789                                       K.Murphy+            (81)T0003  3 
+ 1001  7015   3   4 D  7940000.          0.129000 9.0300-3                                       K.Murphy+            (81)T0003  3 
+ 1001  7015   3   4 D  8550000.          0.066500 4.6550-3                                       K.Murphy+            (81)T0003  3 
+#/DATA      9
+#/DATASET

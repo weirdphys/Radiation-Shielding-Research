@@ -1,0 +1,32 @@
+#ENTRY      S0200
+#AUTHOR1    H.L.Ge+
+#YEAR       2014
+#INSTITUTE  (3CPRIMP)
+#TITLE      The production of residual nuclides in Pb irradiated
+#+          by 400 MeV/u carbon ions
+#AUTHOR(S)  H.L.Ge, F.Ma, X.Y.Zhang, Y.Q.Ju, H.B.Zhang, L.Chen, P.Luo, 
+#+          B.Zhou, Y.B.Zhang, J.Y.Li, J.K.Xu, T.J.Liang, S.L.Wang, 
+#+          Y.W.Yang, L.Yang
+#REF-CODE   (J,NIM/B,337,34,2014)
+#REFERENCE  Nucl.Instrum.Meth.B 337 (2014) 34 (doi:10.1016/j.nimb.2014.07.024)
+#DATASETS   0
+#
+#DATASET    S0200003 
+#DATE       20161103
+#REACTION   82-PB-0(6-C-0,X)ELEM/MASS,,SIG
+#PROJ       6000
+#TARG       82000
+#MF         3
+#MT         454
+#C4BEGIN    [ 6000 82000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6000 82000   3 454    0.000000          4.1400-3 2.6000-4           25054.9                     H.L.Ge+              (14)S0200  3 
+ 6000 82000   3 454    0.000000          0.014860 7.6000-4           37084.9                     H.L.Ge+              (14)S0200  3 
+ 6000 82000   3 454    0.000000          2.6100-3 1.6000-4           43096.9                     H.L.Ge+              (14)S0200  3 
+ 6000 82000   3 454    0.000000          1.4500-3 9.0000-5           79196.9                     H.L.Ge+              (14)S0200  3 
+ 6000 82000   3 454    0.000000          1.7600-3 1.3000-4           79198.9                     H.L.Ge+              (14)S0200  3 
+ 6000 82000   3 454    0.000000          0.015030 7.7000-4           81202.9                     H.L.Ge+              (14)S0200  3 
+#/DATA      6
+#/DATASET

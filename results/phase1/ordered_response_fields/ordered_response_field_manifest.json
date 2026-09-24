@@ -1,0 +1,77 @@
+{
+  "N001_JAERI_TIARA_43MEV_reference": {
+    "benchmark_id": "N001_JAERI_TIARA_43MEV",
+    "shape": [
+      40,
+      4,
+      3
+    ],
+    "axes": [
+      "energy_bin",
+      "thickness_cm",
+      "off_axis_cm"
+    ],
+    "field_role": "external_benchmark_field_not_controlled_thickness_sweep",
+    "geometry_confounding_note": "25/50-cm BC501A columns use additional iron collimators; >=100-cm columns do not.",
+    "npz": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/ordered_response_fields/N001_JAERI_TIARA_43MEV_R_E_t_x_reference.npz",
+    "on_axis_csv": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/ordered_response_fields/N001_JAERI_TIARA_43MEV_R_E_t_reference_on_axis.csv",
+    "response_sha256": "64a2c3900fe6930ab8c42da711dc5c37e8b7b2750f203a761f335599d23158a1",
+    "finite_values": 310,
+    "missing_cells": 170
+  },
+  "N002_JAERI_TIARA_68MEV_reference": {
+    "benchmark_id": "N002_JAERI_TIARA_68MEV",
+    "shape": [
+      51,
+      5,
+      3
+    ],
+    "axes": [
+      "energy_bin",
+      "thickness_cm",
+      "off_axis_cm"
+    ],
+    "field_role": "external_benchmark_field_not_controlled_thickness_sweep",
+    "geometry_confounding_note": "25/50-cm BC501A columns use additional iron collimators; >=100-cm columns do not.",
+    "npz": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/ordered_response_fields/N002_JAERI_TIARA_68MEV_R_E_t_x_reference.npz",
+    "on_axis_csv": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/ordered_response_fields/N002_JAERI_TIARA_68MEV_R_E_t_reference_on_axis.csv",
+    "response_sha256": "14c0daab3616487e93e13c0e599a4fd4eb6261efcc23a9505d5de2ed8664916f",
+    "finite_values": 455,
+    "missing_cells": 310
+  },
+  "N001_JAERI_TIARA_43MEV_geant4": {
+    "shape": [
+      40,
+      4,
+      3
+    ],
+    "npz": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/ordered_response_fields/N001_JAERI_TIARA_43MEV_R_E_t_x_geant4_and_residuals.npz",
+    "mc_response_sha256": "15bb2f67b087a8aacd7527720d948dac11c90c9360108b5e4b83b55de43e5c72",
+    "residual_sha256": "9087e6ba204a30a9d8e1bc7f980014d9565250a263c3c26c512d7b362bcd8db0",
+    "log_residual_sha256": "22b0977288e45dfb55f467380109e57e9adbcef26dd71844d039a227136b3edc",
+    "normalized_residual_sha256": "a8b0908d00a0003e1cd3cea024fcb936d9dec5c3b06d5945139af24cf6dba51b"
+  },
+  "N002_JAERI_TIARA_68MEV_geant4": {
+    "shape": [
+      51,
+      5,
+      3
+    ],
+    "npz": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/ordered_response_fields/N002_JAERI_TIARA_68MEV_R_E_t_x_geant4_and_residuals.npz",
+    "mc_response_sha256": "7c09853645394de0aa2a987c23de4232282f51760ac5272b137c58e2b4f3b294",
+    "residual_sha256": "2c230db7d5bc43715f8f2783b9427f69ebbb3360675c4383c45cd54d7e6f0e98",
+    "log_residual_sha256": "8a33a62cf8110b56b27a5e9542d38f8864238eeb9391e611a39a9ad3f388e1fb",
+    "normalized_residual_sha256": "00169fcbcfa417b5cf1f615c49bf54044e6f9b5aa4ff82fbcf2f07d245fd1283"
+  },
+  "controlled_neutron_R_E_t": {
+    "field_role": "controlled_fixed_geometry_discovery_field",
+    "shape": [
+      120,
+      9
+    ],
+    "npz": "/home/a/projects/Radiation_Research/radiation_shielding/Radiation-Shielding-Research/results/phase1/ordered_response_fields/controlled_R_E_t.npz",
+    "response_sha256": "f65c55d0d57ef308c9a4bd2f921e5f066c92246be30b86b1a86b14759d8658c3",
+    "controlled_geometry_family_id": "CTRL_JAERI43_FIXED_NOFE_BC501A_PLANE_GAP0P05",
+    "source_normalization_id": "JAERI_43MEV_PEAK_3.15E9_N_SR_UC"
+  }
+}

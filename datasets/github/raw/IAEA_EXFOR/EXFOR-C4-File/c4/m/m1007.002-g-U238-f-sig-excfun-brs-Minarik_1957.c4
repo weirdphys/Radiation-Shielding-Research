@@ -1,0 +1,34 @@
+#ENTRY      M1007
+#AUTHOR1    E.V.Minarik+
+#YEAR       1957
+#INSTITUTE  (4RUSLEB)
+#TITLE      Fission of U, Th, Bi and Tl induced by high energy
+#+          g-quanta.
+#AUTHOR(S)  E.V.Minarik, V.A.Novikov
+#REF-CODE   (J,ZET,32,241,1957)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 32 (1957) 241
+#DATASETS   0
+#
+#DATASET    M1007002 
+#DATE       20180330
+#REACTION   92-U-238(G,F),,SIG,,BRS
+#PROJ       0
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    0 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   3  18    2.0450+7          0.038708 2.2280-3                                       E.V.Minarik+         (57)M1007  2 
+    0 92238   3  18    5.9440+7          6.6850-3 7.7990-3                                       E.V.Minarik+         (57)M1007  2 
+    0 92238   3  18    6.9700+7          6.1840-3 0.010028                                       E.V.Minarik+         (57)M1007  2 
+    0 92238   3  18    9.1080+7          7.7630-3 0.012256                                       E.V.Minarik+         (57)M1007  2 
+    0 92238   3  18    1.1245+8          0.015042 0.014485                                       E.V.Minarik+         (57)M1007  2 
+    0 92238   3  18    1.3755+8          0.028435 0.015755                                       E.V.Minarik+         (57)M1007  2 
+    0 92238   3  18    1.7282+8          0.050139 0.018942                                       E.V.Minarik+         (57)M1007  2 
+    0 92238   3  18    1.8773+8          0.082150 0.031198                                       E.V.Minarik+         (57)M1007  2 
+    0 92238   3  18    2.1097+8          0.134819 0.046797                                       E.V.Minarik+         (57)M1007  2 
+    0 92238   3  18    2.3468+8          0.185694 0.062953                                       E.V.Minarik+         (57)M1007  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      L0156
+#AUTHOR1    A.P.Tonchev+
+#YEAR       2010
+#INSTITUTE  (1USADKE)
+#TITLE      Measurement of the 241Am(g,n)240Am reaction in the
+#+          giant dipole resonance region
+#AUTHOR(S)  A.P.Tonchev, S.L.Hammond, C.R.Howell, C.Huibregtse, A.Hutcheson, 
+#+          J.H.Kelley, E.Kwan, R.Raut, G.Rusev, W.Tornow, T.Kawano, 
+#+          D.J.Vieira, J.B.Wilhelmy
+#REF-CODE   (J,PR/C,82,054620,2010)
+#REFERENCE  Phys.Rev.C 82 (2010) 054620 (doi:10.1103/PhysRevC.82.054620)
+#DATASETS   0
+#
+#DATASET    L0156003 
+#DATE       20101229
+#REACTION   95-AM-241(G,N)95-AM-240,,SIG
+#PROJ       0
+#TARG       95241
+#MF         3
+#MT         4
+#PRODUCT    95-AM-240
+#C4BEGIN    [    0 95241   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 95241   3   4    1.2200+7 170000.0 0.214000 0.021000                                       A.P.Tonchev+         (10)L0156  3 
+    0 95241   3   4    1.2900+7 190000.0 0.186000 0.018000                                       A.P.Tonchev+         (10)L0156  3 
+    0 95241   3   4    1.3600+7 200000.0 0.170500 9.0000-3                                       A.P.Tonchev+         (10)L0156  3 
+    0 95241   3   4    1.5600+7 240000.0 0.069200 4.0000-3                                       A.P.Tonchev+         (10)L0156  3 
+#/DATA      4
+#/DATASET

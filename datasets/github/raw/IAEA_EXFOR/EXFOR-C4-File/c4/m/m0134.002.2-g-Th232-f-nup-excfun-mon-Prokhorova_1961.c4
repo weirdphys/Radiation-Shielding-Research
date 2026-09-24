@@ -1,0 +1,26 @@
+#ENTRY      M0134
+#AUTHOR1    L.I.Prokhorova+
+#YEAR       1961
+#INSTITUTE  (4RUSIFP)
+#TITLE      Mean number of prompt neutrons emitted in
+#+          photofission of Th-232 and U-238 gamma-rays
+#+          produced in the F-19(p,alpha+gamma)O-16 reaction.
+#AUTHOR(S)  L.I.Prokhorova, G.N.Smirenkin
+#REF-CODE   (J,SJA,8,390,1961)
+#REFERENCE  Sov.At.Energy 8 (1961) 390 (doi:10.1007/BF01484531)
+#DATASETS   0
+#
+#DATASET    M01340022
+#DATE       20111117
+#REACTION   90-TH-232(G,F),PR,NU
+#PROJ       0
+#TARG       90232
+#MF         1
+#MT         456
+#C4BEGIN    [    0 90232   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 90232   1 456    6700000.          3.200000 0.200000                                       L.I.Prokhorova+      (61)M0134  22
+#/DATA      1
+#/DATASET

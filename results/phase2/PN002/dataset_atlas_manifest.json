@@ -1,0 +1,27 @@
+{
+  "dataset_id": "PN002",
+  "object_id": "PN002.TRAJ_RXN",
+  "coordinate_native": "incident_photon_energy_MeV",
+  "coordinate_analysis": "log(incident_photon_energy_MeV/E_ref)",
+  "coordinate_transform": "ln(x / dataset_min_positive_energy)",
+  "coordinate_reference": 1e-11,
+  "coordinate_unit": "dimensionless_log_energy",
+  "source_path": "data/processed/IAEA_PD2019/pd2019_mf3_cross_sections.csv.gz",
+  "n_curves_loaded": 64,
+  "max_curve_points": 261,
+  "curve_cap_applied": true,
+  "atlas_speed": "fast",
+  "ensemble_groups": {
+    "reaction_cross_sections": 64
+  },
+  "registry": {
+    "name": "IAEA Photonuclear Data Library PD-2019",
+    "particle": "photonuclear",
+    "evidence": "EVALUATED",
+    "role": "219 evaluations / 178,635 MF=3 reaction points.",
+    "path": "processed_datasets/IAEA_PD2019/pd2019_mf3_cross_sections.parquet",
+    "richness": "VERY_RICH_TENSOR",
+    "guardrail": "Reaction cross sections remain semantically separate from XCOM attenuation coefficients."
+  },
+  "state_group_shapes": {}
+}

@@ -1,0 +1,36 @@
+#ENTRY      M0960
+#AUTHOR1    S.Ferroni+
+#YEAR       1967
+#INSTITUTE  (2FR ENS)
+#TITLE      High-energy photodisintegration in carbon, oxygen and
+#+          calcium.
+#AUTHOR(S)  S.Ferroni, V.Gracco, D.B.Isabelle, R.Malvano, M.Sanzone
+#REF-CODE   (J,NP/A,98,409,1967)
+#REFERENCE  Nucl.Phys.A 98 (1967) 409 (doi:10.1016/0375-9474(67)90148-0)
+#DATASETS   0
+#
+#DATASET    M0960006 
+#DATE       20171208
+#REACTION   8-O-16(G,X)0-NN-1,,SIG,,BRS
+#PROJ       0
+#TARG       8016
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0  8016   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   3 201    1.0000+8          2.7760-3 5.5520-5                                       S.Ferroni+           (67)M0960  6 
+    0  8016   3 201    1.0500+8          2.7760-3 5.5520-5                                       S.Ferroni+           (67)M0960  6 
+    0  8016   3 201    1.1000+8          2.8100-3 5.6200-5                                       S.Ferroni+           (67)M0960  6 
+    0  8016   3 201    1.1500+8          2.8390-3 5.6780-5                                       S.Ferroni+           (67)M0960  6 
+    0  8016   3 201    1.2000+8          2.8390-3 5.6780-5                                       S.Ferroni+           (67)M0960  6 
+    0  8016   3 201    1.2500+8          2.8730-3 5.7460-5                                       S.Ferroni+           (67)M0960  6 
+    0  8016   3 201    1.3000+8          2.9120-3 5.8240-5                                       S.Ferroni+           (67)M0960  6 
+    0  8016   3 201    1.3500+8          2.9190-3 5.8380-5                                       S.Ferroni+           (67)M0960  6 
+    0  8016   3 201    1.4000+8          2.9650-3 5.9300-5                                       S.Ferroni+           (67)M0960  6 
+    0  8016   3 201    1.4500+8          2.9650-3 5.9300-5                                       S.Ferroni+           (67)M0960  6 
+    0  8016   3 201    1.5000+8          3.0280-3 6.0560-5                                       S.Ferroni+           (67)M0960  6 
+#/DATA      11
+#/DATASET

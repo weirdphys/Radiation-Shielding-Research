@@ -1,0 +1,30 @@
+#ENTRY      T0200
+#AUTHOR1    S.Y.Cho+
+#YEAR       1989
+#INSTITUTE  (1USAPUR)
+#TITLE      Target residues from the interaction of copper with
+#+          15-45 MeV/nucleon 12C ions.
+#AUTHOR(S)  S.Y.Cho, N.T.Porile, D.J.Morrissey
+#REF-CODE   (J,PR/C,39,2227,1989)
+#REFERENCE  Phys.Rev.C 39 (1989) 2227 (doi:10.1103/PhysRevC.39.2227)
+#DATASETS   0
+#
+#DATASET    T0200004 
+#DATE       20241025
+#REACTION   29-CU-0(6-C-12,X)ELEM/MASS,,SIG
+#PROJ       6012
+#TARG       29000
+#MF         3
+#MT         454
+#C4BEGIN    [ 6012 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 29000   3 454    1.5100+8          4.2000-4 8.0000-5           21044.1                     S.Y.Cho+             (89)T0200  4 
+ 6012 29000   3 454    1.5100+8          8.2000-4 1.2000-4           21046.9                     S.Y.Cho+             (89)T0200  4 
+ 6012 29000   3 454    1.5100+8          4.8000-4 5.0000-5           21047.9                     S.Y.Cho+             (89)T0200  4 
+ 6012 29000   3 454    1.5100+8          1.1400-3 7.0000-5           25052.0                     S.Y.Cho+             (89)T0200  4 
+ 6012 29000   3 454    1.5100+8          9.3400-3 1.0000-3           25054.9                     S.Y.Cho+             (89)T0200  4 
+ 6012 29000   3 454    1.5100+8          0.102000 9.0000-3           29064.9                     S.Y.Cho+             (89)T0200  4 
+#/DATA      6
+#/DATASET
